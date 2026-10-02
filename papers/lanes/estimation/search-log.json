@@ -1,0 +1,649 @@
+[
+  {
+    "id": "estimation-henderson-1953",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.2307%2F3001853",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.stat.yale.edu/~hz68/619/Henderson1953.pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/henderson-1953.pdf"
+      }
+    ]
+  },
+  {
+    "id": "estimation-cornfield-tukey-1956",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1214%2Faoms%2F1177728067",
+        "result": "metadata_verified"
+      },
+      {
+        "url": "https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-27/issue-4/Average-Values-of-Mean-Squares-in-Factorials/10.1214/aoms/1177728067.pdf",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-27/issue-4/Average-Values-of-Mean-Squares-in-Factorials/10.1214/aoms/1177728067.pdf\", \"status\": \"failed\", \"reason\": \"response is not a PDF (possibly an access page)\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-hartley-rao-1967",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1093%2Fbiomet%2F54.1-2.93",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://academic.oup.com/biomet/article-pdf/54/1-2/93/947970/54-1-2-93.pdf",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://academic.oup.com/biomet/article-pdf/54/1-2/93/947970/54-1-2-93.pdf\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-patterson-thompson-1971",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1093%2Fbiomet%2F58.3.545",
+        "result": "metadata_verified"
+      },
+      {
+        "url": "https://era.ed.ac.uk/server/api/core/bitstreams/c460efa4-dd25-47bc-984b-1652df8d4562/content",
+        "result": "failed",
+        "reason": "Command '['/Applications/Xcode.app/Contents/Developer/usr/bin/python3', '/Users/patrickbeam/projects/crolib/scripts/acquire.py', 'https://era.ed.ac.uk/server/api/core/bitstreams/c460efa4-dd25-47bc-984b-1652df8d4562/content', '/Users/patrickbeam/projects/crolib/papers/downloads/estimation/patterson-thompson-1971.pdf', '--kind', 'pdf', '--timeout', '12']' timed out after 20 seconds"
+      }
+    ]
+  },
+  {
+    "id": "estimation-rao-minque-1971",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1016%2F0047-259X%2871%2990001-7",
+        "result": "metadata_verified"
+      },
+      {
+        "url": "https://www.sciencedirect.com/science/article/pii/0047259X71900017/pdfft",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://www.sciencedirect.com/science/article/pii/0047259X71900017/pdfft\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-rao-linear-models-1972",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1080%2F01621459.1972.10481212",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/01621459.1972.10481212",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://www.tandfonline.com/doi/pdf/10.1080/01621459.1972.10481212\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-corbeil-searle-1976",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1080%2F00401706.1976.10489397",
+        "result": "failed",
+        "reason": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://www.stat.cmu.edu/technometrics/70-79/VOL-18-01/v1801031.pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/corbeil-searle-1976.pdf"
+      }
+    ]
+  },
+  {
+    "id": "estimation-harville-1977",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1080%2F01621459.1977.10480998",
+        "result": "metadata_verified"
+      },
+      {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/01621459.1977.10480998",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/harville-1977.pdf"
+      }
+    ]
+  },
+  {
+    "id": "estimation-searle-1971",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.2307%2F2528928",
+        "result": "metadata_verified"
+      },
+      {
+        "url": "https://www.jstor.org/stable/pdf/2528928.pdf",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://www.jstor.org/stable/pdf/2528928.pdf\", \"status\": \"failed\", \"reason\": \"response is not a PDF (possibly an access page)\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-self-liang-1987",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1080%2F01621459.1987.10478472",
+        "result": "metadata_verified"
+      },
+      {
+        "url": "https://www.stat.cmu.edu/~brian/763-2015/week06/papers/self-liang-1987.pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/self-liang-1987.pdf"
+      }
+    ]
+  },
+  {
+    "id": "estimation-brennan-variance-1994",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1007%2F978-1-4757-9730-5_9",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://link.springer.com/content/pdf/10.1007/978-1-4757-9730-5_9.pdf",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://link.springer.com/content/pdf/10.1007/978-1-4757-9730-5_9.pdf\", \"status\": \"failed\", \"reason\": \"response is not a PDF (possibly an access page)\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-marcoulides-reml-1990",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.2466%2Fpr0.1990.66.2.379",
+        "result": "metadata_verified"
+      },
+      {
+        "url": "https://journals.sagepub.com/doi/pdf/10.2466/pr0.1990.66.2.379",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://journals.sagepub.com/doi/pdf/10.2466/pr0.1990.66.2.379\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-chiu-wolfe-sparse-2002",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1177%2F0146621602026003006",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://journals.sagepub.com/doi/pdf/10.1177/0146621602026003006",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://journals.sagepub.com/doi/pdf/10.1177/0146621602026003006\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-marcoulides-sem-1996",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1080%2F10705519609540045",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/10705519609540045",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://www.tandfonline.com/doi/pdf/10.1080/10705519609540045\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-jiang-lme4-2018",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1027%2F1614-2241%2Fa000149",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://econtent.hogrefe.com/doi/pdf/10.1027/1614-2241/a000149",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://econtent.hogrefe.com/doi/pdf/10.1027/1614-2241/a000149\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-lopilato-bayes-2015",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1177%2F0149206314554215",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://citeseerx.ist.psu.edu/document?doi=e82612e89f01ab02d12318def7940cc1c80049ed&repid=rep1&type=pdf",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://citeseerx.ist.psu.edu/document?doi=e82612e89f01ab02d12318def7940cc1c80049ed&repid=rep1&type=pdf\", \"status\": \"failed\", \"reason\": \"HTTP Error 404: NOT FOUND\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-jiang-skorupski-bayes-2018",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.3758%2Fs13428-017-0986-3",
+        "result": "metadata_verified"
+      },
+      {
+        "url": "https://link.springer.com/content/pdf/10.3758/s13428-017-0986-3.pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/jiang-skorupski-bayes-2018.pdf"
+      }
+    ]
+  },
+  {
+    "id": "estimation-jiang-mixed-format-2024",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.3758%2Fs13428-024-02472-7",
+        "result": "metadata_verified"
+      },
+      {
+        "url": "https://jihongzhang.org/research/publications/2024/Customizing%20Bayesian%20multivariate%20generalizability%20theory%20to%20mixed-format%20tests.pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/jiang-mixed-format-2024.pdf"
+      }
+    ]
+  },
+  {
+    "id": "estimation-gelman-priors-2006",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1214%2F06-BA117A",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://sites.stat.columbia.edu/gelman/bayescomputation/Gelman2006.pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/gelman-priors-2006.pdf"
+      }
+    ]
+  },
+  {
+    "id": "estimation-ten-hove-multilevel-2022",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1037%2Fmet0000391",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://pure.uva.nl/ws/files/111315847/Interrater_Reliability_for_Multilevel_Data_A_Generalizability_Theory_Approach.pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/ten-hove-multilevel-2022.pdf"
+      }
+    ]
+  },
+  {
+    "id": "estimation-ten-hove-incomplete-2025",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1080%2F00273171.2025.2507745",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/00273171.2025.2507745",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://www.tandfonline.com/doi/pdf/10.1080/00273171.2025.2507745\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-huebner-lucht-r-2019",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.7275%2F5065-gc10",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://files.eric.ed.gov/fulltext/EJ1222666.pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/huebner-lucht-r-2019.pdf"
+      }
+    ]
+  },
+  {
+    "id": "estimation-huebner-mixed-2025",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.7275%2Fpare.2376",
+        "result": "failed",
+        "reason": "HTTP Error 404: Not Found"
+      },
+      {
+        "url": "https://files.eric.ed.gov/fulltext/EJ1482037.pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/huebner-mixed-2025.pdf"
+      }
+    ]
+  },
+  {
+    "id": "estimation-jiang-auxiliary-2018",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1177%2F2059799118791397",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://journals.sagepub.com/doi/pdf/10.1177/2059799118791397",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://journals.sagepub.com/doi/pdf/10.1177/2059799118791397\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-vangeneugden-clinical-2005",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1111%2Fj.0006-341X.2005.031040.x",
+        "result": "metadata_verified"
+      },
+      {
+        "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.0006-341X.2005.031040.x",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.0006-341X.2005.031040.x\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-laenen-repeated-2006",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1348%2F000711005X66068",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1348/000711005X66068",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1348/000711005X66068\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-molenberghs-hierarchical-2007",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1080%2F10543400701329448",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.tandfonline.com/doi/pdf/10.1080/10543400701329448",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://www.tandfonline.com/doi/pdf/10.1080/10543400701329448\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-bates-lme4-2015",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.18637%2Fjss.v067.i01",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.jstatsoft.org/article/view/v067i01/0",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/bates-lme4-2015.pdf"
+      }
+    ]
+  },
+  {
+    "id": "estimation-brennan-complex-2022",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1177%2F00131644211049746",
+        "result": "metadata_verified"
+      },
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228696/",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/brennan-complex-2022.html"
+      }
+    ]
+  },
+  {
+    "id": "estimation-jiang-ci-2022",
+    "attempts": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228698/",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/jiang-ci-2022.html"
+      }
+    ]
+  },
+  {
+    "id": "estimation-rockwood-jeon-2022",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.3389%2Ffpsyg.2022.976964",
+        "result": "failed",
+        "reason": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://public-pages-files-2025.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.976964/pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/rockwood-jeon-2022.pdf"
+      }
+    ]
+  },
+  {
+    "id": "estimation-laenen-thesis-2008",
+    "attempts": [
+      {
+        "url": "https://documentserver.uhasselt.be/bitstream/1942/8804/1/ThesisLaenenAnoushka.pdf",
+        "result": "failed",
+        "reason": "{\"source_url\": \"https://documentserver.uhasselt.be/bitstream/1942/8804/1/ThesisLaenenAnoushka.pdf\", \"status\": \"failed\", \"reason\": \"HTTP Error 503: Service Unavailable\"}"
+      }
+    ]
+  },
+  {
+    "id": "estimation-lin-sparse-2017",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1177%2F0265532216638890",
+        "result": "metadata_verified"
+      },
+      {
+        "url": "https://michiganassessment.org/wp-content/uploads/2020/02/20.02.pdf.Res_.WorkingwithSpraseDatainRatedLanguageTests-GeneraizabilityTheoryApplications.pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/lin-sparse-2017.pdf"
+      }
+    ]
+  },
+  {
+    "id": "estimation-huynh-incomplete-1977",
+    "attempts": [
+      {
+        "url": "https://files.eric.ed.gov/fulltext/ED154003.pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/huynh-incomplete-1977.pdf"
+      }
+    ]
+  },
+  {
+    "id": "estimation-choi-dissertation-2013",
+    "attempts": [
+      {
+        "url": "https://escholarship.org/content/qt7qv174cb/qt7qv174cb.pdf",
+        "result": "failed",
+        "reason": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "estimation-swallow-monahan-1984",
+    "attempts": [
+      {
+        "url": "https://hua-zhou.github.io/teaching/st758-2014fall/monte-carlo/SwallowMonahan84VCMonteCarlo.pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/swallow-monahan-1984.pdf"
+      }
+    ]
+  },
+  {
+    "id": "estimation-wind-sparse-2023",
+    "attempts": [
+      {
+        "url": "https://api.crossref.org/works/10.1177%2F01466216231182148",
+        "result": "metadata_verified"
+      },
+      {
+        "url": "https://journals.sagepub.com/doi/pdf/10.1177/01466216231182148?download=true",
+        "result": "failed",
+        "reason": "HTTP Error 403: Forbidden"
+      }
+    ]
+  },
+  {
+    "id": "estimation-harville-1977",
+    "attempts": [
+      {
+        "id": "estimation-harville-1977",
+        "result": {
+          "source_url": "https://www.stat.cmu.edu/~brian/463-2014/week07/reml/harville-ML-approaches-to-variance-components-1977-JASA.pdf",
+          "final_url": "https://www.stat.cmu.edu/~brian/463-2014/week07/reml/harville-ML-approaches-to-variance-components-1977-JASA.pdf",
+          "local_path": "papers/downloads/estimation/harville-1977.pdf",
+          "kind": "pdf",
+          "content_type": "application/pdf",
+          "bytes": 2422837,
+          "sha256": "7f5e0de2eb7e00c19a29758d7d45d84bf64857fdd6d726f18f34d4de4a9cc933",
+          "acquired_at": "2026-10-02T11:44:18.581666+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "estimation-bates-lme4-2015",
+    "attempts": [
+      {
+        "id": "estimation-bates-lme4-2015",
+        "result": {
+          "source_url": "https://arxiv.org/pdf/1406.5823",
+          "final_url": "https://arxiv.org/pdf/1406.5823",
+          "local_path": "papers/downloads/estimation/bates-lme4-2015.pdf",
+          "kind": "pdf",
+          "content_type": "application/pdf",
+          "bytes": 953598,
+          "sha256": "901030e6466b79afba9e87da51112a9da1302debd257ad504d759cf9d974d115",
+          "acquired_at": "2026-10-02T11:44:18.207023+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "estimation-henderson-1953",
+    "attempts": [
+      {
+        "id": "estimation-henderson-1953",
+        "result": {
+          "source_url": "http://www.stat.yale.edu/~hz68/619/Henderson1953.pdf",
+          "final_url": "http://www.stat.yale.edu/~hz68/619/Henderson1953.pdf",
+          "local_path": "papers/downloads/estimation/henderson-1953.pdf",
+          "kind": "pdf",
+          "content_type": "application/pdf",
+          "bytes": 1402366,
+          "sha256": "cf225728dce1ddd9909c62e3ee8930a7739d391b36497030455b81b115da4ce8",
+          "acquired_at": "2026-10-02T11:44:18.005726+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "id": "estimation-ten-hove-multilevel-2022-supplement",
+    "attempts": [
+      {
+        "id": "estimation-ten-hove-multilevel-2022-supplement",
+        "result": {
+          "source_url": "https://pure.uva.nl/ws/files/113175549/met0000391_MLIRR_31Aug2020_Supplements.pdf",
+          "final_url": "https://pure.uva.nl/ws/files/113175549/met0000391_MLIRR_31Aug2020_Supplements.pdf",
+          "local_path": "papers/downloads/estimation/ten-hove-multilevel-2022-supplement.pdf",
+          "kind": "pdf",
+          "content_type": "application/pdf",
+          "bytes": 211006,
+          "sha256": "e0de0c0e67cff00921e9e77d11ab056fc441febdc0a380d5449783a9714b9e1d",
+          "acquired_at": "2026-10-02T11:44:18.202345+00:00"
+        }
+      }
+    ]
+  },
+  {
+    "scope": "web_searches",
+    "date": "2026-10-02",
+    "queries": [
+      "GT unbalanced Brennan urGENOVA Henderson REML",
+      "Bayesian GT variance components negative estimates",
+      "Henderson 1953 Rao MINQUE Patterson Thompson 1971",
+      "Marcoulides 1987 1990 variance estimation",
+      "Chiu Wolfe sparse 2002",
+      "GT mixed-model Jiang 2018",
+      "Bayesian multivariate GT Jiang Skorupski",
+      "GT planned incomplete ICC ten Hove 2025",
+      "Huynh incomplete KR20 ERIC",
+      "Sparse language Lin 2017",
+      "GT boundary negative variance Fyans",
+      "Harville ML REML primary PDF",
+      "Brennan 1994 variance components bibliography"
+    ],
+    "bibliography_expansion": [
+      "Brennan 1994 publisher references",
+      "Marcoulides 1990 publisher references",
+      "Chiu Wolfe 2002 publisher references",
+      "Jiang 2022 publisher references",
+      "Local Brennan Liao 2020 first-sixty-years catalogue"
+    ],
+    "note": "Initial acquisition worker interrupted after a hostname exceeded socket timeout; acquired artifacts retained; final acquisition pass uses subprocess wall timeouts."
+  },
+  {
+    "id": "estimation-laenen-thesis-2008",
+    "attempts": [
+      {
+        "id": "estimation-laenen-thesis-2008",
+        "url": "https://ibiostat.be/documents/phd/annouschkalaenen.pdf",
+        "result": {
+          "source_url": "https://ibiostat.be/documents/phd/annouschkalaenen.pdf",
+          "final_url": "https://ibiostat.be/documents/phd/annouschkalaenen.pdf",
+          "local_path": "papers/downloads/estimation/laenen-thesis-2008.pdf",
+          "kind": "pdf",
+          "content_type": "application/pdf",
+          "bytes": 2947640,
+          "sha256": "d45c1272b3ac51261f5be2db1c8238b40cfa638fa0cda0a037ce7873fc446f65",
+          "acquired_at": "2026-10-02T11:52:03.509608+00:00"
+        },
+        "reason": ""
+      }
+    ]
+  },
+  {
+    "id": "estimation-choi-dissertation-2013",
+    "attempts": [
+      {
+        "id": "estimation-choi-dissertation-2013",
+        "url": "https://escholarship.org/content/qt7qv174cb/qt7qv174cb_noSplash_feff1e0ce59fd65e77161db7064c408e.pdf",
+        "result": null,
+        "reason": "{\"source_url\": \"https://escholarship.org/content/qt7qv174cb/qt7qv174cb_noSplash_feff1e0ce59fd65e77161db7064c408e.pdf\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+      }
+    ]
+  }
+]

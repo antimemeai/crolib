@@ -1,0 +1,18 @@
+{
+  "id": "urgenova",
+  "source_url": "https://brennancrickgenova.org/genova-suite/",
+  "revision": "unversioned official distribution; fingerprint retained",
+  "archive_url": "https://brennancrickgenova.org/download/urgenova-for-pc/?wpdmdl=243",
+  "archive_path": "quarantine/archives/urgenova.zip",
+  "archive_sha256": "d22f3171ddd6b8993f057c1609252da2f271ce4c318d6d97190012eecde4c61f",
+  "archive_bytes": 399970,
+  "extracted_path": "quarantine/references/urgenova",
+  "extracted_files": 5,
+  "excluded_paths": [],
+  "strip_root": false,
+  "license_note": "GENOVA author allows redistribution; specific archive license must be inspected",
+  "description": "Unbalanced random-effects variance components distribution",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:46:56.166385+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only urgenova"
+}

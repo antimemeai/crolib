@@ -1,0 +1,24 @@
+{
+  "id": "iced-methods",
+  "kind": "files",
+  "source_url": "https://osf.io/t68my/",
+  "revision": "OSF file versions and SHA-256 recorded individually",
+  "description": "ICED2018 worked myelin water-fraction example data: mwf_alic.csv. The identifier iced-methods is retained for restoration compatibility; this deposit contains data, not a methods/code bundle.",
+  "license_note": "Public author-deposited materials; inspect project and file licenses before reuse",
+  "status": "acquired",
+  "files": [
+    {
+      "source_url": "https://osf.io/download/9yf6z/",
+      "raw_path": "quarantine/archives/iced-methods/mwf_alic.csv",
+      "extracted_path": "quarantine/references/iced-methods/mwf_alic.csv",
+      "sha256": "29de33ba2622f7526e5a8b4cddf328ab5ae779231e359903147be57062e8a6d1",
+      "bytes": 471,
+      "osf_file_id": "5b1e335bec24e20010b8cb66",
+      "version": 1
+    }
+  ],
+  "failed_files": [],
+  "extracted_path": "quarantine/references/iced-methods",
+  "extracted_files": 1,
+  "restore_command": "python3 scripts/restore_references.py --only iced-methods"
+}

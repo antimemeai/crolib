@@ -1,0 +1,164 @@
+[
+  {
+    "query": "Maximizing the coefficient of generalizability in multi-facet decision studies",
+    "title": [
+      "Maximizing the Coefficient of Generalizability in Multi-Facet Decision Studies"
+    ],
+    "doi": "10.1007/bf02291112",
+    "authors": [
+      {
+        "given": "J. Arthur",
+        "family": "Woodward",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "George W.",
+        "family": "Joe",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "date": {
+      "date-parts": [
+        [
+          1973,
+          6
+        ]
+      ]
+    },
+    "url": "https://doi.org/10.1007/bf02291112"
+  },
+  {
+    "query": "The optimization of multivariate generalizability studies with budget constraints",
+    "title": [
+      "The Optimization of Multivariate Generalizability Studies with Budget Constraints"
+    ],
+    "doi": "10.1177/0013164492052002005",
+    "authors": [
+      {
+        "given": "George A.",
+        "family": "Marcoulides",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "California State University at Fullerton"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Zvi",
+        "family": "Goldstein",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "California State University at Fullerton"
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "date": {
+      "date-parts": [
+        [
+          1992,
+          6
+        ]
+      ]
+    },
+    "url": "https://doi.org/10.1177/0013164492052002005"
+  },
+  {
+    "query": "Selecting the number of observations in multivariate measurement studies under budget constraints",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Designing measurement studies under budget constraints controlling error of measurement and power",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Signal noise ratios for domain referenced tests",
+    "title": [
+      "Signal/Noise Ratios for Domain-Referenced Tests"
+    ],
+    "doi": "10.1007/bf02295983",
+    "authors": [
+      {
+        "given": "Robert L.",
+        "family": "Brennan",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Michael T.",
+        "family": "Kane",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "date": {
+      "date-parts": [
+        [
+          1977,
+          12
+        ]
+      ]
+    },
+    "url": "https://doi.org/10.1007/bf02295983"
+  },
+  {
+    "query": "Agreement coefficients as indices of dependability for domain referenced tests",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "A comparison of the Subkoviak and Huynh methods for estimating reliability of mastery decisions",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "An index of dependability for mastery tests",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Estimating the consistency and accuracy of classifications based on test scores",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "On the reliability of decisions in domain referenced testing",
+    "error": "HTTP Error 429: Too Many Requests"
+  }
+]

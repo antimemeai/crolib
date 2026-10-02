@@ -1,0 +1,21 @@
+{
+  "id": "gtheory-lavaan",
+  "source_url": "https://github.com/HyeryungLee/gtheory_lavaan",
+  "revision": "769bc59f486fbf3acd8cd927009d9a8fd9b0add0",
+  "archive_url": "https://codeload.github.com/HyeryungLee/gtheory_lavaan/tar.gz/769bc59f486fbf3acd8cd927009d9a8fd9b0add0",
+  "archive_path": "quarantine/archives/gtheory-lavaan.tar.gz",
+  "archive_sha256": "402608c09988b5781b24fceb3fdbb61d39fd26737e9e076a626e9c1756043a20",
+  "archive_bytes": 28138,
+  "extracted_path": "quarantine/references/gtheory-lavaan",
+  "extracted_files": 4,
+  "excluded_paths": [
+    "gtheory_lavaan-769bc59f486fbf3acd8cd927009d9a8fd9b0add0",
+    "gtheory_lavaan-769bc59f486fbf3acd8cd927009d9a8fd9b0add0/example"
+  ],
+  "strip_root": true,
+  "license_note": "No recognized license in GitHub metadata; inspect source before reuse",
+  "description": "Generalizability-theory reference",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:45:04.598269+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only gtheory-lavaan"
+}

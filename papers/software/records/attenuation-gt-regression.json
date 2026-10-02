@@ -1,0 +1,93 @@
+{
+  "id": "attenuation-gt-regression",
+  "kind": "files",
+  "source_url": "https://osf.io/knzw9/",
+  "listing_url": "https://api.osf.io/v2/nodes/knzw9/files/osfstorage/?sort=name",
+  "revision": "OSF file versions and SHA-256 recorded individually",
+  "description": "Glas/Jorgensen/tenHove2024 ordinal IRT and latent-scale GT regression, OpenBUGS/JAGS reference scripts and data",
+  "license_note": "Public author-deposited materials; inspect project and file licenses before reuse",
+  "status": "acquired",
+  "files": [
+    {
+      "source_url": "https://osf.io/download/x2hjf/",
+      "raw_path": "quarantine/archives/attenuation-gt-regression/BUGS/Example1.zip",
+      "extracted_path": "quarantine/references/attenuation-gt-regression/BUGS/Example1.zip",
+      "sha256": "976ece3e308269bdc5ac5818eacde47fa15f9ed4ad1e48b27b0261e46695c39c",
+      "bytes": 16035,
+      "osf_file_id": "66114dc5bba39a2544729f24",
+      "version": 1,
+      "original_osf_path": "/BUGS/Example1.zip"
+    },
+    {
+      "source_url": "https://osf.io/download/hnw3e/",
+      "raw_path": "quarantine/archives/attenuation-gt-regression/BUGS/Example2.zip",
+      "extracted_path": "quarantine/references/attenuation-gt-regression/BUGS/Example2.zip",
+      "sha256": "6ef4d4ebab966dbd7adc8e02dea2dc58300435f8b3fa168e665a1220a2b9af48",
+      "bytes": 13546,
+      "osf_file_id": "66114ddd219e712e76f6a853",
+      "version": 1,
+      "original_osf_path": "/BUGS/Example2.zip"
+    },
+    {
+      "source_url": "https://osf.io/download/te3qy/",
+      "raw_path": "quarantine/archives/attenuation-gt-regression/BUGS/Example3.zip",
+      "extracted_path": "quarantine/references/attenuation-gt-regression/BUGS/Example3.zip",
+      "sha256": "f8f72771591aa6ec28b4fed5c410f3e588e4c38866e63ed5b8c53bf79ca586d4",
+      "bytes": 25652,
+      "osf_file_id": "66114deabba39a2544729f2e",
+      "version": 1,
+      "original_osf_path": "/BUGS/Example3.zip"
+    },
+    {
+      "source_url": "https://osf.io/download/vbksr/",
+      "raw_path": "quarantine/archives/attenuation-gt-regression/BUGS/Legenda of zipped files.pdf",
+      "extracted_path": "quarantine/references/attenuation-gt-regression/BUGS/Legenda of zipped files.pdf",
+      "sha256": "7c6c3fd901b603658bcfe8e448c65dc16b5ff707124b5747c80e0b6ea7b12ab4",
+      "bytes": 102530,
+      "osf_file_id": "66114dfcbba39a2545729f38",
+      "version": 1,
+      "original_osf_path": "/BUGS/Legenda of zipped files.pdf"
+    },
+    {
+      "source_url": "https://osf.io/download/pq8mg/",
+      "raw_path": "quarantine/archives/attenuation-gt-regression/R/Example1_Jags.zip",
+      "extracted_path": "quarantine/references/attenuation-gt-regression/R/Example1_Jags.zip",
+      "sha256": "3bfa17c45fc0d55423f2e4b7263e14f303e47008a440c5d0e9143515666f5663",
+      "bytes": 285959,
+      "osf_file_id": "66192069e65c60555c7d9b93",
+      "version": 1,
+      "original_osf_path": "/R/Example1_Jags.zip"
+    },
+    {
+      "source_url": "https://osf.io/download/3sp94/",
+      "raw_path": "quarantine/archives/attenuation-gt-regression/R/Example2_Jags.zip",
+      "extracted_path": "quarantine/references/attenuation-gt-regression/R/Example2_Jags.zip",
+      "sha256": "29050f80ab8c9a57b5a62987482250b786b1c71886b41e18cab34c573f786f08",
+      "bytes": 30774,
+      "osf_file_id": "6619208ac0539444f4b4d262",
+      "version": 1,
+      "original_osf_path": "/R/Example2_Jags.zip"
+    },
+    {
+      "source_url": "https://osf.io/download/rhju6/",
+      "raw_path": "quarantine/archives/attenuation-gt-regression/R/Legenda of zipped files for JAGS.pdf",
+      "extracted_path": "quarantine/references/attenuation-gt-regression/R/Legenda of zipped files for JAGS.pdf",
+      "sha256": "3cdf45ff1cf463da354eee46dd604d76c8f257b7375af77606c591eb05c31b20",
+      "bytes": 102232,
+      "osf_file_id": "66192175943bee465edfec6d",
+      "version": 1,
+      "original_osf_path": "/R/Legenda of zipped files for JAGS.pdf"
+    }
+  ],
+  "failed_files": [],
+  "extracted_path": "quarantine/references/attenuation-gt-regression",
+  "extracted_files": 7,
+  "listed_entries": 7,
+  "duplicate_file_ids": [],
+  "skipped_files": [],
+  "max_file_mib": null,
+  "path_conflicts": [],
+  "max_files": 100,
+  "workers": 1,
+  "restore_command": "python3 scripts/restore_references.py --only attenuation-gt-regression"
+}

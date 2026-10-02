@@ -1,0 +1,79 @@
+{
+  "id": "mixed-format-stan",
+  "kind": "files",
+  "source_url": "https://osf.io/wud3x/",
+  "revision": "OSF file versions and SHA-256 recorded individually",
+  "description": "Author supplementary Stan models, R scripts and mixed-format responses for DOI10.3758/s13428-024-02472-7",
+  "license_note": "Public author-deposited materials; inspect project and file licenses before reuse",
+  "status": "acquired",
+  "files": [
+    {
+      "source_url": "https://osf.io/download/e8wf9/",
+      "raw_path": "quarantine/archives/mixed-format-stan/generate_stan_data.R",
+      "extracted_path": "quarantine/references/mixed-format-stan/generate_stan_data.R",
+      "sha256": "4936eb292508c1c31bcb03d17892648a7695f21551419f47ed57091587bdf952",
+      "bytes": 1240,
+      "osf_file_id": "661507ca943bee36e8dfef41",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/nb28s/",
+      "raw_path": "quarantine/archives/mixed-format-stan/mergecodebymanual_ddp.stan",
+      "extracted_path": "quarantine/references/mixed-format-stan/mergecodebymanual_ddp.stan",
+      "sha256": "bed8bd50b79852d6ba45995d8b03245b90062c70f89351e68158cb493660ccfd",
+      "bytes": 4499,
+      "osf_file_id": "661507dfc053943443b4d5e5",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/ksh2x/",
+      "raw_path": "quarantine/archives/mixed-format-stan/resp_MCQ.csv",
+      "extracted_path": "quarantine/references/mixed-format-stan/resp_MCQ.csv",
+      "sha256": "b8c4a8316d9639f5251e8645beabda26cac9b01c29a8a476b49df3f6e6de2b02",
+      "bytes": 3476659,
+      "osf_file_id": "661507f8219e713fdcf6ac26",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/b2xv3/",
+      "raw_path": "quarantine/archives/mixed-format-stan/mergecodebymanual_noninfo.stan",
+      "extracted_path": "quarantine/references/mixed-format-stan/mergecodebymanual_noninfo.stan",
+      "sha256": "bed8bd50b79852d6ba45995d8b03245b90062c70f89351e68158cb493660ccfd",
+      "bytes": 4499,
+      "osf_file_id": "661507e0219e713fd7f6a86f",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/shf8x/",
+      "raw_path": "quarantine/archives/mixed-format-stan/mergeData",
+      "extracted_path": "quarantine/references/mixed-format-stan/mergeData",
+      "sha256": "74c6eeca64b6dfe2d48859a6d5b99f5cee99bea3faf06e74334e767e9145361c",
+      "bytes": 12570855,
+      "osf_file_id": "661507f9bba39a350072a284",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/nx9au/",
+      "raw_path": "quarantine/archives/mixed-format-stan/runstan.R",
+      "extracted_path": "quarantine/references/mixed-format-stan/runstan.R",
+      "sha256": "1942a6a60d82f8d64275bb4bfbbeb16b5414ebbb0af29ff7faa84880b13ee320",
+      "bytes": 2839,
+      "osf_file_id": "661507ca219e713fdcf6abfc",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/wbmxp/",
+      "raw_path": "quarantine/archives/mixed-format-stan/resp_FRT.csv",
+      "extracted_path": "quarantine/references/mixed-format-stan/resp_FRT.csv",
+      "sha256": "08be4ccf3ea0afc70b6205868e5cec0aec3cb09b5d8f677c58602595bea23bdf",
+      "bytes": 120695,
+      "osf_file_id": "661507fa943bee36e4dfed47",
+      "version": 1
+    }
+  ],
+  "failed_files": [],
+  "extracted_path": "quarantine/references/mixed-format-stan",
+  "extracted_files": 7,
+  "restore_command": "python3 scripts/restore_references.py --only mixed-format-stan",
+  "inspection_note": "The ddp and noninfo Stan source files are byte-identical (SHA-256 bed8bd50b79852d6ba45995d8b03245b90062c70f89351e68158cb493660ccfd;4499bytes each), both with empirical prior constants. Distinct prior sensitivity conditions are not supplied by these filenames."
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "estimation-harville-1977",
+    "result": {
+      "source_url": "https://www.stat.cmu.edu/~brian/463-2014/week07/reml/harville-ML-approaches-to-variance-components-1977-JASA.pdf",
+      "final_url": "https://www.stat.cmu.edu/~brian/463-2014/week07/reml/harville-ML-approaches-to-variance-components-1977-JASA.pdf",
+      "local_path": "papers/downloads/estimation/harville-1977.pdf",
+      "kind": "pdf",
+      "content_type": "application/pdf",
+      "bytes": 2422837,
+      "sha256": "7f5e0de2eb7e00c19a29758d7d45d84bf64857fdd6d726f18f34d4de4a9cc933",
+      "acquired_at": "2026-10-02T11:44:18.581666+00:00"
+    }
+  },
+  {
+    "id": "estimation-bates-lme4-2015",
+    "result": {
+      "source_url": "https://arxiv.org/pdf/1406.5823",
+      "final_url": "https://arxiv.org/pdf/1406.5823",
+      "local_path": "papers/downloads/estimation/bates-lme4-2015.pdf",
+      "kind": "pdf",
+      "content_type": "application/pdf",
+      "bytes": 953598,
+      "sha256": "901030e6466b79afba9e87da51112a9da1302debd257ad504d759cf9d974d115",
+      "acquired_at": "2026-10-02T11:44:18.207023+00:00"
+    }
+  },
+  {
+    "id": "estimation-henderson-1953",
+    "result": {
+      "source_url": "http://www.stat.yale.edu/~hz68/619/Henderson1953.pdf",
+      "final_url": "http://www.stat.yale.edu/~hz68/619/Henderson1953.pdf",
+      "local_path": "papers/downloads/estimation/henderson-1953.pdf",
+      "kind": "pdf",
+      "content_type": "application/pdf",
+      "bytes": 1402366,
+      "sha256": "cf225728dce1ddd9909c62e3ee8930a7739d391b36497030455b81b115da4ce8",
+      "acquired_at": "2026-10-02T11:44:18.005726+00:00"
+    }
+  },
+  {
+    "id": "estimation-ten-hove-multilevel-2022-supplement",
+    "result": {
+      "source_url": "https://pure.uva.nl/ws/files/113175549/met0000391_MLIRR_31Aug2020_Supplements.pdf",
+      "final_url": "https://pure.uva.nl/ws/files/113175549/met0000391_MLIRR_31Aug2020_Supplements.pdf",
+      "local_path": "papers/downloads/estimation/ten-hove-multilevel-2022-supplement.pdf",
+      "kind": "pdf",
+      "content_type": "application/pdf",
+      "bytes": 211006,
+      "sha256": "e0de0c0e67cff00921e9e77d11ab056fc441febdc0a380d5449783a9714b9e1d",
+      "acquired_at": "2026-10-02T11:44:18.202345+00:00"
+    }
+  }
+]

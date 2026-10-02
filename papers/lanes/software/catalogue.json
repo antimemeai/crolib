@@ -1,0 +1,808 @@
+[
+  {
+    "id": "software-genova-manual",
+    "title": "Manual for GENOVA: A Generalized Analysis of Variance System",
+    "authors": [
+      "Joe E. Crick",
+      "Robert L. Brennan"
+    ],
+    "year": 1983,
+    "doi": null,
+    "source_url": "https://brennancrickgenova.org/genova-suite/",
+    "fulltext_url": "https://brennancrickgenova.org/download/genova-for-pc/?wpdmdl=236",
+    "local_path": "papers/downloads/software/genova-manual.pdf",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "manual",
+      "worked-examples",
+      "design-algebra"
+    ],
+    "relevance": "Original balanced univariate GENOVA distribution and manual",
+    "evidence": "Manual title/front matter and selected design/capability examples inspected; scanned GENOVA original requires visual reading. Acquisition does not assert complete mathematical review.",
+    "acquisition_note": "Original author distribution preserved with member/container provenance; legacy binary not executed."
+  },
+  {
+    "id": "software-mgenova-manual",
+    "title": "Manual for mGENOVA, Version 2.1",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2001,
+    "doi": null,
+    "source_url": "https://brennancrickgenova.org/genova-suite/",
+    "fulltext_url": "https://brennancrickgenova.org/download/mgenova-for-pc/?wpdmdl=240",
+    "local_path": "papers/downloads/software/mgenova-manual.pdf",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "manual",
+      "worked-examples",
+      "design-algebra"
+    ],
+    "relevance": "Multivariate GENOVA distribution and worked examples",
+    "evidence": "Manual title/front matter and selected design/capability examples inspected; scanned GENOVA original requires visual reading. Acquisition does not assert complete mathematical review.",
+    "acquisition_note": "Original author distribution preserved with member/container provenance; legacy binary not executed."
+  },
+  {
+    "id": "software-urgenova-manual",
+    "title": "Manual for urGENOVA, Version 2.1",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2001,
+    "doi": null,
+    "source_url": "https://brennancrickgenova.org/genova-suite/",
+    "fulltext_url": "https://brennancrickgenova.org/download/urgenova-for-pc/?wpdmdl=243",
+    "local_path": "papers/downloads/software/urgenova-manual.pdf",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "manual",
+      "worked-examples",
+      "design-algebra"
+    ],
+    "relevance": "Unbalanced random-effects variance components distribution",
+    "evidence": "Manual title/front matter and selected design/capability examples inspected; scanned GENOVA original requires visual reading. Acquisition does not assert complete mathematical review.",
+    "acquisition_note": "Original author distribution preserved with member/container provenance; legacy binary not executed."
+  },
+  {
+    "id": "software-jgenova-distribution-manual",
+    "title": "Manual for jGENOVA: A Generalized Analysis of Variance System (Java Version), Version 1.0",
+    "authors": [
+      "Joe E. Crick",
+      "Robert L. Brennan"
+    ],
+    "year": 2021,
+    "doi": null,
+    "source_url": "https://brennancrickgenova.org/genova-suite/",
+    "fulltext_url": "https://brennancrickgenova.org/download/jgenova1-and-user-manual/?wpdmdl=202",
+    "local_path": "papers/downloads/software/jgenova-distribution-manual.pdf",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "manual",
+      "worked-examples",
+      "design-algebra"
+    ],
+    "relevance": "jGENOVA binary, user manual and examples",
+    "evidence": "Manual title/front matter and selected design/capability examples inspected; scanned GENOVA original requires visual reading. Acquisition does not assert complete mathematical review.",
+    "acquisition_note": "Original author distribution preserved with member/container provenance; legacy binary not executed."
+  },
+  {
+    "id": "software-generalizit-2024",
+    "title": "GeneralizIT: A Python Solution for Generalizability Theory Computations (2024 preprint, v2)",
+    "authors": [
+      "Tyler J. Smith",
+      "Theresa Kline",
+      "Adrienne Kline"
+    ],
+    "year": 2024,
+    "doi": "10.48550/arXiv.2411.17880",
+    "source_url": "https://arxiv.org/abs/2411.17880",
+    "fulltext_url": "https://arxiv.org/abs/2411.17880",
+    "local_path": "papers/downloads/software/generalizit-2024-preprint.pdf",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "Python",
+      "balanced-designs"
+    ],
+    "relevance": "Version-specific claims must be distinguished from 2025 final article and current source.",
+    "evidence": "PDF title, abstract, software capability discussion and example sections inspected.",
+    "acquisition_note": "Preserved arXivv2 dated6Dec2024; not independent corroboration of final article."
+  },
+  {
+    "id": "software-generalizit-2025",
+    "title": "GeneralizIT: A Python Solution for Generalizability Theory Computations",
+    "authors": [
+      "Tyler J. Smith",
+      "Theresa J. B. Kline",
+      "Adrienne S. Kline"
+    ],
+    "year": 2025,
+    "doi": "10.1016/j.softx.2025.102235",
+    "source_url": "https://www.sciencedirect.com/science/article/pii/S235271102500202X",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "software",
+      "Python",
+      "unbalanced-designs"
+    ],
+    "relevance": "Final SoftwareX article advertises broader support than older preprint; current source acquired separately.",
+    "evidence": "Publisher indexed metadata/abstract inspected; direct publisher landing403.",
+    "acquisition_note": "Final open article not acquired locally yet; earlier preprint and pinned software source available."
+  },
+  {
+    "id": "software-mushquash-2006",
+    "title": "SPSS and SAS programs for generalizability theory analyses",
+    "authors": [
+      "Christopher Mushquash",
+      "Brian P. O’Connor"
+    ],
+    "year": 2006,
+    "doi": "10.3758/BF03192810",
+    "source_url": "https://link.springer.com/article/10.3758/BF03192810",
+    "fulltext_url": "https://link.springer.com/article/10.3758/BF03192810",
+    "local_path": "papers/downloads/software/mushquash-oconnor-2006.pdf",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "SPSS",
+      "SAS",
+      "MATLAB",
+      "R",
+      "worked-examples"
+    ],
+    "relevance": "Seven original author source programs and six-page methodological worked example.",
+    "evidence": "Full paper text inspected for supported designs, missingness restrictions and output conventions.",
+    "acquisition_note": "Publisher PDF valid; original typesetting has visible header placeholders, actualvolume38(3)542–547 verified."
+  },
+  {
+    "id": "software-gtheoryr-manual",
+    "title": "gtheoryr: Simple Generalizability Theory for Crossed and Nested Designs, reference manual v0.1.0",
+    "authors": [
+      "Ujjwal Tyagi"
+    ],
+    "year": 2026,
+    "doi": "10.32614/CRAN.package.gtheoryr",
+    "source_url": "https://cran.r-project.org/package=gtheoryr",
+    "fulltext_url": "https://cran.r-project.org/package=gtheoryr",
+    "local_path": "papers/downloads/software/gtheoryr-manual.pdf",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "R",
+      "crossed",
+      "nested"
+    ],
+    "relevance": "New compact baseline for persons×items and items-within-person semantics.",
+    "evidence": "CRAN metadata, DESCRIPTION and source scope read; manual acquired.",
+    "acquisition_note": "Pinned CRAN mirror and original PDF available."
+  },
+  {
+    "id": "software-doc-generalizit",
+    "title": "GeneralizIT current source documentation",
+    "authors": [
+      "Tyler J. Smith",
+      "Theresa Kline",
+      "Adrienne Kline"
+    ],
+    "year": 2026,
+    "doi": null,
+    "source_url": "https://github.com/tylerjsmith111/GeneralizIT",
+    "fulltext_url": "https://github.com/tylerjsmith111/GeneralizIT",
+    "local_path": "quarantine/references/generalizit/README.md",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "documentation"
+    ],
+    "relevance": "Study reference capabilities and fixtures; source is independently recorded in software manifest.",
+    "evidence": "Selected package documentation/source inspected. Snapshotyear2026 unless a definite historical version date is retained; not a peer-reviewed article. Also inspected design.py linear system, negative-component treatment, fixed-facet branch, mean-interval equations, test README and Brennan fixture provenance; source behavior is snapshot-specific.",
+    "acquisition_note": "Complete original document retained inside preserved source archive. No code executed; source documentation claims are not numerical validation."
+  },
+  {
+    "id": "software-doc-facet",
+    "title": "facet: framework for Generalizability Theory, source documentation v0.0.11",
+    "authors": [
+      "George Michaelides",
+      "Duncan Jackson"
+    ],
+    "year": 2026,
+    "doi": null,
+    "source_url": "https://github.com/michaelides/facet",
+    "fulltext_url": "https://github.com/michaelides/facet",
+    "local_path": "quarantine/references/facet/README.md",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "documentation"
+    ],
+    "relevance": "Study reference capabilities and fixtures; source is independently recorded in software manifest.",
+    "evidence": "Selected package documentation/source inspected. Snapshotyear2026 unless a definite historical version date is retained; not a peer-reviewed article. Also inspected DESCRIPTION, estimator-aov.R component subtraction/Satterthwaite Wald interval paths, variance-components.R lme4 interval dispatch, data.R and selected dstudy/estimator tests; broad README promises not independently certified.",
+    "acquisition_note": "Complete original document retained inside preserved source archive. No code executed; source documentation claims are not numerical validation."
+  },
+  {
+    "id": "software-doc-gtheory-app",
+    "title": "gtheory-app: Shiny G-study and D-study documentation v1.0.0",
+    "authors": [
+      "Carlos Fernando Collares"
+    ],
+    "year": 2026,
+    "doi": null,
+    "source_url": "https://zenodo.org/records/20149608",
+    "fulltext_url": "https://zenodo.org/records/20149608",
+    "local_path": "quarantine/references/gtheory-app/USER_GUIDE.md",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "documentation"
+    ],
+    "relevance": "Study reference capabilities and fixtures; source is independently recorded in software manifest.",
+    "evidence": "Selected package documentation/source inspected. Snapshotyear2026 unless a definite historical version date is retained; not a peer-reviewed article.",
+    "acquisition_note": "Complete original document retained inside preserved source archive. No code executed; source documentation claims are not numerical validation."
+  },
+  {
+    "id": "software-doc-gtheory",
+    "title": "gtheory: Apply Generalizability Theory with R, package documentation v0.1.2",
+    "authors": [
+      "Christopher T. Moore"
+    ],
+    "year": 2016,
+    "doi": null,
+    "source_url": "https://github.com/cran/gtheory",
+    "fulltext_url": "https://github.com/cran/gtheory",
+    "local_path": "quarantine/references/gtheory/man/gtheory-package.Rd",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "documentation"
+    ],
+    "relevance": "Study reference capabilities and fixtures; source is independently recorded in software manifest.",
+    "evidence": "Selected package documentation/source inspected. Snapshotyear2026 unless a definite historical version date is retained; not a peer-reviewed article. Also read gstudy.R/dstudy.R/update.components.R: lmer REML, per-stratum fits plus observed cross-stratum covariance, object-specific divisors and median overall divisors for unbalanced D-studies.",
+    "acquisition_note": "Complete original document retained inside preserved source archive. No code executed; source documentation claims are not numerical validation."
+  },
+  {
+    "id": "software-doc-g-string-mv",
+    "title": "G_String multivariate legacy source documentation",
+    "authors": [
+      "Ralph Bloch"
+    ],
+    "year": 2026,
+    "doi": null,
+    "source_url": "https://github.com/G-String-Legacy/GS_MV",
+    "fulltext_url": "https://github.com/G-String-Legacy/GS_MV",
+    "local_path": "quarantine/references/g-string-mv/README.md",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "documentation"
+    ],
+    "relevance": "Study reference capabilities and fixtures; source is independently recorded in software manifest.",
+    "evidence": "Selected package documentation/source inspected. Snapshotyear2026 unless a definite historical version date is retained; not a peer-reviewed article. Also inspected AnaGroups.java external urGENOVA ProcessBuilder call, GSetup.java bundled platform executables, VarianceComponent.java negative clipping/classification/divisors and Cases fixture inventory. README M/MV naming is not proof of a new multivariate estimation engine.",
+    "acquisition_note": "Complete original document retained inside preserved source archive. No code executed; source documentation claims are not numerical validation."
+  },
+  {
+    "id": "software-doc-gt4ireval",
+    "title": "gt4ireval: Generalizability Theory for Information Retrieval Evaluation, source documentation",
+    "authors": [
+      "Julián Urbano"
+    ],
+    "year": 2026,
+    "doi": null,
+    "source_url": "https://github.com/julian-urbano/gt4ireval",
+    "fulltext_url": "https://github.com/julian-urbano/gt4ireval",
+    "local_path": "quarantine/references/gt4ireval/README.md",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "documentation"
+    ],
+    "relevance": "Study reference capabilities and fixtures; source is independently recorded in software manifest.",
+    "evidence": "Selected package documentation/source inspected. Snapshotyear2026 unless a definite historical version date is retained; not a peer-reviewed article.",
+    "acquisition_note": "Complete original document retained inside preserved source archive. No code executed; source documentation claims are not numerical validation."
+  },
+  {
+    "id": "software-doc-csemgt",
+    "title": "csemGT: Conditional Standard Error of Measurement in Generalizability Theory, source documentation",
+    "authors": [
+      "René Gempp"
+    ],
+    "year": 2026,
+    "doi": null,
+    "source_url": "https://github.com/rgempp/csemGT",
+    "fulltext_url": "https://github.com/rgempp/csemGT",
+    "local_path": "quarantine/references/csemgt/README.md",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "documentation"
+    ],
+    "relevance": "Study reference capabilities and fixtures; source is independently recorded in software manifest.",
+    "evidence": "Selected package documentation/source inspected. Snapshotyear2026 unless a definite historical version date is retained; not a peer-reviewed article. Also inspected csem_gt.R, utils-gt.R, utils-bootstrap.R and identity/legacy/Stata-parity tests. Stata parity DTA absent in snapshot; accepted CI names fall back to effective normal Wald intervals.",
+    "acquisition_note": "Complete original document retained inside preserved source archive. No code executed; source documentation claims are not numerical validation."
+  },
+  {
+    "id": "software-doc-emreliability",
+    "title": "emreliability: Test Reliability and CSEM in Educational Measurement, package description v1.0.0",
+    "authors": [
+      "Huan Liu",
+      "Won-Chan Lee",
+      "Min Liang"
+    ],
+    "year": 2026,
+    "doi": null,
+    "source_url": "https://cran.r-project.org/package=emreliability",
+    "fulltext_url": "https://cran.r-project.org/package=emreliability",
+    "local_path": "quarantine/references/emreliability/DESCRIPTION",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "documentation"
+    ],
+    "relevance": "Study reference capabilities and fixtures; source is independently recorded in software manifest.",
+    "evidence": "Selected package documentation/source inspected. Snapshotyear2026 unless a definite historical version date is retained; not a peer-reviewed article.",
+    "acquisition_note": "Complete original document retained inside preserved source archive. No code executed; source documentation claims are not numerical validation."
+  },
+  {
+    "id": "software-bell-1985",
+    "title": "Generalizability Theory: The Software Problem",
+    "authors": [
+      "John F. Bell"
+    ],
+    "year": 1985,
+    "doi": "10.3102/10769986010001019",
+    "source_url": "https://journals.sagepub.com/doi/10.3102/10769986010001019",
+    "fulltext_url": "https://citeseerx.ist.psu.edu/document?doi=5ed8836348f7469791b98c1013a7d5902a159fb2&repid=rep1&type=pdf",
+    "local_path": "papers/downloads/software/bell-1985-software-problem.pdf",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "MIVQUE0",
+      "unbalanced",
+      "computational complexity"
+    ],
+    "relevance": "Original comparison of ANOVA software and variance-component estimators; explains design-matrix costs, MIVQUE0 and balanced/unbalanced distinction.",
+    "evidence": "Full text: read abstract, design-matrix discussion, MIVQUE0 derivation, unbalanced example and conclusions. Historical SAS/SPSS capability claims refer to 1985 versions.",
+    "acquisition_note": "Acquired CiteSeer PDF via ordinary redirect to Wayback; provenance records original and final URLs. Publisher metadata verified."
+  },
+  {
+    "id": "software-edug-guide-2010",
+    "title": "EduG User Guide (EduG 6.1, 2 March 2010)",
+    "authors": [
+      "Swiss Society for Research in Education Working Group Edumetrics"
+    ],
+    "year": 2010,
+    "doi": null,
+    "source_url": "https://www.irdp.ch/data/secure/1968/document/EduGUserGuide.pdf",
+    "fulltext_url": "https://web.archive.org/web/20200604123914id_/https://www.irdp.ch/data/secure/1968/document/EduGUserGuide.pdf",
+    "local_path": "papers/downloads/software/edug-user-guide-2010.pdf",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "finite universes",
+      "fixed facets",
+      "symmetry",
+      "Coef_G"
+    ],
+    "relevance": "Primary manual for complete balanced crossed/nested designs up to eight facets, flexible differentiation/instrumentation faces and finite-universe Coef_G.",
+    "evidence": "Full text: targeted reading of origins, restrictions, fixed/finite/random statuses, measurement design identifiability, negative estimates, Whimbey correction, examples and Appendices A/B. Not every GUI instruction read.",
+    "acquisition_note": "Original IRDP paths unavailable; ordinary public Wayback retrieval succeeded, final snapshot 20200604123914. Source distribution still missing."
+  },
+  {
+    "id": "software-sagt-2016",
+    "title": "SAGT: Aplicación informática para análisis de generalizabilidad",
+    "authors": [
+      "Antonio Hernández-Mendo",
+      "Ángel Blanco-Villaseñor",
+      "José Luis Pastrana",
+      "Verónica Morales-Sánchez",
+      "Francisco Jesús Ramos-Pérez"
+    ],
+    "year": 2016,
+    "doi": null,
+    "source_url": "https://www.riped-online.com/articles/sagt-new-software-for-generalizability-analysis.pdf",
+    "fulltext_url": "https://www.riped-online.com/articles/sagt-new-software-for-generalizability-analysis.pdf",
+    "local_path": "papers/downloads/software/hernandez-mendo-2016-sagt.pdf",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "SAGT",
+      "observational designs"
+    ],
+    "relevance": "Primary description of Spanish/French/English/Portuguese GUI supporting up to sixteen facets and GT/EduG import; identifies additional software family.",
+    "evidence": "Full text: read Spanish software-description pages 78–81, menus/import and optimizer descriptions, English abstract. Application results and all Spanish discussion not deeply reviewed. Advertised capability only; installer/source not inspected.",
+    "acquisition_note": "University-hosted PDF returned 403; publisher PDF acquired. Publisher and Barcelona repository metadata agree. No DOI verified."
+  },
+  {
+    "id": "software-urbano-2013",
+    "title": "On the Measurement of Test Collection Reliability",
+    "authors": [
+      "Julián Urbano",
+      "Mónica Marrero",
+      "Diego Martín"
+    ],
+    "year": 2013,
+    "doi": "10.1145/2484028.2484038",
+    "source_url": "https://julian-urbano.info/files/publications/055-measurement-test-collection-reliability.pdf",
+    "fulltext_url": "https://julian-urbano.info/files/publications/055-measurement-test-collection-reliability.pdf",
+    "local_path": "papers/downloads/software/urbano-2013-test-collection.pdf",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "information retrieval",
+      "G coefficient",
+      "Phi"
+    ],
+    "relevance": "Theory behind gt4ireval linking systems-by-queries reliability and familiar retrieval evaluation stability measures.",
+    "evidence": "Full text: read abstract, G/D-study framing and reliability-to-stability links; package source and test fixture also inspected. Entire simulation section not audited.",
+    "acquisition_note": "Author-hosted full text; DOI verified against paper bibliographic record."
+  },
+  {
+    "id": "software-huebner-lucht-2019",
+    "title": "Generalizability Theory in R",
+    "authors": [
+      "Alan Huebner",
+      "Marisa Lucht"
+    ],
+    "year": 2019,
+    "doi": "10.7275/5065-gc10",
+    "source_url": "https://files.eric.ed.gov/fulltext/EJ1222666.pdf",
+    "fulltext_url": "https://files.eric.ed.gov/fulltext/EJ1222666.pdf",
+    "local_path": "papers/downloads/software/huebner-lucht-2019-gtheory.pdf",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "R",
+      "REML",
+      "crossed",
+      "nested"
+    ],
+    "relevance": "Four one/two-facet worked examples and self-contained code using archived gtheory; article authors are not the package author.",
+    "evidence": "Full text: read front matter, design definitions, computational overview and selected limitations. Example code is present but all example calculations were not audited; corresponding gtheory source functions read. Verified author spelling Marisa against original PDF; ERIC metadata spells Marissa.",
+    "acquisition_note": "ERIC authorized full text acquired; UMass direct publishing page access denied."
+  },
+  {
+    "id": "software-csemgt-manual",
+    "title": "csemGT: Conditional Standard Error of Measurement in Generalizability Theory, version 1.0.0 manual",
+    "authors": [
+      "René Gempp"
+    ],
+    "year": 2026,
+    "doi": "10.32614/CRAN.package.csemGT",
+    "source_url": "https://cran.r-project.org/web/packages/csemGT/csemGT.pdf",
+    "fulltext_url": "https://cran.r-project.org/web/packages/csemGT/csemGT.pdf",
+    "local_path": "papers/downloads/software/csemgt-manual-2026.pdf",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "conditional SEM",
+      "bootstrap",
+      "boundaries"
+    ],
+    "relevance": "Primary package manual for complete p×i CSEM and opt-in signed-component clipping, projected item counts and conditional inference.",
+    "evidence": "Full text: targeted public csem_gt documentation and metadata; inspected corresponding pinned source orchestrator, numerical helpers and selected tests. CRAN manual dates June 1 2026; source snapshot can differ.",
+    "acquisition_note": "Acquired directly from CRAN; DOI is CRAN package DOI, distinct from software article DOI."
+  },
+  {
+    "id": "software-gt4ireval-manual",
+    "title": "gt4ireval: Generalizability Theory for Information Retrieval Evaluation, version 2.0 manual",
+    "authors": [
+      "Julián Urbano"
+    ],
+    "year": 2017,
+    "doi": "10.32614/CRAN.package.gt4ireval",
+    "source_url": "https://cran.r-project.org/web/packages/gt4ireval/gt4ireval.pdf",
+    "fulltext_url": "https://cran.r-project.org/web/packages/gt4ireval/gt4ireval.pdf",
+    "local_path": "papers/downloads/software/gt4ireval-manual.pdf",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "information retrieval",
+      "analytic intervals"
+    ],
+    "relevance": "Primary p×q design G/D-study documentation, query-count planning, F-based intervals and built-in retrieval fixtures.",
+    "evidence": "Full text: manual metadata and G/D-study API documentation; corresponding source equations and synthetic4 numerical test read. No runtime verification.",
+    "acquisition_note": "Acquired CRAN manual; year refers package release, downloaded document can bear newer build date."
+  },
+  {
+    "id": "software-gempp-csem-variance-2026",
+    "title": "Analytical Sampling Variances for Per-Person Estimators of Conditional Standard Errors of Measurement in Generalizability Theory",
+    "authors": [
+      "René Gempp"
+    ],
+    "year": 2026,
+    "doi": "10.31234/osf.io/6qg9r_v1",
+    "source_url": "https://osf.io/preprints/psyarxiv/6qg9r_v1/",
+    "fulltext_url": "https://osf.io/download/ek3ad/",
+    "local_path": "papers/downloads/software/gempp-2026-csem-sampling-variances.pdf",
+    "status": "acquired",
+    "topics": [
+      "conditional SEM",
+      "uncertainty",
+      "Gaussian",
+      "software",
+      "preprint"
+    ],
+    "relevance": "New exact conditional-Gaussian sampling-variance derivation used in csemGT/gtcsem; relevant to interpreting their analytical SEs.",
+    "evidence": "Full text: read abstract, introduction, implementation, scope/discussion and selected derivation. Conditions on observed item-difficulty structure and fixes plug-in item variance; not unconditional resampling-item uncertainty. Finite-sample coverage study explicitly deferred to v2; version 1 unreviewed working paper.",
+    "acquisition_note": "OSF primary public API verified metadata and file download; acquired https://osf.io/download/ek3ad/. Manuscript placeholder DOI replaced with primary OSF metadata DOI. Claimed companion project 8xvyb public listing contains only PDF, no code."
+  },
+  {
+    "id": "software-edug-windows-note",
+    "title": "EduG and Windows security problems",
+    "authors": [
+      "IRDP"
+    ],
+    "year": null,
+    "doi": null,
+    "source_url": "https://www.irdp.ch/data/documents/Avertissement_windows-seven-vista_en.pdf",
+    "fulltext_url": "https://www.irdp.ch/data/documents/Avertissement_windows-seven-vista_en.pdf",
+    "local_path": "papers/downloads/software/edug-windows-note.pdf",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "legacy distribution"
+    ],
+    "relevance": "Original operating-system/registration note clarifies APLgrid.dll dependency and age of EduG distribution.",
+    "evidence": "Full text: read complete one-page note. Historical Windows XP/Vista/7 registration information; preserved as historical reference, not executed or adopted as current system guidance.",
+    "acquisition_note": "Official IRDP PDF acquired; publication date not printed, retained null."
+  },
+  {
+    "id": "software-edug-original-download-page",
+    "title": "EduG 6.1 English original distribution page and version-5 fixed-facet error notice",
+    "authors": [
+      "IRDP"
+    ],
+    "year": null,
+    "doi": null,
+    "source_url": "http://www.irdp.ch/edumetrie/englishprogram.htm",
+    "fulltext_url": "https://web.archive.org/web/20160302052957id_/http://www.irdp.ch:80/edumetrie/englishprogram.htm",
+    "local_path": "papers/downloads/software/edug-legacy-download-page.html",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "legacy distribution",
+      "fixed facets",
+      "errata"
+    ],
+    "relevance": "Primary distribution/version notice warns v5 interactions involving fixed facets were incorrect and v6 fixed them; distinguishes book-example snapshots.",
+    "evidence": "Full HTML: inspected download button/installer name, original manual links and entire v5/v6 algorithm-error notice. No Flash button or installer executed.",
+    "acquisition_note": "Acquired ordinary public Wayback 20160302052957 snapshot. Installer named InstallerEduG61e.zip, 1.9 MB; Flash download target not yet restored. Additional eduGeng.htm description page acquired separately with provenance."
+  },
+  {
+    "id": "software-fantab-1969",
+    "title": "FANTAB: A Computerization of Rules of Thumb for Factorial ANOVA Tables.",
+    "authors": [
+      "David Lile Brown"
+    ],
+    "year": 1969,
+    "doi": null,
+    "source_url": "https://eric.ed.gov/?id=ED143704",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "software",
+      "historical",
+      "EMS",
+      "fixed facets",
+      "finite universes"
+    ],
+    "relevance": "Fortran IV design-to-ANOVA compiler for 2–4 factors, nesting and random/finite/fixed statuses; 93-page thesis has program/examples appendices.",
+    "evidence": "Primary ERIC abstract/metadata read only. Full thesis, appendix source and numerical claims not inspected.",
+    "acquisition_note": "ERIC direct fulltext ED143704.pdf returns 404 in root search. Operator/library acquisition needed; do not conflate symbolic table generation with observed-data variance fitting."
+  },
+  {
+    "id": "software-gapid-1979",
+    "title": "GAPID: A FORTRAN IV Computer Program for Generalizability Analyses with Single-Facet Designs (ACT Technical Bulletin No. 34)",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 1979,
+    "doi": null,
+    "source_url": "https://journals.sagepub.com/doi/10.1177/014662168000400209",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "software",
+      "historical",
+      "single facet"
+    ],
+    "relevance": "Historical dedicated single-facet GT implementation preceding GENOVA.",
+    "evidence": "Bibliographic reference in original Brennan/Lockwood 1980 publisher reference list confirms author/title/ACT34/October1979 only. Neither handbook nor source read.",
+    "acquisition_note": "Unavailable primary report. Catalogues also index Handbook for GAPID with 136 pages; not merged into unsupported alternative titles/authorship or 1974 GoogleBooks result. Root shopping-list item."
+  },
+  {
+    "id": "software-gempp-csemgt-article-2026",
+    "title": "csemGT: An R Package for Estimating Raw-Score Conditional Standard Errors of Measurement in Generalizability Theory",
+    "authors": [
+      "René Gempp"
+    ],
+    "year": 2026,
+    "doi": "10.1177/01466216261461571",
+    "source_url": "https://journals.sagepub.com/doi/abs/10.1177/01466216261461571",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13269112/",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "software",
+      "conditional SEM"
+    ],
+    "relevance": "New primary software article published June15 2026, supporting v1.0.0 package provenance.",
+    "evidence": "Primary publisher metadata/data-availability statement and PubMed identifiers read. Publisher full article not read; package source/manual read independently.",
+    "acquisition_note": "PMC13269112 official fulltext URL returned403; Sage page offers access. Article acquisition still needed; bibliographic record not confused with analytical-SE preprint."
+  },
+  {
+    "id": "software-doc-jgenova-source",
+    "title": "jGENOVA 1.0 Java estimation and decision-study source",
+    "authors": [
+      "Joe E. Crick",
+      "Robert L. Brennan"
+    ],
+    "year": 2026,
+    "doi": null,
+    "source_url": "https://brennancrickgenova.org/genova-suite/",
+    "fulltext_url": null,
+    "local_path": "quarantine/references/jgenova-source/workspace/jGENOVA1.0/src/initGen/Dcalc.java",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "source inspection"
+    ],
+    "relevance": "Reproducibly restored reference source; capability and fixture distinctions in software report/matrix.",
+    "evidence": "Read selected Dcalc,Dtran,Gcomp,flags and options paths alongside full manual sections. Balanced complete EMS inversion, finite-universe D-study transforms and estimator covariance propagation inspected; no compilation/execution.",
+    "acquisition_note": "Source archive provenance/revision/license in papers/software/records/jgenova-source.json. Acquisition year is inspection snapshot where original file date differs; downloaded source never executed. Root identity clarification: 2026 is acquisition/inspection snapshot year of the unversioned source distribution; associated version1.0 manual is January2021, separately catalogued."
+  },
+  {
+    "id": "software-doc-intraclass",
+    "title": "intraclass development source: ICC engines, intervals and D-study",
+    "authors": [
+      "Jeffrey Girard"
+    ],
+    "year": 2026,
+    "doi": null,
+    "source_url": "https://github.com/jmgirard/intraclass",
+    "fulltext_url": null,
+    "local_path": "quarantine/references/intraclass/R/d-study.R",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "source inspection"
+    ],
+    "relevance": "Reproducibly restored reference source; capability and fixture distinctions in software report/matrix.",
+    "evidence": "Read DESCRIPTION, d-study.R, ci-montecarlo.R, selected engine comments and ANOVA-oracle test. Engine APIs advertised; selected algebra and interval transform paths inspected, not entire562-file package.",
+    "acquisition_note": "Source archive provenance/revision/license in papers/software/records/intraclass.json. Acquisition year is inspection snapshot where original file date differs; downloaded source never executed."
+  },
+  {
+    "id": "software-doc-bayesian-gtheory",
+    "title": "bayesian.gtheory development source and function dictionary",
+    "authors": [
+      "Tommy Clark"
+    ],
+    "year": 2026,
+    "doi": null,
+    "source_url": "https://github.com/t-clark04/bayesian.gtheory",
+    "fulltext_url": null,
+    "local_path": "quarantine/references/bayesian-gtheory/README.md",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "source inspection"
+    ],
+    "relevance": "Reproducibly restored reference source; capability and fixture distinctions in software report/matrix.",
+    "evidence": "Read README/DESCRIPTION/license and dstudy_crossed2.R posterior rescaling and fixed-facet branches. All-random G_coef denominator includes non-person main effects: absolute Phi estimand despite label G.",
+    "acquisition_note": "Source archive provenance/revision/license in papers/software/records/bayesian-gtheory.json. Acquisition year is inspection snapshot where original file date differs; downloaded source never executed."
+  },
+  {
+    "id": "software-doc-dtheory",
+    "title": "dtheory development source and D-study interval implementation",
+    "authors": [
+      "Tommy Clark"
+    ],
+    "year": 2026,
+    "doi": null,
+    "source_url": "https://github.com/t-clark04/dtheory",
+    "fulltext_url": null,
+    "local_path": "quarantine/references/dtheory/README.md",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "source inspection"
+    ],
+    "relevance": "Reproducibly restored reference source; capability and fixture distinctions in software report/matrix.",
+    "evidence": "Read README/DESCRIPTION/license plus dstudy.R and dconf.R targeted equations; random p×t trial-count projections, absolute agreement label G, normally distributed effects assumption in interval documentation.",
+    "acquisition_note": "Source archive provenance/revision/license in papers/software/records/dtheory.json. Acquisition year is inspection snapshot where original file date differs; downloaded source never executed."
+  },
+  {
+    "id": "software-doc-gtheory-lavaan",
+    "title": "G-theory lavaan source for continuous and ordinal crossed designs",
+    "authors": [
+      "Hyeryung Lee"
+    ],
+    "year": 2026,
+    "doi": null,
+    "source_url": "https://github.com/HyeryungLee/gtheory_lavaan",
+    "fulltext_url": null,
+    "local_path": "quarantine/references/gtheory-lavaan/gtheory_lavaan.R",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "source inspection"
+    ],
+    "relevance": "Reproducibly restored reference source; capability and fixture distinctions in software report/matrix.",
+    "evidence": "Read complete model-generation routine: one/two/three facet branches, equal-loadings SEM and ULS/WLSMV theta/delta paths, indicator-mean/Jorgensen alternatives. Runtime/formula correctness not established.",
+    "acquisition_note": "Source archive provenance/revision/license in papers/software/records/gtheory-lavaan.json. Acquisition year is inspection snapshot where original file date differs; downloaded source never executed."
+  },
+  {
+    "id": "software-doc-mixed-format-stan",
+    "title": "Mixed-format multivariate GT author Stan/R supplement",
+    "authors": [
+      "Zhehan Jiang",
+      "Jinying Ouyang",
+      "Dingjing Shi",
+      "Dexin Shi",
+      "Jihong Zhang",
+      "Lingling Xu",
+      "Fen Cai"
+    ],
+    "year": 2024,
+    "doi": null,
+    "source_url": "https://osf.io/wud3x/",
+    "fulltext_url": null,
+    "local_path": "quarantine/references/mixed-format-stan/mergecodebymanual_ddp.stan",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "source inspection"
+    ],
+    "relevance": "Reproducibly restored reference source; capability and fixture distinctions in software report/matrix.",
+    "evidence": "Read selected joint covariance declaration, multivariate person effects, Gaussian FRT/Bernoulli-logit MCQ likelihood and data-dependent prior block. Paper supplement, not a general design compiler. The ddp and noninfo Stan files are byte-identical (both contain empirical prior constants), so acquired filenames do not establish two prior alternatives.",
+    "acquisition_note": "Source archive provenance/revision/license in papers/software/records/mixed-format-stan.json. Acquisition year is inspection snapshot where original file date differs; downloaded source never executed."
+  },
+  {
+    "id": "software-doc-multilevel-irr",
+    "title": "Multilevel interrater reliability author Stan/R supplement",
+    "authors": [
+      "Debby ten Hove"
+    ],
+    "year": 2026,
+    "doi": null,
+    "source_url": "https://osf.io/bwk5t/",
+    "fulltext_url": null,
+    "local_path": "quarantine/references/multilevel-irr/Application/IRR_ML_mod.stan",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "source inspection"
+    ],
+    "relevance": "Reproducibly restored reference source; capability and fixture distinctions in software report/matrix.",
+    "evidence": "Read application Stan model and generated quantities: cluster/subject/rater/cluster×rater effects, single/average consistency/agreement ICCs, half-t SD priors bounded by response range. Simulation source not run.",
+    "acquisition_note": "Source archive provenance/revision/license in papers/software/records/multilevel-irr.json. Acquisition year is inspection snapshot where original file date differs; downloaded source never executed."
+  },
+  {
+    "id": "software-doc-mushquash-source",
+    "title": "Author-hosted GT SPSS/SAS/R/MATLAB programs G1/G2",
+    "authors": [
+      "Cathy Mushquash",
+      "Brian P. O’Connor"
+    ],
+    "year": 2006,
+    "doi": null,
+    "source_url": "https://oconnor-psych.ok.ubc.ca/gtheory/gtheory.html",
+    "fulltext_url": null,
+    "local_path": "quarantine/references/mushquash-oconnor/G2.R",
+    "status": "acquired",
+    "topics": [
+      "software",
+      "source inspection"
+    ],
+    "relevance": "Reproducibly restored reference source; capability and fixture distinctions in software report/matrix.",
+    "evidence": "Read G2.R input design/component/divisor specification, negative clipping and projection equations; author7-file bundle includes G1/G2 SPSS/SAS/R and G1 MATLAB. Language files not all deeply audited.",
+    "acquisition_note": "Source archive provenance/revision/license in papers/software/records/mushquash-oconnor.json. Acquisition year is inspection snapshot where original file date differs; downloaded source never executed."
+  }
+]

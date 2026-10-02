@@ -1,0 +1,18 @@
+{
+  "id": "mgenova",
+  "source_url": "https://brennancrickgenova.org/genova-suite/",
+  "revision": "unversioned official distribution; fingerprint retained",
+  "archive_url": "https://brennancrickgenova.org/download/mgenova-for-pc/?wpdmdl=240",
+  "archive_path": "quarantine/archives/mgenova.zip",
+  "archive_sha256": "68c7d49430d9825a2526ccc4da01311ff31e0cfc8ec89189d0797c86cd04ad0e",
+  "archive_bytes": 742925,
+  "extracted_path": "quarantine/references/mgenova",
+  "extracted_files": 5,
+  "excluded_paths": [],
+  "strip_root": false,
+  "license_note": "GENOVA author allows redistribution; specific archive license must be inspected",
+  "description": "Multivariate GENOVA distribution and worked examples",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:46:56.515830+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only mgenova"
+}

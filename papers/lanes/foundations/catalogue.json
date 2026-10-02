@@ -1,0 +1,1014 @@
+[
+  {
+    "id": "foundations-cronbach-1963",
+    "title": "Theory of generalizability: A liberalization of reliability theory",
+    "authors": [
+      "Lee J. Cronbach",
+      "Nageswari Rajaratnam",
+      "Goldine C. Gleser"
+    ],
+    "year": 1963,
+    "doi": "10.1111/j.2044-8317.1963.tb00206.x",
+    "source_url": "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/j.2044-8317.1963.tb00206.x",
+    "fulltext_url": "https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1111/j.2044-8317.1963.tb00206.x",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "foundations",
+      "universe scores",
+      "randomly parallel measurements",
+      "G study",
+      "D study"
+    ],
+    "relevance": "First of the defining trilogy; replaces equivalence assumptions with sampling-based interpretation.",
+    "evidence": "Publisher abstract and bibliographic metadata read; original full text not read.",
+    "acquisition_note": "Publisher PDF acquisition returns HTTP 403; no bypass attempted."
+  },
+  {
+    "id": "foundations-gleser-1965",
+    "title": "Generalizability of scores influenced by multiple sources of variance",
+    "authors": [
+      "Goldine C. Gleser",
+      "Lee J. Cronbach",
+      "Nageswari Rajaratnam"
+    ],
+    "year": 1965,
+    "doi": "10.1007/BF02289531",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/5217607/",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "multifacet designs",
+      "variance components"
+    ],
+    "relevance": "Second defining trilogy paper; multiple variance sources.",
+    "evidence": "NLM primary bibliographic record read; no abstract available; not full-text-read.",
+    "acquisition_note": "Full text not acquired; acquire via publisher, library, or author/institution."
+  },
+  {
+    "id": "foundations-rajaratnam-1965",
+    "title": "Generalizability of stratified-parallel tests",
+    "authors": [
+      "Nageswari Rajaratnam",
+      "Lee J. Cronbach",
+      "Goldine C. Gleser"
+    ],
+    "year": 1965,
+    "doi": "10.1007/BF02289746",
+    "source_url": "https://www.cambridge.org/core/journals/psychometrika/article/abs/generalizability-of-stratifiedparallel-tests/AA6099BB19FE98FED6734D4971DC570B",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "stratified sampling",
+      "composites"
+    ],
+    "relevance": "Third defining trilogy paper; stratified item universes instead of homogeneous random items.",
+    "evidence": "Cambridge publisher extract and original 1965 volume/pages read; the 2025 web posting is not the publication year.",
+    "acquisition_note": "Full text not acquired; acquire via publisher, library, or author/institution."
+  },
+  {
+    "id": "foundations-cronbach-1972",
+    "title": "The dependability of behavioral measurements: Theory of generalizability for scores and profiles",
+    "authors": [
+      "Lee J. Cronbach",
+      "Goldine C. Gleser",
+      "Harinder Nanda",
+      "Nageswari Rajaratnam"
+    ],
+    "year": 1972,
+    "doi": null,
+    "source_url": "https://briscoe.uthscsa.edu/cgi-bin/koha/opac-detail.pl?biblionumber=21055",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "univariate",
+      "multivariate",
+      "universes",
+      "scores",
+      "profiles"
+    ],
+    "relevance": "Defining monograph and highest-priority operator acquisition; ISBN 0471188506.",
+    "evidence": "University library metadata and author discussions in acquired Brennan/Allal reports read; monograph itself not read.",
+    "acquisition_note": "Original Wiley book; university/library or lawful purchase needed. Uncertain-rights mirrors surfaced and were excluded."
+  },
+  {
+    "id": "foundations-brennan-2001-book",
+    "title": "Generalizability Theory",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2001,
+    "doi": "10.1007/978-1-4757-3456-0",
+    "source_url": "https://link.springer.com/book/10.1007/978-1-4757-3456-0",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "crossed designs",
+      "nested designs",
+      "unbalanced designs",
+      "multivariate",
+      "regressed scores",
+      "uncertainty"
+    ],
+    "relevance": "Core comprehensive computational text, including EMS/matrix appendices; priority acquisition.",
+    "evidence": "Publisher description, preface extract and entire table of contents read; chapters not read.",
+    "acquisition_note": "Springer subscription book; acquire complete ebook through institutional access or purchase. Free front matter is not the entire book."
+  },
+  {
+    "id": "foundations-brennan-1983-elements",
+    "title": "Elements of generalizability theory",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 1983,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-53-archived.pdf",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "univariate",
+      "GENOVA"
+    ],
+    "relevance": "Original ACT monograph coordinated with GENOVA.",
+    "evidence": "Verified in acquired author bibliography and Brennan 2001 publisher preface; full text not read.",
+    "acquisition_note": "ACT monograph; 1992 is a revised edition, catalogued separately. Need library/author copy."
+  },
+  {
+    "id": "foundations-brennan-1992-elements",
+    "title": "Elements of generalizability theory (revised edition)",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 1992,
+    "doi": null,
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1745-3992.1992.tb00260.x",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "univariate",
+      "GENOVA"
+    ],
+    "relevance": "Practical univariate reference and reference-output bridge to GENOVA.",
+    "evidence": "Brennan publisher instructional module bibliography explicitly identifies the revised edition; not full-text-read.",
+    "acquisition_note": "ACT revised monograph; acquire via library or author. Distinct edition from 1983."
+  },
+  {
+    "id": "foundations-brennan-1977-act26",
+    "title": "Generalizability analyses: Principles and procedures (ACT Technical Bulletin 26)",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 1977,
+    "doi": null,
+    "source_url": "https://eric.ed.gov/?id=ED146215",
+    "fulltext_url": "https://files.eric.ed.gov/fulltext/ED146215.pdf",
+    "local_path": "papers/downloads/foundations/brennan-1977-act26-principles-procedures.pdf",
+    "status": "acquired",
+    "topics": [
+      "foundations",
+      "design algebra",
+      "expected mean squares",
+      "finite universes",
+      "fixed facets",
+      "random facets",
+      "D studies"
+    ],
+    "relevance": "Public primary rules for arbitrary design notation, structural terms, EMS, D-study classification, finite-universe sampling.",
+    "evidence": "Full-text sections inspected: abstract/contents, notation and design rules, structural model, G-study estimators, D-study and finite-universe sections. OCR is degraded; formulas need PDF visual checking.",
+    "acquisition_note": "Public ERIC 91-page PDF acquired. This is September 1977 copy; author bibliography notes an August 1978 revision which is not this file."
+  },
+  {
+    "id": "foundations-brennan-1978-act31",
+    "title": "Algorithms, procedures, and variance components for analysis of variance (ACT Technical Bulletin 31)",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 1978,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-53-archived.pdf",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "design algebra",
+      "expected mean squares",
+      "ANOVA algorithms"
+    ],
+    "relevance": "Dedicated design/EMS algorithm report, useful for owned design compiler.",
+    "evidence": "Author bibliography entry verified in acquired CASMA 53; original report not read.",
+    "acquisition_note": "No public primary PDF found in focused searches. Request ACT/library/author copy."
+  },
+  {
+    "id": "foundations-brennan-1980-act36",
+    "title": "Some issues concerning the estimation and interpretation of variance components in generalizability theory (ACT Technical Bulletin 36)",
+    "authors": [
+      "Robert L. Brennan",
+      "David Jarjoura",
+      "E. L. Deaton"
+    ],
+    "year": 1980,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-53-archived.pdf",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "variance components",
+      "interpretation",
+      "fixed facets",
+      "estimation"
+    ],
+    "relevance": "Primary elaboration of estimation semantics and interpretive traps.",
+    "evidence": "Verified authors/title/year/report number in acquired author bibliography and Cardinet 1981 publisher reference list; original report not read.",
+    "acquisition_note": "Original 86-page report; not acquired. Library/ACT/author request needed."
+  },
+  {
+    "id": "foundations-brennan-1984-act46",
+    "title": "Some statistical issues in generalizability theory (ACT Technical Bulletin 46)",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 1984,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-53-archived.pdf",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "finite universes",
+      "variance components",
+      "sampling variability"
+    ],
+    "relevance": "Important finite-universe and variance-definition source cited by school-score analyses.",
+    "evidence": "Verified in author bibliography and 1997 publisher bibliography; original report not read.",
+    "acquisition_note": "No public primary PDF located; ACT/library/author request needed."
+  },
+  {
+    "id": "foundations-cardinet-1976-symmetry",
+    "title": "The symmetry of generalizability theory: Applications to educational measurement",
+    "authors": [
+      "Jean Cardinet",
+      "Yvan Tourneur",
+      "Linda K. Allal"
+    ],
+    "year": 1976,
+    "doi": "10.1111/j.1745-3984.1976.tb00003.x",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1745-3984.1976.tb00003.x",
+    "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-3984.1976.tb00003.x",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "foundations",
+      "symmetry",
+      "objects of measurement"
+    ],
+    "relevance": "First symmetry paper: objects need not be persons.",
+    "evidence": "Publisher bibliographic metadata/reference list read and original argument summarized by author Allal in acquired 1986 paper; this original full text not read.",
+    "acquisition_note": "Wiley PDF returns HTTP 403; do not infer original formulas from later summaries."
+  },
+  {
+    "id": "foundations-cardinet-1981-extensions",
+    "title": "Extension of generalizability theory and its applications in educational measurement",
+    "authors": [
+      "Jean Cardinet",
+      "Yvan Tourneur",
+      "Linda K. Allal"
+    ],
+    "year": 1981,
+    "doi": "10.1111/j.1745-3984.1981.tb00852.x",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1745-3984.1981.tb00852.x",
+    "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-3984.1981.tb00852.x",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "foundations",
+      "symmetry",
+      "multifaceted objects",
+      "fixed facets",
+      "finite universes"
+    ],
+    "relevance": "Expanded symmetry and arbitrary definitions of objects/populations; requires its 1982 errata.",
+    "evidence": "Publisher metadata and reference list read; author Allal 1986 full-text account inspected; original paper not read.",
+    "acquisition_note": "Wiley PDF returns HTTP 403. Also acquire JEM 19(4), 331-332 (1982) errata before using formulas."
+  },
+  {
+    "id": "foundations-cardinet-1983-parameters",
+    "title": "Estimation of generalizability parameters",
+    "authors": [
+      "Jean Cardinet",
+      "Linda K. Allal"
+    ],
+    "year": 1983,
+    "doi": null,
+    "source_url": "https://www.unige.ch/fapse/people/allal/doc/Publications.pdf",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "symmetry",
+      "fixed facets",
+      "finite universes",
+      "multifaceted objects"
+    ],
+    "relevance": "Chapter pp. 17-48 in Fyans (ed.), Generalizability theory: Inferences and practical applications; parameter algebra behind European framework.",
+    "evidence": "Verified chapter in author University of Geneva bibliography, acquired IRDP bibliography, and Allal 1986 references; chapter itself not read.",
+    "acquisition_note": "Acquire Jossey-Bass New Directions for Testing and Measurement 18 chapter; 1982 IRDP preliminary report is a separate version."
+  },
+  {
+    "id": "foundations-cardinet-tourneur-1985-book",
+    "title": "Assurer la mesure: Guide pour les études de généralisabilité",
+    "authors": [
+      "Jean Cardinet",
+      "Yvan Tourneur"
+    ],
+    "year": 1985,
+    "doi": null,
+    "source_url": "https://www.irdp.ch/data/secure/4111/document/bibliographie_cardinet_2017.pdf",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "symmetry",
+      "fixed facets",
+      "finite universes",
+      "measurement design"
+    ],
+    "relevance": "382-page French foundational expansion; European algebra predecessor to EduG.",
+    "evidence": "IRDP primary bibliography and Allal 1986 references verify title/year/382 pages; book not read.",
+    "acquisition_note": "Peter Lang ISBN 9783261035066; operator library/purchase item."
+  },
+  {
+    "id": "foundations-cardinet-tourneur-1985-definition",
+    "title": "The definition of generalizability parameters",
+    "authors": [
+      "Jean Cardinet",
+      "Yvan Tourneur"
+    ],
+    "year": 1985,
+    "doi": null,
+    "source_url": "https://www.irdp.ch/data/secure/4111/document/bibliographie_cardinet_2017.pdf",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "parameter definitions",
+      "fixed facets",
+      "finite universes"
+    ],
+    "relevance": "IRDP 27-page English technical report; French original is La définition des paramètres de généralisabilité (26 pages).",
+    "evidence": "Verified in acquired IRDP author bibliography pp. 17; report not read.",
+    "acquisition_note": "IRDP archival request needed; no lawful public full text located."
+  },
+  {
+    "id": "foundations-allal-1986-symmetry",
+    "title": "Extensions of generalizability theory through the principle of symmetry",
+    "authors": [
+      "Linda Allal"
+    ],
+    "year": 1986,
+    "doi": null,
+    "source_url": "https://eric.ed.gov/?id=ED270486",
+    "fulltext_url": "https://files.eric.ed.gov/fulltext/ED270486.pdf",
+    "local_path": "papers/downloads/foundations/allal-1986-symmetry-europe.pdf",
+    "status": "acquired",
+    "topics": [
+      "foundations",
+      "symmetry",
+      "multifaceted objects",
+      "fixed facets",
+      "finite universes"
+    ],
+    "relevance": "Direct primary summary by one of the originating researchers; clarifies arbitrary crossed/nested objects and populations.",
+    "evidence": "Full-text core sections read: principle of symmetry, all types of facets, multifaceted populations, framework and limitations; 14-page AERA paper.",
+    "acquisition_note": "Public institutional PDF acquired with scripts/acquire.py; provenance sidecar retained."
+  },
+  {
+    "id": "foundations-cardinet-1987-components",
+    "title": "Definition of the components of generalizability parameters",
+    "authors": [
+      "Jean Cardinet",
+      "Yvan Tourneur",
+      "Linda K. Allal"
+    ],
+    "year": 1987,
+    "doi": null,
+    "source_url": "https://www.irdp.ch/data/secure/4111/document/bibliographie_cardinet_2017.pdf",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "parameter definitions",
+      "symmetry"
+    ],
+    "relevance": "27-page unpublished IRDP manuscript; revised at IRDP in 1989, potentially critical component rules.",
+    "evidence": "Primary IRDP bibliography places entry under 1987 and explicitly says revised 1989/unpublished. Original manuscript not read.",
+    "acquisition_note": "Do not mislabel as published 1988 journal article. IRDP archival request required."
+  },
+  {
+    "id": "foundations-cardinet-johnson-pini-2010",
+    "title": "Applying Generalizability Theory using EduG",
+    "authors": [
+      "Jean Cardinet",
+      "Sandra Johnson",
+      "Gianreto Pini"
+    ],
+    "year": 2010,
+    "doi": "10.4324/9780203866948",
+    "source_url": "https://www.routledge.com/Applying-Generalizability-Theory-using-EduG/Cardinet-Johnson-Pini/p/book/9781848728295",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "symmetry",
+      "finite universes",
+      "fixed facets",
+      "EduG",
+      "measurement design"
+    ],
+    "relevance": "234-page practical European framework; appendices give EduG formulas and exercises can furnish independent oracles.",
+    "evidence": "Publisher description, table of contents, author biographies and ISBN read; full book not read.",
+    "acquisition_note": "Routledge subscription/purchase book ISBN 9781848728295. Publisher previews do not constitute full acquisition."
+  },
+  {
+    "id": "foundations-shavelson-webb-1981",
+    "title": "Generalizability theory: 1973–1980",
+    "authors": [
+      "Richard J. Shavelson",
+      "Noreen M. Webb"
+    ],
+    "year": 1981,
+    "doi": "10.1111/j.2044-8317.1981.tb00625.x",
+    "source_url": "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/j.2044-8317.1981.tb00625.x",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "negative estimates",
+      "fixed facets",
+      "symmetry",
+      "multivariate",
+      "unbalanced",
+      "Bayesian"
+    ],
+    "relevance": "Broad authoritative review includes balanced/unbalanced examples and Bayesian estimation, useful backward-expansion spine.",
+    "evidence": "Publisher abstract and metadata read; full text not read.",
+    "acquisition_note": "Full text not acquired; acquire via publisher, library, or author/institution."
+  },
+  {
+    "id": "foundations-shavelson-webb-rowley-1989",
+    "title": "Generalizability theory",
+    "authors": [
+      "Richard J. Shavelson",
+      "Noreen M. Webb",
+      "Glenn L. Rowley"
+    ],
+    "year": 1989,
+    "doi": "10.1037/0003-066X.44.6.922",
+    "source_url": "https://doi.org/10.1037/0003-066X.44.6.922",
+    "fulltext_url": "https://www.researchgate.net/profile/Richard-Shavelson/publication/232586408_Generalizability_Theory/links/00b7d537636b397f27000000/Generalizability-Theory.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "foundations",
+      "G study",
+      "D study",
+      "measurement design"
+    ],
+    "relevance": "Broad introduction connects multifacet errors to efficient design.",
+    "evidence": "Author-uploaded abstract and metadata viewed; full PDF acquisition failed, not full-text-read.",
+    "acquisition_note": "Author-uploaded ResearchGate PDF returns HTTP 403; publisher/library/author copy needed."
+  },
+  {
+    "id": "foundations-shavelson-webb-1991-primer",
+    "title": "Generalizability Theory: A Primer",
+    "authors": [
+      "Richard J. Shavelson",
+      "Noreen M. Webb"
+    ],
+    "year": 1991,
+    "doi": null,
+    "source_url": "https://www.sagepub.com/shop/buy-a-book/generalizability-theory-1-3375",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "crossed facets",
+      "nested facets",
+      "fixed facets",
+      "G study",
+      "D study"
+    ],
+    "relevance": "Pedagogic book covering changing G/D designs and worked examples.",
+    "evidence": "Original Sage publisher page and full table of contents read; book not read.",
+    "acquisition_note": "Acquire Sage monograph. ResearchGate record misattributes DOI 10.1002/9781118445112.stat00068 and links a different 2006 chapter; these are not the 1991 book."
+  },
+  {
+    "id": "foundations-webb-shavelson-haertel-2006",
+    "title": "Reliability coefficients and generalizability theory",
+    "authors": [
+      "Noreen M. Webb",
+      "Richard J. Shavelson",
+      "Edward H. Haertel"
+    ],
+    "year": 2006,
+    "doi": "10.1016/S0169-7161(06)26004-8",
+    "source_url": "https://doi.org/10.1016/S0169-7161(06)26004-8",
+    "fulltext_url": "https://www.researchgate.net/profile/Richard-Shavelson/publication/235726254_Generalizability_Theory_A_Primer/links/63d061ded7e5841e0bf23879/Generalizability-Theory-A-Primer.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "foundations",
+      "classical test theory",
+      "fixed facets",
+      "symmetry",
+      "unbalanced",
+      "multivariate"
+    ],
+    "relevance": "Handbook of Statistics 26 pp.81-124 synthesis; extensive numerical examples.",
+    "evidence": "Author-uploaded extract and metadata read; not complete full-text-read. Confirmed that misleading RG Primer PDF actually begins with this chapter DOI.",
+    "acquisition_note": "Author-uploaded PDF returns HTTP 403. Chapter cited as 2007 in Haertel CV; publisher DOI and other sources use 2006."
+  },
+  {
+    "id": "foundations-hoyt-1941",
+    "title": "Test reliability estimated by analysis of variance",
+    "authors": [
+      "Cyril J. Hoyt"
+    ],
+    "year": 1941,
+    "doi": "10.1007/BF02289270",
+    "source_url": "https://doi.org/10.1007/BF02289270",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "ANOVA",
+      "reliability",
+      "coefficient alpha"
+    ],
+    "relevance": "Classical ANOVA precursor to G-theory and alpha equivalence.",
+    "evidence": "Bibliographic metadata verified in original publisher citations and acquired author bibliography; original full text not read.",
+    "acquisition_note": "Full text not acquired; acquire via publisher, library, or author/institution."
+  },
+  {
+    "id": "foundations-ebel-1951",
+    "title": "Estimation of the reliability of ratings",
+    "authors": [
+      "Robert L. Ebel"
+    ],
+    "year": 1951,
+    "doi": "10.1007/BF02288803",
+    "source_url": "https://www.cambridge.org/core/journals/psychometrika/article/abs/estimation-of-the-reliability-of-ratings/8848FB7F54088D6282CB81A013ACDB7B",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "ratings",
+      "unbalanced",
+      "ANOVA",
+      "reliability"
+    ],
+    "relevance": "Pre-G-theory primary rating variance analysis including unequal counts.",
+    "evidence": "Cambridge publisher abstract read; full text not read.",
+    "acquisition_note": "Full text not acquired; acquire via publisher, library, or author/institution."
+  },
+  {
+    "id": "foundations-cornfield-tukey-1956",
+    "title": "Average values of mean squares in factorials",
+    "authors": [
+      "Jerome Cornfield",
+      "John W. Tukey"
+    ],
+    "year": 1956,
+    "doi": "10.1214/aoms/1177728067",
+    "source_url": "https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-27/issue-4/Average-Values-of-Mean-Squares-in-Factorials/10.1214/aoms/1177728067.full",
+    "fulltext_url": "https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-27/issue-4/Average-Values-of-Mean-Squares-in-Factorials/10.1214/aoms/1177728067.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "foundations",
+      "expected mean squares",
+      "finite populations",
+      "fixed effects",
+      "random effects"
+    ],
+    "relevance": "Central ANOVA EMS/finite-universe mathematics cited by both G-theory lineages.",
+    "evidence": "Original DOI/title verified through publisher reference lists and bibliographic record; original paper not read.",
+    "acquisition_note": "Attempted publisher PDF URL returned non-PDF HTML; helper rejected response. No access bypass attempted."
+  },
+  {
+    "id": "foundations-millman-glass-1967",
+    "title": "Rules of thumb for writing the ANOVA table",
+    "authors": [
+      "Jason Millman",
+      "Gene V. Glass"
+    ],
+    "year": 1967,
+    "doi": "10.1111/j.1745-3984.1967.tb00568.x",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1745-3984.1967.tb00568.x",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "expected mean squares",
+      "crossing",
+      "nesting",
+      "design algebra"
+    ],
+    "relevance": "Primary rules for constructing effect rows/EMS from crossing and nesting.",
+    "evidence": "Title/DOI verified in publisher-cited references, original paper not read.",
+    "acquisition_note": "Full text not acquired; acquire via publisher, library, or author/institution."
+  },
+  {
+    "id": "foundations-brennan-1975-splitplot",
+    "title": "The calculation of reliability from a split-plot factorial design",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 1975,
+    "doi": "10.1177/001316447503500404",
+    "source_url": "https://journals.sagepub.com/doi/10.1177/001316447503500404",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "group means",
+      "nested objects",
+      "split plot"
+    ],
+    "relevance": "Person-within-school and school reliability from same design; symmetry/aggregation oracle.",
+    "evidence": "Sage publisher abstract and full bibliography read; journal full text not read.",
+    "acquisition_note": "Full text not acquired; acquire via publisher, library, or author/institution."
+  },
+  {
+    "id": "foundations-brennan-kane-1975-classmeans",
+    "title": "The generalizability of class means (1975 AERA conference report)",
+    "authors": [
+      "Robert L. Brennan",
+      "Michael T. Kane"
+    ],
+    "year": 1975,
+    "doi": null,
+    "source_url": "https://eric.ed.gov/?id=ED109148",
+    "fulltext_url": "https://files.eric.ed.gov/fulltext/ED109148.pdf",
+    "local_path": "papers/downloads/foundations/brennan-kane-1975-class-means.pdf",
+    "status": "acquired",
+    "topics": [
+      "foundations",
+      "group means",
+      "nested objects",
+      "sampling"
+    ],
+    "relevance": "Public primary precursor to 1977 Review of Educational Research article.",
+    "evidence": "Acquired PDF title page/abstract and initial design discussion inspected; not line-by-line full paper reading.",
+    "acquisition_note": "ERIC 1975 conference report; should not be treated as acquired copy of final 1977 journal article."
+  },
+  {
+    "id": "foundations-kane-brennan-1977-classmeans",
+    "title": "The generalizability of class means",
+    "authors": [
+      "Michael T. Kane",
+      "Robert L. Brennan"
+    ],
+    "year": 1977,
+    "doi": "10.3102/00346543047002267",
+    "source_url": "https://journals.sagepub.com/doi/10.3102/00346543047002267",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "group means",
+      "nested objects",
+      "sampling"
+    ],
+    "relevance": "Final class-mean theory article; validates interpretation at each aggregation level.",
+    "evidence": "Sage bibliographic page and references read; related 1975 conference version acquired separately.",
+    "acquisition_note": "Full text not acquired; acquire via publisher, library, or author/institution."
+  },
+  {
+    "id": "foundations-brennan-kane-1977-index",
+    "title": "An index of dependability for mastery tests",
+    "authors": [
+      "Robert L. Brennan",
+      "Michael T. Kane"
+    ],
+    "year": 1977,
+    "doi": "10.1111/j.1745-3984.1977.tb00045.x",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1745-3984.1977.tb00045.x",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "absolute decisions",
+      "cut scores",
+      "dependability indices"
+    ],
+    "relevance": "Primary mastery-decision dependability definition; distinguish cut-score Phi from ordinary absolute Phi.",
+    "evidence": "Publisher metadata verified; conceptual details read in acquired CASMA 1, original article not read.",
+    "acquisition_note": "Full text not acquired; acquire via publisher, library, or author/institution."
+  },
+  {
+    "id": "foundations-brennan-kane-1977-signalnoise",
+    "title": "Signal/noise ratios for domain-referenced tests",
+    "authors": [
+      "Robert L. Brennan",
+      "Michael T. Kane"
+    ],
+    "year": 1977,
+    "doi": "10.1007/BF02295983",
+    "source_url": "https://www.cambridge.org/core/journals/psychometrika/article/abs/signalnoise-ratios-for-domainreferenced-tests/7BA56D697B450329F09F359E16BC0D7F",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "absolute decisions",
+      "signal-noise ratios",
+      "error tolerance"
+    ],
+    "relevance": "Three signals with a common absolute-error noise for different decisions.",
+    "evidence": "Cambridge publisher abstract and reference list read; original full text not read.",
+    "acquisition_note": "Cambridge flags a 1978 erratum in Psychometrika 43(2) p.289; acquire correction with article."
+  },
+  {
+    "id": "foundations-kane-1982-validity",
+    "title": "A sampling model for validity",
+    "authors": [
+      "Michael T. Kane"
+    ],
+    "year": 1982,
+    "doi": "10.1177/014662168200600201",
+    "source_url": "https://journals.sagepub.com/doi/10.1177/014662168200600201",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "validity",
+      "standardization",
+      "universes"
+    ],
+    "relevance": "Distinguishes reliability/validity/import and intended universes; limits claims of library outputs.",
+    "evidence": "Publisher abstract read; original full text not read.",
+    "acquisition_note": "Full text not acquired; acquire via publisher, library, or author/institution."
+  },
+  {
+    "id": "foundations-brennan-1997-history",
+    "title": "A perspective on the history of generalizability theory",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 1997,
+    "doi": "10.1111/j.1745-3992.1997.tb00604.x",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1745-3992.1997.tb00604.x",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "history",
+      "research gaps"
+    ],
+    "relevance": "Originating investigator history and unfinished-work map.",
+    "evidence": "Publisher metadata/reference list read; full text not read.",
+    "acquisition_note": "Full text not acquired; acquire via publisher, library, or author/institution."
+  },
+  {
+    "id": "foundations-cronbach-linn-1997-performance",
+    "title": "Generalizability analysis for performance assessments of student achievement or school effectiveness",
+    "authors": [
+      "Lee J. Cronbach",
+      "Robert L. Linn",
+      "Robert L. Brennan",
+      "Edward H. Haertel"
+    ],
+    "year": 1997,
+    "doi": "10.1177/0013164497057003001",
+    "source_url": "https://journals.sagepub.com/doi/10.1177/0013164497057003001",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "school means",
+      "nested designs",
+      "finite universes",
+      "confounding",
+      "standard errors"
+    ],
+    "relevance": "Primary warning about pupil×task aliasing with temporal instability, and school-level finite/infinite universes.",
+    "evidence": "Sage publisher abstract and metadata/reference list read; original article not read.",
+    "acquisition_note": "Related 1995 Evaluation Comment report fulltext URLs CRESST and CiteSeer both failed 404; not acquired."
+  },
+  {
+    "id": "foundations-brennan-2001-replications",
+    "title": "An essay on the history and future of reliability from the perspective of replications",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2001,
+    "doi": "10.1111/j.1745-3984.2001.tb01129.x",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1745-3984.2001.tb01129.x",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "replications",
+      "fixed facets",
+      "random facets"
+    ],
+    "relevance": "Clarifies what constitutes a replication; coefficient interpretation requires this choice.",
+    "evidence": "Publisher abstract and original 2001 issue metadata read; 2006 online posting is not article year.",
+    "acquisition_note": "Full text not acquired; acquire via publisher, library, or author/institution."
+  },
+  {
+    "id": "foundations-brennan-2003-indices",
+    "title": "Coefficients and indices in generalizability theory (CASMA Research Report 1)",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2003,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-1-archived.pdf",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-1-archived.pdf",
+    "local_path": "papers/downloads/foundations/brennan-2003-coefficients-indices.pdf",
+    "status": "acquired",
+    "topics": [
+      "foundations",
+      "relative error",
+      "absolute error",
+      "fixed facets",
+      "signal-noise ratios",
+      "cut scores",
+      "multivariate"
+    ],
+    "relevance": "Primary public unified treatment of coefficient families and caveats; numerical tables useful as design-stage oracles.",
+    "evidence": "Full-text sections on univariate random/mixed models and coefficient definitions inspected; multivariate section skimmed; no claim of complete close reading.",
+    "acquisition_note": "Public institutional PDF acquired with scripts/acquire.py; provenance sidecar retained."
+  },
+  {
+    "id": "foundations-brennan-2004-models",
+    "title": "Some perspectives on inconsistencies among measurement models (CASMA Research Report 8)",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2004,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-8-archived.pdf",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-8-archived.pdf",
+    "local_path": "papers/downloads/foundations/brennan-2004-measurement-model-inconsistencies.pdf",
+    "status": "acquired",
+    "topics": [
+      "foundations",
+      "classical test theory",
+      "IRT",
+      "replications",
+      "measurement models"
+    ],
+    "relevance": "Differing assumptions/universes can make model reliabilities incomparable.",
+    "evidence": "Acquired introduction, abstract and selected model-comparison discussion inspected.",
+    "acquisition_note": "Public institutional PDF acquired with scripts/acquire.py; provenance sidecar retained."
+  },
+  {
+    "id": "foundations-cronbach-shavelson-2004",
+    "title": "My current thoughts on coefficient alpha and successor procedures",
+    "authors": [
+      "Lee J. Cronbach",
+      "Richard J. Shavelson"
+    ],
+    "year": 2004,
+    "doi": "10.1177/0013164404266386",
+    "source_url": "https://journals.sagepub.com/doi/10.1177/0013164404266386",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "foundations",
+      "coefficient alpha",
+      "replications",
+      "G theory"
+    ],
+    "relevance": "Cronbach own positioning of alpha within larger G-theory reliability system.",
+    "evidence": "Publisher abstract and bibliographic metadata read; article not read.",
+    "acquisition_note": "Full text not acquired; acquire via publisher, library, or author/institution."
+  },
+  {
+    "id": "foundations-brennan-2011-ctt",
+    "title": "Generalizability theory and classical test theory",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2011,
+    "doi": "10.1080/08957347.2011.532417",
+    "source_url": "https://doi.org/10.1080/08957347.2011.532417",
+    "fulltext_url": "https://moodle.eduhk.hk/pluginfile.php/28244/mod_forum/attachment/2782/Generalizability_Theory_and_Classical_Test_Theory.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "foundations",
+      "classical test theory",
+      "replications",
+      "IRT"
+    ],
+    "relevance": "Primary comparison of CTT and G-theory relationships and replication assumptions.",
+    "evidence": "University-indexed PDF cover/abstract extract read; full text not acquired.",
+    "acquisition_note": "Indexed institutional copy returns HTTP 404; original article dated 2011 on cover, sometimes 2010 in bibliographies."
+  },
+  {
+    "id": "foundations-brennan-2017-confounding",
+    "title": "Using G theory to examine confounded effects: The problem of one (CASMA Research Report 51)",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2017,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-51-archived.pdf",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-51-archived.pdf",
+    "local_path": "papers/downloads/foundations/brennan-2017-confounded-effects.pdf",
+    "status": "acquired",
+    "topics": [
+      "foundations",
+      "identifiability",
+      "confounding",
+      "single facet levels",
+      "hidden facets",
+      "automated scoring"
+    ],
+    "relevance": "Mandatory design identifiability semantics: single prompt/rater conditions alias effects and make some D projections unsupported.",
+    "evidence": "Full-text introduction, single-prompt algebra, structural/statistical bias distinction, replication discussion and ASE-section structure read; later numerical tables skimmed.",
+    "acquisition_note": "Actual PDF and Iowa index say January 2017; citations to Brennan 2016b may refer to earlier draft."
+  },
+  {
+    "id": "foundations-brennan-liao-2020-bibliography",
+    "title": "Generalizability theory references: The first sixty years (CASMA Research Report 53)",
+    "authors": [
+      "Robert L. Brennan",
+      "Jui-Teng Ray Liao"
+    ],
+    "year": 2020,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-53-archived.pdf",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-53-archived.pdf",
+    "local_path": "papers/downloads/foundations/brennan-liao-2020-first-sixty-years.pdf",
+    "status": "acquired",
+    "topics": [
+      "foundations",
+      "bibliography",
+      "history",
+      "literature map"
+    ],
+    "relevance": "26-page primary author bibliography with over 300 references, major corpus-expansion seed.",
+    "evidence": "Full-text introduction and reference entries systematically scanned; author explicitly disclaims complete coverage/evaluation and excludes many meeting papers.",
+    "acquisition_note": "Public institutional PDF acquired with scripts/acquire.py; provenance sidecar retained."
+  },
+  {
+    "id": "foundations-irdp-2017-cardinet-bibliography",
+    "title": "Bibliographie de Jean Cardinet de 1952 à 2010",
+    "authors": [
+      "Institut de recherche et de documentation pédagogique (IRDP)"
+    ],
+    "year": 2017,
+    "doi": null,
+    "source_url": "https://www.irdp.ch/data/secure/4111/document/bibliographie_cardinet_2017.pdf",
+    "fulltext_url": "https://www.irdp.ch/data/secure/4111/document/bibliographie_cardinet_2017.pdf",
+    "local_path": "papers/downloads/foundations/irdp-2017-cardinet-bibliography.pdf",
+    "status": "acquired",
+    "topics": [
+      "foundations",
+      "bibliography",
+      "symmetry",
+      "French literature"
+    ],
+    "relevance": "Primary institutional bibliography exposes archived French/English reports absent from mainstream bibliographies.",
+    "evidence": "Full-text generalizability-related entries systematically searched and read; unrelated career bibliography not closely read.",
+    "acquisition_note": "Public institutional PDF acquired with scripts/acquire.py; provenance sidecar retained."
+  }
+]

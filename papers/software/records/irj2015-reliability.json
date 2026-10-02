@@ -1,0 +1,18 @@
+{
+  "id": "irj2015-reliability",
+  "source_url": "https://github.com/julian-urbano/irj2015-reliability",
+  "revision": "abccb32a56e221b595aeee8bed09ba4410fe84bc",
+  "archive_url": "https://codeload.github.com/julian-urbano/irj2015-reliability/zip/abccb32a56e221b595aeee8bed09ba4410fe84bc",
+  "archive_path": "quarantine/archives/irj2015-reliability.zip",
+  "archive_sha256": "81e79b458a666be252c85a16dcf5dcfba997b885e97b82f7747d41d6f4060ef0",
+  "archive_bytes": 76086367,
+  "extracted_path": "quarantine/references/irj2015-reliability",
+  "extracted_files": 185,
+  "excluded_paths": [],
+  "strip_root": true,
+  "license_note": "Archived README: software GPLv3; databases and contents CC-BY-SA 4.0; anonymized TREC results posted with organizer permission. GitHub top-level license classification alone is incomplete.",
+  "description": "Urbano IR Journal 2016 stochastic test-collection reliability, bias and robustness simulation replication; static reference study only",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T12:26:22.441323+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only irj2015-reliability"
+}

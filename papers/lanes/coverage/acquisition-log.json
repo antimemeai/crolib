@@ -1,0 +1,189 @@
+[
+  {
+    "id": "resilience-2024",
+    "url": "https://link.springer.com/content/pdf/10.1007/s12144-023-05072-4.pdf",
+    "path": "papers/downloads/coverage/resilience-2024.pdf",
+    "ok": true
+  },
+  {
+    "id": "ema-mood-2023",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10066936/",
+    "path": "papers/downloads/coverage/ema-mood-2023.html",
+    "ok": true
+  },
+  {
+    "id": "ema-process-speed-2011",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3374659/",
+    "path": "papers/downloads/coverage/ema-process-speed-2011.html",
+    "ok": true
+  },
+  {
+    "id": "nonadditive-2016",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5978634/",
+    "path": null,
+    "ok": false,
+    "error": "Wrong PMC identifier returned unrelated article; retained only in ignoredcontext and excluded fromcatalogue."
+  },
+  {
+    "id": "tukey-nonadditive-2018",
+    "url": "https://education.illinois.edu/docs/default-source/edpsy-documents/epsy-publications/zhang---detecting-nonadditivity-in-single-facet-generalizability-theory-applications-tukey-s-test.pdf?sfvrsn=b1d86dd3_2",
+    "path": "papers/downloads/coverage/tukey-nonadditive-2018.pdf",
+    "ok": true
+  },
+  {
+    "id": "invariance-2026",
+    "url": "https://mdpi-res.com/d_attachment/psycholint/psycholint-08-00019/article_deploy/psycholint-08-00019.pdf",
+    "path": "papers/downloads/coverage/invariance-2026.pdf",
+    "ok": true
+  },
+  {
+    "id": "nested-nations-2026",
+    "url": "https://link.springer.com/content/pdf/10.1007/s11135-026-02845-4.pdf",
+    "ok": false,
+    "error": "response is not a PDF (possibly an access page)"
+  },
+  {
+    "id": "mrbench-2026",
+    "url": "https://proceedings.mlr.press/v339/sharma26a/sharma26a.pdf",
+    "ok": false,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "ema-warnd-2025",
+    "url": "https://eiko-fried.com/wp-content/uploads/EBSCO-FullText-11_21_2025-2.pdf",
+    "path": "papers/downloads/coverage/ema-warnd-2025.pdf",
+    "ok": true
+  },
+  {
+    "id": "nonadditive-2016",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5978498/",
+    "path": "papers/downloads/coverage/nonadditive-2016.html",
+    "ok": true
+  },
+  {
+    "id": "mrbench-2026",
+    "url": "https://raw.githubusercontent.com/mlresearch/v339/main/assets/sharma26a/sharma26a.pdf",
+    "path": "papers/downloads/coverage/mrbench-2026.pdf",
+    "ok": true
+  },
+  {
+    "id": "multistage-standard-setting-2015",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5978517/",
+    "path": "papers/downloads/coverage/multistage-standard-setting-2015.html",
+    "ok": true
+  },
+  {
+    "id": "technical-performance-1996",
+    "url": "https://files.eric.ed.gov/fulltext/ED399300.pdf",
+    "path": "papers/downloads/coverage/technical-performance-1996.pdf",
+    "ok": true
+  },
+  {
+    "id": "invariance-teaching-2022",
+    "url": "https://www.idunn.no/doi/pdf/10.18261/9788215045054-2021-04",
+    "ok": false,
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "class-means-report-1975",
+    "url": "https://files.eric.ed.gov/fulltext/ED109148.pdf",
+    "path": "papers/downloads/coverage/class-means-report-1975.pdf",
+    "ok": true
+  },
+  {
+    "id": "aggregate-scores-report-1993",
+    "url": "https://files.eric.ed.gov/fulltext/ED368773.pdf",
+    "path": "papers/downloads/coverage/aggregate-scores-report-1993.pdf",
+    "ok": true
+  },
+  {
+    "id": "symmetry-europe-1986",
+    "url": "https://files.eric.ed.gov/fulltext/ED270486.pdf",
+    "path": "papers/downloads/coverage/symmetry-europe-1986.pdf",
+    "ok": true
+  },
+  {
+    "id": "career-education-1981",
+    "url": "https://files.eric.ed.gov/fulltext/ED204374.pdf",
+    "path": "papers/downloads/coverage/career-education-1981.pdf",
+    "ok": true
+  },
+  {
+    "id": "invariance-teaching-2022",
+    "url": "https://www.idunn.no/doi/full/10.18261/9788215045054-2021-04",
+    "ok": false,
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "lst-gt-2022",
+    "url": "https://psycnet.apa.org/fulltext/2021-98891-001.pdf",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "incidence-boodoo-1982",
+    "url": "https://journals.sagepub.com/doi/pdf/10.3102/10769986007004311",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "incidence-sirotnik-1977",
+    "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-3984.1977.tb00050.x",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "instruction-norway-2025",
+    "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1483092/pdf",
+    "path": "papers/downloads/coverage/instruction-norway-2025.pdf",
+    "ok": true
+  },
+  {
+    "id": "network-dyadic-2025",
+    "url": "https://pure.uva.nl/ws/files/308960889/Interrater_Reliability_for_Interdependent_Social_Network_Data_A_Generalizability_Theory_Approach.pdf",
+    "path": "papers/downloads/coverage/network-dyadic-2025.pdf",
+    "ok": true
+  },
+  {
+    "id": "diary-change-2006",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2414486/",
+    "path": "papers/downloads/coverage/diary-change-2006.html",
+    "ok": true
+  },
+  {
+    "id": "couple-ema-2022",
+    "url": "https://link.springer.com/content/pdf/10.3758/s13428-021-01701-7.pdf",
+    "path": "papers/downloads/coverage/couple-ema-2022.pdf",
+    "ok": true
+  },
+  {
+    "id": "dyadic-corumination-2022",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10852215/",
+    "path": "papers/downloads/coverage/dyadic-corumination-2022.html",
+    "ok": true
+  },
+  {
+    "id": "weights-ranking-2025",
+    "url": "https://www.nature.com/articles/s41598-025-08550-w.pdf",
+    "path": "papers/downloads/coverage/weights-ranking-2025.pdf",
+    "ok": true
+  },
+  {
+    "id": "irt-gt-regression-2024",
+    "url": "https://link.springer.com/content/pdf/10.1007/s11336-024-09967-4.pdf",
+    "path": "papers/downloads/coverage/irt-gt-regression-2024.pdf",
+    "ok": true
+  },
+  {
+    "id": "rater-trends-2015",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5965595/",
+    "path": "papers/downloads/coverage/rater-trends-2015.html",
+    "ok": true
+  },
+  {
+    "id": "ema-many-reliabilities-2026",
+    "url": "https://research.rug.nl/files/1431093540/The_many_reliabilities_of_psychological_dynamics_An_overview_of_statistical_approaches_to_estimate_the_internal_consistency_reliability_of_intensive_longitudinal_data._-_EBSCO.pdf",
+    "ok": false,
+    "error": "HTTP403 ordinary repository download; primary portal lists proof."
+  }
+]

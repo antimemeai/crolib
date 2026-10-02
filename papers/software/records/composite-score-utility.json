@@ -1,0 +1,18 @@
+{
+  "id": "composite-score-utility",
+  "source_url": "https://brennancrickgenova.org/other-programs/",
+  "revision": "author-hosted unversioned download, SHA-256 recorded",
+  "archive_url": "https://brennancrickgenova.org/download/composite-score-utility-r-code-and-composite-score-utility-example/?wpdmdl=404",
+  "archive_path": "quarantine/archives/composite-score-utility.zip",
+  "archive_sha256": "d699134fabc810b5d765f17200600f5d96e5b109c9249b4271a1cdaff188a4cf",
+  "archive_bytes": 224474,
+  "extracted_path": "quarantine/references/composite-score-utility",
+  "extracted_files": 3,
+  "excluded_paths": [],
+  "strip_root": false,
+  "license_note": "Author permits distribution; no permissive source license inferred",
+  "description": "R code and worked composite-score utility example",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:54:54.753985+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only composite-score-utility"
+}

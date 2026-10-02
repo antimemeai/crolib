@@ -1,0 +1,87 @@
+{
+  "date": "2026-10-02",
+  "scope": "Finite328entry CASMA53 bibliography audit plus purposive primary forward-citation/conceptual gap search. Not a field-wide saturation claim.",
+  "primary_registry": {
+    "registry": "Crossref",
+    "query_count": 328,
+    "rows_per_query": 3,
+    "query": "query.bibliographic=each original full citation",
+    "rate_interval_seconds": 1.2,
+    "workers": 2,
+    "raw_cache": "context/acquisition/coverage/",
+    "result_inventory": "lead-resolution.json",
+    "initial_counts": {
+      "strong_registry_match": 177,
+      "ambiguous_registry_match": 18,
+      "candidate_needs_review": 20,
+      "unresolved_registry": 113
+    },
+    "final_counts": {
+      "strong_registry_match": 177,
+      "reviewed_registry_match": 37,
+      "ambiguous_registry_match": 3,
+      "candidate_needs_review": 4,
+      "unresolved_registry": 107
+    },
+    "supplemental_doi_detail": "20 requests to adjudicate publication dates; six429responses. Successful raw responses preserved in ignored context. No unverified date convention selected without independent primary evidence."
+  },
+  "search_queries": [
+    "generalizability theory state trait 2021 2022 2023 2024 2025 2026",
+    "generalizability theory ecological momentary assessment reliability 2025",
+    "Investigating state and trait aspects of resilience using Generalizability theory",
+    "Conceptualizing and Estimating Process Speed ecological momentary assessment",
+    "Generalizability Theory With One-Facet Nonadditive Models",
+    "Detecting Nonadditivity in Single-Facet Generalizability Theory Applications DOI",
+    "Interrelationships Between Latent State-Trait Theory and Generalizability Theory pdf supplement",
+    "generalizability theory linking 2021 2022 2023 2024 2025 2026",
+    "generalizability theory matrix sampling 2021 2022 2023 2024 2025 2026",
+    "generalizability theory multistage 2021 2022 2023 2024 2025 2026",
+    "generalizability theory weights 2025",
+    "On Describing an Incidence Sample pdf",
+    "Incidence Sampling Sirotnik Wellington1977 pdf",
+    "The Generalizability of Class Means pdf",
+    "Brennan93-10 Conventional pdf",
+    "Cronbach Gleser symmetry generalizability2024 2025",
+    "Jentsch Multi-Group Measurement Invariance pdf",
+    "Castro-Alvarez met0000778 pdf rug",
+    "On Describing an Incidence Sample site:eric.ed.gov",
+    "incidence sampling Sirotnik site:files.eric.ed.gov",
+    "generalizability matrix-sampled Gao pdf",
+    "Interrater Reliability for Interdependent Social Network Data pdf",
+    "Reliability Daily Diary Cranford generalizability2006",
+    "Indices of Subscore Utility Raymond Jiang2020",
+    "Trends in Classroom Observation Scores2015",
+    "What accounts for integrated reading-to-write task scores2015",
+    "Practical Applications of Generalizability Theory53 67 2018"
+  ],
+  "primary_sources": [
+    "Crossref works API",
+    "Publisher SAGE/Wiley/Springer/APA/MDPI/Frontiers/PMLR pages",
+    "University Iowa/Illinois/Groningen/Amsterdam/Alabama author repositories",
+    "PMC article manuscripts",
+    "ERIC government/report originals"
+  ],
+  "acquisition_log": "acquisition-log.json",
+  "identity_corrections": [
+    "Rejected initial guessed PMC5978634: unrelated MIMIC-DIF article. Preserved working bytes only in ignored context; correct PMC5978498 acquired.",
+    "Stull mood manuscript is2022, not discovery filename2023.",
+    "Stenner/Rohlf report primary cover date1979, not discoveryfilename1981.",
+    "Glas coauthor TerrenceD.Jorgensen, not initial message Jansen."
+  ],
+  "private_library": {
+    "status": "attempted_unavailable",
+    "attempts": [
+      "root library_status timeout30seconds",
+      "root stacks.list_papers(query=generalizability,limit=100) bounded15seconds",
+      "root stacks.search_chunks_bm25(query=\"generalizability theory\" OR \"generalisability theory\",limit=50) bounded15seconds"
+    ],
+    "interpretation": "No returned results; do not describe as searched with zero hits."
+  },
+  "boundaries": [
+    "One328entry author bibliography with three Crossref candidates per lead.",
+    "Purposive primary forward-citation chains, not an exhaustive Crossref cited-by graph.",
+    "Non-English books, theses, incomplete/in-press leads and unpublished historical papers remain gaps.",
+    "Fulltexts selected sections read; no supplement/reference code execution or statistical replication.",
+    "Paywalls and browser/access challenges not bypassed."
+  ]
+}

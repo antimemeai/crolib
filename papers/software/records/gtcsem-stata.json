@@ -1,0 +1,20 @@
+{
+  "id": "gtcsem-stata",
+  "source_url": "https://github.com/rgempp/gtcsem",
+  "revision": "bb98618ef9a89868143fb6edc3d85a66cdb75823",
+  "archive_url": "https://codeload.github.com/rgempp/gtcsem/tar.gz/bb98618ef9a89868143fb6edc3d85a66cdb75823",
+  "archive_path": "quarantine/archives/gtcsem-stata.tar.gz",
+  "archive_sha256": "684d3739f81308be0bea15082c9e8ddb8290b5f920131c319ff4584693ceb7a7",
+  "archive_bytes": 35576,
+  "extracted_path": "quarantine/references/gtcsem-stata",
+  "extracted_files": 8,
+  "excluded_paths": [
+    "gtcsem-bb98618ef9a89868143fb6edc3d85a66cdb75823"
+  ],
+  "strip_root": true,
+  "license_note": "GPL-3.0",
+  "description": "STATA Program: Conditional standard errors of measurement in Generalizability Theory",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:59:22.132029+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only gtcsem-stata"
+}

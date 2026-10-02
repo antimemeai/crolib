@@ -1,0 +1,67 @@
+{
+  "lane_records": 526,
+  "distinct_catalogued_works": 459,
+  "statuses": {
+    "metadata_only": 210,
+    "acquired": 176,
+    "access_blocked": 73
+  },
+  "acquired_artifacts": 168,
+  "artifact_kinds": {
+    "html": 26,
+    "pdf": 133,
+    "text": 9
+  },
+  "acquired_reference_packages": 47,
+  "lanes": {
+    "applications": {
+      "access_blocked": 18,
+      "metadata_only": 2,
+      "acquired": 31
+    },
+    "coverage": {
+      "acquired": 22,
+      "access_blocked": 6,
+      "metadata_only": 205
+    },
+    "decisions": {
+      "acquired": 26,
+      "access_blocked": 7,
+      "metadata_only": 12
+    },
+    "estimation": {
+      "acquired": 18,
+      "access_blocked": 19
+    },
+    "foundations": {
+      "access_blocked": 7,
+      "metadata_only": 28,
+      "acquired": 8
+    },
+    "multivariate": {
+      "acquired": 28,
+      "access_blocked": 7,
+      "metadata_only": 4
+    },
+    "software": {
+      "acquired": 33,
+      "access_blocked": 2,
+      "metadata_only": 2
+    },
+    "uncertainty": {
+      "acquired": 20,
+      "access_blocked": 8,
+      "metadata_only": 13
+    }
+  },
+  "bibliography_leads": 328,
+  "historical_registry_audit": {
+    "unresolved_registry": 107,
+    "strong_registry_match": 177,
+    "reviewed_registry_match": 37,
+    "candidate_needs_review": 4,
+    "ambiguous_registry_match": 3
+  },
+  "reference_download_failures": 0,
+  "explicitly_omitted_reference_files": 4
+}

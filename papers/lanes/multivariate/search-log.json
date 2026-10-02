@@ -1,0 +1,331 @@
+{
+  "lane": "multivariate",
+  "date": "2026-10-02",
+  "scope": "Multivariate and advanced generalizability theory; verified distinct papers/reports/books, current frontier and bibliography expansion.",
+  "queries": [
+    "multivariate generalizability theory covariance components Brennan pdf",
+    "generalizability theory regressed scores profiles difference scores pdf",
+    "generalizability theory structural equation modeling ordinal binary data multivariate",
+    "site.education.uiowa.edu casma multivariate Research report",
+    "Applying Multivariate Generalizability Theory Vispoel",
+    "generalizability theory dichotomous logistic",
+    "generalizability theory item response theory Brennan",
+    "generalizability theory regressed scores multivariate",
+    "generalizability structural equation modeling Vispoel 2018",
+    "generalizability ordinal data Vispoel",
+    "generalizability difference scores Raymond Jiang",
+    "Vispoel 2019 ordinal generalizability",
+    "Generalizability in Item Response Modeling DOI",
+    "The Use of Multivariate Generalizability Theory to Evaluate the Quality of Subscores authors",
+    "Indices of Subscore Utility Raymond Jiang 2020",
+    "Using a linear mixed-effect model framework to estimate multivariate generalizability theory parameters in R",
+    "A Bayesian approach to estimating variance components within a multivariate generalizability theory framework",
+    "generalizability binary and ordinal Ten Hove",
+    "10.1037/met0000177",
+    "Structural Equation Modeling Approaches Bifactor Designs",
+    "Using Structural Equation Modeling to Reproduce 2023",
+    "Generalizability of writing scores Schoonen 2005",
+    "Generalizability of stratified-parallel tests doi",
+    "A variance components model table of specifications",
+    "Multivariate generalizability theory Nußbaum 1984",
+    "generalizability theory GLLAMM Choi Wilson 2018",
+    "Extended Multivariate Generalizability pdf Brennan Kim Lee",
+    "How to Estimate Absolute-Error Jorgensen 2021",
+    "Multivariate Structural Equation Modeling Techniques 2024",
+    "multivariate generalizability unbalanced covariance Brennan 2001",
+    "Generalizability Theory Moses Kim 2015",
+    "generalizability theory 2026 multivariate",
+    "Selecting weighting schemes in multivariate generalizability studies DOI",
+    "Some developments in multivariate generalizability 10.1007",
+    "Maximizing the coefficient of generalizability 10.1007",
+    "Applying Multivariate Generalizability Theory pdf",
+    "Indices of Subscore Utility pdf",
+    "Generalizability Theory for Randomly Parallel Testing pdf",
+    "Applications of Generalizability Theory and Their Relations pdf",
+    "Ordinal generalizability theory using an underlying latent variable framework",
+    "Customizing Bayesian multivariate generalizability theory to mixed-format tests doi"
+  ],
+  "primary_navigation": [
+    "https://education.uiowa.edu/casma/pubs",
+    "https://education.uiowa.edu/casma/computer-programs",
+    "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-53-archived.pdf"
+  ],
+  "method": "Search engines for discovery; primary publisher, institutional repository and government records for verification; actual PDF title pages and abstracts/selected derivation and limitation sections for content checks.",
+  "acquisition": "scripts/acquire.py via imported acquire function; no downloaded code executed; source bytes and .source.json retained; converted PDFs using pre-existing pdftotext.",
+  "attempts": [
+    {
+      "id": "multivariate-casma-53",
+      "status": "acquired",
+      "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-53-archived.pdf",
+      "local_path": "papers/downloads/foundations/brennan-liao-2020-first-sixty-years.pdf",
+      "note": "Shared artifact acquired by foundations lane; no duplicate PDF downloaded."
+    },
+    {
+      "id": "multivariate-casma-59",
+      "status": "acquired",
+      "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-59-archived.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-casma-59.pdf",
+      "note": "Public full-text PDF acquired from identified source; 373624 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-casma-50",
+      "status": "acquired",
+      "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-50-archived.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-casma-50.pdf",
+      "note": "Public full-text PDF acquired from identified source; 196786 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-casma-44",
+      "status": "acquired",
+      "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-44-archived.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-casma-44.pdf",
+      "note": "Public full-text PDF acquired from identified source; 329037 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-casma-33",
+      "status": "acquired",
+      "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-33-archived.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-casma-33.pdf",
+      "note": "Public full-text PDF acquired from identified source; 409500 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-casma-note-5",
+      "status": "acquired",
+      "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-technical-report-5-archived.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-casma-note-5.pdf",
+      "note": "Public full-text PDF acquired from identified source; 129995 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-casma-29",
+      "status": "acquired",
+      "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-29-archived.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-casma-29.pdf",
+      "note": "Public full-text PDF acquired from identified source; 3417955 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-casma-34",
+      "status": "acquired",
+      "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2022-10/casma-research-report-34.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-casma-34.pdf",
+      "note": "Public full-text PDF acquired from identified source; 251826 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-casma-4",
+      "status": "acquired",
+      "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-4-archived.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-casma-4.pdf",
+      "note": "Public full-text PDF acquired from identified source; 240944 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-casma-25",
+      "status": "acquired",
+      "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-25-archived_0.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-casma-25.pdf",
+      "note": "Public full-text PDF acquired from identified source; 709606 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-casma-42",
+      "status": "acquired",
+      "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-42-archived.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-casma-42.pdf",
+      "note": "Public full-text PDF acquired from identified source; 171585 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-casma-46",
+      "status": "acquired",
+      "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-46-archived.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-casma-46.pdf",
+      "note": "Public full-text PDF acquired from identified source; 1056697 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-extended-2022",
+      "status": "acquired",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228696/",
+      "local_path": "papers/downloads/multivariate/multivariate-extended-2022.html",
+      "note": "Public alternate full text acquired; original attempt: Identified public/publisher full-text attempt failed: response is not a PDF (possibly an access page); obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+    },
+    {
+      "id": "multivariate-subscores-2018",
+      "status": "acquired",
+      "url": "https://www.nbme.org/sites/default/files/2020-01/Zhang-Raymond2018_MV%20G-theory%20and%20subscores.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-subscores-2018.pdf",
+      "note": "Public full-text PDF acquired from identified source; 586498 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-subscore-utility-2020",
+      "status": "acquired",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6943993/",
+      "local_path": "papers/downloads/multivariate/multivariate-subscore-utility-2020.html",
+      "note": "Actual PMC article HTML acquired; University of Alabama PDF API returned 503."
+    },
+    {
+      "id": "multivariate-psychological-assessments-2023",
+      "status": "access_blocked",
+      "url": "https://supp.apa.org/psycarticles/supplemental/met0000606/met0000606_sm4.pdf",
+      "local_path": null,
+      "note": "Identified public/publisher full-text attempt failed: HTTP Error 404: Not Found; obtain lawful publisher/institutional/author copy if unavailable via alternate open source. Alternate https://supp.apa.org/psycarticles/supplemental/met0000606/met0000606_sm4.pdf failed: HTTP Error 404: Not Found."
+    },
+    {
+      "id": "multivariate-ctt-sem-2018",
+      "status": "access_blocked",
+      "url": "https://www.apa.org/pubs/journals/features/met-met0000107.pdf",
+      "local_path": null,
+      "note": "Identified public/publisher full-text attempt failed: response is not a PDF (possibly an access page); obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+    },
+    {
+      "id": "multivariate-latent-response-2019",
+      "status": "metadata_only",
+      "url": null,
+      "local_path": null,
+      "note": "Acquisition pending if an identified lawful public full-text URL is available."
+    },
+    {
+      "id": "multivariate-mixed-model-r-2020",
+      "status": "acquired",
+      "url": "https://link.springer.com/content/pdf/10.3758/s13428-020-01399-z.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-mixed-model-r-2020.pdf",
+      "note": "Public full-text PDF acquired from identified source; 2062601 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-bayesian-multivariate-2018",
+      "status": "acquired",
+      "url": "https://link.springer.com/content/pdf/10.3758/s13428-017-0986-3.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-bayesian-multivariate-2018.pdf",
+      "note": "Public full-text PDF acquired from identified source; 5093219 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-girm-2007",
+      "status": "acquired",
+      "url": "https://bse.berkeley.edu/sites/default/files/gse-archive-4/Wilson9.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-girm-2007.pdf",
+      "note": "Public full-text PDF acquired from identified source; 954971 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-gllamm-rater-2018",
+      "status": "acquired",
+      "url": "https://www.psychologie-aktuell.com/fileadmin/download/ptam/1-2018_20180323/PTAM-1-2018_Sammlung_v2.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-gllamm-rater-2018.pdf",
+      "note": "Public full-text PDF acquired from identified source; 2863329 bytes. Provenance sidecar retained."
+    },
+    {
+      "id": "multivariate-sem-absolute-2021",
+      "status": "acquired",
+      "url": "https://mdpi-res.com/d_attachment/psych/psych-03-00011/article_deploy/psych-03-00011.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-sem-absolute-2021.pdf",
+      "note": "Public alternate full text acquired; original attempt: Identified public/publisher full-text attempt failed: The read operation timed out; obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+    },
+    {
+      "id": "multivariate-sem-anova-2023",
+      "status": "acquired",
+      "url": "https://mdpi-res.com/d_attachment/psych/psych-05-00019/article_deploy/psych-05-00019.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-sem-anova-2023.pdf",
+      "note": "Public alternate full text acquired; original attempt: Identified public/publisher full-text attempt failed: HTTP Error 403: Forbidden; obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+    },
+    {
+      "id": "multivariate-sem-bifactor-2025",
+      "status": "acquired",
+      "url": "https://mdpi-res.com/d_attachment/mathematics/mathematics-13-01001/article_deploy/mathematics-13-01001.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-sem-bifactor-2025.pdf",
+      "note": "Public alternate full text acquired; original attempt: Identified public/publisher full-text attempt failed: HTTP Error 403: Forbidden; obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+    },
+    {
+      "id": "multivariate-art-multivariate-1984",
+      "status": "acquired",
+      "url": "https://conservancy.umn.edu/server/api/core/bitstreams/b41d6b22-4851-4177-b2d5-a57535070e72/content",
+      "local_path": "papers/downloads/multivariate/multivariate-art-multivariate-1984.pdf",
+      "note": "Public alternate full text acquired; original attempt: Identified public/publisher full-text attempt failed: HTTP Error 403: Forbidden; obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+    },
+    {
+      "id": "multivariate-stratified-parallel-1965",
+      "status": "access_blocked",
+      "url": "https://link.springer.com/content/pdf/10.1007/BF02289746.pdf",
+      "local_path": null,
+      "note": "Identified public/publisher full-text attempt failed: response is not a PDF (possibly an access page); obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+    },
+    {
+      "id": "multivariate-table-specifications-1982",
+      "status": "acquired",
+      "url": "https://conservancy.umn.edu/server/api/core/bitstreams/8c1c70a2-1ba6-45eb-b1aa-254581b47ce5/content",
+      "local_path": "papers/downloads/multivariate/multivariate-table-specifications-1982.pdf",
+      "note": "Public alternate full text acquired; original attempt: Identified public/publisher full-text attempt failed: HTTP Error 403: Forbidden; obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+    },
+    {
+      "id": "multivariate-content-stratification-2010",
+      "status": "access_blocked",
+      "url": "https://link.springer.com/content/pdf/10.1007/s10459-010-9233-8.pdf",
+      "local_path": null,
+      "note": "Identified public/publisher full-text attempt failed: response is not a PDF (possibly an access page); obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+    },
+    {
+      "id": "multivariate-writing-sem-2005",
+      "status": "metadata_only",
+      "url": null,
+      "local_path": null,
+      "note": "Acquisition pending if an identified lawful public full-text URL is available."
+    },
+    {
+      "id": "multivariate-brennan-book-2001",
+      "status": "access_blocked",
+      "url": "https://link.springer.com/content/pdf/10.1007/978-1-4757-3456-0.pdf",
+      "local_path": null,
+      "note": "Identified public/publisher full-text attempt failed: response is not a PDF (possibly an access page); obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+    },
+    {
+      "id": "multivariate-sem-congeneric-2024",
+      "status": "acquired",
+      "url": "https://mdpi-res.com/d_attachment/mathematics/mathematics-12-01164/article_deploy/mathematics-12-01164.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-sem-congeneric-2024.pdf",
+      "note": "Verified public full text acquired with provenance sidecar."
+    },
+    {
+      "id": "multivariate-randomly-parallel-2026",
+      "status": "access_blocked",
+      "url": "https://ninercommons.charlotte.edu/nanna/record/12832/files/kimstel_etal_genth_ir_2026.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0",
+      "local_path": null,
+      "note": "Attempt failed: empty source response Attempt https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jedm.70029: HTTP Error 403: Forbidden. Attempt https://onlinelibrary.wiley.com/doi/full/10.1111/jedm.70029: HTTP Error 403: Forbidden."
+    },
+    {
+      "id": "multivariate-mixed-format-classification-2015",
+      "status": "acquired",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5978540/",
+      "local_path": "papers/downloads/multivariate/multivariate-mixed-format-classification-2015.html",
+      "note": "Verified public full text acquired with provenance sidecar."
+    },
+    {
+      "id": "multivariate-maximum-multivariate-1976",
+      "status": "metadata_only",
+      "url": null,
+      "local_path": null,
+      "note": "No unverified derivative claims; metadata or abstract basis only until full text inspected."
+    },
+    {
+      "id": "multivariate-weighting-schemes-1994",
+      "status": "metadata_only",
+      "url": null,
+      "local_path": null,
+      "note": "No unverified derivative claims; metadata or abstract basis only until full text inspected."
+    },
+    {
+      "id": "multivariate-change-scores-2016",
+      "status": "acquired",
+      "url": "https://adni.loni.usc.edu/adni-publications/Grochowalski_2016_AgingNeuroCog.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-change-scores-2016.pdf",
+      "note": "Verified public full text acquired with provenance sidecar."
+    },
+    {
+      "id": "multivariate-ordinal-thesis-2015",
+      "status": "access_blocked",
+      "url": "https://open.library.ubc.ca/media/download/pdf/24/1.0166304/1",
+      "local_path": null,
+      "note": "Pending public full-text acquisition attempt. Attempt https://open.library.ubc.ca/media/download/pdf/24/1.0166304/1: response is not a PDF (possibly an access page)."
+    },
+    {
+      "id": "multivariate-mixed-format-bayesian-2024",
+      "status": "acquired",
+      "url": "https://link.springer.com/content/pdf/10.3758/s13428-024-02472-7.pdf",
+      "local_path": "papers/downloads/multivariate/multivariate-mixed-format-bayesian-2024.pdf",
+      "note": "Public full-text bytes acquired; original URL may have failed or blocked automation."
+    }
+  ],
+  "exhaustiveness": "Broad branch coverage, not a claim to have acquired/read every historical work. Metadata-only candidates and failed open-copy attempts are retained for operator acquisition. New 2026 sources and conference methods noted in report."
+}

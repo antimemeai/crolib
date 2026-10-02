@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-02",
+  "queries": [
+    "\"generalizability theory\" software github",
+    "\"gtheory\" github",
+    "\"GeneralizIT\" \"102235\"",
+    "\"Generalizability\" \"gtheory\" R package Huebner Lucht 2019",
+    "\"facet\" \"Framework for Generalizability Theory\" 2026",
+    "\"Mushquash\" \"O’Connor\" 2006 generalizability",
+    "emreliability CRAN github Lee Harris",
+    "generalizability theory software EduG urGENOVA reference implementations",
+    "\"EduG\" \"zip\"",
+    "Bell1985generalizabilitytheorysoftwareproblem",
+    "FANTABBrown1969ED143704",
+    "EduGgeneralizabilityIRDPmanualdownloadzip",
+    "GTIRRgeneralizabilityRpackage",
+    "\"GTIRR\" generalizability",
+    "site.irdp.ch EduG manuel téléchargement",
+    "\"ED143704\" \"Brown\"",
+    "\"EduG\" \"user guide\" IRDP",
+    "\"GTIRR\" reliability software",
+    "\"GAPID\" \"1979\"",
+    "\"EduG\" \"irdp.ch\" download",
+    "\"GAPID\" \"Brennan\" 1979",
+    "\"GTIRR\" \"generalizability theory\"",
+    "\"Bell\" \"Generalizability Theory: The Software Problem\"",
+    "\"EduGUserGuide.pdf\" -site:scribd.com -site:researchgate.net",
+    "\"EduG\" \"zip\" -DIERS -diers",
+    "\"GT-IRR\" generalizability",
+    "\"FANTAB\" \"Brown\" pdf",
+    "\"GTIRR\" software generalizability reliability \"R\"",
+    "\"GT IRR\" \"Putka\"",
+    "\"EduG\" site:irdp.ch/institut",
+    "\"FANTAB\" \"David\" \"1969\"",
+    "\"EduGUserGuide\" filetype:pdf",
+    "\"EduG\" \"manual\" \"technical\" software",
+    "\"generalizability\" \"GTIRR\" github",
+    "\"GAPID\" site:act.org",
+    "\"SAGT\" \"software\" \"generalizability\" primary",
+    "\"GT\" \"Ysewijn\" \"1996\" generalizability software",
+    "\"G String IV\" \"User Manual\" pdf",
+    "\"GENOVA\" \"redistribute\" Brennan Crick",
+    "Huebner Lucht 2019 gtheory R package DOI",
+    "\"gtheoryr\" Tyagi generalizability",
+    "\"intraclass\" Girard package generalizability",
+    "\"SAGT\" software download menpas",
+    "\"Generalizability Theory in R\" Huebner Lucht 2019 primary",
+    "\"10.1177/01466216261461571\"",
+    "\"6qg9r\" Gempp",
+    "\"EduG\" \"englishprogram.htm\" \"web.archive.org\"",
+    "\"10.31234/osf.io/6qg9r_v1\"",
+    "\"csemGT\" \"01466216261461571\" pdf",
+    "\"EduG\" \"edug61\" download",
+    "\"SAGT\" \"descargar\" \"menpas.com\"",
+    "\"On the Measurement of Test Collection Reliability\" DOI",
+    "\"SAGT: aplicación informática para análisis de generalizabilidad\" DOI"
+  ],
+  "primary_indexes": [
+    "https://education.uiowa.edu/casma/computer-programs",
+    "https://brennancrickgenova.org/genova-suite/",
+    "https://brennancrickgenova.org/other-programs/",
+    "https://brennancrickgenova.org/classification-decision-consistency-programs/",
+    "https://oconnor-psych.ok.ubc.ca/gtheory/gtheory.html",
+    "https://api.github.com/search/repositories?q=%22generalizability+theory%22",
+    "https://zenodo.org/records/20149608",
+    "https://api.osf.io/v2/nodes/wud3x/files/",
+    "https://api.osf.io/v2/nodes/bwk5t/files/",
+    "https://api.osf.io/v2/preprints/6qg9r/",
+    "https://api.osf.io/v2/files/6a160ab13e30eabf0fcc728b/",
+    "https://api.osf.io/v2/nodes/8xvyb/files/osfstorage/?page[size]=100",
+    "https://web.archive.org/cdx/search/cdx?url=www.irdp.ch/edumetrie/englishprogram.htm&output=json&filter=statuscode:200&filter=mimetype:text/html&collapse=timestamp:4",
+    "https://web.archive.org/cdx/search/cdx?url=www.irdp.ch/*InstallerEduG61e*&output=json&filter=statuscode:200&collapse=urlkey",
+    "https://web.archive.org/cdx/search/cdx?url=www.irdp.ch/edumetrie/*zip*&output=json&filter=statuscode:200&collapse=urlkey",
+    "https://journals.sagepub.com/doi/abs/10.1177/01466216261461571",
+    "https://eric.ed.gov/?id=ED143704",
+    "https://www.menpas.com/"
+  ],
+  "discovery_notes": [
+    "Initial unquoted GitHub generalizability search produced unrelated generalization repositories; quoted theory searches selected relevant source packages.",
+    "EduG ZIP searches also returned unrelated European DIERS User Group; excluded.",
+    "Public library_status MCP call exceeded30seconds and was terminated; private indexed library not successfully searched.",
+    "Source revisions, archivehashes, statuses, restorecommands and scope in papers/software/records; inventory includes adjacent statistical references and exploratory software, not only independent GTengines.",
+    "Exact GTIRR searches produced no verified package; root clarified shorthand only. Omitted invented package label; intraclass,multilevel-irr and gt4ireval kept distinct.",
+    "Archived original EduG English distribution page and primary guide acquired using public archive; original v5fixed-facet error warning preserved. ZIPwildcards returned empty capture lists; Flash button not executed.",
+    "MenPas HTTPSpage reachable using ordinary request and contains meta-redirect to http://150.214.108.138/menpas/default.aspx; no SAGTdistribution acquired and no contact message sent.",
+    "OSFpreprint API reachable via ordinary urllib request although web tool could not open; primaryfile API provided public download ek3ad. Acquired only primaryPDF, no execution.",
+    "OSF8xvyb public complete listing has one PDF and no code/supplements despite manuscript claim.",
+    "Static software audit19referencefamilies; methods, tests and licenses inspected selectively, no acquired software executed or installed. Six original-source license_note corrections made in root package records.",
+    "Additional acquired supporting page edug-legacy-installer-page.html is descriptive eduGeng.htm, not installer or distinct technicalmanual.",
+    "Original GAPID title/year/report corroborated only through primary1980reference list; originalmanual/source unavailable.",
+    "No current dependency adoption proposed.",
+    "Mixed-format OSF ddp/noninfo Stan models have identical bytes and SHA256 bed8bd50b79852d6ba45995d8b03245b90062c70f89351e68158cb493660ccfd; both empirical prior constants. Root notified original deposited alternative missing."
+  ],
+  "failed_sources": [
+    {
+      "url": "https://s3-us-west-1.amazonaws.com/zjiang4/data_code.zip",
+      "reason": "404, original Jiang/Skorupski2018 supplement unavailable at cited author URL"
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/pii/S235271102500202X",
+      "reason": "403, final2025GeneralizITarticle not acquired;2024preprint acquired"
+    },
+    {
+      "url": "https://stat.ethz.ch/CRAN/web/packages/gtheory/gtheory.pdf",
+      "reason": "404; canonicalCRANpage reports archived2025-03-24, archivedsource acquired"
+    },
+    {
+      "url": "https://www.mdpi.com/article/10.3390/math13061001/s1",
+      "reason": "403 for supplementarylanding; mainpaper separately acquired"
+    },
+    {
+      "url": "https://supp.apa.org/psycarticles/supplemental/met0000606/",
+      "reason": "403; onlinearticle readableviawebindex but noartifact retrieved"
+    },
+    {
+      "url": "https://www.irdp.ch/data/secure/1968/document/EduGUserGuide.pdf",
+      "reason": "Response not PDF; primary manual subsequently acquired archived original."
+    },
+    {
+      "url": "https://www.irdp.ch/data/documents/EduGUserGuide.pdf",
+      "reason": "Response not PDF."
+    },
+    {
+      "url": "https://www.irdp.ch/edumetrie/documents/EduGUserGuide.pdf",
+      "reason": "404."
+    },
+    {
+      "url": "https://www.irdp.ch/edumetrie/englishprogram.htm",
+      "reason": "Unavailable direct page."
+    },
+    {
+      "url": "https://web.archive.org/web/20200901000000id_/http://www.irdp.ch/edumetrie/englishprogram.htm",
+      "reason": "404 guessed timestamp; CDX then found real201603snapshot and acquired."
+    },
+    {
+      "url": "https://accedacris.ulpgc.es/bitstream/10553/19884/1/0537108_20161_0009.pdf",
+      "reason": "403; SAGT acquired publisher alternate."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13269112/",
+      "reason": "403; csemGT article not acquired."
+    },
+    {
+      "url": "https://openpublishing.library.umass.edu/pare/article/id/1593/",
+      "reason": "Anubis access denied; Huebner/Lucht acquired ERIC copy."
+    },
+    {
+      "url": "https://www.irdp.ch/data/documents/englishprogram.htm",
+      "reason": "Unavailable; no distribution recovered there."
+    },
+    {
+      "url": "https://www.mdpi.com/2227-7390/13/6/1001",
+      "reason": "429 Too Many Requests on final primary supplementary-link check; stopped, no access-control bypass."
+    }
+  ]
+}

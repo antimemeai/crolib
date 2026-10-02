@@ -1,0 +1,20 @@
+{
+  "id": "ji-cross-national",
+  "source_url": "https://github.com/jeji0903/gtheory-cross-national-applicability",
+  "revision": "591b33b46a7ba2d3a98d897353e168402aef201b",
+  "archive_url": "https://codeload.github.com/jeji0903/gtheory-cross-national-applicability/tar.gz/591b33b46a7ba2d3a98d897353e168402aef201b",
+  "archive_path": "quarantine/archives/ji-cross-national.tar.gz",
+  "archive_sha256": "3ce2cf9babf5eb191412abcc0e3fa88469283ebc113ef03eb6f3c515f30f35c2",
+  "archive_bytes": 5456,
+  "extracted_path": "quarantine/references/ji-cross-national",
+  "extracted_files": 3,
+  "excluded_paths": [
+    "gtheory-cross-national-applicability-591b33b46a7ba2d3a98d897353e168402aef201b"
+  ],
+  "strip_root": true,
+  "license_note": "No recognized license; inspect source",
+  "description": "Ji2026 cross-national nested design simulation/application code, DOI10.1007/s11135-026-02845-4",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T12:15:30.546914+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only ji-cross-national"
+}

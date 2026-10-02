@@ -1,0 +1,24 @@
+{
+  "id": "gtheoryr",
+  "source_url": "https://github.com/cran/gtheoryr",
+  "revision": "8da7a6b9f6c4b7c9968a25155a94e6de7a6bd3c9",
+  "archive_url": "https://codeload.github.com/cran/gtheoryr/tar.gz/8da7a6b9f6c4b7c9968a25155a94e6de7a6bd3c9",
+  "archive_path": "quarantine/archives/gtheoryr.tar.gz",
+  "archive_sha256": "e0a8ff2fc7a02d2114653d4ffaac9860f9ff8366126476422cd75e510d440161",
+  "archive_bytes": 4956,
+  "extracted_path": "quarantine/references/gtheoryr",
+  "extracted_files": 13,
+  "excluded_paths": [
+    "gtheoryr-8da7a6b9f6c4b7c9968a25155a94e6de7a6bd3c9",
+    "gtheoryr-8da7a6b9f6c4b7c9968a25155a94e6de7a6bd3c9/R",
+    "gtheoryr-8da7a6b9f6c4b7c9968a25155a94e6de7a6bd3c9/inst",
+    "gtheoryr-8da7a6b9f6c4b7c9968a25155a94e6de7a6bd3c9/inst/extdata",
+    "gtheoryr-8da7a6b9f6c4b7c9968a25155a94e6de7a6bd3c9/man"
+  ],
+  "strip_root": true,
+  "license_note": "MIT + file LICENSE explicitly declared in original DESCRIPTION; LICENSE lists YEAR 2026 and COPYRIGHT HOLDER Ujjwal Tyagi.",
+  "description": ":exclamation:\u00a0This\u00a0is\u00a0a\u00a0read-only\u00a0mirror\u00a0of\u00a0the\u00a0CRAN\u00a0R\u00a0package\u00a0repository.  gtheoryr\u00a0\u2014\u00a0Simple\u00a0Generalizability\u00a0Theory\u00a0for\u00a0Crossed\u00a0and\u00a0Nested\u00a0Designs  ",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:44:48.926043+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only gtheoryr"
+}

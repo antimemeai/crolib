@@ -1,0 +1,18 @@
+{
+  "id": "genova",
+  "source_url": "https://brennancrickgenova.org/genova-suite/",
+  "revision": "unversioned official distribution; fingerprint retained",
+  "archive_url": "https://brennancrickgenova.org/download/genova-for-pc/?wpdmdl=236",
+  "archive_path": "quarantine/archives/genova.zip",
+  "archive_sha256": "7ee13589f8b70bb450b8a40410665b842af82528e5ce97485375b479d7dba4c4",
+  "archive_bytes": 17757270,
+  "extracted_path": "quarantine/references/genova",
+  "extracted_files": 6,
+  "excluded_paths": [],
+  "strip_root": false,
+  "license_note": "GENOVA author allows redistribution; specific archive license must be inspected",
+  "description": "Original balanced univariate GENOVA distribution and manual",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:46:58.823771+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only genova"
+}

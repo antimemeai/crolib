@@ -1,0 +1,1060 @@
+[
+  {
+    "id": "decisions-casma-7",
+    "title": "A Bootstrap Procedure for Estimating Decision Consistency for Single-Administration Complex Assessments",
+    "authors": [
+      "Robert L. Brennan",
+      "Lei Wan"
+    ],
+    "year": 2004,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-7-archived.pdf",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-7-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-7.pdf",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "bootstrap",
+      "stratified",
+      "mixed-format"
+    ],
+    "relevance": "Boot-i algorithm, stratified resampling, original-vs-replication agreement, impossible-parallel-forms warning.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "CASMA #7, June 2004; editorial revisions January 25, 2005. Primary PDF title uses A although listing uses The."
+  },
+  {
+    "id": "decisions-casma-9",
+    "title": "Manual for BB-CLASS: A Computer Program that uses the Beta-Binomial Model for Classification Consistency and Accuracy",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2004,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-9-archived.pdf",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-9-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-9.pdf",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "beta-binomial",
+      "reference-implementation",
+      "worked-examples"
+    ],
+    "relevance": "Author manual, HB/LL branches, four-beta moments, effective test length, multiple cut scores, sample input/output; executable is shared quarantine, not executed.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "CASMA #9 December2004 v1.0. Same manual also in root-acquired BB-CLASS archive; own CASMA copy retained. Manual explicitly identifies implementation judgment in LL effective-length distinctions."
+  },
+  {
+    "id": "decisions-casma-10",
+    "title": "A Multinomial Error Model for Tests with Polytomous Items",
+    "authors": [
+      "Won-Chan Lee"
+    ],
+    "year": 2005,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-10-archived.pdf",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-10-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-10.pdf",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "polytomous",
+      "conditional-error",
+      "compound-multinomial"
+    ],
+    "relevance": "Discrete raw/scale distributions, conditional SEM, reliability, stratified scoring via compound multinomial.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "Original bytes and SHA256 provenance sidecar retained; pdftotext derivative for reading."
+  },
+  {
+    "id": "decisions-casma-13",
+    "title": "Classification Consistency and Accuracy Under the Compound Multinomial Model",
+    "authors": [
+      "Won-Chan Lee"
+    ],
+    "year": 2005,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-13-archived.pdf",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-13-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-13.pdf",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "compound-multinomial",
+      "bias-correction",
+      "multiple-cuts"
+    ],
+    "relevance": "Conditional and marginal agreement/accuracy, multiple cuts, bias correction; MULT-CLASS oracle spine.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "CASMA #13 November2005; revisions April2007 and April2008, downloaded revised version."
+  },
+  {
+    "id": "decisions-casma-16",
+    "title": "A Strong True-Score Model for Polytomous Items",
+    "authors": [
+      "Won-Chan Lee",
+      "Tianyou Wang",
+      "Seonghoon Kim",
+      "Robert L. Brennan"
+    ],
+    "year": 2006,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-16-archived.pdf",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-16-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-16.pdf",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "dirichlet-multinomial",
+      "polytomous"
+    ],
+    "relevance": "Dirichlet-multinomial smoothing, CSEMs, classification consistency/accuracy; comparison data examples.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "Original bytes and SHA256 provenance sidecar retained; pdftotext derivative for reading."
+  },
+  {
+    "id": "decisions-casma-18",
+    "title": "Correcting for Bias in Single-Administration Decision Consistency Indexes",
+    "authors": [
+      "Robert L. Brennan",
+      "Won-Chan Lee"
+    ],
+    "year": 2006,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-18-archived.pdf",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-18-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-18.pdf",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "bias-correction",
+      "shrinkage",
+      "bootstrap"
+    ],
+    "relevance": "Explains naive plug-in bias under binomial/multinomial models, optimized conditional probabilities, parametric bootstrap.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "Original bytes and SHA256 provenance sidecar retained; pdftotext derivative for reading."
+  },
+  {
+    "id": "decisions-casma-22",
+    "title": "Estimating Classification Consistency for Complex Assessments",
+    "authors": [
+      "Lei Wan",
+      "Robert L. Brennan",
+      "Won-Chan Lee"
+    ],
+    "year": 2007,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-22-archived.pdf",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-22-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-22.pdf",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "simulation",
+      "mixed-format",
+      "comparison"
+    ],
+    "relevance": "Direct comparison NM, BL, LL, BW and CM; test length, construct equivalence, cut counts and score transformations, bar-exam examples.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "Original bytes and SHA256 provenance sidecar retained; pdftotext derivative for reading."
+  },
+  {
+    "id": "decisions-casma-27",
+    "title": "Classification Consistency and Accuracy for Complex Assessments Using Item Response Theory",
+    "authors": [
+      "Won-Chan Lee"
+    ],
+    "year": 2008,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-27-archived.pdf",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-27-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-27.pdf",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "irt",
+      "mixed-format",
+      "scale-scores"
+    ],
+    "relevance": "D/P estimation methods, dichotomous and polytomous response distributions; IRT-CLASS theoretical reference.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "Original bytes and SHA256 provenance sidecar retained; pdftotext derivative for reading."
+  },
+  {
+    "id": "decisions-casma-32",
+    "title": "Measurement Error Variability for Advanced Placement (AP) Composite Scores and Grades",
+    "authors": [
+      "Benjamin J. Andrews",
+      "Michael J. Kolen",
+      "Won-Chan Lee"
+    ],
+    "year": 2011,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-32-archived.pdf",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-32-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-32.pdf",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "conditional-error",
+      "grades",
+      "compound-multinomial"
+    ],
+    "relevance": "Unidimensional/multidimensional IRT and compound-multinomial CSEM of composites and categorical grades.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "Original bytes and SHA256 provenance sidecar retained; pdftotext derivative for reading."
+  },
+  {
+    "id": "decisions-optimization-2021",
+    "title": "A Short Note on Optimizing Cost-Generalizability via a Machine-Learning Approach",
+    "authors": [
+      "Zhehan Jiang",
+      "Dexin Shi",
+      "Christine DiStefano"
+    ],
+    "year": 2021,
+    "doi": "10.1177/0013164421992112",
+    "source_url": "https://doi.org/10.1177/0013164421992112",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8451023/",
+    "local_path": "papers/downloads/decisions/optimization-2021.html",
+    "status": "acquired",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "optimization",
+      "simulated-annealing",
+      "costs",
+      "osce"
+    ],
+    "relevance": "Integer facet allocation to minimize cost under absolute reliability target; compare Lagrange solutions. Apparent reversed constraint sign and exchanged example counts require reconciliation.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "Complete PMC HTML acquired (with equations/table content). Selected fulltext methods read and independent arithmetic checked. Printed ni=2,no=10 yields .8716707, swapped10,2 yields .9392471 from stated components; see report, not silently normalized."
+  },
+  {
+    "id": "decisions-mixed-format-classification-2015",
+    "title": "Methods for Evaluating Composite Reliability, Classification Consistency, and Classification Accuracy for Mixed-Format Licensure Tests",
+    "authors": [
+      "Tim Moses",
+      "Sooyeon Kim"
+    ],
+    "year": 2015,
+    "doi": "10.1177/0146621614563067",
+    "source_url": "https://doi.org/10.1177/0146621614563067",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5978540/",
+    "local_path": "papers/downloads/decisions/mixed-format-classification-2015.html",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "mixed-format",
+      "rater-design",
+      "composite-weights"
+    ],
+    "relevance": "Compares single/double CR scoring and weighting; links reliability changes to classification consistency/accuracy; LL model fitting can fail at extreme weighting.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "Complete PMC HTML acquired; journal issue2015, first online December22,2014."
+  },
+  {
+    "id": "decisions-huynh-proceedings-1978",
+    "title": "Solutions for Some Technical Problems in Domain-Referenced Mastery Testing: Final Report",
+    "authors": [
+      "Huynh Huynh",
+      "Joseph C. Saunders"
+    ],
+    "year": 1980,
+    "doi": null,
+    "source_url": "https://files.eric.ed.gov/fulltext/ED320928.pdf",
+    "fulltext_url": "https://files.eric.ed.gov/fulltext/ED320928.pdf",
+    "local_path": "papers/downloads/decisions/huynh-proceedings-1978.pdf",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "beta-binomial",
+      "decision-theory",
+      "mastery",
+      "bibliography",
+      "program-listings"
+    ],
+    "relevance": "387-page primary project report with17 papers: minimax/Bayesian passing scores, budget, agreement/kappa inference, false decisions, sample sizes and sensitivity.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "ERIC ED320928 August1980 full collected report acquired intact. Filename reflects discovery through1978 component; catalogue date corrected1980. Scanned equations require visual confirmation; not all387 pages closely read."
+  },
+  {
+    "id": "decisions-writing-optimization-eric",
+    "title": "The Preferability of Constrained Optimization in Determining the Number of Prompts, Modes of Discourse, and Raters in a Direct Writing Assessment",
+    "authors": [
+      "Jay Parkes",
+      "Hoi K. Suen"
+    ],
+    "year": 1995,
+    "doi": null,
+    "source_url": "https://files.eric.ed.gov/fulltext/ED390945.pdf",
+    "fulltext_url": "https://files.eric.ed.gov/fulltext/ED390945.pdf",
+    "local_path": "papers/downloads/decisions/writing-optimization-eric.pdf",
+    "status": "acquired",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "integer-programming",
+      "branch-and-bound",
+      "writing",
+      "nested-design"
+    ],
+    "relevance": "Early operational integer allocation;50students,3raters; four policy scenarios for prompts/modes/raters.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "ERIC ED390945 NCME conference paper April1995,27pages; title/abstract/design and optimization discussion inspected."
+  },
+  {
+    "id": "decisions-reliability-decisions-umn",
+    "title": "Reliability of Test Scores and Decisions",
+    "authors": [
+      "Ross E. Traub",
+      "Glenn L. Rowley"
+    ],
+    "year": 1980,
+    "doi": "10.1177/014662168000400406",
+    "source_url": "https://doi.org/10.1177/014662168000400406",
+    "fulltext_url": "https://conservancy.umn.edu/server/api/core/bitstreams/d5980f66-6f02-427b-886e-be41afb49b1a/content",
+    "local_path": "papers/downloads/decisions/reliability-decisions-umn.pdf",
+    "status": "acquired",
+    "topics": [
+      "classification-review",
+      "loss-functions",
+      "criterion-referenced"
+    ],
+    "relevance": "Primary review separates threshold, linear, quadratic loss and accuracy vs consistency; warns against treating differently defined coefficients interchangeably.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "UMN Digital Conservancy official API PDF acquired. Issue Fall1980, copyright footer1981; year follows journal issue1980. Selected taxonomy/method discussions read."
+  },
+  {
+    "id": "decisions-cut-score-bootstrap-2024",
+    "title": "Forming intervals of predicted total scores for cut-off scores evaluation: a generalizability theory application with Bootstrapping",
+    "authors": [
+      "Zhehan Jiang",
+      "Jinying Ouyang",
+      "Dexin Shi",
+      "Junhao Pan",
+      "Lingling Xu",
+      "Fen Cai"
+    ],
+    "year": 2024,
+    "doi": "10.1007/s12144-024-06306-9",
+    "source_url": "https://doi.org/10.1007/s12144-024-06306-9",
+    "fulltext_url": "https://link.springer.com/content/pdf/10.1007/s12144-024-06306-9.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "bootstrap",
+      "cut-scores",
+      "predc",
+      "ordinal"
+    ],
+    "relevance": "LMM resampling IPTS and PredC proportion overlapping cut; compare3bootstrap schemes. PredC is an uncertainty-overlap criterion, not classification accuracy.",
+    "evidence": "Primary Springer abstract, date/authors/references and exposed appendix read; full article not acquired.",
+    "acquisition_note": "Ordinary publisher PDF returned access HTML, rejected. Peking University handle20.500.11897/720881 has no attached files. Landing exposes R-code appendix images; fulltext/data via author request."
+  },
+  {
+    "id": "decisions-cost-effectiveness-2022",
+    "title": "Cost-Effectiveness Analysis in Performance Assessments: A Case Study of the Objective Structured Clinical Examination",
+    "authors": [
+      "Zhehan Jiang",
+      "Jinying Ouyang",
+      "Li Li",
+      "Yuting Han",
+      "Lingling Xu",
+      "Ren Liu",
+      "Junhua Sun"
+    ],
+    "year": 2022,
+    "doi": "10.1080/10872981.2022.2136559",
+    "source_url": "https://doi.org/10.1080/10872981.2022.2136559",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9586649/",
+    "local_path": "papers/downloads/decisions/cost-effectiveness-2022.html",
+    "status": "acquired",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "costs",
+      "osce",
+      "precog-a"
+    ],
+    "relevance": "PRECOG-A integrates financial drivers and psychometric effectiveness; distinguishes cost model construction from G-study projection.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "Complete PMC HTML acquired. Primary abstract and PRECOG-A workflow inspected; not an owned optimizer implementation."
+  },
+  {
+    "id": "decisions-cut-scores-yin-sconing",
+    "title": "Estimating Standard Errors of Cut Scores for Item Rating and Mapmark Procedures: A Generalizability Theory Approach",
+    "authors": [
+      "Ping Yin",
+      "James Sconing"
+    ],
+    "year": 2008,
+    "doi": "10.1177/0013164407301546",
+    "source_url": "https://doi.org/10.1177/0013164407301546",
+    "fulltext_url": "https://citeseerx.ist.psu.edu/document?doi=afd8721ee069c0a3d3f9a1b954f4cafb6af45a5d&repid=rep1&type=pdf",
+    "local_path": "papers/downloads/decisions/cut-scores-yin-sconing.pdf",
+    "status": "acquired",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "standard-setting",
+      "cut-scores",
+      "angoff",
+      "bookmark"
+    ],
+    "relevance": "Two G-designs and four D-designs for panelist/judgment cut variability; distinct from candidate-score measurement error.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "Primary article PDF mirrored by CiteSeerX acquired; online2007 preprint footer, final EPM68(1)25\u201341 in2008 verified publisher. Whole article17pages."
+  },
+  {
+    "id": "decisions-minlp-performance-2016",
+    "title": "Optimizing the Costs and GT based reliabilities of Large-scale Performance Assessments",
+    "authors": [
+      "Yon Soo Suh",
+      "Dasom Hwang",
+      "Meiling Quan",
+      "Guemin Lee"
+    ],
+    "year": 2016,
+    "doi": "10.1007/978-3-319-38759-8_13",
+    "source_url": "https://doi.org/10.1007/978-3-319-38759-8_13",
+    "fulltext_url": "https://ndl.ethernet.edu.et/bitstream/123456789/63563/1/384.pdf",
+    "local_path": "papers/downloads/decisions/minlp-performance-2016.pdf",
+    "status": "acquired",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "optimization",
+      "mixed-integer-nonlinear",
+      "school-level",
+      "nested-design",
+      "costs"
+    ],
+    "relevance": "MINLP with branch-and-bound for school-level reliability; person nested school crossed task/rater; budgets and realistic facet bounds.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "Full Quantitative Psychology Research proceedings volume acquired intact from institutional education repository; relevant chapter printedpp173\u2013185. Do not confuse full-volume PDF acquisition with reading all chapters."
+  },
+  {
+    "id": "decisions-criterion-analysis-1982",
+    "title": "Criterion-referenced measurement: Its main applications, problems and findings",
+    "authors": [
+      "Wim J. van der Linden"
+    ],
+    "year": 1982,
+    "doi": "10.1016/0191-765X(82)90012-X",
+    "source_url": "https://research.utwente.nl/en/publications/criterion-referenced-measurement-its-main-applications-problems-a/",
+    "fulltext_url": "https://ris.utwente.nl/ws/portalfiles/portal/6881254/Linden82criterion.pdf",
+    "local_path": "papers/downloads/decisions/criterion-analysis-1982.pdf",
+    "status": "acquired",
+    "topics": [
+      "criterion-referenced",
+      "decision-theory",
+      "review"
+    ],
+    "relevance": "Primary review distinguishes scoring interpretation, item/test analysis and mastery-testing optimization.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "Original bytes and SHA256 provenance sidecar retained; pdftotext derivative for reading."
+  },
+  {
+    "id": "decisions-agreement-kane-brennan-1980",
+    "title": "Agreement Coefficients as Indices of Dependability for Domain-Referenced Tests",
+    "authors": [
+      "Michael T. Kane",
+      "Robert L. Brennan"
+    ],
+    "year": 1980,
+    "doi": "10.1177/014662168000400111",
+    "source_url": "https://doi.org/10.1177/014662168000400111",
+    "fulltext_url": "https://conservancy.umn.edu/server/api/core/bitstreams/1bceaffe-8203-4e11-8b65-01ff72936276/content",
+    "local_path": "papers/downloads/decisions/agreement-kane-brennan-1980.pdf",
+    "status": "acquired",
+    "topics": [
+      "core-generalizability",
+      "loss-functions",
+      "chance-correction",
+      "mastery"
+    ],
+    "relevance": "General agreement framework unifies threshold and squared-error indices, corrected/uncorrected chance; design and interpretation prerequisites.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "Original bytes and SHA256 provenance sidecar retained; pdftotext derivative for reading."
+  },
+  {
+    "id": "decisions-lagrange-complex-2024",
+    "title": "New roles of Lagrange multiplier method in generalizability theory: Inference of estimating the optimal sample size for teaching ability evaluation of college teachers",
+    "authors": [
+      "Guangming Li"
+    ],
+    "year": 2024,
+    "doi": "10.1371/journal.pone.0307710",
+    "source_url": "https://doi.org/10.1371/journal.pone.0307710",
+    "fulltext_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0307710&type=printable",
+    "local_path": "papers/downloads/decisions/lagrange-complex-2024.pdf",
+    "status": "acquired",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "optimization",
+      "nested-design",
+      "lagrange",
+      "teaching"
+    ],
+    "relevance": "Derivations for(s:t)\u00d7i,(s:t)\u00d7(i:v),(s:t)\u00d7(i:v)\u00d7o; continuous optimum students/items given dimensions/occasions.17students,4items example.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "Primary PLOS PDF acquired, selected equations and empirical example read. Step4 recommends rounding; independently enforce integer budget feasibility instead of treating rounding as proof."
+  },
+  {
+    "id": "decisions-bifactor-decisions-2023",
+    "title": "Extending Applications of Generalizability Theory-Based Bifactor Model Designs",
+    "authors": [
+      "Walter P. Vispoel",
+      "Hyeryung Lee",
+      "Tingting Chen",
+      "Hyeri Hong"
+    ],
+    "year": 2023,
+    "doi": "10.3390/psych5020036",
+    "source_url": "https://doi.org/10.3390/psych5020036",
+    "fulltext_url": "https://mdpi-res.com/d_attachment/psych/psych-05-00036/article_deploy/psych-05-00036.pdf",
+    "local_path": "papers/downloads/decisions/bifactor-decisions-2023.pdf",
+    "status": "acquired",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "bifactor",
+      "sem",
+      "absolute-relative",
+      "prophecy",
+      "subscale"
+    ],
+    "relevance": "Absolute and relative GT bifactor components and item/occasion prophecy formulas, BFI-2 examples, coefficients/cut-specific dependability.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "MDPI static publisher PDF acquired, pp545\u2013575. Formulas/code/sample-data availability inspected; root notified for supplement ingestion."
+  },
+  {
+    "id": "decisions-beta-moments-hanson-1991",
+    "title": "Method of Moments Estimates for the Four-Parameter Beta Compound Binomial Model and the Calculation of Classification Consistency Indexes",
+    "authors": [
+      "Bradley A. Hanson"
+    ],
+    "year": 1991,
+    "doi": null,
+    "source_url": "https://files.eric.ed.gov/fulltext/ED344945.pdf",
+    "fulltext_url": "https://files.eric.ed.gov/fulltext/ED344945.pdf",
+    "local_path": "papers/downloads/decisions/beta-moments-hanson-1991.pdf",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "beta-binomial",
+      "method-of-moments",
+      "numerical-methods"
+    ],
+    "relevance": "ACT91-5 exact computational spine for BB-CLASS four-parameter moments and agreement integration.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "ERIC ED344945 official report September1991 acquired; title/introduction/computation sections inspected."
+  },
+  {
+    "id": "decisions-norm-exam-2025",
+    "title": "Challenging the norm: Length of exams determined by classification accuracy or reliability",
+    "authors": [
+      "Stefan K. Schauber",
+      "Matt Homer"
+    ],
+    "year": 2025,
+    "doi": "10.1111/medu.15742",
+    "source_url": "https://eprints.whiterose.ac.uk/id/eprint/226675/",
+    "fulltext_url": "https://eprints.whiterose.ac.uk/id/eprint/226675/9/250414%20Schauber-Homer%20-%20Challenging%20the%20norm.pdf",
+    "local_path": "papers/downloads/decisions/norm-exam-2025.pdf",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "test-length",
+      "cut-scores",
+      "medical-education"
+    ],
+    "relevance": "Resampling52,500syntheticexams across lengths/cuts: classification accuracy changes with cuts; global reliability largely does not; false-pass/fail tradeoffs.",
+    "evidence": "Title, authors, date, abstract and selected methods/examples inspected in acquired full text.",
+    "acquisition_note": "PublisherPDF403; author accepted fulltext acquired from UniversityLeeds WhiteRose institutional repository, CC-BY4.0. SupplementFigure1 is separately available but not counted asarticle."
+  },
+  {
+    "id": "decisions-mastery-index-1977",
+    "title": "An Index of Dependability for Mastery Tests",
+    "authors": [
+      "Robert L. Brennan",
+      "Michael T. Kane"
+    ],
+    "year": 1977,
+    "doi": "10.1111/j.1745-3984.1977.tb00045.x",
+    "source_url": "https://doi.org/10.1111/j.1745-3984.1977.tb00045.x",
+    "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-3984.1977.tb00045.x",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "cut-specific",
+      "squared-error"
+    ],
+    "relevance": "Classic cut-specific squared-error dependability; do not equate with raw classification-agreement probability.",
+    "evidence": "Primary publisher title/authors/date/abstract inspected; fulltext unavailable in lane. Author mirror indexed for Meyer but actual download404.",
+    "acquisition_note": "Download blocked: HTTP Error 403: Forbidden. Obtain via author, library or interlibrary loan."
+  },
+  {
+    "id": "decisions-huynh-decisions-1976",
+    "title": "On the Reliability of Decisions in Domain-Referenced Testing",
+    "authors": [
+      "Huynh Huynh"
+    ],
+    "year": 1976,
+    "doi": "10.1111/j.1745-3984.1976.tb00016.x",
+    "source_url": "https://doi.org/10.1111/j.1745-3984.1976.tb00016.x",
+    "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-3984.1976.tb00016.x",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "beta-binomial",
+      "mastery"
+    ],
+    "relevance": "Foundational one-admin beta-binomial decision consistency; original journalpp253\u2013264.",
+    "evidence": "Primary publisher title/authors/date/abstract inspected; fulltext unavailable in lane. Author mirror indexed for Meyer but actual download404.",
+    "acquisition_note": "Download blocked: HTTP Error 403: Forbidden. Obtain via author, library or interlibrary loan."
+  },
+  {
+    "id": "decisions-livingston-lewis-1995",
+    "title": "Estimating the Consistency and Accuracy of Classifications Based on Test Scores",
+    "authors": [
+      "Samuel A. Livingston",
+      "Charles Lewis"
+    ],
+    "year": 1995,
+    "doi": "10.1111/j.1745-3984.1995.tb00462.x",
+    "source_url": "https://doi.org/10.1111/j.1745-3984.1995.tb00462.x",
+    "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-3984.1995.tb00462.x",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "weighted-composites",
+      "effective-test-length",
+      "beta-binomial"
+    ],
+    "relevance": "General weighted-score effective-length plus four-beta model; BB-CLASS manual gives sample output and implementation ambiguities.",
+    "evidence": "Primary publisher title/authors/date/abstract inspected; fulltext unavailable in lane. Author mirror indexed for Meyer but actual download404.",
+    "acquisition_note": "Download blocked: HTTP Error 403: Forbidden. Obtain via author, library or interlibrary loan."
+  },
+  {
+    "id": "decisions-hanson-brennan-1990",
+    "title": "An Investigation of Classification Consistency Indexes Estimated Under Alternative Strong True Score Models",
+    "authors": [
+      "Bradley A. Hanson",
+      "Robert L. Brennan"
+    ],
+    "year": 1990,
+    "doi": "10.1111/j.1745-3984.1990.tb00753.x",
+    "source_url": "https://doi.org/10.1111/j.1745-3984.1990.tb00753.x",
+    "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-3984.1990.tb00753.x",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "model-fit",
+      "beta-binomial"
+    ],
+    "relevance": "Model-fit comparisons show simple beta-binomial may fit inadequately; assess fit before estimating consistency.",
+    "evidence": "Primary publisher title/authors/date/abstract inspected; fulltext unavailable in lane. Author mirror indexed for Meyer but actual download404.",
+    "acquisition_note": "Download blocked: HTTP Error 403: Forbidden. Obtain via author, library or interlibrary loan."
+  },
+  {
+    "id": "decisions-conditional-raw-brennan-1998",
+    "title": "Raw-Score Conditional Standard Errors of Measurement in Generalizability Theory",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 1998,
+    "doi": "10.1177/014662169802200401",
+    "source_url": "https://doi.org/10.1177/014662169802200401",
+    "fulltext_url": "https://journals.sagepub.com/doi/pdf/10.1177/014662169802200401",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "core-generalizability",
+      "conditional-error",
+      "absolute-relative",
+      "stratified"
+    ],
+    "relevance": "Unified conditional absolute/relative SEM for single/multifacet and multivariate designs; across-person dependence differs.",
+    "evidence": "Primary publisher title/authors/date/abstract inspected; fulltext unavailable in lane. Author mirror indexed for Meyer but actual download404.",
+    "acquisition_note": "Download blocked: HTTP Error 403: Forbidden. Obtain via author, library or interlibrary loan."
+  },
+  {
+    "id": "decisions-teaching-optimization-2014",
+    "title": "A Practical Solution to Optimizing the Reliability of Teaching Observation Measures Under Budget Constraints",
+    "authors": [
+      "J. Patrick Meyer",
+      "Xiang Liu",
+      "Andrew J. Mashburn"
+    ],
+    "year": 2014,
+    "doi": "10.1177/0013164413508774",
+    "source_url": "https://doi.org/10.1177/0013164413508774",
+    "fulltext_url": "https://www.columbia.edu/~xl2438/Meyer2014.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "nested-design",
+      "costs",
+      "lagrange"
+    ],
+    "relevance": "Closed-form facet allocations for one crossed and three nested observation designs; component combination when changing designs.",
+    "evidence": "Primary publisher title/authors/date/abstract inspected; fulltext unavailable in lane. Author mirror indexed for Meyer but actual download404.",
+    "acquisition_note": "Download blocked: HTTP Error 404: Not Found. Obtain via author, library or interlibrary loan."
+  },
+  {
+    "id": "decisions-woodward-joe-1973",
+    "title": "Maximizing the Coefficient of Generalizability in Multi-Facet Decision Studies",
+    "authors": [
+      "J. Arthur Woodward",
+      "George W. Joe"
+    ],
+    "year": 1973,
+    "doi": "10.1007/bf02291112",
+    "source_url": "https://doi.org/10.1007/bf02291112",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "design-interpretation"
+    ],
+    "relevance": "Early multifacet allocation optimization; original Psychometrika38,173\u2013181.",
+    "evidence": "Primary publisher/Crossref metadata or acquired primary-paper bibliography inspected; abstract inspected when accessible. Fulltext not obtained; no implementation conclusions inferred from metadata alone.",
+    "acquisition_note": "Primary publisher metadata/abstract or acquired primary bibliography verified; full text not obtained."
+  },
+  {
+    "id": "decisions-resource-constraints-1990",
+    "title": "The Optimization of Generalizability Studies with Resource Constraints",
+    "authors": [
+      "George A. Marcoulides",
+      "Zvi Goldstein"
+    ],
+    "year": 1990,
+    "doi": "10.1177/0013164490504004",
+    "source_url": "https://doi.org/10.1177/0013164490504004",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "design-interpretation"
+    ],
+    "relevance": "Classic two-facet Lagrange allocation under cost-product constraint; descendants reproduce worked example.",
+    "evidence": "Primary publisher/Crossref metadata or acquired primary-paper bibliography inspected; abstract inspected when accessible. Fulltext not obtained; no implementation conclusions inferred from metadata alone.",
+    "acquisition_note": "Primary publisher metadata/abstract or acquired primary bibliography verified; full text not obtained."
+  },
+  {
+    "id": "decisions-integer-generalizability-1991",
+    "title": "Maximizing the Coefficient of Generalizability in Decision Studies",
+    "authors": [
+      "Zvi Goldstein",
+      "George A. Marcoulides"
+    ],
+    "year": 1991,
+    "doi": "10.1177/0013164491511006",
+    "source_url": "https://doi.org/10.1177/0013164491511006",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "design-interpretation"
+    ],
+    "relevance": "Discrete candidates/rounding under budget; primary acquired optimization2021 bibliography confirms79\u201388.",
+    "evidence": "Primary publisher/Crossref metadata or acquired primary-paper bibliography inspected; abstract inspected when accessible. Fulltext not obtained; no implementation conclusions inferred from metadata alone.",
+    "acquisition_note": "Primary publisher metadata/abstract or acquired primary bibliography verified; full text not obtained."
+  },
+  {
+    "id": "decisions-multivariate-conditions-1991",
+    "title": "Selecting the Number of Observations in Multivariate Measurement Studies Under Budget Constraints",
+    "authors": [
+      "George A. Marcoulides",
+      "Zvi Goldstein"
+    ],
+    "year": 1991,
+    "doi": "10.1177/0013164491513005",
+    "source_url": "https://doi.org/10.1177/0013164491513005",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "design-interpretation"
+    ],
+    "relevance": "Multivariate two-facet resource allocation, extensions discussed.",
+    "evidence": "Primary publisher/Crossref metadata or acquired primary-paper bibliography inspected; abstract inspected when accessible. Fulltext not obtained; no implementation conclusions inferred from metadata alone.",
+    "acquisition_note": "Primary publisher metadata/abstract or acquired primary bibliography verified; full text not obtained."
+  },
+  {
+    "id": "decisions-multivariate-optimization-1992",
+    "title": "The Optimization of Multivariate Generalizability Studies with Budget Constraints",
+    "authors": [
+      "George A. Marcoulides",
+      "Zvi Goldstein"
+    ],
+    "year": 1992,
+    "doi": "10.1177/0013164492052002005",
+    "source_url": "https://doi.org/10.1177/0013164492052002005",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "design-interpretation"
+    ],
+    "relevance": "Covariance/weight-aware multivariate budget optimization.",
+    "evidence": "Primary publisher/Crossref metadata or acquired primary-paper bibliography inspected; abstract inspected when accessible. Fulltext not obtained; no implementation conclusions inferred from metadata alone.",
+    "acquisition_note": "Primary publisher metadata/abstract or acquired primary bibliography verified; full text not obtained."
+  },
+  {
+    "id": "decisions-power-constraints-1993",
+    "title": "Maximizing Power in Generalizability Studies Under Budget Constraints",
+    "authors": [
+      "George A. Marcoulides"
+    ],
+    "year": 1993,
+    "doi": "10.3102/10769986018002197",
+    "source_url": "https://doi.org/10.3102/10769986018002197",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "design-interpretation"
+    ],
+    "relevance": "Minimize mean error variance to improve power under budgets; alternate JSTORDOI10.2307/1165086 identifies same paper.",
+    "evidence": "Primary publisher/Crossref metadata or acquired primary-paper bibliography inspected; abstract inspected when accessible. Fulltext not obtained; no implementation conclusions inferred from metadata alone.",
+    "acquisition_note": "Primary publisher metadata/abstract or acquired primary bibliography verified; full text not obtained."
+  },
+  {
+    "id": "decisions-power-error-1995",
+    "title": "Designing Measurement Studies Under Budget Constraints: Controlling Error of Measurement and Power",
+    "authors": [
+      "George A. Marcoulides"
+    ],
+    "year": 1995,
+    "doi": "10.1177/0013164495055003005",
+    "source_url": "https://doi.org/10.1177/0013164495055003005",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "design-interpretation"
+    ],
+    "relevance": "Budget-constrained measurement error and statistical power objectives.",
+    "evidence": "Primary publisher/Crossref metadata or acquired primary-paper bibliography inspected; abstract inspected when accessible. Fulltext not obtained; no implementation conclusions inferred from metadata alone.",
+    "acquisition_note": "Primary publisher metadata/abstract or acquired primary bibliography verified; full text not obtained."
+  },
+  {
+    "id": "decisions-variable-cost-1997",
+    "title": "Optimizing Measurement Designs with Budget Constraints: The Variable Cost Case",
+    "authors": [
+      "George A. Marcoulides"
+    ],
+    "year": 1997,
+    "doi": "10.1177/0013164497057005006",
+    "source_url": "https://doi.org/10.1177/0013164497057005006",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "design-interpretation"
+    ],
+    "relevance": "Costs vary within facets; avoid assuming one constant unit cost perfacet.",
+    "evidence": "Primary publisher/Crossref metadata or acquired primary-paper bibliography inspected; abstract inspected when accessible. Fulltext not obtained; no implementation conclusions inferred from metadata alone.",
+    "acquisition_note": "Primary publisher metadata/abstract or acquired primary bibliography verified; full text not obtained."
+  },
+  {
+    "id": "decisions-signal-noise-1977",
+    "title": "Signal/Noise Ratios for Domain-Referenced Tests",
+    "authors": [
+      "Robert L. Brennan",
+      "Michael T. Kane"
+    ],
+    "year": 1977,
+    "doi": "10.1007/bf02295983",
+    "source_url": "https://doi.org/10.1007/bf02295983",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "design-interpretation"
+    ],
+    "relevance": "Signal/noise formulation for domain-referenced scores, different loss/decision interpretations.",
+    "evidence": "Primary publisher/Crossref metadata or acquired primary-paper bibliography inspected; abstract inspected when accessible. Fulltext not obtained; no implementation conclusions inferred from metadata alone.",
+    "acquisition_note": "Primary publisher metadata/abstract or acquired primary bibliography verified; full text not obtained."
+  },
+  {
+    "id": "decisions-precision-kane-1996",
+    "title": "The Precision of Measurements",
+    "authors": [
+      "Michael T. Kane"
+    ],
+    "year": 1996,
+    "doi": "10.1207/s15324818ame0904_4",
+    "source_url": "https://doi.org/10.1207/s15324818ame0904_4",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "design-interpretation"
+    ],
+    "relevance": "Precision relative to purpose-specific error tolerance, not universal reliability threshold.",
+    "evidence": "Primary publisher/Crossref metadata or acquired primary-paper bibliography inspected; abstract inspected when accessible. Fulltext not obtained; no implementation conclusions inferred from metadata alone.",
+    "acquisition_note": "Primary publisher metadata/abstract or acquired primary bibliography verified; full text not obtained."
+  },
+  {
+    "id": "decisions-livingston-1972",
+    "title": "Criterion-Referenced Applications of Classical Test Theory",
+    "authors": [
+      "Samuel A. Livingston"
+    ],
+    "year": 1972,
+    "doi": "10.1111/j.1745-3984.1972.tb00756.x",
+    "source_url": "https://doi.org/10.1111/j.1745-3984.1972.tb00756.x",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "adjacent-classification"
+    ],
+    "relevance": "Squared deviations from criterion replaces deviations frommean; CTT predecessor, not multifacetGT.",
+    "evidence": "Primary publisher/Crossref metadata or acquired primary-paper bibliography inspected; abstract inspected when accessible. Fulltext not obtained; no implementation conclusions inferred from metadata alone.",
+    "acquisition_note": "Primary publisher metadata/abstract or acquired primary bibliography verified; full text not obtained."
+  },
+  {
+    "id": "decisions-huynh-inference-1979",
+    "title": "Statistical Inference for Two Reliability Indices in Mastery Testing Based on the Beta-Binomial Model",
+    "authors": [
+      "Huynh Huynh"
+    ],
+    "year": 1979,
+    "doi": "10.3102/10769986004003231",
+    "source_url": "https://doi.org/10.3102/10769986004003231",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "core-generalizability",
+      "d-study",
+      "adjacent-classification"
+    ],
+    "relevance": "Agreement/kappa SEs, tables and program; confidence intervals, hypothesis tests,minsample. Related1978memorandum in acquired1980report has differenttitle.",
+    "evidence": "Primary publisher/Crossref metadata or acquired primary-paper bibliography inspected; abstract inspected when accessible. Fulltext not obtained; no implementation conclusions inferred from metadata alone.",
+    "acquisition_note": "Primary publisher metadata/abstract or acquired primary bibliography verified; full text not obtained."
+  },
+  {
+    "id": "decisions-mult-class-manual",
+    "title": "Program MULT-CLASS (Version 3.0) for Multinomial and Compound-Multinomial Classification Consistency and Accuracy",
+    "authors": [
+      "Won-Chan Lee"
+    ],
+    "year": 2008,
+    "doi": null,
+    "source_url": "https://brennancrickgenova.org/classification-decision-consistency-programs/",
+    "fulltext_url": null,
+    "local_path": "quarantine/references/mult-class/manual v3.0.pdf",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "reference-implementation",
+      "manual",
+      "worked-examples"
+    ],
+    "relevance": "July2008manual, raw/scale, mixed-format, cutoff controls and archiveddich/mixed input-output examples.",
+    "evidence": "Root-acquired author archive manual title/date/input requirements/sample output inspected; text derivatives created, references not executed.",
+    "acquisition_note": "Shared root-owned quarantine artifact; root acquisition manifests preserve source/archive. No duplicate PDF downloaded; no executable/source was run."
+  },
+  {
+    "id": "decisions-irt-class-manual",
+    "title": "Program IRT-CLASS for Item Response Theory Classification Consistency and Accuracy (Version 2.0)",
+    "authors": [
+      "Won-Chan Lee",
+      "Michael J. Kolen"
+    ],
+    "year": 2008,
+    "doi": null,
+    "source_url": "https://brennancrickgenova.org/classification-decision-consistency-programs/",
+    "fulltext_url": null,
+    "local_path": "quarantine/references/irt-class/IRT-CLASS 2.0 manual.pdf",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "reference-implementation",
+      "manual",
+      "worked-examples"
+    ],
+    "relevance": "March2006revisedApril2008manual, control/item/theta/scaled-score/cutoff file contracts and suppliedexample.out.",
+    "evidence": "Root-acquired author archive manual title/date/input requirements/sample output inspected; text derivatives created, references not executed.",
+    "acquisition_note": "Shared root-owned quarantine artifact; root acquisition manifests preserve source/archive. No duplicate PDF downloaded; no executable/source was run."
+  },
+  {
+    "id": "decisions-nm-class-manual",
+    "title": "Program NM-CLASS for Normal Approximation Classification Consistency and Accuracy (Version 1.0)",
+    "authors": [
+      "Stella Y. Kim"
+    ],
+    "year": 2019,
+    "doi": null,
+    "source_url": "https://brennancrickgenova.org/classification-decision-consistency-programs/",
+    "fulltext_url": null,
+    "local_path": "quarantine/references/nm-class/NM-CLASS_manual_v1.pdf",
+    "status": "acquired",
+    "topics": [
+      "adjacent-classification",
+      "single-administration",
+      "reference-implementation",
+      "manual",
+      "worked-examples"
+    ],
+    "relevance": "August2019R-code manual, normal approximation PengSubkoviak1980 and KimLee2019; example.dat and standaloneR available.",
+    "evidence": "Root-acquired author archive manual title/date/input requirements/sample output inspected; text derivatives created, references not executed.",
+    "acquisition_note": "Shared root-owned quarantine artifact; root acquisition manifests preserve source/archive. No duplicate PDF downloaded; no executable/source was run."
+  }
+]

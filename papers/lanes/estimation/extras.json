@@ -1,0 +1,151 @@
+[
+  [
+    {
+      "id": "estimation-lin-sparse-2017",
+      "title": "Working with sparse data in rated language tests: Generalizability theory applications",
+      "authors": [
+        "Chih-Kai Lin"
+      ],
+      "year": 2017,
+      "doi": "10.1177/0265532216638890",
+      "source_url": "https://doi.org/10.1177/0265532216638890",
+      "fulltext_url": "https://michiganassessment.org/wp-content/uploads/2020/02/20.02.pdf.Res_.WorkingwithSpraseDatainRatedLanguageTests-GeneraizabilityTheoryApplications.pdf",
+      "local_path": "papers/downloads/estimation/lin-sparse-2017.pdf",
+      "status": "acquired",
+      "topics": [
+        "variance-components",
+        "generalizability-theory"
+      ],
+      "relevance": "Explicit GT sparse rating versus subdividing estimators",
+      "evidence": "Publisher/university abstract or metadata inspected; downloaded bytes not yet substantively read.",
+      "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+    },
+    [
+      {
+        "url": "https://api.crossref.org/works/10.1177%2F0265532216638890",
+        "result": "metadata_verified"
+      },
+      {
+        "url": "https://michiganassessment.org/wp-content/uploads/2020/02/20.02.pdf.Res_.WorkingwithSpraseDatainRatedLanguageTests-GeneraizabilityTheoryApplications.pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/lin-sparse-2017.pdf"
+      }
+    ]
+  ],
+  [
+    {
+      "id": "estimation-huynh-incomplete-1977",
+      "title": "huynh-incomplete-1977",
+      "authors": [],
+      "year": null,
+      "doi": null,
+      "source_url": "https://files.eric.ed.gov/fulltext/ED154003.pdf",
+      "fulltext_url": "https://files.eric.ed.gov/fulltext/ED154003.pdf",
+      "local_path": "papers/downloads/estimation/huynh-incomplete-1977.pdf",
+      "status": "acquired",
+      "topics": [
+        "variance-components",
+        "generalizability-theory"
+      ],
+      "relevance": "Original incomplete KR20 comparing Henderson I/III and symmetric sums",
+      "evidence": "Search primary-source listing inspected; metadata needs manual confirmation.",
+      "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+    },
+    [
+      {
+        "url": "https://files.eric.ed.gov/fulltext/ED154003.pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/huynh-incomplete-1977.pdf"
+      }
+    ]
+  ],
+  [
+    {
+      "id": "estimation-choi-dissertation-2013",
+      "title": "choi-dissertation-2013",
+      "authors": [],
+      "year": null,
+      "doi": null,
+      "source_url": "https://escholarship.org/content/qt7qv174cb/qt7qv174cb.pdf",
+      "fulltext_url": "https://escholarship.org/content/qt7qv174cb/qt7qv174cb.pdf",
+      "local_path": null,
+      "status": "access_blocked",
+      "topics": [
+        "variance-components",
+        "generalizability-theory"
+      ],
+      "relevance": "Explicit GT logistic mixed modeling, Huynh toy data comparison",
+      "evidence": "Search primary-source listing inspected; metadata needs manual confirmation.",
+      "acquisition_note": "HTTP Error 403: Forbidden"
+    },
+    [
+      {
+        "url": "https://escholarship.org/content/qt7qv174cb/qt7qv174cb.pdf",
+        "result": "failed",
+        "reason": "HTTP Error 403: Forbidden"
+      }
+    ]
+  ],
+  [
+    {
+      "id": "estimation-swallow-monahan-1984",
+      "title": "swallow-monahan-1984",
+      "authors": [],
+      "year": null,
+      "doi": null,
+      "source_url": "https://hua-zhou.github.io/teaching/st758-2014fall/monte-carlo/SwallowMonahan84VCMonteCarlo.pdf",
+      "fulltext_url": "https://hua-zhou.github.io/teaching/st758-2014fall/monte-carlo/SwallowMonahan84VCMonteCarlo.pdf",
+      "local_path": "papers/downloads/estimation/swallow-monahan-1984.pdf",
+      "status": "acquired",
+      "topics": [
+        "variance-components",
+        "generic-foundation"
+      ],
+      "relevance": "Unbalanced one-way ANOVA ML REML MIVQUE comparison; generic foundation",
+      "evidence": "Search primary-source listing inspected; metadata needs manual confirmation.",
+      "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+    },
+    [
+      {
+        "url": "https://hua-zhou.github.io/teaching/st758-2014fall/monte-carlo/SwallowMonahan84VCMonteCarlo.pdf",
+        "result": "acquired",
+        "path": "papers/downloads/estimation/swallow-monahan-1984.pdf"
+      }
+    ]
+  ],
+  [
+    {
+      "id": "estimation-wind-sparse-2023",
+      "title": "Does Sparseness Matter? Examining the Use of Generalizability Theory and Many-Facet Rasch Measurement in Sparse Rating Designs",
+      "authors": [
+        "Stefanie A. Wind",
+        "Eli Jones",
+        "Sara Grajeda"
+      ],
+      "year": 2023,
+      "doi": "10.1177/01466216231182148",
+      "source_url": "https://doi.org/10.1177/01466216231182148",
+      "fulltext_url": "https://journals.sagepub.com/doi/pdf/10.1177/01466216231182148?download=true",
+      "local_path": null,
+      "status": "access_blocked",
+      "topics": [
+        "variance-components",
+        "generalizability-theory"
+      ],
+      "relevance": "Explicit sparse GT versus Many-Facet Rasch simulation",
+      "evidence": "Publisher/university abstract or metadata inspected; downloaded bytes not yet substantively read.",
+      "acquisition_note": "HTTP Error 403: Forbidden"
+    },
+    [
+      {
+        "url": "https://api.crossref.org/works/10.1177%2F01466216231182148",
+        "result": "metadata_verified"
+      },
+      {
+        "url": "https://journals.sagepub.com/doi/pdf/10.1177/01466216231182148?download=true",
+        "result": "failed",
+        "reason": "HTTP Error 403: Forbidden"
+      }
+    ]
+  ]
+]

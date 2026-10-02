@@ -1,0 +1,20 @@
+{
+  "id": "huebner-pare2025",
+  "source_url": "https://github.com/alanhuebner10/Gtheory-codes-PARE2025",
+  "revision": "78847507eaf018813e42d203945ed37b823e3b6c",
+  "archive_url": "https://codeload.github.com/alanhuebner10/Gtheory-codes-PARE2025/tar.gz/78847507eaf018813e42d203945ed37b823e3b6c",
+  "archive_path": "quarantine/archives/huebner-pare2025.tar.gz",
+  "archive_sha256": "9dd341232fe6998db78f3d2042be985c8f429500d22a94a68b58ace8e63c453a",
+  "archive_bytes": 25915,
+  "extracted_path": "quarantine/references/huebner-pare2025",
+  "extracted_files": 5,
+  "excluded_paths": [
+    "Gtheory-codes-PARE2025-78847507eaf018813e42d203945ed37b823e3b6c"
+  ],
+  "strip_root": true,
+  "license_note": "No recognized license in GitHub metadata; inspect source before reuse",
+  "description": "Generalizability-theory reference",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:45:02.544973+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only huebner-pare2025"
+}

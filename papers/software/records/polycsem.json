@@ -1,0 +1,18 @@
+{
+  "id": "polycsem",
+  "source_url": "https://brennancrickgenova.org/other-programs/",
+  "revision": "author-hosted unversioned download, SHA-256 recorded",
+  "archive_url": "https://brennancrickgenova.org/download/polycsem-for-pc-console/?wpdmdl=402",
+  "archive_path": "quarantine/archives/polycsem.zip",
+  "archive_sha256": "9f40683c59df106e4bad954d181e3cc3d613aa85813ee018198bff8d8dfdf12c",
+  "archive_bytes": 244912,
+  "extracted_path": "quarantine/references/polycsem",
+  "extracted_files": 8,
+  "excluded_paths": [],
+  "strip_root": false,
+  "license_note": "Author permits distribution; no permissive source license inferred",
+  "description": "Adjacent polynomial conditional measurement error binary/manual reference",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:54:54.764402+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only polycsem"
+}

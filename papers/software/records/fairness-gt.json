@@ -1,0 +1,27 @@
+{
+  "id": "fairness-gt",
+  "source_url": "https://github.com/rckaruna/fairness-gtheory",
+  "revision": "a2df352209d83b519b83520e3f9827d38f50102e",
+  "archive_url": "https://codeload.github.com/rckaruna/fairness-gtheory/tar.gz/a2df352209d83b519b83520e3f9827d38f50102e",
+  "archive_path": "quarantine/archives/fairness-gt.tar.gz",
+  "archive_sha256": "84f639ace96e8b85bb3fe696715f6aae48d01a5062aa626763fdcdddaa77cbd8",
+  "archive_bytes": 1533186,
+  "extracted_path": "quarantine/references/fairness-gt",
+  "extracted_files": 60,
+  "excluded_paths": [
+    "fairness-gtheory-a2df352209d83b519b83520e3f9827d38f50102e",
+    "fairness-gtheory-a2df352209d83b519b83520e3f9827d38f50102e/R",
+    "fairness-gtheory-a2df352209d83b519b83520e3f9827d38f50102e/fairness-gtheory",
+    "fairness-gtheory-a2df352209d83b519b83520e3f9827d38f50102e/fairness-gtheory/R",
+    "fairness-gtheory-a2df352209d83b519b83520e3f9827d38f50102e/fairness-gtheory/outputs",
+    "fairness-gtheory-a2df352209d83b519b83520e3f9827d38f50102e/outputs",
+    "fairness-gtheory-a2df352209d83b519b83520e3f9827d38f50102e/tests",
+    "fairness-gtheory-a2df352209d83b519b83520e3f9827d38f50102e/tests/testthat"
+  ],
+  "strip_root": true,
+  "license_note": "No recognized license in GitHub metadata; inspect source before reuse",
+  "description": "Reliable fairness auditing via multivariate generalizability theory",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:45:08.811734+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only fairness-gt"
+}

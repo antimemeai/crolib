@@ -5,6 +5,7 @@
 /context/
 /quarantine/
 *.pdf
+/papers/downloads/
 *.egg-info/
 __pycache__/
 *.py[cod]

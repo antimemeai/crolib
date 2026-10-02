@@ -1,0 +1,18 @@
+{
+  "id": "gtheory-app",
+  "source_url": "https://zenodo.org/records/20149608",
+  "revision": "1.0.0",
+  "archive_url": "https://zenodo.org/records/20149608/files/g-theory-app-1.0.0.zip",
+  "archive_path": "quarantine/archives/gtheory-app.zip",
+  "archive_sha256": "b395a6e2058a4b04cdea1c4770a9353a6c07c56e73e4091c5d4b4a726158b86d",
+  "archive_bytes": 58552,
+  "extracted_path": "quarantine/references/gtheory-app",
+  "extracted_files": 11,
+  "excluded_paths": [],
+  "strip_root": false,
+  "license_note": "GPL-3-or-later as explicitly stated in acquired LICENSE; Zenodo metadata displays copyright only",
+  "description": "Collares Shiny G-study and D-study browser application, latest deposited release as checked 2026-10-02",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:53:46.060289+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only gtheory-app"
+}

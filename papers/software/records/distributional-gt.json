@@ -1,0 +1,29 @@
+{
+  "id": "distributional-gt",
+  "source_url": "https://github.com/rckaruna/dgt",
+  "revision": "a672bcc620dabf9a1543666fec72e47c98215d8d",
+  "archive_url": "https://codeload.github.com/rckaruna/dgt/tar.gz/a672bcc620dabf9a1543666fec72e47c98215d8d",
+  "archive_path": "quarantine/archives/distributional-gt.tar.gz",
+  "archive_sha256": "102da057b179ac31bf6ee7c66c001ebb5243609b2bb276fdd5860af0a16b0792",
+  "archive_bytes": 66772,
+  "extracted_path": "quarantine/references/distributional-gt",
+  "extracted_files": 90,
+  "excluded_paths": [
+    "dgt-a672bcc620dabf9a1543666fec72e47c98215d8d",
+    "dgt-a672bcc620dabf9a1543666fec72e47c98215d8d/.github",
+    "dgt-a672bcc620dabf9a1543666fec72e47c98215d8d/.github/workflows",
+    "dgt-a672bcc620dabf9a1543666fec72e47c98215d8d/R",
+    "dgt-a672bcc620dabf9a1543666fec72e47c98215d8d/inst",
+    "dgt-a672bcc620dabf9a1543666fec72e47c98215d8d/inst/reviewer",
+    "dgt-a672bcc620dabf9a1543666fec72e47c98215d8d/man",
+    "dgt-a672bcc620dabf9a1543666fec72e47c98215d8d/tests",
+    "dgt-a672bcc620dabf9a1543666fec72e47c98215d8d/tests/testthat",
+    "dgt-a672bcc620dabf9a1543666fec72e47c98215d8d/vignettes"
+  ],
+  "strip_root": true,
+  "license_note": "NOASSERTION",
+  "description": "Distributional Generalizability Theory",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:45:07.575174+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only distributional-gt"
+}

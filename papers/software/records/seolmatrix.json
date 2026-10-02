@@ -1,0 +1,24 @@
+{
+  "id": "seolmatrix",
+  "source_url": "https://github.com/hyunsooseol/seolmatrix",
+  "revision": "a6c3e331f5f977ff497f119b2cfbade49ca51257",
+  "archive_url": "https://codeload.github.com/hyunsooseol/seolmatrix/tar.gz/a6c3e331f5f977ff497f119b2cfbade49ca51257",
+  "archive_path": "quarantine/archives/seolmatrix.tar.gz",
+  "archive_sha256": "3f08f8e1054bf7c1da674d0a48607ed6f8f03a7b37b45f24f3b388ce3b8802be",
+  "archive_bytes": 1407816,
+  "extracted_path": "quarantine/references/seolmatrix",
+  "extracted_files": 114,
+  "excluded_paths": [
+    "seolmatrix-a6c3e331f5f977ff497f119b2cfbade49ca51257",
+    "seolmatrix-a6c3e331f5f977ff497f119b2cfbade49ca51257/R",
+    "seolmatrix-a6c3e331f5f977ff497f119b2cfbade49ca51257/data",
+    "seolmatrix-a6c3e331f5f977ff497f119b2cfbade49ca51257/jamovi",
+    "seolmatrix-a6c3e331f5f977ff497f119b2cfbade49ca51257/man"
+  ],
+  "strip_root": true,
+  "license_note": "GPL-3.0",
+  "description": "This module is a tool for calculating correlations such as Partial, Tetrachoric, Intraclass correlation coefficients, Canonical correlation, Bootstrap agreement, Rater reliability, Generalizability Theory, Analytic Hierarchy Process, and allows users to produce Gaussian Graphical Model and Partial plot.",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:44:59.338759+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only seolmatrix"
+}

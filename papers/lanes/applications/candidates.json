@@ -1,0 +1,858 @@
+[
+  {
+    "slug": "briesch2014",
+    "title": "Generalizability theory: A practical guide to study design, implementation, and interpretation",
+    "year": 2014,
+    "doi": "10.1016/j.jsp.2013.11.008",
+    "topics": [
+      "education",
+      "tutorial",
+      "design-planning"
+    ],
+    "relevance": "Practical decision guide and simulated student-engagement worked example; seven candidate facets and G/D study workflow.",
+    "candidates": [
+      "https://www.sciencedirect.com/science/article/pii/S0022440513001106/pdfft"
+    ],
+    "authors": [
+      "Amy M. Briesch",
+      "Hariharan Swaminathan",
+      "Megan Welsh",
+      "Sandra M. Chafouleas"
+    ],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1016/j.jsp.2013.11.008"
+  },
+  {
+    "slug": "bloch-norman2012",
+    "title": "Generalizability theory for the perplexed: A practical introduction and guide: AMEE Guide No. 68",
+    "year": 2012,
+    "doi": "10.3109/0142159X.2012.703791",
+    "topics": [
+      "medical",
+      "OSCE",
+      "tutorial"
+    ],
+    "relevance": "Broad applied medical teaching guide covering performance tests, knowledge tests, ratings and self-report.",
+    "candidates": [
+      "https://www.tandfonline.com/doi/pdf/10.3109/0142159X.2012.703791"
+    ],
+    "authors": [
+      "Ralph Bloch",
+      "Geoffrey Norman"
+    ],
+    "pmc": null,
+    "source_url": "https://doi.org/10.3109/0142159X.2012.703791"
+  },
+  {
+    "slug": "shavelson1993",
+    "title": "Sampling Variability of Performance Assessments",
+    "year": 1993,
+    "doi": "10.1111/j.1745-3984.1993.tb00424.x",
+    "topics": [
+      "education",
+      "performance",
+      "tasks",
+      "school-aggregation"
+    ],
+    "relevance": "Seminal task/method/occasion/rater sampling; contrasts individual and school-level generalization.",
+    "candidates": [
+      "https://cresst.org/wp-content/uploads/TECH361.pdf"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1111/j.1745-3984.1993.tb00424.x"
+  },
+  {
+    "slug": "hill2012",
+    "title": "When Rater Reliability Is Not Enough: Teacher Observation Systems and a Case for the Generalizability Study",
+    "year": 2012,
+    "doi": "10.3102/0013189X12437203",
+    "topics": [
+      "education",
+      "teacher-observation",
+      "lessons",
+      "raters"
+    ],
+    "relevance": "Separates observation instrument from scoring design and shows why interrater agreement alone misses lesson sampling.",
+    "candidates": [
+      "https://scholar.harvard.edu/files/mkraft/files/hill_charalambous_kraft_2012.pdf"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.3102/0013189X12437203"
+  },
+  {
+    "slug": "teacher-time",
+    "title": "Making Inferences About Teacher Observation Scores Over Time",
+    "year": 2020,
+    "doi": null,
+    "topics": [
+      "education",
+      "teacher-observation",
+      "time",
+      "confounding"
+    ],
+    "relevance": "Hidden occasion facet can be confounded with lesson; systematic growth makes observation timing consequential.",
+    "candidates": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7328239/fullTextXML"
+    ],
+    "authors": [],
+    "pmc": "PMC7328239",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7328239/"
+  },
+  {
+    "slug": "bachman1995",
+    "title": "Investigating variability in tasks and rater judgements in a performance test of foreign language speaking",
+    "year": 1995,
+    "doi": "10.1177/026553229501200206",
+    "topics": [
+      "language",
+      "speaking",
+      "raters",
+      "many-facet-Rasch"
+    ],
+    "relevance": "Seminal comparative GENOVA/FACETS application; GT variance allocation and Rasch severity diagnosis answer complementary questions.",
+    "candidates": [
+      "https://files.eric.ed.gov/fulltext/ED368154.pdf"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1177/026553229501200206"
+  },
+  {
+    "slug": "innami-koizumi2016",
+    "title": "Task and rater effects in L2 speaking and writing: A synthesis of generalizability studies",
+    "year": 2016,
+    "doi": "10.1177/0265532215587390",
+    "topics": [
+      "language",
+      "review",
+      "tasks",
+      "raters"
+    ],
+    "relevance": "Primary synthesis of L2 GT designs and contextual moderators; does not imply universal task/rater allocation.",
+    "candidates": [
+      "https://journals.sagepub.com/doi/pdf/10.1177/0265532215587390"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1177/0265532215587390"
+  },
+  {
+    "slug": "reading2015",
+    "title": "A Generalizability Theory Study on the Assessment of Task-Based Reading Performance",
+    "year": 2015,
+    "doi": "10.20622/jltajournal.18.0_92",
+    "topics": [
+      "language",
+      "reading",
+      "rating-scales"
+    ],
+    "relevance": "122 students by six tasks by six raters; rating scale type can alter qualitative scoring despite similar reliability.",
+    "candidates": [
+      "https://www.jstage.jst.go.jp/article/jltajournal/18/0/18_92/_pdf"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.20622/jltajournal.18.0_92"
+  },
+  {
+    "slug": "pharmacy-primer2021",
+    "title": "Moving beyond Cronbach\u2019s Alpha and Inter-Rater Reliability: A Primer on Generalizability Theory for Pharmacy Education",
+    "year": 2021,
+    "doi": null,
+    "topics": [
+      "pharmacy",
+      "tutorial",
+      "validity"
+    ],
+    "relevance": "Applied primer connecting GT to generalization inference in Kane framework; reliability alone does not establish extrapolation validity.",
+    "candidates": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102977/fullTextXML"
+    ],
+    "authors": [],
+    "pmc": "PMC8102977",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8102977/"
+  },
+  {
+    "slug": "pharmacy-course2021",
+    "title": "Validation Evidence from using Generalizability Theory in a Basic-Science Course: Reliability of Course-Grades from Multiple Examinations",
+    "year": 2021,
+    "doi": null,
+    "topics": [
+      "pharmacy",
+      "examinations",
+      "occasions",
+      "course-grades"
+    ],
+    "relevance": "Course-level reliability treats repeated examinations as an occasion facet.",
+    "candidates": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102975/fullTextXML"
+    ],
+    "authors": [],
+    "pmc": "PMC8102975",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8102975/"
+  },
+  {
+    "slug": "crossley2002",
+    "title": "Generalisability: a key to unlock professional assessment",
+    "year": 2002,
+    "doi": "10.1046/j.1365-2923.2002.01320.x",
+    "topics": [
+      "medical",
+      "professional-assessment",
+      "tutorial"
+    ],
+    "relevance": "Observer/case/situation interaction sampling with worked professional-assessment examples.",
+    "candidates": [
+      "https://asmepublications.onlinelibrary.wiley.com/doi/pdf/10.1046/j.1365-2923.2002.01320.x"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1046/j.1365-2923.2002.01320.x"
+  },
+  {
+    "slug": "mini-cex-laboratory",
+    "title": "A laboratory study on the reliability estimations of the mini-CEX",
+    "year": 2013,
+    "doi": null,
+    "topics": [
+      "medical",
+      "workplace",
+      "mini-CEX",
+      "confounding"
+    ],
+    "relevance": "Controlled crossed video design breaks case/assessor confounding in ordinary clinical encounters and supports alternative nested D designs.",
+    "candidates": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3569586/fullTextXML"
+    ],
+    "authors": [],
+    "pmc": "PMC3569586",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3569586/"
+  },
+  {
+    "slug": "crossley2011",
+    "title": "Good questions, good answers: construct alignment improves the performance of workplace-based assessment scales",
+    "year": 2011,
+    "doi": "10.1111/j.1365-2923.2010.03913.x",
+    "topics": [
+      "medical",
+      "workplace",
+      "rating-scales"
+    ],
+    "relevance": "Construct alignment changes rating performance and sampling demands; instrument redesign may matter as much as replication.",
+    "candidates": [
+      "https://asmepublications.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2923.2010.03913.x"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1111/j.1365-2923.2010.03913.x"
+  },
+  {
+    "slug": "putka-hoffman2013",
+    "title": "Clarifying the Contribution of Assessee-, Dimension-, Exercise-, and Assessor-Related Effects to Reliable and Unreliable Variance in Assessment Center Ratings",
+    "year": 2013,
+    "doi": "10.1037/a0030887",
+    "topics": [
+      "workplace",
+      "assessment-centers",
+      "dimensions",
+      "aggregation"
+    ],
+    "relevance": "Detailed assessment-center decomposition with actual assessor identifiers; interpretation depends on aggregation and target generalizations.",
+    "candidates": [
+      "https://www.apa.org/pubs/journals/features/apl-a0030887.pdf"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1037/a0030887"
+  },
+  {
+    "slug": "jackson2022",
+    "title": "Clarifying the Scope of Generalizability Theory for Multifaceted Assessment",
+    "year": 2022,
+    "doi": null,
+    "topics": [
+      "workplace",
+      "assessment-centers",
+      "SEM",
+      "construct-validity"
+    ],
+    "relevance": "214 managerial assessees; compares GT and latent-variable approaches for structural validity as well as reliability.",
+    "candidates": [
+      "https://ueaeprints.uea.ac.uk/id/document/97064"
+    ],
+    "authors": [
+      "Duncan J. R. Jackson",
+      "George Michaelides",
+      "Chris Dewberry",
+      "Paul Englert"
+    ],
+    "pmc": null,
+    "source_url": "https://ueaeprints.uea.ac.uk/id/document/97064"
+  },
+  {
+    "slug": "jackson-confounds2016",
+    "title": "Removing the Confounds From Assessment Center Ratings: A New Perspective on Unconfounded Sources of Reliable and Unreliable Variance in Assessment Center Ratings",
+    "year": 2016,
+    "doi": null,
+    "topics": [
+      "workplace",
+      "assessment-centers",
+      "confounding"
+    ],
+    "relevance": "Follow-on decomposition of assessor/dimension/exercise effects; caution: authors\u2019 description of REML boundary estimates needs checking against estimator foundations.",
+    "candidates": [
+      "https://eprints.bbk.ac.uk/id/eprint/14241/1/14241.pdf"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://eprints.bbk.ac.uk/id/eprint/14241/"
+  },
+  {
+    "slug": "lakes-hoyt2009",
+    "title": "Applications of Generalizability Theory to Clinical Child and Adolescent Psychology Research",
+    "year": 2009,
+    "doi": "10.1080/15374410802575461",
+    "topics": [
+      "clinical",
+      "child",
+      "observer-ratings",
+      "occasions"
+    ],
+    "relevance": "181 children; raters/items/occasions worked example, contextual differences in parent/teacher/observer ratings.",
+    "candidates": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3650138/fullTextXML"
+    ],
+    "authors": [],
+    "pmc": "PMC3650138",
+    "source_url": "https://doi.org/10.1080/15374410802575461"
+  },
+  {
+    "slug": "lakes-hoyt2008",
+    "title": "What Sources Contribute to Variance in Observer Ratings? Using Generalizability Theory to Assess Construct Validity of Psychological Measures",
+    "year": 2008,
+    "doi": "10.1002/icd.551",
+    "topics": [
+      "clinical",
+      "observer-ratings",
+      "construct-validity",
+      "contexts"
+    ],
+    "relevance": "27 caregiver\u2013child dyads across situations; GT as substantive contextual inquiry as well as score reliability.",
+    "candidates": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4083611/fullTextXML"
+    ],
+    "authors": [],
+    "pmc": "PMC4083611",
+    "source_url": "https://doi.org/10.1002/icd.551"
+  },
+  {
+    "slug": "lakes-restricted",
+    "title": "Restricted Sample Variance Reduces Generalizability",
+    "year": 2013,
+    "doi": null,
+    "topics": [
+      "clinical",
+      "child",
+      "population",
+      "range-restriction"
+    ],
+    "relevance": "Population heterogeneity changes coefficient; developmentally homogeneous subgroups can invalidate transported reliability.",
+    "candidates": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3657319/fullTextXML"
+    ],
+    "authors": [],
+    "pmc": "PMC3657319",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3657319/"
+  },
+  {
+    "slug": "arterberry2014",
+    "title": "Application of Generalizability Theory to the Big Five Inventory",
+    "year": 2014,
+    "doi": "10.1016/j.paid.2014.05.015",
+    "topics": [
+      "personality",
+      "items",
+      "occasions"
+    ],
+    "relevance": "Items and occasions jointly assessed for BFI; reliability is a property of scores in specified sampling conditions.",
+    "candidates": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4236721/fullTextXML"
+    ],
+    "authors": [],
+    "pmc": "PMC4236721",
+    "source_url": "https://doi.org/10.1016/j.paid.2014.05.015"
+  },
+  {
+    "slug": "medvedev2017",
+    "title": "Measuring Mindfulness: Applying Generalizability Theory to Distinguish between State and Trait",
+    "year": 2017,
+    "doi": "10.1007/s12671-017-0679-0",
+    "topics": [
+      "state-trait",
+      "mindfulness",
+      "occasions"
+    ],
+    "relevance": "Person-by-occasion interaction interpreted as state variability; treating that signal as error changes substantive question.",
+    "candidates": [
+      "https://link.springer.com/content/pdf/10.1007/s12671-017-0679-0.pdf"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1007/s12671-017-0679-0"
+  },
+  {
+    "slug": "selfcompassion2021",
+    "title": "Applying Generalizability Theory to the Self-Compassion Scale to Examine State and Trait Aspects and Generalizability of Assessment Scores",
+    "year": 2021,
+    "doi": null,
+    "topics": [
+      "state-trait",
+      "self-compassion",
+      "occasions"
+    ],
+    "relevance": "Repeated psychological self-report; distinguishing state sensitivity and stable trait inference.",
+    "candidates": [
+      "https://self-compassion.org/wp-content/uploads/2021/11/Medvedev-et-al.-2021-Applying-Generalizability-Theory-to-the-Self-Compa.pdf"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://self-compassion.org/wp-content/uploads/2021/11/Medvedev-et-al.-2021-Applying-Generalizability-Theory-to-the-Self-Compa.pdf"
+  },
+  {
+    "slug": "hoyt-melby1999",
+    "title": "Dependability of Measurement in Counseling Psychology: An Introduction to Generalizability Theory",
+    "year": 1999,
+    "doi": "10.1177/0011000099273003",
+    "topics": [
+      "counseling",
+      "tutorial",
+      "observer-ratings"
+    ],
+    "relevance": "Foundational applied psychology primer; multiple error sources and diverse measurement contexts.",
+    "candidates": [
+      "https://journals.sagepub.com/doi/pdf/10.1177/0011000099273003"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1177/0011000099273003"
+  },
+  {
+    "slug": "baldwin2015",
+    "title": "The dependability of electrophysiological measurements of performance monitoring in a clinical sample: A generalizability and decision analysis of the ERN and Pe",
+    "year": 2015,
+    "doi": "10.1111/psyp.12401",
+    "topics": [
+      "psychophysiology",
+      "ERP",
+      "trials",
+      "clinical"
+    ],
+    "relevance": "Early ERP G/D analysis considering psychopathology and trial count; coefficient conditions include population.",
+    "candidates": [
+      "https://onlinelibrary.wiley.com/doi/pdf/10.1111/psyp.12401"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1111/psyp.12401"
+  },
+  {
+    "slug": "era2017",
+    "title": "ERP Reliability Analysis (ERA) Toolbox: An open-source toolbox for analyzing the reliability of event-related brain potentials",
+    "year": 2017,
+    "doi": "10.1016/j.ijpsycho.2016.10.012",
+    "topics": [
+      "psychophysiology",
+      "ERP",
+      "software",
+      "trials"
+    ],
+    "relevance": "Reference implementation for event/group/trial sampling; predecessor to PsyRAT.",
+    "candidates": [
+      "https://www.sciencedirect.com/science/article/pii/S016787601630736X/pdfft"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1016/j.ijpsycho.2016.10.012"
+  },
+  {
+    "slug": "erp-guidelines2017",
+    "title": "Psychometric considerations in the measurement of event-related brain potentials: Guidelines for measurement and reporting",
+    "year": 2017,
+    "doi": "10.1016/j.ijpsycho.2016.09.005",
+    "topics": [
+      "psychophysiology",
+      "ERP",
+      "reporting",
+      "tutorial"
+    ],
+    "relevance": "Reliability should be evaluated for each study/population/pipeline; guidelines for trial minima and reporting.",
+    "candidates": [
+      "https://www.sciencedirect.com/science/article/pii/S0167876016306973/pdfft"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1016/j.ijpsycho.2016.09.005"
+  },
+  {
+    "slug": "erp-retest2021",
+    "title": "Using generalizability theory and the ERP Reliability Analysis (ERA) Toolbox for assessing test-retest reliability of ERP scores part 1: Algorithms, framework, and implementation",
+    "year": 2021,
+    "doi": "10.1016/j.ijpsycho.2021.01.006",
+    "topics": [
+      "psychophysiology",
+      "ERP",
+      "test-retest",
+      "software"
+    ],
+    "relevance": "Algorithms extend trial-only analysis to occasions; explicit reliability of change and repeated assessments.",
+    "candidates": [
+      "https://osf.io/preprints/psyarxiv/kcven/download"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1016/j.ijpsycho.2021.01.006"
+  },
+  {
+    "slug": "erp-subject2021",
+    "title": "Data quality and reliability metrics for event-related potentials (ERPs): The utility of subject-level reliability",
+    "year": 2021,
+    "doi": "10.1016/j.ijpsycho.2021.04.004",
+    "topics": [
+      "psychophysiology",
+      "ERP",
+      "subject-level",
+      "reliability"
+    ],
+    "relevance": "Subject-level versus group reliability and trial inclusion rules require distinct interpretation.",
+    "candidates": [
+      "https://osf.io/preprints/psyarxiv/ja6bw/download"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1016/j.ijpsycho.2021.04.004"
+  },
+  {
+    "slug": "erp-difference2021",
+    "title": "Evaluating the internal consistency of subtraction-based and residualized difference scores: Considerations for psychometric reliability analyses of event-related potentials",
+    "year": 2021,
+    "doi": "10.1111/psyp.13762",
+    "topics": [
+      "psychophysiology",
+      "ERP",
+      "difference-scores",
+      "covariance"
+    ],
+    "relevance": "Difference-score reliability requires covariance propagation and choice of subtraction versus residualization.",
+    "candidates": [
+      "https://osf.io/preprints/psyarxiv/nqwz6/download"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1111/psyp.13762"
+  },
+  {
+    "slug": "rocha2026",
+    "title": "Beyond classical metrics: Generalizability theory across psychophysiological modalities",
+    "year": 2026,
+    "doi": "10.1016/j.ijpsycho.2026.113321",
+    "topics": [
+      "psychophysiology",
+      "tutorial",
+      "EEG",
+      "EDA",
+      "EMG",
+      "ECG",
+      "PsyRAT"
+    ],
+    "relevance": "Cross-modality synthesis; trials/tasks/sessions, difference scores, multilevel estimation and design optimization.",
+    "candidates": [
+      "https://www.sciencedirect.com/science/article/pii/S0167876026000036/pdfft"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1016/j.ijpsycho.2026.113321"
+  },
+  {
+    "slug": "rast-clayson2026",
+    "title": "Enhancing generalizability theory with mixed-effects models for heteroscedasticity in psychological measurement: A theoretical introduction with an application from EEG data",
+    "year": 2026,
+    "doi": "10.1111/bmsp.70026",
+    "topics": [
+      "psychophysiology",
+      "EEG",
+      "heteroscedasticity",
+      "mixed-models"
+    ],
+    "relevance": "Reliability changes over participant dimensions rather than assuming a single homogeneous residual distribution.",
+    "candidates": [
+      "https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.70026"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1111/bmsp.70026"
+  },
+  {
+    "slug": "fmri-working2014",
+    "title": "Reliability of functional magnetic resonance imaging activation during working memory in a multi-site study: Analysis from the North American Prodrome Longitudinal Study",
+    "year": 2014,
+    "doi": null,
+    "topics": [
+      "neuroimaging",
+      "fMRI",
+      "sites",
+      "sessions"
+    ],
+    "relevance": "Traveling participants and site/session decomposition; extrapolation to ordinary multisite cohorts requires a matching D design.",
+    "candidates": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4065837/fullTextXML"
+    ],
+    "authors": [],
+    "pmc": "PMC4065837",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4065837/"
+  },
+  {
+    "slug": "fmri-clarification2017",
+    "title": "Reliability of an fMRI paradigm for emotional processing in a multisite longitudinal study: Clarification and implications for statistical power",
+    "year": 2017,
+    "doi": null,
+    "topics": [
+      "neuroimaging",
+      "fMRI",
+      "sites",
+      "design-change"
+    ],
+    "relevance": "Essential cautionary follow-up: reliability across eight sites/two sessions differs from one random site/single scan per participant.",
+    "candidates": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5718980/fullTextXML"
+    ],
+    "authors": [],
+    "pmc": "PMC5718980",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5718980/"
+  },
+  {
+    "slug": "connectomic2017",
+    "title": "Toward Leveraging Human Connectomic Data in Large Consortia: Generalizability of fMRI-Based Brain Graphs Across Sites, Sessions, and Paradigms",
+    "year": 2017,
+    "doi": null,
+    "topics": [
+      "neuroimaging",
+      "connectomics",
+      "sites",
+      "sessions",
+      "paradigms"
+    ],
+    "relevance": "Crossed traveling-subject data used to project nested single-site design; pipeline choices and graph metric specificity matter.",
+    "candidates": [
+      "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6676966/fullTextXML"
+    ],
+    "authors": [],
+    "pmc": "PMC6676966",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6676966/"
+  },
+  {
+    "slug": "iced2018",
+    "title": "Assessing reliability in neuroimaging research through intra-class effect decomposition (ICED)",
+    "year": 2018,
+    "doi": "10.7554/eLife.35718",
+    "topics": [
+      "neuroimaging",
+      "SEM",
+      "reliability",
+      "ICED"
+    ],
+    "relevance": "SEM method grounded in GT separates run/session/day/site error; potential reusable simulation and worked neuroimaging data.",
+    "candidates": [
+      "https://elifesciences.org/articles/35718.pdf"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.7554/eLife.35718"
+  },
+  {
+    "slug": "bodoff2008",
+    "title": "Test theory for evaluating reliability of IR test collections",
+    "year": 2008,
+    "doi": "10.1016/j.ipm.2007.11.006",
+    "topics": [
+      "information-retrieval",
+      "systems",
+      "queries",
+      "assessors"
+    ],
+    "relevance": "Early GT translation from students/questions to retrieval systems/queries; compares query and assessor allocation.",
+    "candidates": [
+      "https://www.sciencedirect.com/science/article/pii/S0306457307002129/pdfft"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1016/j.ipm.2007.11.006"
+  },
+  {
+    "slug": "urbano2013",
+    "title": "On the Measurement of Test Collection Reliability",
+    "year": 2013,
+    "doi": "10.1145/2484028.2484038",
+    "topics": [
+      "information-retrieval",
+      "systems",
+      "queries",
+      "confidence-intervals"
+    ],
+    "relevance": "TREC collections; relates GT coefficients to ranking stability and highlights sample-sensitive query requirements.",
+    "candidates": [
+      "https://julian-urbano.info/files/publications/055-measurement-test-collection-reliability.pdf"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1145/2484028.2484038"
+  },
+  {
+    "slug": "urbano2016",
+    "title": "Test collection reliability: a study of bias and robustness to statistical assumptions via stochastic simulation",
+    "year": 2016,
+    "doi": "10.1007/s10791-015-9274-y",
+    "topics": [
+      "information-retrieval",
+      "simulation",
+      "robustness"
+    ],
+    "relevance": "Simulation distinguishes estimator bias/robustness from known true system scores; data/code repository irj2015-reliability.",
+    "candidates": [
+      "https://julian-urbano.info/files/publications/064-test-collection-reliability-study-bias-robustness-statistical-assumptions-stochastic-simulation.pdf"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://doi.org/10.1007/s10791-015-9274-y"
+  },
+  {
+    "slug": "ddr2026",
+    "title": "Deployment Decision Reliability: A Generalizability-Theory Framework for Sizing Long-Horizon Agent Evaluations",
+    "year": 2026,
+    "doi": "10.48550/arXiv.2608.11323",
+    "topics": [
+      "AI",
+      "agents",
+      "preprint",
+      "benchmarks"
+    ],
+    "relevance": "2026 unreviewed preprint applies four-facet analysis to three public agent benchmarks; numerical agreement claims require independent validation.",
+    "candidates": [
+      "https://arxiv.org/pdf/2608.11323"
+    ],
+    "authors": [
+      "Vasundra Srinivasan"
+    ],
+    "pmc": null,
+    "source_url": "https://arxiv.org/abs/2608.11323"
+  },
+  {
+    "slug": "brand2026",
+    "title": "Where Does the Noise Come From? A Variance-Components Decomposition of Non-Determinism in LLM Brand Answers",
+    "year": 2026,
+    "doi": "10.48550/arXiv.2607.13304",
+    "topics": [
+      "AI",
+      "LLM",
+      "preprint",
+      "language",
+      "prompts",
+      "repeats"
+    ],
+    "relevance": "2026 unreviewed preprint: brands crossed with language/model/prompt/repeats; relative ranking and absolute brand outcomes are distinct.",
+    "candidates": [
+      "https://arxiv.org/pdf/2607.13304"
+    ],
+    "authors": [
+      "Dmitrij \u017batuchin"
+    ],
+    "pmc": null,
+    "source_url": "https://arxiv.org/abs/2607.13304"
+  },
+  {
+    "slug": "judge2026",
+    "title": "Ask Which, Not How Good: Sizing Benchmarks Scored by an LLM",
+    "year": 2026,
+    "doi": "10.48550/arXiv.2609.27787",
+    "topics": [
+      "AI",
+      "LLM-judge",
+      "preprint",
+      "interactions",
+      "design-ceiling"
+    ],
+    "relevance": "2026 unreviewed preprint: system-by-judge term imposes one-judge reliability ceiling; pairwise protocol introduces order effect.",
+    "candidates": [
+      "https://arxiv.org/pdf/2609.27787"
+    ],
+    "authors": [
+      "Atul Anand"
+    ],
+    "pmc": null,
+    "source_url": "https://arxiv.org/abs/2609.27787"
+  },
+  {
+    "slug": "liu-gt2026",
+    "title": "Generalizability Theory for LLM-as-Evaluator Reliability: Univariate and Multivariate Variance Decomposition Across Models, Prompts, and Temperatures in Text Classification",
+    "year": 2026,
+    "doi": "10.2139/ssrn.6432598",
+    "topics": [
+      "AI",
+      "LLM-annotation",
+      "preprint",
+      "multivariate",
+      "temperature",
+      "seed"
+    ],
+    "relevance": "Unreviewed SSRN analysis of 64,800 observations across three annotation panels; code archive and public OSF deposit provide reusable full designs.",
+    "candidates": [
+      "https://papers.ssrn.com/sol3/Delivery.cfm/6432598.pdf?abstractid=6432598"
+    ],
+    "authors": [
+      "Jin Liu"
+    ],
+    "pmc": null,
+    "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6432598"
+  },
+  {
+    "slug": "llm-writing2025",
+    "title": "Exploring LLM Autoscoring Reliability in Large-Scale Writing Assessments Using Generalizability Theory",
+    "year": 2025,
+    "doi": "10.48550/arXiv.2507.19980",
+    "topics": [
+      "AI",
+      "language",
+      "writing",
+      "preprint",
+      "LLM-raters"
+    ],
+    "relevance": "2025 preprint applies GT to AP Chinese writing autoscoring; verify disposition and relationship to other writing-rater papers rather than conflating them.",
+    "candidates": [
+      "https://arxiv.org/pdf/2507.19980"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://arxiv.org/abs/2507.19980"
+  },
+  {
+    "slug": "llm-writing-journal2025",
+    "title": "Evaluating large language models as raters in large-scale writing assessments: A psychometric framework for reliability and validity",
+    "year": 2025,
+    "doi": null,
+    "topics": [
+      "AI",
+      "language",
+      "writing",
+      "LLM-raters",
+      "many-facet-Rasch"
+    ],
+    "relevance": "Published 2025 study combines GT/MFRM across three essay genres; restrict conclusions to the studied prompts/models/rubrics.",
+    "candidates": [
+      "https://www.sciencedirect.com/science/article/pii/S2666920X25001213/pdfft"
+    ],
+    "authors": [],
+    "pmc": null,
+    "source_url": "https://www.sciencedirect.com/science/article/pii/S2666920X25001213"
+  }
+]

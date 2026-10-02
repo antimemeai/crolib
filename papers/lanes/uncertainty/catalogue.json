@@ -1,0 +1,936 @@
+[
+  {
+    "id": "uncertainty-lee-harris-2025",
+    "title": "Reliability in Educational Measurement",
+    "authors": [
+      "Won-Chan Lee",
+      "Deborah J. Harris"
+    ],
+    "year": 2025,
+    "doi": "10.1093/oso/9780197654965.003.0005",
+    "source_url": "https://ncme.org/wp-content/uploads/2026/01/Educational-Measurement-Fifth-Edition-Chapter-05.pdf",
+    "fulltext_url": "https://ncme.org/wp-content/uploads/2026/01/Educational-Measurement-Fifth-Edition-Chapter-05.pdf",
+    "local_path": "papers/downloads/uncertainty/lee-harris-2025-reliability-chapter.pdf",
+    "status": "acquired",
+    "topics": [
+      "reliability",
+      "uncertainty",
+      "conditional SEM",
+      "generalizability",
+      "replication"
+    ],
+    "relevance": "Current authoritative fifth-edition chapter; connects GT to CTT/IRT and precision of reliability estimates.",
+    "evidence": "Full text acquired; read GT overview, Error in Reliability Estimates (printed pp.360–361), practical guidelines and bibliography. Not a complete reading of its 105 pages. Simulations/resampling omit some replication error; few sampled levels make GT component estimates uncertain.",
+    "acquisition_note": "NCME official chapter posted January 2026; original citation 2025. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-lee-et-al-2025-casma58",
+    "title": "Empirical Investigation of Various Reliability Statistics",
+    "authors": [
+      "Won-Chan Lee",
+      "Deborah J. Harris",
+      "Huan Liu",
+      "Kuo-Feng Chang"
+    ],
+    "year": 2025,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-58-archived.pdf",
+    "local_path": "papers/downloads/uncertainty/lee-harris-liu-chang-2025-reliability.pdf",
+    "status": "acquired",
+    "topics": [
+      "reliability",
+      "replication",
+      "SEM",
+      "composite",
+      "benchmark"
+    ],
+    "relevance": "CASMA 58 companion computations for fifth-edition chapter, valuable formulas/tables for reference comparisons.",
+    "evidence": "Full text acquired; read introduction, single-domain/composite coefficient comparisons, computational tools and conclusions. Pseudo-parallel half forms preserve content/statistics and use one occasion: benchmark captures item sampling while occasion/motivation/context held constant. Coefficient alpha equals single-facet GT G; composite stratification changes results.",
+    "acquisition_note": "December 2025 (PDF/index verified); 25 PDF pages. Computational examples are not interval-coverage validation. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-act87-7",
+    "title": "The Bootstrap and Other Procedures for Examining the Variability of Estimated Variance Components in Testing Contexts",
+    "authors": [
+      "Robert L. Brennan",
+      "Deborah J. Harris",
+      "Bradley A. Hanson"
+    ],
+    "year": 1987,
+    "doi": null,
+    "source_url": "https://www.act.org/content/dam/act/unsecured/documents/ACT_RR87-07.pdf",
+    "fulltext_url": "https://www.act.org/content/dam/act/unsecured/documents/ACT_RR87-07.pdf",
+    "local_path": "papers/downloads/uncertainty/brennan-harris-hanson-1987-bootstrap.pdf",
+    "status": "acquired",
+    "topics": [
+      "bootstrap",
+      "jackknife",
+      "variance components",
+      "finite universes",
+      "confidence intervals"
+    ],
+    "relevance": "Original GT resampling investigation and finite-universe jackknife formulas.",
+    "evidence": "Full text acquired; read summary/conclusions pp.24–27, AppendixB jackknife/pseudo-values, finite universe tables and bootstrap comparisons. Normal/binary p×i simulations; component-dependent bootstrap recommendations. AppendixB includes c_n=1−n/N and c_k=1−k/K and corrects Cronbach 1972 extra sqrt(nk) divisor. Different conclusions for jackknife than later studies.",
+    "acquisition_note": "ACT report 87-7 September 1987, iii+53 pages; OCR formulas require visual confirmation before implementation. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-tong-brennan-2004",
+    "title": "Bootstrap Procedures for Estimating Standard Errors of Estimated Variance Components for Two-Facet Designs",
+    "authors": [
+      "Ye Tong",
+      "Robert L. Brennan"
+    ],
+    "year": 2004,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-5-archived.pdf",
+    "local_path": "papers/downloads/uncertainty/tong-brennan-2004-bootstrap-se.pdf",
+    "status": "acquired",
+    "topics": [
+      "bootstrap",
+      "standard errors",
+      "crossed",
+      "nested"
+    ],
+    "relevance": "CASMA 5 original two-facet normal-data bootstrap study.",
+    "evidence": "Full text acquired; read methods/designs, conclusions and appendix bias factors. p×i×h and p×(i:h), particular 100×20×2 normal-data structure. Tentative rules and explicit future extension to dichotomous/polytomous data.",
+    "acquisition_note": "February 2004; precursor to later 2006/2007 work, not independent corroboration. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-tong-brennan-2006",
+    "title": "Bootstrap Techniques for Estimating Variability in Generalizability Theory",
+    "authors": [
+      "Ye Tong",
+      "Robert L. Brennan"
+    ],
+    "year": 2006,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-15-archived.pdf",
+    "local_path": "papers/downloads/uncertainty/tong-brennan-2006-bootstrap.pdf",
+    "status": "acquired",
+    "topics": [
+      "bootstrap",
+      "variance components",
+      "relative error",
+      "absolute error",
+      "bias correction"
+    ],
+    "relevance": "CASMA 15 extends to normal/dichotomous/polytomous crossed and nested designs.",
+    "evidence": "Full text acquired; read methods, correction formulas and discussion. 1000 trials and 100 bootstrap draws/trial,100×20×2 design. Main effects use own-facet bootstrap; interactions largest-sample facet. Boot-p works for SE(relative error); no bootstrap performed well for SE(absolute error). Ad hoc correction formulas explicitly lack rigorous derivation in this report.",
+    "acquisition_note": "March 2006 report. Final 2007 article uses Brennan unbiased procedures; do not conflate versions. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-brennan-2006-casma21",
+    "title": "Unbiased Estimates of Variance Components with Bootstrap Procedures: Detailed Results",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2006,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-21-archived.pdf",
+    "local_path": "papers/downloads/uncertainty/brennan-2006-bootstrap-unbiased.pdf",
+    "status": "acquired",
+    "topics": [
+      "bootstrap",
+      "unbiased estimation",
+      "T terms",
+      "EMS",
+      "balanced random models"
+    ],
+    "relevance": "General derivations replacing ad hoc bootstrap correction with modified expected T-term equations.",
+    "evidence": "Full text acquired; read abstract, introduction, general-design expected-T-term procedure and scope. For any random-model balanced design and bootstrap sampling plan; solves modified T-term equations for unbiased component estimates. Unbiased point estimates alone do not prove correct joint covariance, error-variance SE or coefficient CI coverage.",
+    "acquisition_note": "November 2006 detailed 49-page report; paired with 2007 EPM paper. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-tong-brennan-2007",
+    "title": "Bootstrap Estimates of Standard Errors in Generalizability Theory",
+    "authors": [
+      "Ye Tong",
+      "Robert L. Brennan"
+    ],
+    "year": 2007,
+    "doi": "10.1177/0013164407301533",
+    "source_url": "https://journals.sagepub.com/doi/10.1177/0013164407301533",
+    "fulltext_url": "https://journals.sagepub.com/doi/pdf/10.1177/0013164407301533",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "bootstrap",
+      "standard errors",
+      "crossed",
+      "nested"
+    ],
+    "relevance": "Final peer-reviewed two-facet bootstrap work, EPM 67(5)804–817.",
+    "evidence": "Publisher abstract/metadata read; full PDF 403. Abstract identifies Brennan bias correction and simulations normal/dichotomous/polytomous p×i×h/p×(i:h). CASMA 15 acquired separately; final differences require final full text.",
+    "acquisition_note": "PDF HTTP 403; use subscription/author accepted manuscript."
+  },
+  {
+    "id": "uncertainty-brennan-2007",
+    "title": "Unbiased Estimates of Variance Components With Bootstrap Procedures",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2007,
+    "doi": "10.1177/0013164407301534",
+    "source_url": "https://journals.sagepub.com/doi/10.1177/0013164407301534",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "bootstrap",
+      "T terms",
+      "balanced random models"
+    ],
+    "relevance": "Final EPM 67(5)784–803 counterpart of detailed CASMA 21 derivations.",
+    "evidence": "Publisher abstract/metadata read, not final full text. Explicit any random-model balanced design/any bootstrap plan; modified expected T terms yield unbiased estimates. Detailed institutional report acquired separately.",
+    "acquisition_note": "Final-paper full text still operator acquisition; report offers derivations without claiming final equivalence."
+  },
+  {
+    "id": "uncertainty-betebenner-1998",
+    "title": "Improved Confidence Interval Estimation for Variance Components and Error Variances in Generalizability Theory",
+    "authors": [
+      "Damian W. Betebenner"
+    ],
+    "year": 1998,
+    "doi": null,
+    "source_url": "https://files.eric.ed.gov/fulltext/ED423304.pdf",
+    "fulltext_url": "https://files.eric.ed.gov/fulltext/ED423304.pdf",
+    "local_path": "papers/downloads/uncertainty/betebenner-1998-improved-ci.pdf",
+    "status": "acquired",
+    "topics": [
+      "confidence intervals",
+      "EMS",
+      "signed combinations",
+      "D study",
+      "simulation"
+    ],
+    "relevance": "GT-specific adaptation of modified-large-sample intervals to signed EMS combinations and error variances.",
+    "evidence": "Full text acquired; read conceptual restrictions, proposed methods, simulation conclusions, D-study example and bibliography. Balanced all-random normal models. Person/item components involve differences of EMS; naive nonnegative-combination Satterthwaite formula has inappropriate premises. Paper reports accurate/conservative two-sided and upper-error bounds in tested designs.",
+    "acquisition_note": "AERA April 1998 conference paper 11 PDFpages. Lu 1988 bibliography page range in this paper conflicts with Crossref (actual 35–43); source catalogue uses DOI metadata. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-jiang-2022",
+    "title": "A Monte Carlo Study of Confidence Interval Methods for Generalizability Coefficient",
+    "authors": [
+      "Zhehan Jiang",
+      "Mark Raymond",
+      "Christine DiStefano",
+      "Dexin Shi",
+      "Ren Liu",
+      "Junhua Sun"
+    ],
+    "year": 2022,
+    "doi": "10.1177/00131644211033899",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228698/",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228698/",
+    "local_path": "papers/downloads/uncertainty/jiang-2022-coefficient-ci.html",
+    "status": "acquired",
+    "topics": [
+      "coefficient intervals",
+      "parametric bootstrap",
+      "nested",
+      "crossed",
+      "dependability"
+    ],
+    "relevance": "Direct coefficient coverage comparison; particularly important scope/terminology traps.",
+    "evidence": "Full HTML acquired; read model/resampling methods, simulation design, results, discussion and footnote. Study explicitly focuses ABSOLUTE error despite G title (therefore Phi). Four LMM techniques,1000 replications×500 bootstrap draws for 100×20×2 crossed/nested normal/binary/polytomous responses. Spherical-random-effects PB best; nested polytomous coverage about 81% at nominal 95%. Variance-component follow-up 18 conditions.",
+    "acquisition_note": "Online 2021, EPM 82(4)705–718 issue 2022. Publisher PDF 403 and PMC PDF access page; public PMC HTML genuine full text acquired. All equations require preserved HTML/MathML or visual checking. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-li-2009",
+    "title": "Estimating the Variability of Estimated Variance Components for Generalizability Theory",
+    "authors": [
+      "Guang-Ming Li",
+      "Min-Qiang Zhang"
+    ],
+    "year": 2009,
+    "doi": null,
+    "source_url": "https://journal.psych.ac.cn/xlxb/CN/abstract/abstract5.shtml",
+    "fulltext_url": "https://journal.psych.ac.cn/xlxb/CN/article/downloadArticleFile.do?attachType=PDF&id=5",
+    "local_path": "papers/downloads/uncertainty/li-zhang-2009-variability.pdf",
+    "status": "acquired",
+    "topics": [
+      "bootstrap",
+      "jackknife",
+      "MCMC",
+      "coverage",
+      "variance components"
+    ],
+    "relevance": "Chinese primary simulation comparing four uncertainty estimators and bootstrap strategies.",
+    "evidence": "Publisher English abstract read; full Chinese PDF acquired if present, not yet read/translated. Abstract states normal data,p×i,traditional/jackknife/bootstrap/MCMC,80%interval coverage; jackknife less accurate, component-specific bootstrap rules.",
+    "acquisition_note": "Acta Psychologica Sinica 41(9)889–901; CSTR 32110.14.2009.00889. Missing DOI retained null rather than inferred. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-li-2013",
+    "title": "Using Adjusted Bootstrap to Improve the Estimation of Variance Components and Their Variability for Generalizability Theory",
+    "authors": [
+      "Guangming Li",
+      "Minqiang Zhang"
+    ],
+    "year": 2013,
+    "doi": "10.3724/SP.J.1041.2013.00114",
+    "source_url": "https://journal.psych.ac.cn/xlxb/CN/10.3724/SP.J.1041.2013.00114",
+    "fulltext_url": "https://journal.psych.ac.cn/xlxb/CN/article/downloadArticleFile.do?attachType=PDF&id=3485",
+    "local_path": "papers/downloads/uncertainty/li-zhang-2013-adjusted-bootstrap.pdf",
+    "status": "acquired",
+    "topics": [
+      "bootstrap",
+      "bias correction",
+      "non-normality",
+      "coverage"
+    ],
+    "relevance": "Primary precursor to Li 2023 cross-distribution bootstrap heuristic.",
+    "evidence": "Publisher English abstract read; Chinese PDF acquired, title/English abstract inspected only. Four response distributions in p×i; adjusted/unadjusted bootstrap comparisons with 80%coverage and bias. Article’s adoption recommendation is limited by simulation scope.",
+    "acquisition_note": "Acta Psychologica Sinica 45(1)114–124. Full text Chinese; deeper translated reading remains work. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-li-2023",
+    "title": "Which method is optimal for estimating variance components and their variability in generalizability theory? Evidence from a set of unified rules for bootstrap method",
+    "authors": [
+      "Guangming Li"
+    ],
+    "year": 2023,
+    "doi": "10.1371/journal.pone.0288069",
+    "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0288069",
+    "fulltext_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0288069&type=printable",
+    "local_path": "papers/downloads/uncertainty/li-2023-bootstrap-rules.pdf",
+    "status": "acquired",
+    "topics": [
+      "bootstrap",
+      "jackknife",
+      "MCMC",
+      "non-normality",
+      "coverage"
+    ],
+    "relevance": "Open primary modern simulation synthesizing component-specific bootstrap rules.",
+    "evidence": "Full text acquired; read simulation design, distributions, estimator descriptions, criteria, Tables 1–6, discussion and references. Four types of 100×20 p×i data,1000 trials;80%interval coverage with 25%relative-percent-bias acceptance rule. Recommends boot-p for persons,boot-pi/item,boot-i/interaction. This tolerance permits 0.60–1.00 coverage for nominal 0.80, so accurate-label is not strict calibration. No full crossed/nested G/Phi coverage theorem.",
+    "acquisition_note": "Original title says form; title-only correction 2025 retained alongside paper. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-li-2025-correction",
+    "title": "Correction: Which method is optimal for estimating variance components and their variability in generalizability theory? Evidence from a set of unified rules for bootstrap method",
+    "authors": [
+      "Guangming Li"
+    ],
+    "year": 2025,
+    "doi": "10.1371/journal.pone.0336869",
+    "source_url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336869",
+    "fulltext_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0336869&type=printable",
+    "local_path": "papers/downloads/uncertainty/li-2025-correction.pdf",
+    "status": "acquired",
+    "topics": [
+      "erratum",
+      "bibliographic correction"
+    ],
+    "relevance": "Keeps title/version provenance accurate.",
+    "evidence": "Complete one-page correction read. Only form→from in title/citation. No mathematical or numerical results corrected.",
+    "acquisition_note": "Published 13 November 2025. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-atilgan-2013",
+    "title": "Sample Size for Estimation of G and Phi Coefficients in Generalizability Theory",
+    "authors": [
+      "Hakan Atılgan"
+    ],
+    "year": 2013,
+    "doi": null,
+    "source_url": "https://eric.ed.gov/?id=EJ1059904",
+    "fulltext_url": "https://files.eric.ed.gov/fulltext/EJ1059904.pdf",
+    "local_path": "papers/downloads/uncertainty/sample-size-2013.pdf",
+    "status": "acquired",
+    "topics": [
+      "sample size",
+      "G",
+      "Phi",
+      "simulation",
+      "multivariate"
+    ],
+    "relevance": "Empirical resampling study often cited to justify minimumN; useful counterexample to universalN rules.",
+    "evidence": "ERIC author abstract/metadata read; full text acquired but PDF text layer largely absent, full visual reading pending.480691 students; fixed 2008 SBS battery/five subtests, person resampling 30–1000,100 replications per size. RelativeRMSE study, not interval coverage across arbitrary facets/designs.",
+    "acquisition_note": "Eurasian Journal Educational Research 51,215–227; no DOI found. No universal minimum 50/400 adopted. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-shin-raudenbush-2012",
+    "title": "Confidence Bounds and Power for the Reliability of Observational Measures on the Quality of a Social Setting",
+    "authors": [
+      "Yongyun Shin",
+      "Stephen W. Raudenbush"
+    ],
+    "year": 2012,
+    "doi": "10.1007/s11336-012-9266-4",
+    "source_url": "https://wtgrantfoundation.org/wp-content/uploads/2015/09/Confidence-Bounds-and-Power-for-the-Reliability-of-Observational-Measures-on-the-Quality-of-a-Social-Setting.pdf",
+    "fulltext_url": "https://wtgrantfoundation.org/wp-content/uploads/2015/09/Confidence-Bounds-and-Power-for-the-Reliability-of-Observational-Measures-on-the-Quality-of-a-Social-Setting.pdf",
+    "local_path": "papers/downloads/uncertainty/shin-raudenbush-2012-confidence-bounds.pdf",
+    "status": "acquired",
+    "topics": [
+      "D study",
+      "confidence bounds",
+      "power",
+      "multilevel",
+      "balanced incomplete block"
+    ],
+    "relevance": "Propagates G-study component uncertainty into design-stage reliability intervals/power.",
+    "evidence": "Full text acquired; read model/design scope, D-study interval section, examples and limitations. Balanced/incomplete-block observer/classroom/item model, Gaussian assumptions, expectedCI comparison, G-study and D-study sizes distinct. Lower bounds may be negative; highest-density interval offered as alternative. Not arbitraryGT model theorem.",
+    "acquisition_note": "Author/funder manuscript (WilliamTGrant). Final Psychometrika 77(3)543–560; Cambridge migration online 2025 is not original publication year. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-owen-2007",
+    "title": "The Pigeonhole Bootstrap",
+    "authors": [
+      "Art B. Owen"
+    ],
+    "year": 2007,
+    "doi": "10.1214/07-AOAS122",
+    "source_url": "https://artowen.su.domains/reports/pbs2.pdf",
+    "fulltext_url": "https://artowen.su.domains/reports/pbs2.pdf",
+    "local_path": "papers/downloads/uncertainty/owen-2007-pigeonhole.pdf",
+    "status": "acquired",
+    "topics": [
+      "crossed bootstrap",
+      "heteroscedasticity",
+      "unbalanced",
+      "dependence"
+    ],
+    "relevance": "Dependence-preserving row/column resampling for crossed arrays; caution against iidcell bootstrap.",
+    "evidence": "Author manuscript acquired; read abstract, naivebootstrap failure and pigeonhole definitions/summary. Mean-consistency under heteroscedastic crossed unbalanced model; result targets variance of mean, not individual component or G/Phi ratio coverage.",
+    "acquisition_note": "April 2007 revisedMay 2007 author manuscript; final AOAS 1(2)386–411. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-owen-eckles-2012",
+    "title": "Bootstrapping Data Arrays of Arbitrary Order",
+    "authors": [
+      "Art B. Owen",
+      "Dean Eckles"
+    ],
+    "year": 2012,
+    "doi": "10.1214/12-AOAS547",
+    "source_url": "https://arxiv.org/abs/1106.2125",
+    "fulltext_url": "https://arxiv.org/pdf/1106.2125",
+    "local_path": "papers/downloads/uncertainty/owen-eckles-2012-data-arrays.pdf",
+    "status": "acquired",
+    "topics": [
+      "crossed bootstrap",
+      "multifactor",
+      "product weights",
+      "heteroscedasticity"
+    ],
+    "relevance": "General product-weight bootstrap for multifactor crossed dependence and severe imbalance.",
+    "evidence": "arXiv full text acquired; read abstract, assumptions, productweights procedure, summary and dependency references. Mild conservatism under stated sufficient conditions for variance of sample mean; no exact bootstrap for general crossed random effects. Does not establish coefficientCI coverage.",
+    "acquisition_note": "arXivv 3 mirrors final AOAS 6(3)895–927; Euclid endpoint returnedHTML rather thanPDF; lawful arXiv replacement acquired. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-self-liang-1987",
+    "title": "Asymptotic Properties of Maximum Likelihood Estimators and Likelihood Ratio Tests Under Nonstandard Conditions",
+    "authors": [
+      "Steven G. Self",
+      "Kung-Yee Liang"
+    ],
+    "year": 1987,
+    "doi": "10.1080/01621459.1987.10478472",
+    "source_url": "https://pure.johnshopkins.edu/en/publications/asymptotic-properties-of-maximum-likelihood-estimators-and-likeli-4/",
+    "fulltext_url": "https://www.stat.cmu.edu/~brian/763-2015/week06/papers/self-liang-1987.pdf",
+    "local_path": "papers/downloads/uncertainty/self-liang-1987-boundary.pdf",
+    "status": "acquired",
+    "topics": [
+      "boundary",
+      "variance components",
+      "likelihood ratio",
+      "asymptotics"
+    ],
+    "relevance": "Foundational boundary likelihood theory needed for constrained variance-component inference.",
+    "evidence": "Institutionally hosted full text acquired; read abstract, introductory regularity/cone assumptions and boundary examples. Gaussian-projection limiting estimators; chi-square-mixture examples, nuisance-boundary example not chi-square mixture. iid assumptions of original theorem must be checked for crossedGT.",
+    "acquisition_note": "CMU teaching-hosted journal reproduction, original JASA 82(398)605–610. Read-only research copy. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-stram-lee-1994",
+    "title": "Variance Components Testing in the Longitudinal Mixed Effects Model",
+    "authors": [
+      "Daniel O. Stram",
+      "Jae Won Lee"
+    ],
+    "year": 1994,
+    "doi": "10.2307/2533455",
+    "source_url": "https://www.stat.cmu.edu/~brian/720-2007-source/week07-08-ideas/stram-lee-1994-varcomp-testing.pdf",
+    "fulltext_url": "https://www.stat.cmu.edu/~brian/720-2007-source/week07-08-ideas/stram-lee-1994-varcomp-testing.pdf",
+    "local_path": "papers/downloads/uncertainty/stram-lee-1994-boundary.pdf",
+    "status": "acquired",
+    "topics": [
+      "boundary",
+      "likelihood ratio",
+      "mixed effects",
+      "covariance"
+    ],
+    "relevance": "Primary application of boundary/cone asymptotics to mixed effects variance testing.",
+    "evidence": "Full text acquired; inspected title, abstract/introduction and cone formulation, not entire proof. Constrained covariance/variance testing needs nonstandard reference distribution; no automaticordinarychi-square.",
+    "acquisition_note": "Biometrics 50(4)1171–1177. NoGT-specific coefficientCI guarantee; institutional teaching reproduction. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256. DOI verified against original JSTOR Biometrics50(4) issue contents."
+  },
+  {
+    "id": "uncertainty-universal-2025",
+    "title": "Universal Inference for Variance Components",
+    "authors": [
+      "Yiqiao Zhang",
+      "Karl Oskar Ekvall",
+      "Aaron J. Molstad"
+    ],
+    "year": 2025,
+    "doi": null,
+    "source_url": "https://arxiv.org/abs/2509.00255",
+    "fulltext_url": "https://arxiv.org/pdf/2509.00255",
+    "local_path": "papers/downloads/uncertainty/universal-inference-2025.pdf",
+    "status": "acquired",
+    "topics": [
+      "boundary",
+      "finite-sample inference",
+      "variance proportions",
+      "crossed",
+      "likelihood"
+    ],
+    "relevance": "Recent method directly addresses nuisance components nearzero and nearunity variance proportions.",
+    "evidence": "Full arXivv 1 acquired; read abstract/introduction, Gaussian covariance model, assumptions and split/randomized likelihood motivation. Claims uniformly valid finite-sample confidence intervals, crossed-effects example; dependent-data splitting needs care. GT ratio-specific adaptation/efficiency not audited.",
+    "acquisition_note": "Preprint August 29/September 3,2025; no peer-reviewed publication verified. Frontier candidate, not accepted implementation prescription. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-morris-2019",
+    "title": "Using Simulation Studies to Evaluate Statistical Methods",
+    "authors": [
+      "Tim P. Morris",
+      "Ian R. White",
+      "Michael J. Crowther"
+    ],
+    "year": 2019,
+    "doi": "10.1002/sim.8086",
+    "source_url": "https://discovery.ucl.ac.uk/id/eprint/10066118/",
+    "fulltext_url": "https://discovery.ucl.ac.uk/id/eprint/10066118/1/2019%20-%20Morris%20-%20simulation%20studies%20tutorial%20-%20stat%20med.pdf",
+    "local_path": "papers/downloads/uncertainty/morris-white-crowther-2019-simulation.pdf",
+    "status": "acquired",
+    "topics": [
+      "simulation",
+      "Monte Carlo standard error",
+      "coverage",
+      "failures",
+      "ADEMP"
+    ],
+    "relevance": "Primary methodology for validating future GT estimators with quantified simulation uncertainty.",
+    "evidence": "Author full text acquired; read ADEMP framework, performance-measure definitions and Table 6 Monte CarloSEs, seed/reproducibility and failures discussion. CoverageMCSE=sqrt(c(1−c)/R); bias/RMSE and empiricalSE require ownMCSE. Applies to method validation, not GT analyticCI formula.",
+    "acquisition_note": "Statistics in Medicine 38(11)2074–2102; UCL accepted manuscript. NoRdependency adopted. Acquisition validated by scripts/acquire.py; source sidecar contains timestamp, bytes and SHA-256."
+  },
+  {
+    "id": "uncertainty-smith-1978",
+    "title": "Sampling Errors of Variance Components in Small Sample Multifacet Generalizability Studies",
+    "authors": [
+      "Philip L. Smith"
+    ],
+    "year": 1978,
+    "doi": "10.3102/10769986003004319",
+    "source_url": "https://journals.sagepub.com/doi/10.3102/10769986003004319",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "sampling variability",
+      "small sample",
+      "Monte Carlo",
+      "design allocation"
+    ],
+    "relevance": "Original investigation of small-sample variance-component stability.",
+    "evidence": "Publisher abstract read: Monte Carlo data from selected multifacet designs, least-squares component estimates, and efficient small-sample design recommendations. Full text not read.",
+    "acquisition_note": "Journal of Educational Statistics 3(4), 319–346. Final paper remains an operator acquisition."
+  },
+  {
+    "id": "uncertainty-smith-1981",
+    "title": "Gaining Accuracy in Generalizability Theory: Using Multiple Designs",
+    "authors": [
+      "Philip L. Smith"
+    ],
+    "year": 1981,
+    "doi": "10.1111/j.1745-3984.1981.tb00849.x",
+    "source_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-3984.1981.tb00849.x",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "G study design",
+      "sampling stability",
+      "multiple designs"
+    ],
+    "relevance": "Component precision can improve through multiple G studies instead of one complex design.",
+    "evidence": "Metadata and citations read in ACT 87-7 and CASMA 53. Publisher fetch unavailable; original full text not read.",
+    "acquisition_note": "JEM 18(3),147–154. Online 2005 is a migration date, not the original publication year."
+  },
+  {
+    "id": "uncertainty-smith-1982",
+    "title": "A Confidence Interval Approach for Variance Component Estimates in the Context of Generalizability Theory",
+    "authors": [
+      "Philip L. Smith"
+    ],
+    "year": 1982,
+    "doi": "10.1177/001316448204200209",
+    "source_url": "https://journals.sagepub.com/doi/10.1177/001316448204200209",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "confidence intervals",
+      "variance components",
+      "Satterthwaite"
+    ],
+    "relevance": "Original GT variance-component interval paper used in later analytic and simulation comparisons.",
+    "evidence": "Publisher metadata and the ACT/Brennan primary-source discussions read. Original full text not read.",
+    "acquisition_note": "EPM 42(2),459–466. High-priority operator acquisition."
+  },
+  {
+    "id": "uncertainty-bell-1986",
+    "title": "Simultaneous Confidence Intervals for the Linear Functions of Expected Mean Squares Used in Generalizability Theory",
+    "authors": [
+      "John F. Bell"
+    ],
+    "year": 1986,
+    "doi": "10.3102/10769986011003197",
+    "source_url": "https://journals.sagepub.com/doi/10.3102/10769986011003197",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "simultaneous intervals",
+      "EMS",
+      "balanced random model"
+    ],
+    "relevance": "Simultaneous coverage for linear EMS functions, a target distinct from individual marginal intervals.",
+    "evidence": "Title, year and pages verified in CASMA 53 and Crossref. Abstract discovered through an index; original publisher fetch failed. Exact coverage claim requires original full text.",
+    "acquisition_note": "JES 11(3),197–205. Extends Khuri 1981; high-priority operator acquisition."
+  },
+  {
+    "id": "uncertainty-gao-brennan-2001",
+    "title": "Variability of Estimated Variance Components and Related Statistics in a Performance Assessment",
+    "authors": [
+      "X. Gao",
+      "Robert L. Brennan"
+    ],
+    "year": 2001,
+    "doi": "10.1207/S15324818AME1402_5",
+    "source_url": "https://www.tandfonline.com/doi/abs/10.1207/S15324818AME1402_5",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "sampling variability",
+      "performance assessment",
+      "coefficients"
+    ],
+    "relevance": "Worked performance-assessment examples of component and related-statistic sampling variability.",
+    "evidence": "CASMA 53 reference verified and discussion in Jiang 2022 read. Publisher error/403 prevented original access. No original abstract or full text read.",
+    "acquisition_note": "AME 14(2),191–203. High-priority operator acquisition."
+  },
+  {
+    "id": "uncertainty-wiley-2000",
+    "title": "Bootstrap Strategies for Variance Component Estimation: Theoretical and Empirical Results",
+    "authors": [
+      "E. W. Wiley"
+    ],
+    "year": 2000,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-53-archived.pdf",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "bootstrap",
+      "bias correction",
+      "variance components"
+    ],
+    "relevance": "Original doctoral bootstrap theory behind later GT bias corrections.",
+    "evidence": "Reference verified in CASMA 53, CASMA 5/15/21 and Brennan 2007. Original thesis not located. GT sources cite 2000; Owen/Eckles 2012 cites 2001.",
+    "acquisition_note": "Stanford doctoral dissertation. Author initials retained; title page needed to verify full name and year."
+  },
+  {
+    "id": "uncertainty-moore-2010",
+    "title": "Estimating Standard Errors of Estimated Variance Components in Generalizability Theory Using Bootstrap Procedures",
+    "authors": [
+      "Joann Lynn Moore"
+    ],
+    "year": 2010,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/current-student-resources/paul-blommers-measurement-resources-library",
+    "fulltext_url": "https://ir.uiowa.edu/etd/860/",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "bootstrap",
+      "coverage",
+      "design scope",
+      "sample size"
+    ],
+    "relevance": "Doctoral expansion of Tong/Brennan bootstrap rules across designs, component structures and sample-size patterns.",
+    "evidence": "Official Iowa library metadata verified title, author and 2010; Jiang 2022 reference read. External-index abstract is discovery evidence only. Original thesis not read.",
+    "acquisition_note": "Legacy ir.uiowa.edu/etd/860 fetch fails TLS certificate verification. TLS was not disabled; a current library/repository copy is needed."
+  },
+  {
+    "id": "uncertainty-othman-1995",
+    "title": "Examining Task Sampling Variability in Science Performance Assessments",
+    "authors": [
+      "A. R. Othman"
+    ],
+    "year": 1995,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-53-archived.pdf",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "task sampling",
+      "bootstrap",
+      "performance assessment"
+    ],
+    "relevance": "Early dissertation on task-sampling variability cited by original GT resampling studies.",
+    "evidence": "Title, institution and year verified in CASMA 53 and CASMA 5 primary bibliographies. Original abstract and full text not read.",
+    "acquisition_note": "University of California, Santa Barbara doctoral dissertation; author initials retained pending title-page verification."
+  },
+  {
+    "id": "uncertainty-leucht-smith-1989",
+    "title": "The Effects of Bootstrapping Strategies on the Estimation of Variance Components",
+    "authors": [
+      "R. M. Leucht",
+      "Philip L. Smith"
+    ],
+    "year": 1989,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-53-archived.pdf",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "bootstrap",
+      "sampling plan",
+      "variance components"
+    ],
+    "relevance": "Early AERA bootstrap-strategy study in the original ACT/CASMA reference chain.",
+    "evidence": "Reference verified in CASMA 53 and CASMA 5. Original abstract and full text not read.",
+    "acquisition_note": "AERA annual meeting, San Francisco, April 1989. First author initials retained pending title-page verification."
+  },
+  {
+    "id": "uncertainty-almehrizi-2021",
+    "title": "Standard Errors of Variance Components, Measurement Errors and Generalizability Coefficients for Crossed Designs",
+    "authors": [
+      "Rashid S. Almehrizi"
+    ],
+    "year": 2021,
+    "doi": "10.1111/jedm.12277",
+    "source_url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jedm.12277",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "delta method",
+      "G",
+      "Phi",
+      "variance components",
+      "crossed"
+    ],
+    "relevance": "Analytic delta-method SEs for components, measurement error variances and coefficient ratios.",
+    "evidence": "Publisher abstract and metadata read: single- and two-facet crossed designs, multivariate-normal observation assumption. Formula derivations not read; no arbitrary nested extension assumed.",
+    "acquisition_note": "OnlineAugust 2020; JEM 58(2),179–210, Summer 2021. Final full text remains an acquisition priority."
+  },
+  {
+    "id": "uncertainty-brennan-2001-ch6",
+    "title": "Variability of Statistics in Generalizability Theory",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2001,
+    "doi": "10.1007/978-1-4757-3456-0_6",
+    "source_url": "https://link.springer.com/chapter/10.1007/978-1-4757-3456-0_6",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "standard errors",
+      "confidence intervals",
+      "bootstrap",
+      "jackknife"
+    ],
+    "relevance": "Core GT monograph chapter on sampling variability, pp.179–213.",
+    "evidence": "Springer chapter abstract and metadata read, not full text. Summarizes Smith 1978/1982, ACT 1987, Betebenner 1998, Wiley 2000 and Gao 2001.",
+    "acquisition_note": "Whole book is also in foundations; a chapter record is not independent corroboration. Subscription/library access needed."
+  },
+  {
+    "id": "uncertainty-burdick-graybill-1992",
+    "title": "Confidence Intervals on Variance Components",
+    "authors": [
+      "Richard K. Burdick",
+      "Franklin A. Graybill"
+    ],
+    "year": 1992,
+    "doi": "10.1201/9781482277142",
+    "source_url": "https://www.routledge.com/Confidence-Intervals-on-Variance-Components/Burdick-Graybill/p/book/9780367402822",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "confidence intervals",
+      "mixed models",
+      "nested",
+      "crossed",
+      "variance ratios"
+    ],
+    "relevance": "Primary interval-method monograph underlying GT adaptations.",
+    "evidence": "Publisher metadata and table of contents read. Covers balanced, nested, crossed and mixed models, including ratio intervals. Book full text not read.",
+    "acquisition_note": "OriginalISBN 0824786440; current paperback 9780367402822. Purchase/library acquisition needed."
+  },
+  {
+    "id": "uncertainty-khuri-1981",
+    "title": "Simultaneous Confidence Intervals for Functions of Variance Components in Random Models",
+    "authors": [
+      "Andre I. Khuri"
+    ],
+    "year": 1981,
+    "doi": "10.1080/01621459.1981.10477736",
+    "source_url": "https://www.tandfonline.com/doi/abs/10.1080/01621459.1981.10477736",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "simultaneous intervals",
+      "variance functions",
+      "random models"
+    ],
+    "relevance": "Statistical foundation for simultaneous GT intervals through Bell 1986.",
+    "evidence": "Metadata and citation verified in CASMA 53 and Wiley/Searle bibliography; Crossref verified exact title/pages. Original publisher returned 403. Full text not read.",
+    "acquisition_note": "JASA 76,878–885. Simultaneous bounds must not be replaced by ordinary marginal CIs."
+  },
+  {
+    "id": "uncertainty-graybill-wang-1980",
+    "title": "Confidence Intervals on Nonnegative Linear Combinations of Variances",
+    "authors": [
+      "Franklin A. Graybill",
+      "Chih-Ming Wang"
+    ],
+    "year": 1980,
+    "doi": "10.1080/01621459.1980.10477565",
+    "source_url": "https://www.tandfonline.com/doi/abs/10.1080/01621459.1980.10477565",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "modified large sample",
+      "positive combinations",
+      "confidence intervals"
+    ],
+    "relevance": "Intervals for nonnegative combinations of variances, underlying later GT adaptations.",
+    "evidence": "Publisher abstract read: alternative to Satterthwaite, simple table-based computation. Original formulas not read.",
+    "acquisition_note": "JASA 75(372),869–873. Distinguish positive variance combinations from signed EMS component formulas."
+  },
+  {
+    "id": "uncertainty-lu-1988",
+    "title": "Confidence Intervals on a Difference of Expected Mean Squares",
+    "authors": [
+      "Tai-Fang C. Lu",
+      "Franklin A. Graybill",
+      "Richard K. Burdick"
+    ],
+    "year": 1988,
+    "doi": "10.1016/0378-3758(88)90014-6",
+    "source_url": "https://doi.org/10.1016/0378-3758(88)90014-6",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "signed EMS",
+      "confidence intervals",
+      "modified large sample"
+    ],
+    "relevance": "Primary interval method for a difference of two expected mean squares.",
+    "evidence": "Betebenner primary bibliography read; Crossref DOI metadata queried to correct page range. Original publisher 403; full text not read.",
+    "acquisition_note": "JSPI 18(1),35–43, January 1988. Betebenner bibliography incorrectly prints 375–380."
+  },
+  {
+    "id": "uncertainty-ting-1990",
+    "title": "Confidence Intervals on Linear Combinations of Variance Components That Are Unrestricted in Sign",
+    "authors": [
+      "Naitee Ting",
+      "Richard K. Burdick",
+      "Franklin A. Graybill",
+      "S. Jeyaratnam",
+      "Tai-Fang C. Lu"
+    ],
+    "year": 1990,
+    "doi": "10.1080/00949659008811240",
+    "source_url": "https://www.tandfonline.com/doi/abs/10.1080/00949659008811240",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "signed combinations",
+      "confidence intervals",
+      "simulation"
+    ],
+    "relevance": "TBGJL intervals used in several GT signed-combination comparisons.",
+    "evidence": "Publisher abstract read: linear combination of independent chi-square variables with unknown unrestricted sign, simulation calibration and a three-factor crossed example. Original formulas not read.",
+    "acquisition_note": "JSCS 35(3–4),135–143. Online 2007 is not the original publication year."
+  },
+  {
+    "id": "uncertainty-satterthwaite-1946",
+    "title": "An Approximate Distribution of Estimates of Variance Components",
+    "authors": [
+      "Franklin E. Satterthwaite"
+    ],
+    "year": 1946,
+    "doi": "10.2307/3002019",
+    "source_url": "https://www.jstor.org/stable/3002019",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "effective degrees of freedom",
+      "variance approximation",
+      "confidence intervals"
+    ],
+    "relevance": "Historical effective-df approximation behind many GT analytic interval procedures.",
+    "evidence": "Original citation verified in ACT 1987, Betebenner 1998 and vonDavier 2026 publisher references. Original full text not read.",
+    "acquisition_note": "Biometrics Bulletin 2(6),110–114. Applicability to signed combinations requires method-specific checking."
+  },
+  {
+    "id": "uncertainty-charter-1999",
+    "title": "Sample Size Requirements for Precise Estimates of Reliability, Generalizability, and Validity Coefficients",
+    "authors": [
+      "Richard A. Charter"
+    ],
+    "year": 1999,
+    "doi": "10.1076/jcen.21.4.559.889",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/10550813/",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "sample size",
+      "CI width",
+      "reliability"
+    ],
+    "relevance": "Primary evidence behind commonly repeated reliability precision/sample-size heuristics.",
+    "evidence": "NLM author abstract read: CI width versus person N for several coefficients and a minimum 400 recommendation. Original full text not read; not a universal multifacet GT theorem.",
+    "acquisition_note": "JCEN 21(4),559–566. No acquisition from unauthorized mirrors."
+  },
+  {
+    "id": "uncertainty-vondavier-2026",
+    "title": "An Improved Satterthwaite (1941, 1946) Effective df Approximation",
+    "authors": [
+      "Matthias von Davier"
+    ],
+    "year": 2026,
+    "doi": "10.3102/10769986241309329",
+    "source_url": "https://journals.sagepub.com/doi/10.3102/10769986241309329",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "small degrees of freedom",
+      "variance estimation",
+      "simulation"
+    ],
+    "relevance": "Recent adjacent update to small-df variance approximation.",
+    "evidence": "Publisher abstract and metadata read: moments-based correction for small component df and complex variance/imputation contexts. No original full text or GT signed-EMS coverage validation read.",
+    "acquisition_note": "OnlineJanuary 2025; finalJEBS 51(1),119–140, February 2026. Restricted access."
+  }
+]

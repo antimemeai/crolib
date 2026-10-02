@@ -1,0 +1,142 @@
+{
+  "id": "many-reliabilities",
+  "kind": "files",
+  "source_url": "https://osf.io/k56vp/",
+  "listing_url": "https://api.osf.io/v2/nodes/k56vp/files/osfstorage/?sort=name",
+  "revision": "OSF file versions and SHA-256 recorded individually",
+  "description": "Castro-Alvarez reliability models, supplements, input data and derived reports; four large posterior sample/factor-score dumps inventoried but omitted; check published 2RDM correction",
+  "license_note": "Public author-deposited materials; inspect project and file licenses before reuse",
+  "status": "acquired",
+  "files": [
+    {
+      "source_url": "https://osf.io/download/7hc85/",
+      "raw_path": "quarantine/archives/many-reliabilities/Data/ifit_pa_data.dat",
+      "extracted_path": "quarantine/references/many-reliabilities/Data/ifit_pa_data.dat",
+      "sha256": "113216bc42e429ca84a8793620d23ff3cd5bfb6f900f59fcbbc264a4bb48e7a0",
+      "bytes": 960193,
+      "osf_file_id": "65e8ef70719c060689d49e03",
+      "version": 1,
+      "original_osf_path": "/Data/ifit_pa_data.dat"
+    },
+    {
+      "source_url": "https://osf.io/download/7qtye/",
+      "raw_path": "quarantine/archives/many-reliabilities/ManyReliabilitiesLiteratureReview.pdf",
+      "extracted_path": "quarantine/references/many-reliabilities/ManyReliabilitiesLiteratureReview.pdf",
+      "sha256": "43343ef62d3dc69a648b151dcfaa3ffff626e2d6f933dc0026f529e096fbe81e",
+      "bytes": 620596,
+      "osf_file_id": "65e8fd8a85203706af88031b",
+      "version": 3,
+      "original_osf_path": "/ManyReliabilitiesLiteratureReview.pdf"
+    },
+    {
+      "source_url": "https://osf.io/download/ucvn5/",
+      "raw_path": "quarantine/archives/many-reliabilities/manyreliabilitiessupp.html",
+      "extracted_path": "quarantine/references/many-reliabilities/manyreliabilitiessupp.html",
+      "sha256": "b32c42c6f2da9c9c3819e51c79bac6c679cb6e535db13ba73f3dc68725aeedd3",
+      "bytes": 4048758,
+      "osf_file_id": "65e8edb2719c060689d49cf3",
+      "version": 3,
+      "original_osf_path": "/manyreliabilitiessupp.html"
+    },
+    {
+      "source_url": "https://osf.io/download/kdn4g/",
+      "raw_path": "quarantine/archives/many-reliabilities/manyreliabilitiessupp.pdf",
+      "extracted_path": "quarantine/references/many-reliabilities/manyreliabilitiessupp.pdf",
+      "sha256": "252b56574ec5fe32c3e1ea0d618c029d167dbfd6cb99024781eba88b013b9869",
+      "bytes": 854854,
+      "osf_file_id": "65e8edb3852037069e8809e6",
+      "version": 3,
+      "original_osf_path": "/manyreliabilitiessupp.pdf"
+    },
+    {
+      "source_url": "https://osf.io/download/ew87n/",
+      "raw_path": "quarantine/archives/many-reliabilities/Mplus/2rdm_pa.inp",
+      "extracted_path": "quarantine/references/many-reliabilities/Mplus/2rdm_pa.inp",
+      "sha256": "384ff8f6da2f7f6554aea1600668c48d5a8a12e102000eedf58bfdee59a0db2b",
+      "bytes": 2181,
+      "osf_file_id": "65e8f055719c060685d4a329",
+      "version": 1,
+      "original_osf_path": "/Mplus/2rdm_pa.inp"
+    },
+    {
+      "source_url": "https://osf.io/download/x5wjd/",
+      "raw_path": "quarantine/archives/many-reliabilities/Mplus/2rdm_pa.out",
+      "extracted_path": "quarantine/references/many-reliabilities/Mplus/2rdm_pa.out",
+      "sha256": "082986081e82de7468ca0f482d1ac0d955a06e76c92a87e888e3180a6cfbb207",
+      "bytes": 189948,
+      "osf_file_id": "65e8f10985203706ab8804de",
+      "version": 1,
+      "original_osf_path": "/Mplus/2rdm_pa.out"
+    },
+    {
+      "source_url": "https://osf.io/download/yt2mw/",
+      "raw_path": "quarantine/archives/many-reliabilities/Mplus/metso_pa.inp",
+      "extracted_path": "quarantine/references/many-reliabilities/Mplus/metso_pa.inp",
+      "sha256": "f921e624d7e7342f6dc9f8e351d337077d46da916f1f2a7919c3cd22070aa3fd",
+      "bytes": 2247,
+      "osf_file_id": "65e8f03b85203706a7880511",
+      "version": 1,
+      "original_osf_path": "/Mplus/metso_pa.inp"
+    },
+    {
+      "source_url": "https://osf.io/download/wd2sn/",
+      "raw_path": "quarantine/archives/many-reliabilities/Mplus/metso_pa.out",
+      "extracted_path": "quarantine/references/many-reliabilities/Mplus/metso_pa.out",
+      "sha256": "0af45cdb80d73749d4967ec62ccbe98ea5e567926bab8ebab231e9a8d8201512",
+      "bytes": 97132,
+      "osf_file_id": "65e8f03ce5e51c0695bc5b3c",
+      "version": 1,
+      "original_osf_path": "/Mplus/metso_pa.out"
+    },
+    {
+      "source_url": "https://osf.io/download/de3qh/",
+      "raw_path": "quarantine/archives/many-reliabilities/README.md",
+      "extracted_path": "quarantine/references/many-reliabilities/README.md",
+      "sha256": "1d9b7c47633f505305635840b2fe28a6db2b0259d8bb4a8252b3df30290ac8d2",
+      "bytes": 1402,
+      "osf_file_id": "65e8faf6719c060691d49b96",
+      "version": 7,
+      "original_osf_path": "/README.md"
+    }
+  ],
+  "failed_files": [],
+  "extracted_path": "quarantine/references/many-reliabilities",
+  "extracted_files": 9,
+  "listed_entries": 13,
+  "duplicate_file_ids": [],
+  "skipped_files": [
+    {
+      "name": "/Mplus/2rdm_pa_fscores.dat",
+      "osf_file_id": "65e8f2ba719c06065fd4a301",
+      "source_url": "https://osf.io/download/nv4fz/",
+      "bytes": 1231437714,
+      "reason": "Excluded by explicit --max-file-mib selection"
+    },
+    {
+      "name": "/Mplus/2rdm_pa_samples.dat",
+      "osf_file_id": "65e8f0bc719c06065fd4a29c",
+      "source_url": "https://osf.io/download/uyzak/",
+      "bytes": 400042380,
+      "reason": "Excluded by explicit --max-file-mib selection"
+    },
+    {
+      "name": "/Mplus/metso_pa_fscores.dat",
+      "osf_file_id": "65e8f184719c060685d4a3ae",
+      "source_url": "https://osf.io/download/7fqzd/",
+      "bytes": 809889912,
+      "reason": "Excluded by explicit --max-file-mib selection"
+    },
+    {
+      "name": "/Mplus/metso_pa_samples.dat",
+      "osf_file_id": "65e8f04f719c060689d49e68",
+      "source_url": "https://osf.io/download/hczj4/",
+      "bytes": 70611776,
+      "reason": "Excluded by explicit --max-file-mib selection"
+    }
+  ],
+  "max_file_mib": 8.0,
+  "path_conflicts": [],
+  "max_files": 100,
+  "workers": 1,
+  "restore_command": "python3 scripts/restore_references.py --only many-reliabilities"
+}

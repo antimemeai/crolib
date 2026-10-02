@@ -1,0 +1,23 @@
+{
+  "id": "bayesian-gtheory",
+  "source_url": "https://github.com/t-clark04/bayesian.gtheory",
+  "revision": "fd705314fe996eba822dfff10dcce6a0a1d34032",
+  "archive_url": "https://codeload.github.com/t-clark04/bayesian.gtheory/tar.gz/fd705314fe996eba822dfff10dcce6a0a1d34032",
+  "archive_path": "quarantine/archives/bayesian-gtheory.tar.gz",
+  "archive_sha256": "0cb49ebc8de7ea7dee542e2ea138d03beb49b7a544a62e0efe1856b7a108f6b8",
+  "archive_bytes": 19169,
+  "extracted_path": "quarantine/references/bayesian-gtheory",
+  "extracted_files": 31,
+  "excluded_paths": [
+    "bayesian.gtheory-fd705314fe996eba822dfff10dcce6a0a1d34032",
+    "bayesian.gtheory-fd705314fe996eba822dfff10dcce6a0a1d34032/R",
+    "bayesian.gtheory-fd705314fe996eba822dfff10dcce6a0a1d34032/man",
+    "bayesian.gtheory-fd705314fe996eba822dfff10dcce6a0a1d34032/vignettes"
+  ],
+  "strip_root": true,
+  "license_note": "MIT + file LICENSE in original DESCRIPTION; original LICENSE.md includes complete MIT grant (2025 authors).",
+  "description": "Execute Bayesian D-Studies from Generalizability Theory",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:44:53.579854+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only bayesian-gtheory"
+}

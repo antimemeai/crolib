@@ -1,0 +1,26 @@
+{
+  "id": "gt4ireval",
+  "source_url": "https://github.com/julian-urbano/gt4ireval",
+  "revision": "8ec8ebbb4276d2a41e25ad08cf66979da6e4f401",
+  "archive_url": "https://codeload.github.com/julian-urbano/gt4ireval/tar.gz/8ec8ebbb4276d2a41e25ad08cf66979da6e4f401",
+  "archive_path": "quarantine/archives/gt4ireval.tar.gz",
+  "archive_sha256": "3893d86f7774d588d604fc1d6a4c2fcfe6ea8c818cfc7b874a7223818cd4baa7",
+  "archive_bytes": 21450,
+  "extracted_path": "quarantine/references/gt4ireval",
+  "extracted_files": 26,
+  "excluded_paths": [
+    "gt4ireval-8ec8ebbb4276d2a41e25ad08cf66979da6e4f401",
+    "gt4ireval-8ec8ebbb4276d2a41e25ad08cf66979da6e4f401/R",
+    "gt4ireval-8ec8ebbb4276d2a41e25ad08cf66979da6e4f401/data",
+    "gt4ireval-8ec8ebbb4276d2a41e25ad08cf66979da6e4f401/man",
+    "gt4ireval-8ec8ebbb4276d2a41e25ad08cf66979da6e4f401/tests",
+    "gt4ireval-8ec8ebbb4276d2a41e25ad08cf66979da6e4f401/tests/testthat",
+    "gt4ireval-8ec8ebbb4276d2a41e25ad08cf66979da6e4f401/vignettes"
+  ],
+  "strip_root": true,
+  "license_note": "MIT + file LICENSE explicitly declared in original DESCRIPTION; LICENSE names Julian Urbano (2017).",
+  "description": "Generalizability Theory for Information Retrieval Evaluation",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:44:51.305820+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only gt4ireval"
+}

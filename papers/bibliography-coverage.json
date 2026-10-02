@@ -1,0 +1,2408 @@
+[
+  {
+    "lead_id": "casma53-lead-001",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-002",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-003",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-004",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-005",
+    "candidate_catalogue_ids": [
+      "coverage-registry-005"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-006",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-007",
+    "candidate_catalogue_ids": [
+      "software-bell-1985"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-008",
+    "candidate_catalogue_ids": [
+      "uncertainty-bell-1986"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-009",
+    "candidate_catalogue_ids": [
+      "uncertainty-betebenner-1998"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-010",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-011",
+    "candidate_catalogue_ids": [
+      "coverage-registry-011"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-012",
+    "candidate_catalogue_ids": [
+      "coverage-incidence-boodoo-1982"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-013",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-014",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-015",
+    "candidate_catalogue_ids": [
+      "decisions-mastery-index-1977"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-016",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-017",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-018",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-019",
+    "candidate_catalogue_ids": [
+      "software-gapid-1979"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-020",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-021",
+    "candidate_catalogue_ids": [
+      "foundations-brennan-1983-elements"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-022",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-023",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-024",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-025",
+    "candidate_catalogue_ids": [
+      "coverage-registry-026"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-026",
+    "candidate_catalogue_ids": [
+      "coverage-registry-026"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-027",
+    "candidate_catalogue_ids": [
+      "estimation-brennan-variance-1994"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-028",
+    "candidate_catalogue_ids": [
+      "coverage-aggregate-scores-1995"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-029",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-030",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-031",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-032",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-033",
+    "candidate_catalogue_ids": [
+      "decisions-conditional-raw-brennan-1998"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-034",
+    "candidate_catalogue_ids": [
+      "coverage-registry-034"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-035",
+    "candidate_catalogue_ids": [
+      "uncertainty-act87-7"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-036",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-037",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-038",
+    "candidate_catalogue_ids": [
+      "coverage-registry-038"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-039",
+    "candidate_catalogue_ids": [
+      "decisions-mastery-index-1977"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-040",
+    "candidate_catalogue_ids": [
+      "coverage-registry-040"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-041",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-042",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-043",
+    "candidate_catalogue_ids": [
+      "coverage-registry-043"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-044",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-045",
+    "candidate_catalogue_ids": [
+      "coverage-registry-045"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-046",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-047",
+    "candidate_catalogue_ids": [
+      "coverage-registry-047"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-048",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-049",
+    "candidate_catalogue_ids": [
+      "foundations-cardinet-1976-symmetry"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-050",
+    "candidate_catalogue_ids": [
+      "foundations-cardinet-1981-extensions"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-051",
+    "candidate_catalogue_ids": [
+      "coverage-registry-051"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-052",
+    "candidate_catalogue_ids": [
+      "coverage-registry-052"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-053",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-054",
+    "candidate_catalogue_ids": [
+      "estimation-cornfield-tukey-1956"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-055",
+    "candidate_catalogue_ids": [
+      "software-genova-manual"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-056",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-057",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-058",
+    "candidate_catalogue_ids": [
+      "coverage-registry-058"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-059",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-060",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-061",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-062",
+    "candidate_catalogue_ids": [
+      "coverage-registry-062"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-063",
+    "candidate_catalogue_ids": [
+      "foundations-cronbach-1972"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-064",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-065",
+    "candidate_catalogue_ids": [
+      "coverage-registry-065"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-066",
+    "candidate_catalogue_ids": [
+      "foundations-cronbach-1963"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-067",
+    "candidate_catalogue_ids": [
+      "coverage-registry-067"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-068",
+    "candidate_catalogue_ids": [
+      "coverage-registry-068"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-069",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-070",
+    "candidate_catalogue_ids": [
+      "coverage-registry-070"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-071",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-072",
+    "candidate_catalogue_ids": [
+      "coverage-registry-072"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-073",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-074",
+    "candidate_catalogue_ids": [
+      "coverage-registry-074"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-075",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-076",
+    "candidate_catalogue_ids": [
+      "coverage-registry-076"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-077",
+    "candidate_catalogue_ids": [
+      "coverage-registry-077"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-078",
+    "candidate_catalogue_ids": [
+      "coverage-registry-078"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-079",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-080",
+    "candidate_catalogue_ids": [
+      "coverage-registry-080"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-081",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-082",
+    "candidate_catalogue_ids": [
+      "coverage-registry-082"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-083",
+    "candidate_catalogue_ids": [
+      "coverage-registry-083"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-084",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-085",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-086",
+    "candidate_catalogue_ids": [
+      "coverage-registry-086"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-087",
+    "candidate_catalogue_ids": [
+      "coverage-registry-087"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-088",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-089",
+    "candidate_catalogue_ids": [
+      "coverage-registry-089"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-090",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-091",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-092",
+    "candidate_catalogue_ids": [
+      "coverage-registry-092"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-093",
+    "candidate_catalogue_ids": [
+      "coverage-registry-093"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-094",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-095",
+    "candidate_catalogue_ids": [
+      "estimation-henderson-1953"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-096",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-097",
+    "candidate_catalogue_ids": [
+      "coverage-registry-097"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-098",
+    "candidate_catalogue_ids": [
+      "estimation-huynh-incomplete-1977"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-099",
+    "candidate_catalogue_ids": [
+      "coverage-registry-099"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-100",
+    "candidate_catalogue_ids": [
+      "coverage-registry-100"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-101",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-102",
+    "candidate_catalogue_ids": [
+      "multivariate-table-specifications-1982"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-103",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-104",
+    "candidate_catalogue_ids": [
+      "coverage-registry-104"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-105",
+    "candidate_catalogue_ids": [
+      "coverage-registry-105"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-106",
+    "candidate_catalogue_ids": [
+      "coverage-registry-106"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-107",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-108",
+    "candidate_catalogue_ids": [
+      "coverage-registry-108"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-109",
+    "candidate_catalogue_ids": [
+      "coverage-registry-109"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-110",
+    "candidate_catalogue_ids": [
+      "coverage-registry-110"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-111",
+    "candidate_catalogue_ids": [
+      "coverage-registry-111"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-112",
+    "candidate_catalogue_ids": [
+      "coverage-registry-112"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-113",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-114",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-115",
+    "candidate_catalogue_ids": [
+      "uncertainty-khuri-1981"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-116",
+    "candidate_catalogue_ids": [
+      "coverage-registry-116"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-117",
+    "candidate_catalogue_ids": [
+      "coverage-registry-117"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-118",
+    "candidate_catalogue_ids": [
+      "coverage-registry-118"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-119",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-120",
+    "candidate_catalogue_ids": [
+      "coverage-registry-120"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-121",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-122",
+    "candidate_catalogue_ids": [
+      "coverage-registry-120"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-123",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-124",
+    "candidate_catalogue_ids": [
+      "coverage-registry-124"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-125",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-126",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-127",
+    "candidate_catalogue_ids": [
+      "coverage-registry-127"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-128",
+    "candidate_catalogue_ids": [
+      "coverage-registry-128"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-129",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-130",
+    "candidate_catalogue_ids": [
+      "coverage-registry-130"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-131",
+    "candidate_catalogue_ids": [
+      "uncertainty-leucht-smith-1989"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-132",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-133",
+    "candidate_catalogue_ids": [
+      "coverage-registry-133"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-134",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-135",
+    "candidate_catalogue_ids": [
+      "coverage-registry-135"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-136",
+    "candidate_catalogue_ids": [
+      "coverage-registry-136"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-137",
+    "candidate_catalogue_ids": [
+      "coverage-registry-137"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-138",
+    "candidate_catalogue_ids": [
+      "coverage-registry-138"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-139",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-140",
+    "candidate_catalogue_ids": [
+      "coverage-registry-140"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-141",
+    "candidate_catalogue_ids": [
+      "coverage-registry-141"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-142",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-143",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-144",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-145",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-146",
+    "candidate_catalogue_ids": [
+      "coverage-registry-146"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-147",
+    "candidate_catalogue_ids": [
+      "coverage-registry-147"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-148",
+    "candidate_catalogue_ids": [
+      "coverage-registry-148"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-149",
+    "candidate_catalogue_ids": [
+      "coverage-registry-149"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-150",
+    "candidate_catalogue_ids": [
+      "multivariate-art-multivariate-1984"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-151",
+    "candidate_catalogue_ids": [
+      "coverage-registry-151"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-152",
+    "candidate_catalogue_ids": [
+      "uncertainty-othman-1995"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-153",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-154",
+    "candidate_catalogue_ids": [
+      "multivariate-stratified-parallel-1965"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-155",
+    "candidate_catalogue_ids": [
+      "coverage-registry-155"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-156",
+    "candidate_catalogue_ids": [
+      "coverage-registry-156"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-157",
+    "candidate_catalogue_ids": [
+      "coverage-registry-157"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-158",
+    "candidate_catalogue_ids": [
+      "coverage-registry-158"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-159",
+    "candidate_catalogue_ids": [
+      "coverage-registry-159"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-160",
+    "candidate_catalogue_ids": [
+      "coverage-registry-160"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-161",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-162",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-163",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-164",
+    "candidate_catalogue_ids": [
+      "coverage-registry-164"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-165",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-166",
+    "candidate_catalogue_ids": [
+      "applications-shavelson1993"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-167",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-168",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-169",
+    "candidate_catalogue_ids": [
+      "coverage-registry-169"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-170",
+    "candidate_catalogue_ids": [
+      "coverage-registry-170"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-171",
+    "candidate_catalogue_ids": [
+      "foundations-shavelson-webb-1991-primer"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-172",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-173",
+    "candidate_catalogue_ids": [
+      "foundations-shavelson-webb-rowley-1989"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-174",
+    "candidate_catalogue_ids": [
+      "coverage-registry-174"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-175",
+    "candidate_catalogue_ids": [
+      "coverage-incidence-sirotnik-1977"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-176",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-177",
+    "candidate_catalogue_ids": [
+      "coverage-registry-177"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-178",
+    "candidate_catalogue_ids": [
+      "coverage-registry-178"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-179",
+    "candidate_catalogue_ids": [
+      "coverage-registry-179"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-180",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-181",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-182",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-183",
+    "candidate_catalogue_ids": [
+      "coverage-registry-183"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-184",
+    "candidate_catalogue_ids": [
+      "coverage-registry-184"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-185",
+    "candidate_catalogue_ids": [
+      "coverage-registry-185"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-186",
+    "candidate_catalogue_ids": [
+      "coverage-registry-186"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-187",
+    "candidate_catalogue_ids": [
+      "coverage-registry-187"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-188",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-189",
+    "candidate_catalogue_ids": [
+      "uncertainty-wiley-2000"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-190",
+    "candidate_catalogue_ids": [
+      "coverage-registry-190"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-191",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-192",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-193",
+    "candidate_catalogue_ids": [
+      "coverage-registry-193"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-194",
+    "candidate_catalogue_ids": [
+      "coverage-registry-194"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-195",
+    "candidate_catalogue_ids": [
+      "coverage-registry-195"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-196",
+    "candidate_catalogue_ids": [
+      "coverage-registry-196"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-197",
+    "candidate_catalogue_ids": [
+      "coverage-registry-197"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-198",
+    "candidate_catalogue_ids": [
+      "coverage-registry-198"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-199",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-200",
+    "candidate_catalogue_ids": [
+      "coverage-registry-200"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-201",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-202",
+    "candidate_catalogue_ids": [
+      "coverage-registry-202"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-203",
+    "candidate_catalogue_ids": [
+      "coverage-registry-203"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-204",
+    "candidate_catalogue_ids": [
+      "multivariate-brennan-book-2001"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-205",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-206",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-207",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-208",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-209",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-210",
+    "candidate_catalogue_ids": [
+      "uncertainty-brennan-2006-casma21"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-211",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-212",
+    "candidate_catalogue_ids": [
+      "coverage-registry-212"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-213",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-214",
+    "candidate_catalogue_ids": [
+      "coverage-registry-214"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-215",
+    "candidate_catalogue_ids": [
+      "coverage-registry-214"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-216",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-217",
+    "candidate_catalogue_ids": [
+      "multivariate-casma-34"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-218",
+    "candidate_catalogue_ids": [
+      "multivariate-casma-50"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-219",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-220",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-221",
+    "candidate_catalogue_ids": [
+      "multivariate-casma-53"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-222",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-223",
+    "candidate_catalogue_ids": [
+      "coverage-registry-223"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-224",
+    "candidate_catalogue_ids": [
+      "applications-teacher-time"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-225",
+    "candidate_catalogue_ids": [
+      "multivariate-girm-2007"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-226",
+    "candidate_catalogue_ids": [
+      "coverage-registry-226"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-227",
+    "candidate_catalogue_ids": [
+      "foundations-cardinet-johnson-pini-2010"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-228",
+    "candidate_catalogue_ids": [
+      "coverage-rater-trends-2015"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-229",
+    "candidate_catalogue_ids": [
+      "coverage-registry-229"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-230",
+    "candidate_catalogue_ids": [
+      "coverage-registry-230"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-231",
+    "candidate_catalogue_ids": [
+      "coverage-registry-231"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-232",
+    "candidate_catalogue_ids": [
+      "coverage-registry-232"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-233",
+    "candidate_catalogue_ids": [
+      "coverage-registry-233"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-234",
+    "candidate_catalogue_ids": [
+      "coverage-registry-234"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-235",
+    "candidate_catalogue_ids": [
+      "coverage-registry-235"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-236",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-237",
+    "candidate_catalogue_ids": [
+      "coverage-registry-237"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-238",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-239",
+    "candidate_catalogue_ids": [
+      "coverage-registry-239"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-240",
+    "candidate_catalogue_ids": [
+      "coverage-registry-240"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-241",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-242",
+    "candidate_catalogue_ids": [
+      "coverage-registry-242"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-243",
+    "candidate_catalogue_ids": [
+      "coverage-registry-243"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-244",
+    "candidate_catalogue_ids": [
+      "coverage-registry-244"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-245",
+    "candidate_catalogue_ids": [
+      "coverage-registry-245"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-246",
+    "candidate_catalogue_ids": [
+      "coverage-registry-246"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-247",
+    "candidate_catalogue_ids": [
+      "coverage-registry-247"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-248",
+    "candidate_catalogue_ids": [
+      "coverage-registry-248"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-249",
+    "candidate_catalogue_ids": [
+      "uncertainty-gao-brennan-2001"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-250",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-251",
+    "candidate_catalogue_ids": [
+      "coverage-registry-251"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-252",
+    "candidate_catalogue_ids": [
+      "coverage-registry-252"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-253",
+    "candidate_catalogue_ids": [
+      "coverage-registry-253"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-254",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-255",
+    "candidate_catalogue_ids": [
+      "coverage-registry-255"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-256",
+    "candidate_catalogue_ids": [
+      "coverage-registry-256"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-257",
+    "candidate_catalogue_ids": [
+      "coverage-registry-257"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-258",
+    "candidate_catalogue_ids": [
+      "coverage-registry-258"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-259",
+    "candidate_catalogue_ids": [
+      "coverage-registry-259"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-260",
+    "candidate_catalogue_ids": [
+      "coverage-registry-260"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-261",
+    "candidate_catalogue_ids": [
+      "coverage-registry-261"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-262",
+    "candidate_catalogue_ids": [
+      "coverage-registry-262"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-263",
+    "candidate_catalogue_ids": [
+      "multivariate-subscores-2018"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-264",
+    "candidate_catalogue_ids": [
+      "coverage-registry-264"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-265",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-266",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-267",
+    "candidate_catalogue_ids": [
+      "coverage-registry-267"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-268",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-269",
+    "candidate_catalogue_ids": [
+      "coverage-registry-269"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-270",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-271",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-272",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-273",
+    "candidate_catalogue_ids": [
+      "coverage-registry-273"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-274",
+    "candidate_catalogue_ids": [
+      "coverage-registry-274"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-275",
+    "candidate_catalogue_ids": [
+      "coverage-registry-275"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-276",
+    "candidate_catalogue_ids": [
+      "coverage-registry-276"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-277",
+    "candidate_catalogue_ids": [
+      "coverage-registry-277"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-278",
+    "candidate_catalogue_ids": [
+      "coverage-registry-278"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-279",
+    "candidate_catalogue_ids": [
+      "coverage-registry-279"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-280",
+    "candidate_catalogue_ids": [
+      "coverage-registry-128"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-281",
+    "candidate_catalogue_ids": [
+      "coverage-registry-281"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-282",
+    "candidate_catalogue_ids": [
+      "coverage-registry-282"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-283",
+    "candidate_catalogue_ids": [
+      "coverage-registry-283"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-284",
+    "candidate_catalogue_ids": [
+      "multivariate-casma-25"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-285",
+    "candidate_catalogue_ids": [
+      "coverage-registry-285"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-286",
+    "candidate_catalogue_ids": [
+      "estimation-lin-sparse-2017"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-287",
+    "candidate_catalogue_ids": [
+      "coverage-tukey-nonadditive-2018"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-288",
+    "candidate_catalogue_ids": [
+      "coverage-registry-288"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-289",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-290",
+    "candidate_catalogue_ids": [
+      "decisions-mixed-format-classification-2015"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-291",
+    "candidate_catalogue_ids": [
+      "coverage-registry-291"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-292",
+    "candidate_catalogue_ids": [
+      "coverage-registry-292"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-293",
+    "candidate_catalogue_ids": [
+      "coverage-registry-293"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-294",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-295",
+    "candidate_catalogue_ids": [
+      "coverage-registry-295"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-296",
+    "candidate_catalogue_ids": [
+      "multivariate-subscore-utility-2020"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-297",
+    "candidate_catalogue_ids": [
+      "coverage-registry-297"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-298",
+    "candidate_catalogue_ids": [
+      "coverage-registry-298"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-299",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-300",
+    "candidate_catalogue_ids": [
+      "coverage-registry-300"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-301",
+    "candidate_catalogue_ids": [
+      "uncertainty-shin-raudenbush-2012"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-302",
+    "candidate_catalogue_ids": [
+      "coverage-registry-302"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-303",
+    "candidate_catalogue_ids": [
+      "coverage-registry-303"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-304",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-305",
+    "candidate_catalogue_ids": [
+      "coverage-registry-305"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-306",
+    "candidate_catalogue_ids": [
+      "coverage-registry-306"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-307",
+    "candidate_catalogue_ids": [
+      "coverage-registry-307"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-308",
+    "candidate_catalogue_ids": [
+      "coverage-registry-308"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-309",
+    "candidate_catalogue_ids": [
+      "coverage-registry-180"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-310",
+    "candidate_catalogue_ids": [
+      "uncertainty-tong-brennan-2004"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-311",
+    "candidate_catalogue_ids": [
+      "uncertainty-tong-brennan-2007"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-312",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-313",
+    "candidate_catalogue_ids": [
+      "coverage-registry-313"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-314",
+    "candidate_catalogue_ids": [
+      "coverage-registry-314"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-315",
+    "candidate_catalogue_ids": [
+      "coverage-registry-315"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-316",
+    "candidate_catalogue_ids": [
+      "multivariate-ctt-sem-2018"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-317",
+    "candidate_catalogue_ids": [
+      "coverage-registry-317"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-318",
+    "candidate_catalogue_ids": [
+      "coverage-registry-318"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-319",
+    "candidate_catalogue_ids": [
+      "coverage-registry-319"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-320",
+    "candidate_catalogue_ids": [
+      "coverage-registry-320"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-321",
+    "candidate_catalogue_ids": [],
+    "status": "unresolved_lead",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-322",
+    "candidate_catalogue_ids": [
+      "coverage-registry-322"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-323",
+    "candidate_catalogue_ids": [
+      "uncertainty-wiley-2000"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-324",
+    "candidate_catalogue_ids": [
+      "coverage-registry-324"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-325",
+    "candidate_catalogue_ids": [
+      "coverage-standard-setting-2015"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-326",
+    "candidate_catalogue_ids": [
+      "coverage-registry-326"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-327",
+    "candidate_catalogue_ids": [
+      "decisions-cut-scores-yin-sconing"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  },
+  {
+    "lead_id": "casma53-lead-328",
+    "candidate_catalogue_ids": [
+      "coverage-nonadditive-2016"
+    ],
+    "status": "candidate_match",
+    "note": "Mechanical title/year/author candidate; confirm editions and source errors in a reading pass."
+  }
+]

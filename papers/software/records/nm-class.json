@@ -1,0 +1,18 @@
+{
+  "id": "nm-class",
+  "source_url": "https://brennancrickgenova.org/classification-decision-consistency-programs/",
+  "revision": "Author-hosted PC distribution, SHA-256 recorded",
+  "archive_url": "https://brennancrickgenova.org/download/4-nm-class-v1-0-for-pc/?wpdmdl=356",
+  "archive_path": "quarantine/archives/nm-class.zip",
+  "archive_sha256": "d0fd08c574cee6cfac32bc2b75a77fe9ec6e3fe2e24f6ff9ee2e5ac02fad051a",
+  "archive_bytes": 246312,
+  "extracted_path": "quarantine/references/nm-class",
+  "extracted_files": 3,
+  "excluded_paths": [],
+  "strip_root": false,
+  "license_note": "Author permits distribution; no permissive source license inferred",
+  "description": "Normal-model classification consistency/accuracy distribution",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:57:28.980994+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only nm-class"
+}

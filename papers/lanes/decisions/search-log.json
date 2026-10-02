@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-02",
+  "lane": "decisions",
+  "queries": [
+    "A Short Note on Optimizing Cost-Generalizability",
+    "Livingston Lewis1995 classification reliability",
+    "Kane Brennan1977 Signal/Noise",
+    "Maximizing coefficient generalizability multifacet decision studies",
+    "optimization resource constraints Marcoulides Goldstein1990",
+    "Brennan Raw-Score Conditional SEM",
+    "generalizability cut-off intervals predicted total scores",
+    "Livingston1972 criterion referenced reliability",
+    "cutscore standarderrors YinSconing",
+    "Cost-effectiveness performance assessments PMC",
+    "Challenging norm Schauber2025",
+    "generalizability budget integer2025",
+    "Optimizing Costs GTbased reliabilities large scale performance",
+    "generalizability mixedinteger nonlinear",
+    "three typicalcomplex generalizability Lagrange",
+    "Hanson Brennan1990 classificationaccuracy",
+    "Agreement coefficients dependability domain-referenced",
+    "optimal sample generalizability Lagrange2024",
+    "Selecting observations multivariate budget constraints",
+    "Designing measurement studies budget constraints power",
+    "Meyer Liu Mashburn teaching observation budget",
+    "Traub Rowley ReliabilityTestScoresDecisions DOI",
+    "Hanson methodmoments fourparameterbeta",
+    "Huynh OnReliabilityDecisions fulltext",
+    "BrennanKaneIndexDependability fulltext",
+    "ETS LivingLewis1994report fulltext",
+    "Huynh ComputationInference1979 DOI",
+    "Challenging norm institutionalrepository WhiteRose",
+    "Meyer2014.pdf alternate",
+    "BrennanLee conditional scalescores1999"
+  ],
+  "primary_hubs": [
+    "https://education.uiowa.edu/casma/pubs",
+    "https://education.uiowa.edu/casma/computer-programs",
+    "https://brennancrickgenova.org/classification-decision-consistency-programs/",
+    "https://brennancrickgenova.org/other-programs/"
+  ],
+  "bibliography_spines": [
+    "Shared CASMA#53 first sixtyyears",
+    "CASMA#7/#9/#13/#18/#22/#27",
+    "#1980 HuynhSaunders collectedreport",
+    "Jiang etal2021 optimization bibliography",
+    "Suh etal2016 MINLP chapter bibliography"
+  ],
+  "auxiliary_metadata": "Crossref title queries recorded in crossref-discovery.json;429responses preserved as failures, never accepted as metadata.",
+  "acquisitions": "acquisition-log.json records success/failure, helper sidecars preserve hash/source/finalURL/bytes/time.",
+  "cautions": [
+    "Rejected access HTML for attempted PDF, no credentials/paywall bypass.",
+    "Meyer authorPDF actual404 despite cachedsearch result.",
+    "2025WhiteRoseacceptedmanuscript recovered after403; supplementaryFigure1 separate.",
+    "Wholevolume MINLP retainedintact, relevantchapterpp173\u2013185 only.",
+    "Huynh1978memorandum differs from1979journaltitle.",
+    "Jiang2021 displayedconstraint andfacetcounts require mathematical reconciliation."
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dtheory",
+  "source_url": "https://github.com/t-clark04/dtheory",
+  "revision": "740b70e878e5516dc57f64477f37cf2080d30702",
+  "archive_url": "https://codeload.github.com/t-clark04/dtheory/tar.gz/740b70e878e5516dc57f64477f37cf2080d30702",
+  "archive_path": "quarantine/archives/dtheory.tar.gz",
+  "archive_sha256": "bd3d2821e4d5740021aed31e7ac6b24e9a382095ea979d0d5c524a8df8181cb3",
+  "archive_bytes": 6052,
+  "extracted_path": "quarantine/references/dtheory",
+  "extracted_files": 15,
+  "excluded_paths": [
+    "dtheory-740b70e878e5516dc57f64477f37cf2080d30702",
+    "dtheory-740b70e878e5516dc57f64477f37cf2080d30702/R",
+    "dtheory-740b70e878e5516dc57f64477f37cf2080d30702/man"
+  ],
+  "strip_root": true,
+  "license_note": "MIT + file LICENSE in original DESCRIPTION; original LICENSE.md includes complete MIT grant (2024 authors).",
+  "description": "Execute D-Studies from Generalizability Theory",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:44:53.171322+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only dtheory"
+}

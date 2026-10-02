@@ -1,0 +1,18 @@
+{
+  "id": "bb-class",
+  "source_url": "https://brennancrickgenova.org/classification-decision-consistency-programs/",
+  "revision": "Author-hosted PC distribution, SHA-256 recorded",
+  "archive_url": "https://brennancrickgenova.org/download/1-bb-class-for-pc/?wpdmdl=345",
+  "archive_path": "quarantine/archives/bb-class.zip",
+  "archive_sha256": "1c1a2b8a4f800049e0659369d5c70ef9229096e4e9f7b5994ce5946b49cd9baf",
+  "archive_bytes": 479753,
+  "extracted_path": "quarantine/references/bb-class",
+  "extracted_files": 6,
+  "excluded_paths": [],
+  "strip_root": false,
+  "license_note": "Author permits distribution; no permissive source license inferred",
+  "description": "Beta-binomial classification consistency/accuracy distribution",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:57:29.050741+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only bb-class"
+}

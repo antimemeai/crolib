@@ -1,0 +1,20 @@
+{
+  "id": "gt-ptc",
+  "source_url": "https://github.com/gattia/Generalizability_Theory_PTC",
+  "revision": "aa524762ae06761c2f35546ef83563679b142bf8",
+  "archive_url": "https://codeload.github.com/gattia/Generalizability_Theory_PTC/tar.gz/aa524762ae06761c2f35546ef83563679b142bf8",
+  "archive_path": "quarantine/archives/gt-ptc.tar.gz",
+  "archive_sha256": "89b5183183e233805078c79d777911a5201b89901eec14ae39d60ebcdd47524f",
+  "archive_bytes": 9280,
+  "extracted_path": "quarantine/references/gt-ptc",
+  "extracted_files": 5,
+  "excluded_paths": [
+    "Generalizability_Theory_PTC-aa524762ae06761c2f35546ef83563679b142bf8"
+  ],
+  "strip_root": true,
+  "license_note": "No recognized license in GitHub metadata; inspect source before reuse",
+  "description": "Generalizability-theory reference",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:45:08.906205+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only gt-ptc"
+}

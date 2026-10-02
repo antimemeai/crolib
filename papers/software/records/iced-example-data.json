@@ -1,0 +1,1230 @@
+{
+  "id": "iced-example-data",
+  "kind": "files",
+  "source_url": "https://osf.io/8n24x/",
+  "listing_url": "https://api.osf.io/v2/nodes/8n24x/files/osfstorage/?sort=name",
+  "revision": "OSF file versions and SHA-256 recorded individually",
+  "description": "ICED2018 complete derived resting-state functional-connectivity CSV corpus; stable name-sorted listing, source paths, IDs, versions, and hashes retained; inspect only",
+  "license_note": "Public author-deposited materials; inspect project and file licenses before reuse",
+  "status": "acquired",
+  "files": [
+    {
+      "source_url": "https://osf.io/download/hzf5g/",
+      "raw_path": "quarantine/archives/iced-example-data/colnames.csv",
+      "extracted_path": "quarantine/references/iced-example-data/colnames.csv",
+      "sha256": "38e8a945f2f69df78b301e9dae9056c94ba83f9ba9752c53d6c29bfae28cd05b",
+      "bytes": 211,
+      "osf_file_id": "5b2778e1c9cb1b00104b3fa9",
+      "version": 1,
+      "original_osf_path": "/colnames.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/w5rm3/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-10-11.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-10-11.csv",
+      "sha256": "c809d704973cfff6dde8eebcdac717ab5a23df7f5ce3b2f4ac6fe27fb0785aeb",
+      "bytes": 9286,
+      "osf_file_id": "5b277c7b8b4bed000fb7895c",
+      "version": 1,
+      "original_osf_path": "/rsfmri-10-11.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/z2mdb/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-10-12.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-10-12.csv",
+      "sha256": "6be8fb96ece17a8699330436b182df9ae3277fbd730dd913a2e5393b807650f5",
+      "bytes": 9284,
+      "osf_file_id": "5b277c7bc9cb1b000d4ba002",
+      "version": 1,
+      "original_osf_path": "/rsfmri-10-12.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/5w6cd/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-10-13.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-10-13.csv",
+      "sha256": "fa60ae4c22f44f581f2a5976da057429a2c1369f1227d2627f1a7ee1d077a5b2",
+      "bytes": 9285,
+      "osf_file_id": "5b277c7cc9cb1b000f4b6b64",
+      "version": 1,
+      "original_osf_path": "/rsfmri-10-13.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/ypb5a/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-10-14.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-10-14.csv",
+      "sha256": "185a956cce51e7212724b015ae4aa999182f87733aae4f28ccbc03d8305ec5e2",
+      "bytes": 9281,
+      "osf_file_id": "5b277c7c8b4bed000eb8869e",
+      "version": 1,
+      "original_osf_path": "/rsfmri-10-14.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/hc3sb/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-10-15.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-10-15.csv",
+      "sha256": "f8c6e0916d81fdb2790dd4a33b00b6f66ce0b92b63e377c8f6b4e2423ba38af8",
+      "bytes": 9315,
+      "osf_file_id": "5b277c7cc9cb1b000d4ba006",
+      "version": 1,
+      "original_osf_path": "/rsfmri-10-15.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/2qsh4/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-10-16.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-10-16.csv",
+      "sha256": "f487dca5cfba0e623141f7d3be630ed146fa95310251a3312200dd2e87a6b8f9",
+      "bytes": 9311,
+      "osf_file_id": "5b277c7e8b4bed000fb78967",
+      "version": 1,
+      "original_osf_path": "/rsfmri-10-16.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/ksyh8/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-1-10.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-1-10.csv",
+      "sha256": "cb193a093440a23f5bcc4ede2cc9771a4714f4350b56339fa3f26fc7bccd7a35",
+      "bytes": 9283,
+      "osf_file_id": "5b277c47c9cb1b000e4c73ac",
+      "version": 1,
+      "original_osf_path": "/rsfmri-1-10.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/tgmjn/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-11-12.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-11-12.csv",
+      "sha256": "fdc2a9e0993e0119656981cfe124df1924ee07f42b45c06e94b6a25f9e0db8a4",
+      "bytes": 9289,
+      "osf_file_id": "5b277c7e8b4bed0011b74e32",
+      "version": 1,
+      "original_osf_path": "/rsfmri-11-12.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/v96w7/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-11-13.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-11-13.csv",
+      "sha256": "4f4af3995255254a0bce7a79fe96ea2b18ed1f3822a56c900b9c297aee60040d",
+      "bytes": 9309,
+      "osf_file_id": "5b277c80c9cb1b000e4c747b",
+      "version": 1,
+      "original_osf_path": "/rsfmri-11-13.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/b43n6/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-11-14.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-11-14.csv",
+      "sha256": "79ab518ef5c27d63d510194f9dfc81c5c8c8ba8d3d72ff17be26140ec9c60f2f",
+      "bytes": 9313,
+      "osf_file_id": "5b277c7f8b4bed000eb886aa",
+      "version": 1,
+      "original_osf_path": "/rsfmri-11-14.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/s8rvd/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-11-15.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-11-15.csv",
+      "sha256": "05ac2ed4c926151dea4efdf3074036406c65e07ff37380d9317a4a3a17e3f7fb",
+      "bytes": 9304,
+      "osf_file_id": "5b277c7f8b4bed000fb7896b",
+      "version": 1,
+      "original_osf_path": "/rsfmri-11-15.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/dkqz6/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-11-16.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-11-16.csv",
+      "sha256": "a3b7b8d17dc883cccaa62d0982c485fc571984f2dd110ffd6b99e8451dae614f",
+      "bytes": 9305,
+      "osf_file_id": "5b277c81c9cb1b000f4b6b69",
+      "version": 1,
+      "original_osf_path": "/rsfmri-11-16.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/2ncux/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-1-11.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-1-11.csv",
+      "sha256": "6ac6da7de851b7b147aacb0a1c4b538c8159c1d006d2291343463cdf4a4986a2",
+      "bytes": 9289,
+      "osf_file_id": "5b277c488b4bed000fb788e0",
+      "version": 1,
+      "original_osf_path": "/rsfmri-1-11.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/xaq5s/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-1-12.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-1-12.csv",
+      "sha256": "32326c677ed5f87c2583848e5ee5ffa2961c78af8f8b101cd6f91b8c9377a585",
+      "bytes": 9285,
+      "osf_file_id": "5b277c4a8b4bed0011b74dd4",
+      "version": 1,
+      "original_osf_path": "/rsfmri-1-12.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/deqyr/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-1-13.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-1-13.csv",
+      "sha256": "8518d2127a9cfcb6f2a9e8604862767e05baee5e21c2d4c2b398960c8fb58bb4",
+      "bytes": 9299,
+      "osf_file_id": "5b277c498b4bed0010b713ad",
+      "version": 1,
+      "original_osf_path": "/rsfmri-1-13.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/zyfrq/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-1-14.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-1-14.csv",
+      "sha256": "0cdb33b9f498a499b747350a0ce9a580e508d41789066aeb25326f694129b638",
+      "bytes": 9290,
+      "osf_file_id": "5b277c4ac9cb1b00104b42b6",
+      "version": 1,
+      "original_osf_path": "/rsfmri-1-14.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/hw8ya/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-1-15.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-1-15.csv",
+      "sha256": "c2cf25b6682f3cf787dc5a49b93e53f6ac2f8c55b0aa438b152abd8c6c6c6ee4",
+      "bytes": 9299,
+      "osf_file_id": "5b277c4b8b4bed000fb788ed",
+      "version": 1,
+      "original_osf_path": "/rsfmri-1-15.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/f8uw9/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-1-16.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-1-16.csv",
+      "sha256": "6f5109bb6773ff10c9d6cdf07331eed021ec3571751bd7dc0fdfd7dd50e8132c",
+      "bytes": 9284,
+      "osf_file_id": "5b277c4bc9cb1b000e4c73b4",
+      "version": 1,
+      "original_osf_path": "/rsfmri-1-16.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/ps674/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-12-13.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-12-13.csv",
+      "sha256": "5f58b6820d0bd989cf9e612d589c170272fedd557300b00b51e807f8b8a63eec",
+      "bytes": 9309,
+      "osf_file_id": "5b277c808b4bed0011b74e39",
+      "version": 1,
+      "original_osf_path": "/rsfmri-12-13.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/yx8gz/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-12-14.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-12-14.csv",
+      "sha256": "f0bfd20b3a2c777273fd176984874a98d4a1a7378eacbc0e6f17f47fee9f0501",
+      "bytes": 9312,
+      "osf_file_id": "5b277c818b4bed0011b74e3c",
+      "version": 1,
+      "original_osf_path": "/rsfmri-12-14.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/cp3ft/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-12-15.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-12-15.csv",
+      "sha256": "3e57c273c5db472e23713cc7526dadf38d546e2fdcbba52e2fd16bb8b96f0ce4",
+      "bytes": 9298,
+      "osf_file_id": "5b277c81c9cb1b000e4c747f",
+      "version": 1,
+      "original_osf_path": "/rsfmri-12-15.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/h27cf/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-12-16.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-12-16.csv",
+      "sha256": "982b841190893476429daaa7bc90f756684df64f7cb24446ff160e6073eebad3",
+      "bytes": 9311,
+      "osf_file_id": "5b277c828b4bed0010b713f8",
+      "version": 1,
+      "original_osf_path": "/rsfmri-12-16.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/kt8jc/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-1-2.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-1-2.csv",
+      "sha256": "1c9ca1ffd084908ef38d9d23e19ec4b905df7feca3bcc8e31fc659c8e2bdaa9c",
+      "bytes": 9277,
+      "osf_file_id": "5b277c448b4bed000eb885f4",
+      "version": 1,
+      "original_osf_path": "/rsfmri-1-2.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/ac5hn/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-13-14.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-13-14.csv",
+      "sha256": "32f46060b8b793947a0324cb7418bd2a8e950f76b777133c1f6c5e3230300973",
+      "bytes": 9205,
+      "osf_file_id": "5b277c83c9cb1b000f4b6b71",
+      "version": 1,
+      "original_osf_path": "/rsfmri-13-14.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/q8t9p/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-13-15.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-13-15.csv",
+      "sha256": "91242e17544b67ee7c39703cbe0f4a406515927f30c40e2364cfde4ffcd49dd7",
+      "bytes": 9320,
+      "osf_file_id": "5b277c838b4bed000fb78979",
+      "version": 1,
+      "original_osf_path": "/rsfmri-13-15.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/p6rz7/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-13-16.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-13-16.csv",
+      "sha256": "b074a05b4ce7f95a86ba0ebd1cb935cfc3b2d0f5193a30e1100a30d75ee54805",
+      "bytes": 9330,
+      "osf_file_id": "5b277c858b4bed000fb7897e",
+      "version": 1,
+      "original_osf_path": "/rsfmri-13-16.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/5b277c458b4bed0011b74dc7/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-1-3.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-1-3.csv",
+      "sha256": "ebc6fefcc44a774e9a53550a594fb2454695618d7d4cf39c9a078eeef4f2caf3",
+      "bytes": 9294,
+      "osf_file_id": "5b277c458b4bed0011b74dc7",
+      "version": 1,
+      "original_osf_path": "/rsfmri-1-3.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/3sgv2/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-14-15.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-14-15.csv",
+      "sha256": "2138822968b5f14dc5c527688c8d4ffb0f85aec72f0d10395636b070a822258b",
+      "bytes": 9316,
+      "osf_file_id": "5b277c84c9cb1b000d4ba01f",
+      "version": 1,
+      "original_osf_path": "/rsfmri-14-15.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/2n8w4/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-14-16.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-14-16.csv",
+      "sha256": "4983848b43976df2a6f9c0725eddec74fee2985a405629ea50cb043a78399b85",
+      "bytes": 9328,
+      "osf_file_id": "5b277c858b4bed0010b713fb",
+      "version": 1,
+      "original_osf_path": "/rsfmri-14-16.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/y2s5h/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-1-4.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-1-4.csv",
+      "sha256": "4ff0d4fafea7c1c0c2321e7d8326d58a2167ac1e21f7320fe395b8ada0743bc7",
+      "bytes": 9278,
+      "osf_file_id": "5b277c458b4bed0011b74dc5",
+      "version": 1,
+      "original_osf_path": "/rsfmri-1-4.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/2fgrc/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-15-16.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-15-16.csv",
+      "sha256": "216bce703d6fa3cca738fbbe58b593e9f15634ffc572cc469d11ce9b170e50e1",
+      "bytes": 9272,
+      "osf_file_id": "5b277c85c9cb1b000e4c7489",
+      "version": 1,
+      "original_osf_path": "/rsfmri-15-16.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/e7ch6/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-1-5.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-1-5.csv",
+      "sha256": "e8a31dfdb6bb91f80f32f296ce11b05082f94e1d65a705ef7c3af577a6145799",
+      "bytes": 9284,
+      "osf_file_id": "5b277c44c9cb1b000f4b6ae2",
+      "version": 1,
+      "original_osf_path": "/rsfmri-1-5.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/bpn8c/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-1-6.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-1-6.csv",
+      "sha256": "170913164a2cdb2328bf89125c4ad32b7620597a671573ac81e72f0f61d50fda",
+      "bytes": 9294,
+      "osf_file_id": "5b277c44c9cb1b000d4b9f6d",
+      "version": 1,
+      "original_osf_path": "/rsfmri-1-6.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/ed5u3/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-1-7.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-1-7.csv",
+      "sha256": "df2ecc4b5b0222a120221a306b341453707a44cb35b1c8487e438b1610534378",
+      "bytes": 9276,
+      "osf_file_id": "5b277c488b4bed0011b74dcb",
+      "version": 1,
+      "original_osf_path": "/rsfmri-1-7.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/bfnka/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-1-8.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-1-8.csv",
+      "sha256": "ed8d0dd5c31cde9b9b0f1e67f8855fb201b7fe9036cbe406d1578e8329e03be0",
+      "bytes": 9275,
+      "osf_file_id": "5b277c478b4bed000fb788dd",
+      "version": 1,
+      "original_osf_path": "/rsfmri-1-8.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/ptv74/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-1-9.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-1-9.csv",
+      "sha256": "3b370ff63c846a3846767744567137234ad90f344804ca0d5069cc00a59d2705",
+      "bytes": 9286,
+      "osf_file_id": "5b277c478b4bed000eb88600",
+      "version": 1,
+      "original_osf_path": "/rsfmri-1-9.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/ufm73/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-2-10.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-2-10.csv",
+      "sha256": "e157907248c52a151e3df6797ca7446efb67187f643654f99f63f8a91ec1aebc",
+      "bytes": 9274,
+      "osf_file_id": "5b277c508b4bed000eb88618",
+      "version": 1,
+      "original_osf_path": "/rsfmri-2-10.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/q6scr/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-2-11.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-2-11.csv",
+      "sha256": "8c3640cc88f31bf6e39de5a121c8d787447129136c46079298c5500291c0be73",
+      "bytes": 9287,
+      "osf_file_id": "5b277c50c9cb1b000d4b9f81",
+      "version": 1,
+      "original_osf_path": "/rsfmri-2-11.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/pbnwa/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-2-12.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-2-12.csv",
+      "sha256": "b70cc683dae5acec1f21b34d2712827522e3af0bcdecbe47a4ca82df20c6f890",
+      "bytes": 9281,
+      "osf_file_id": "5b277c50c9cb1b000e4c73cf",
+      "version": 1,
+      "original_osf_path": "/rsfmri-2-12.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/7wyqp/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-2-13.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-2-13.csv",
+      "sha256": "acc3af335e1f89ff68d37673c75f7bfbd88b8e2cf838385ec8cca47bb26afdf3",
+      "bytes": 9293,
+      "osf_file_id": "5b277c518b4bed000fb788fb",
+      "version": 1,
+      "original_osf_path": "/rsfmri-2-13.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/5b277c52c9cb1b00104b42c6/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-2-14.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-2-14.csv",
+      "sha256": "cb4f7c0cc8e0ec7fc88d0f9493745d99ffd3363b3e760ff916bccc1f8edb146b",
+      "bytes": 9300,
+      "osf_file_id": "5b277c52c9cb1b00104b42c6",
+      "version": 1,
+      "original_osf_path": "/rsfmri-2-14.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/wp5ea/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-2-15.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-2-15.csv",
+      "sha256": "d6e5afeb59ad200c7f3af59f46f11deadf0023128f8754ac2ed7b9731219fa8a",
+      "bytes": 9289,
+      "osf_file_id": "5b277c538b4bed000eb88625",
+      "version": 1,
+      "original_osf_path": "/rsfmri-2-15.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/qc6se/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-2-16.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-2-16.csv",
+      "sha256": "3d83ce0b45157c3e154bfbbd661b21403fcf4c6ada193cb8ac9e331d1e946d41",
+      "bytes": 9309,
+      "osf_file_id": "5b277c52c9cb1b00104b42c9",
+      "version": 1,
+      "original_osf_path": "/rsfmri-2-16.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/3ad7y/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-2-3.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-2-3.csv",
+      "sha256": "054739f3ed90d4c84ab1eaa845de051481b4a502382a44550350d1ae9167e937",
+      "bytes": 9294,
+      "osf_file_id": "5b277c4c8b4bed000eb8860c",
+      "version": 1,
+      "original_osf_path": "/rsfmri-2-3.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/5b277c4dc9cb1b000e4c73bc/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-2-4.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-2-4.csv",
+      "sha256": "646334de3ec22814b688714067ed516200ac1d22dcf629be77620f14f2ea69c5",
+      "bytes": 9284,
+      "osf_file_id": "5b277c4dc9cb1b000e4c73bc",
+      "version": 1,
+      "original_osf_path": "/rsfmri-2-4.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/yvck4/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-2-5.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-2-5.csv",
+      "sha256": "7a17b186de548c79e5531a85dd517ef748cd19d4fb31e09553f09171477be595",
+      "bytes": 9300,
+      "osf_file_id": "5b277c4e8b4bed000fb788f6",
+      "version": 1,
+      "original_osf_path": "/rsfmri-2-5.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/h6esv/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-2-6.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-2-6.csv",
+      "sha256": "d482928af9931f8819e9c9199bd47d8ebe9044ded3e68f7de5df65d93b4199de",
+      "bytes": 9290,
+      "osf_file_id": "5b277c4dc9cb1b000e4c73c0",
+      "version": 1,
+      "original_osf_path": "/rsfmri-2-6.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/54cbd/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-2-7.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-2-7.csv",
+      "sha256": "220d2dba7cdee59ce1dbc1e5bb95a8d12903b31879c5f1a5bca4426a86aa625e",
+      "bytes": 9288,
+      "osf_file_id": "5b277c4d8b4bed0010b713b4",
+      "version": 1,
+      "original_osf_path": "/rsfmri-2-7.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/nckz6/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-2-8.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-2-8.csv",
+      "sha256": "49af7deae594c5a18013c46bf79090ce3a025b02a5054cfc55312477255e1877",
+      "bytes": 9285,
+      "osf_file_id": "5b277c4ec9cb1b00104b42bb",
+      "version": 1,
+      "original_osf_path": "/rsfmri-2-8.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/u4nxp/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-2-9.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-2-9.csv",
+      "sha256": "c53289bc2b12f4f15f9a9b7591c79b209f05a2213cf93265c1d2cd2358c8054c",
+      "bytes": 9284,
+      "osf_file_id": "5b277c508b4bed0010b713b8",
+      "version": 1,
+      "original_osf_path": "/rsfmri-2-9.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/5b277c568b4bed000eb8862f/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-3-10.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-3-10.csv",
+      "sha256": "97772d81cc1e41988d250db57b22e6486ed35d2ba929ffea4f767a0ade19b2d8",
+      "bytes": 9279,
+      "osf_file_id": "5b277c568b4bed000eb8862f",
+      "version": 1,
+      "original_osf_path": "/rsfmri-3-10.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/5b277c578b4bed0010b713cc/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-3-11.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-3-11.csv",
+      "sha256": "4fc58b99a2a47b08f2fa09d786cccfdc2fc8b0dd911fd4ba432055ac94b98ea1",
+      "bytes": 9297,
+      "osf_file_id": "5b277c578b4bed0010b713cc",
+      "version": 1,
+      "original_osf_path": "/rsfmri-3-11.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/hx76j/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-3-12.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-3-12.csv",
+      "sha256": "046b50216876362efcedf4fd469dd50b314ccca57d3666181d6afeb422bb70a0",
+      "bytes": 9303,
+      "osf_file_id": "5b277c598b4bed0010b713cf",
+      "version": 1,
+      "original_osf_path": "/rsfmri-3-12.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/zr2me/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-3-13.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-3-13.csv",
+      "sha256": "6dfbba5ce2ac876d8b412114cb0d26eeb35ef45fe27f84b3158ade593432d0b4",
+      "bytes": 9283,
+      "osf_file_id": "5b277c58c9cb1b000f4b6b0d",
+      "version": 1,
+      "original_osf_path": "/rsfmri-3-13.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/6my4t/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-3-14.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-3-14.csv",
+      "sha256": "df7d74f8b4ec3709e50cccc8fd20c5048469b5cfe41bbd3681adf5e3f590c0d2",
+      "bytes": 9289,
+      "osf_file_id": "5b277c57c9cb1b000d4b9f8b",
+      "version": 1,
+      "original_osf_path": "/rsfmri-3-14.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/r7mku/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-3-15.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-3-15.csv",
+      "sha256": "98a1bf9f1d4d8138a0a7bc14f1424c968d078a58e2dc0f9184b16436c1e84531",
+      "bytes": 9307,
+      "osf_file_id": "5b277c59c9cb1b000e4c73e5",
+      "version": 1,
+      "original_osf_path": "/rsfmri-3-15.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/t6k9s/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-3-16.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-3-16.csv",
+      "sha256": "4251e0da16b3055c145dc51adc4aa198b9c441c8f44a6bbb1d3d08e5826e0b4f",
+      "bytes": 9301,
+      "osf_file_id": "5b277c5a8b4bed000eb8863e",
+      "version": 1,
+      "original_osf_path": "/rsfmri-3-16.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/r6fu5/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-3-4.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-3-4.csv",
+      "sha256": "5c1766d8ffba8db7fa1f2cd7ac0489ccfa30dd96d42f3853320e7a6a60d9bb55",
+      "bytes": 9238,
+      "osf_file_id": "5b277c54c9cb1b000e4c73d7",
+      "version": 1,
+      "original_osf_path": "/rsfmri-3-4.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/hx7tv/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-3-5.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-3-5.csv",
+      "sha256": "4e4156751f1bc2d48a19a64581735060b57578aae3a2c6476fd686a9d9676b0b",
+      "bytes": 9316,
+      "osf_file_id": "5b277c53c9cb1b00104b42cc",
+      "version": 1,
+      "original_osf_path": "/rsfmri-3-5.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/arjqm/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-3-6.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-3-6.csv",
+      "sha256": "84574cd1cfe1bfc5ce611c56541d5f9389eba901281402cbe1d502c28fbee86f",
+      "bytes": 9312,
+      "osf_file_id": "5b277c558b4bed000fb78906",
+      "version": 1,
+      "original_osf_path": "/rsfmri-3-6.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/jvyun/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-3-7.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-3-7.csv",
+      "sha256": "b8229707fa9fe072f5dc9756cdaad704ff119973e84b6e2bfaa85c7ce7f20038",
+      "bytes": 9288,
+      "osf_file_id": "5b277c55c9cb1b000f4b6b08",
+      "version": 1,
+      "original_osf_path": "/rsfmri-3-7.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/aqymp/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-3-8.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-3-8.csv",
+      "sha256": "ce1bd6af44f334178b7ac765ca4ff4f54dd4cf731facc35cb8301ace6b712779",
+      "bytes": 9297,
+      "osf_file_id": "5b277c568b4bed000eb8862d",
+      "version": 1,
+      "original_osf_path": "/rsfmri-3-8.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/zumy8/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-3-9.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-3-9.csv",
+      "sha256": "d26f57dce63e2e7cf1d15474d09f71b1139b9919f2dcb24f0a7fc32dd25ec023",
+      "bytes": 9291,
+      "osf_file_id": "5b277c56c9cb1b00104b42d9",
+      "version": 1,
+      "original_osf_path": "/rsfmri-3-9.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/xk7h6/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-4-10.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-4-10.csv",
+      "sha256": "e038d3deac1d3018c9c0086619c7acd3d17cfe65737c4508e406723564a37fce",
+      "bytes": 9284,
+      "osf_file_id": "5b277c5ec9cb1b000e4c73fa",
+      "version": 1,
+      "original_osf_path": "/rsfmri-4-10.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/xzh3d/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-4-11.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-4-11.csv",
+      "sha256": "43ebb8e6403e3f3344238b73f74877f7149a9ea1c754f9b459ebf10061691610",
+      "bytes": 9289,
+      "osf_file_id": "5b277c5f8b4bed0010b713d4",
+      "version": 1,
+      "original_osf_path": "/rsfmri-4-11.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/634ng/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-4-12.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-4-12.csv",
+      "sha256": "77ed73e7c7c7b49a8d6653e77c91a906c23ded82976c96523302cebfc8951423",
+      "bytes": 9290,
+      "osf_file_id": "5b277c5fc9cb1b000e4c7402",
+      "version": 1,
+      "original_osf_path": "/rsfmri-4-12.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/zx5ph/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-4-13.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-4-13.csv",
+      "sha256": "77dd58c555a27632ee7e203001d31ec8aec70d65c688920ff23025af23e25af8",
+      "bytes": 9279,
+      "osf_file_id": "5b277c5fc9cb1b000e4c73fd",
+      "version": 1,
+      "original_osf_path": "/rsfmri-4-13.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/mgp72/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-4-14.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-4-14.csv",
+      "sha256": "a3d195cec10bbd18727911ecd4ce4c44fdd51f0c009e3fc0fc4d46ebaf0bdf7c",
+      "bytes": 9277,
+      "osf_file_id": "5b277c5fc9cb1b000d4b9f99",
+      "version": 1,
+      "original_osf_path": "/rsfmri-4-14.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/2ux3d/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-4-15.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-4-15.csv",
+      "sha256": "9f0b202998caf840ffbde910511d89236c2623e1342070dd6d0a253c56fe2c91",
+      "bytes": 9318,
+      "osf_file_id": "5b277c61c9cb1b000e4c7406",
+      "version": 1,
+      "original_osf_path": "/rsfmri-4-15.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/b2zf5/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-4-16.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-4-16.csv",
+      "sha256": "57cbaa7d783d64b923e6a6286a78c60fae562498dedf9932a910096cca375f5c",
+      "bytes": 9322,
+      "osf_file_id": "5b277c618b4bed0011b74ded",
+      "version": 1,
+      "original_osf_path": "/rsfmri-4-16.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/wnbvj/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-4-5.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-4-5.csv",
+      "sha256": "2cdb01efaba23cd8ef15633c28d2fa058bc36d84ea4a923dc2e98ee1beb1a39e",
+      "bytes": 9325,
+      "osf_file_id": "5b277c5bc9cb1b000e4c73ec",
+      "version": 1,
+      "original_osf_path": "/rsfmri-4-5.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/t4dhc/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-4-6.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-4-6.csv",
+      "sha256": "a7c92b54dfa21fcdcb68e5cf4d66080e795b2b7827ecb9dbbc62f50cd79f0b3e",
+      "bytes": 9319,
+      "osf_file_id": "5b277c5b8b4bed000eb88641",
+      "version": 1,
+      "original_osf_path": "/rsfmri-4-6.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/pgmry/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-4-7.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-4-7.csv",
+      "sha256": "4210acb071ac5a0f342ddf7c58aa481932f209c3a7408bfa86e4cbc1d113f637",
+      "bytes": 9271,
+      "osf_file_id": "5b277c5bc9cb1b00104b42dd",
+      "version": 1,
+      "original_osf_path": "/rsfmri-4-7.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/y3ubr/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-4-8.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-4-8.csv",
+      "sha256": "21401e0f15df989761cd073e196b116bd373f2747446ac7de79370643793a633",
+      "bytes": 9291,
+      "osf_file_id": "5b277c5cc9cb1b000f4b6b1a",
+      "version": 1,
+      "original_osf_path": "/rsfmri-4-8.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/p63re/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-4-9.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-4-9.csv",
+      "sha256": "921405bbdbda9f7a3f0f4ce59704007bf61ca1237314f75d14b1f4c63ba2793c",
+      "bytes": 9282,
+      "osf_file_id": "5b277c5cc9cb1b00104b42e0",
+      "version": 1,
+      "original_osf_path": "/rsfmri-4-9.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/du7mk/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-5-10.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-5-10.csv",
+      "sha256": "422826d47165e629751fda5f9178bebc6c052557f1d2835ea5142a9f4a5da5a0",
+      "bytes": 9373,
+      "osf_file_id": "5b277c648b4bed000eb88658",
+      "version": 1,
+      "original_osf_path": "/rsfmri-5-10.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/yb5cu/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-5-11.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-5-11.csv",
+      "sha256": "73226e2ad3c5ec656d32138ef2cbc8ee21bbde1651a9b180b90ca5c0f7a3dd9d",
+      "bytes": 9286,
+      "osf_file_id": "5b277c658b4bed000fb78921",
+      "version": 1,
+      "original_osf_path": "/rsfmri-5-11.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/5b277c668b4bed0010b713e9/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-5-12.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-5-12.csv",
+      "sha256": "6605907d5cb4cf4067b3af6193335cfd071b449efd0db52a701aedeef6d150fd",
+      "bytes": 9307,
+      "osf_file_id": "5b277c668b4bed0010b713e9",
+      "version": 1,
+      "original_osf_path": "/rsfmri-5-12.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/x3w7n/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-5-13.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-5-13.csv",
+      "sha256": "ea16c630a2dd5b32821d7bafa296b8c72e9edc6a627a1d62bc19574709d170ff",
+      "bytes": 9406,
+      "osf_file_id": "5b277c65c9cb1b000d4b9fab",
+      "version": 1,
+      "original_osf_path": "/rsfmri-5-13.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/5b277c678b4bed0011b74dfd/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-5-14.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-5-14.csv",
+      "sha256": "923beac4b373f9f732d26658b53e21f35f1e37ae986005a52978fa70106b58f7",
+      "bytes": 9421,
+      "osf_file_id": "5b277c678b4bed0011b74dfd",
+      "version": 1,
+      "original_osf_path": "/rsfmri-5-14.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/c8yu5/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-5-15.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-5-15.csv",
+      "sha256": "60d147c0694aa55a296521e068454718adb9ab04c1af90dda9bc780cb8a7dff7",
+      "bytes": 9285,
+      "osf_file_id": "5b277c67c9cb1b000d4b9fb4",
+      "version": 1,
+      "original_osf_path": "/rsfmri-5-15.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/q28x5/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-5-16.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-5-16.csv",
+      "sha256": "5e3f230e2f2fb0f660509712bc7b2496e66cf08863307232ea64371e50146748",
+      "bytes": 9292,
+      "osf_file_id": "5b277c678b4bed0010b713ee",
+      "version": 1,
+      "original_osf_path": "/rsfmri-5-16.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/uhe5x/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-5-6.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-5-6.csv",
+      "sha256": "fa9cecf6f090d67675dfa2ce1a9cae3728f9dd3e96c09b59f83070d9f2a72f8b",
+      "bytes": 9288,
+      "osf_file_id": "5b277c618b4bed0011b74df0",
+      "version": 1,
+      "original_osf_path": "/rsfmri-5-6.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/cak5m/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-5-7.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-5-7.csv",
+      "sha256": "10944834cf46aab651154e24c7608357770062e95708805cb9b8364104517933",
+      "bytes": 9301,
+      "osf_file_id": "5b277c628b4bed000eb88653",
+      "version": 1,
+      "original_osf_path": "/rsfmri-5-7.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/r64xn/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-5-8.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-5-8.csv",
+      "sha256": "ae418fc351f38fd33559defe0dde004029ffdf4136e2d6a726d40103fb6628d5",
+      "bytes": 9310,
+      "osf_file_id": "5b277c638b4bed0010b713e0",
+      "version": 1,
+      "original_osf_path": "/rsfmri-5-8.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/5b277c63c9cb1b000e4c740d/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-5-9.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-5-9.csv",
+      "sha256": "7dad5cf3c7b86f27b2545b505eac9d138f65d7144998688d27f608135bce8287",
+      "bytes": 9347,
+      "osf_file_id": "5b277c63c9cb1b000e4c740d",
+      "version": 1,
+      "original_osf_path": "/rsfmri-5-9.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/vyh93/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-6-10.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-6-10.csv",
+      "sha256": "68a069a4a9238ec9e6541f61372734e5b0e13cc0ea1a2c83951d04d533cfa840",
+      "bytes": 9344,
+      "osf_file_id": "5b277c6ac9cb1b000e4c742a",
+      "version": 1,
+      "original_osf_path": "/rsfmri-6-10.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/5b277c6a8b4bed000fb78936/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-6-11.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-6-11.csv",
+      "sha256": "23035b46a5a4c7167086a9506f567e0263c6662bf06182436c7f055a38b0923f",
+      "bytes": 9300,
+      "osf_file_id": "5b277c6a8b4bed000fb78936",
+      "version": 1,
+      "original_osf_path": "/rsfmri-6-11.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/rnf73/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-6-12.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-6-12.csv",
+      "sha256": "9c760f55dd0b19cdc35ceb80e83adea6ba72e4afe8d7cb827ac30b3b43f7a451",
+      "bytes": 9288,
+      "osf_file_id": "5b277c6bc9cb1b00104b4304",
+      "version": 1,
+      "original_osf_path": "/rsfmri-6-12.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/gtfkr/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-6-13.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-6-13.csv",
+      "sha256": "6d6c9fb400038de70e5ec563a37110b44a112f010bb820c150640b571d9b5caf",
+      "bytes": 9417,
+      "osf_file_id": "5b277c6b8b4bed000fb7893d",
+      "version": 1,
+      "original_osf_path": "/rsfmri-6-13.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/y5qbr/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-6-14.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-6-14.csv",
+      "sha256": "a5cb969ec2a979e4d97b909edfdc62f69c21ec05c713f065cdc49f312dbff847",
+      "bytes": 9438,
+      "osf_file_id": "5b277c6dc9cb1b000d4b9fc8",
+      "version": 1,
+      "original_osf_path": "/rsfmri-6-14.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/5b277c6dc9cb1b00104b430c/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-6-15.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-6-15.csv",
+      "sha256": "8a1117b2d97c8c4eecddc880c63ac13b534acbf849684b2c3374916a10e426fb",
+      "bytes": 9298,
+      "osf_file_id": "5b277c6dc9cb1b00104b430c",
+      "version": 1,
+      "original_osf_path": "/rsfmri-6-15.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/vqu42/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-6-16.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-6-16.csv",
+      "sha256": "e636daf87048c57e19dda66775046657fdbd5ef25829012a8f16ea7d59250814",
+      "bytes": 9291,
+      "osf_file_id": "5b277c6dc9cb1b000e4c7430",
+      "version": 1,
+      "original_osf_path": "/rsfmri-6-16.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/ueyw9/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-6-7.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-6-7.csv",
+      "sha256": "408c93ee56752a5b8c3310482cc65e290e35213b6c5e9044ea48ecbdad8cf3d1",
+      "bytes": 9297,
+      "osf_file_id": "5b277c69c9cb1b000d4b9fb8",
+      "version": 1,
+      "original_osf_path": "/rsfmri-6-7.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/6udn2/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-6-8.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-6-8.csv",
+      "sha256": "57a5f930b2d3176c248f83c476ad755f0ae82f6d9ebca2633602320cf4207089",
+      "bytes": 9301,
+      "osf_file_id": "5b277c698b4bed0010b713f2",
+      "version": 1,
+      "original_osf_path": "/rsfmri-6-8.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/u46gh/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-6-9.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-6-9.csv",
+      "sha256": "5640b4a03a729bbeff57d86f34605f2a8aa43ed703b9aed561c84dfd8e8ac11b",
+      "bytes": 9352,
+      "osf_file_id": "5b277c69c9cb1b000e4c7426",
+      "version": 1,
+      "original_osf_path": "/rsfmri-6-9.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/6mkqs/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-7-10.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-7-10.csv",
+      "sha256": "72085554d6ebde132794bdcd8f597ddcc617d690745603474bf76223ec62f62b",
+      "bytes": 9282,
+      "osf_file_id": "5b277c6ec9cb1b00104b4311",
+      "version": 1,
+      "original_osf_path": "/rsfmri-7-10.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/jvnhs/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-7-11.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-7-11.csv",
+      "sha256": "aacae1e8c9bba0e8a3af7848d3553accccda672484705e275b2645c6218b7aeb",
+      "bytes": 9284,
+      "osf_file_id": "5b277c6fc9cb1b00104b4316",
+      "version": 1,
+      "original_osf_path": "/rsfmri-7-11.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/eqa36/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-7-12.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-7-12.csv",
+      "sha256": "24af48685a8606f8bf80a76fecbbd84ec693afc5c46c6fc5045834d55c7bba2b",
+      "bytes": 9288,
+      "osf_file_id": "5b277c6fc9cb1b000f4b6b42",
+      "version": 1,
+      "original_osf_path": "/rsfmri-7-12.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/26n9q/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-7-13.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-7-13.csv",
+      "sha256": "a2b626625a35a407e649202d85ba76e1d0393091c4290306b60497dbe50e8d8d",
+      "bytes": 9287,
+      "osf_file_id": "5b277c71c9cb1b00104b431f",
+      "version": 1,
+      "original_osf_path": "/rsfmri-7-13.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/g7xfe/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-7-14.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-7-14.csv",
+      "sha256": "57250345f30cec30aa649fad79bc0db887276c36b462122677ca6eb4ac47fc86",
+      "bytes": 9291,
+      "osf_file_id": "5b277c71c9cb1b000d4b9fde",
+      "version": 1,
+      "original_osf_path": "/rsfmri-7-14.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/eqpzc/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-7-15.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-7-15.csv",
+      "sha256": "ce88ddcef9d578c98a6d23b5e5f3a2e7c78bbd20e9bd4c310952a058503d39ab",
+      "bytes": 9289,
+      "osf_file_id": "5b277c718b4bed000fb78944",
+      "version": 1,
+      "original_osf_path": "/rsfmri-7-15.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/5xqvm/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-7-16.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-7-16.csv",
+      "sha256": "8e251002a535ba74ec79d88a6d9a9ffe2fc81248957c2bd376a68e4dfdf86d8b",
+      "bytes": 9302,
+      "osf_file_id": "5b277c71c9cb1b000e4c7444",
+      "version": 1,
+      "original_osf_path": "/rsfmri-7-16.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/3gh52/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-7-8.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-7-8.csv",
+      "sha256": "82e74f49bd8c0f6222305d8a3b1ccb29a936a41b94574d3475750e63aabb6d84",
+      "bytes": 9285,
+      "osf_file_id": "5b277c6e8b4bed000eb88671",
+      "version": 1,
+      "original_osf_path": "/rsfmri-7-8.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/jb5ka/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-7-9.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-7-9.csv",
+      "sha256": "2743a1a5715faddd7145a51d8cdc01bfd1c6cb0f648bf925e2ddc3e85d55b0da",
+      "bytes": 9279,
+      "osf_file_id": "5b277c6ec9cb1b000f4b6b3d",
+      "version": 1,
+      "original_osf_path": "/rsfmri-7-9.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/5b277c74c9cb1b000e4c744e/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-8-10.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-8-10.csv",
+      "sha256": "7a1c1a8c8bcec2eab90748aebcb08cc1dd719e1dcb610d2f5f553c1f054923b1",
+      "bytes": 9291,
+      "osf_file_id": "5b277c74c9cb1b000e4c744e",
+      "version": 1,
+      "original_osf_path": "/rsfmri-8-10.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/nhb9v/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-8-11.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-8-11.csv",
+      "sha256": "95c0c9db41603c2c0f4f67d603efcecf2223f49278234c7f4379752f29438f2a",
+      "bytes": 9304,
+      "osf_file_id": "5b277c74c9cb1b000f4b6b4c",
+      "version": 1,
+      "original_osf_path": "/rsfmri-8-11.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/usra9/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-8-12.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-8-12.csv",
+      "sha256": "e91546d83789638625e1091ed43a0e50d5f7e89107d5e3a81001bd9c50d8144d",
+      "bytes": 9287,
+      "osf_file_id": "5b277c748b4bed0011b74e1d",
+      "version": 1,
+      "original_osf_path": "/rsfmri-8-12.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/gbe5n/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-8-13.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-8-13.csv",
+      "sha256": "635bf783ee553485e3e13794ad073a6cf8a70a19553c4e764722c3ebc087ab18",
+      "bytes": 9292,
+      "osf_file_id": "5b277c74c9cb1b00104b4326",
+      "version": 1,
+      "original_osf_path": "/rsfmri-8-13.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/t97pj/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-8-14.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-8-14.csv",
+      "sha256": "1610decec63a02daee9eb0689ef485da22d97a1ed6e04b240e56a388a842594f",
+      "bytes": 9292,
+      "osf_file_id": "5b277c74c9cb1b000e4c7450",
+      "version": 1,
+      "original_osf_path": "/rsfmri-8-14.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/en7rt/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-8-15.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-8-15.csv",
+      "sha256": "10f143592906334a4a61fb0890ebc20748a5db38ecc47e8d006c7af77efe2030",
+      "bytes": 9303,
+      "osf_file_id": "5b277c778b4bed000eb8868b",
+      "version": 1,
+      "original_osf_path": "/rsfmri-8-15.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/shvja/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-8-16.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-8-16.csv",
+      "sha256": "2e51b502f3f8dd11729767b8a4f46fad44b19946fd6c6781abb5b07fa4003258",
+      "bytes": 9304,
+      "osf_file_id": "5b277c76c9cb1b000d4b9fe9",
+      "version": 1,
+      "original_osf_path": "/rsfmri-8-16.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/mnj84/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-8-9.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-8-9.csv",
+      "sha256": "ab80f86e35b0f609cedfa0193e4741b69c5f952483e6a330f33a6b43e2b1e88e",
+      "bytes": 9305,
+      "osf_file_id": "5b277c72c9cb1b000e4c744a",
+      "version": 1,
+      "original_osf_path": "/rsfmri-8-9.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/5b277c77c9cb1b000f4b6b55/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-9-10.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-9-10.csv",
+      "sha256": "15fb891b74a40180bfd1b8bf01617e7cd5cfc1ee111015b1ea28ad13be128e82",
+      "bytes": 9281,
+      "osf_file_id": "5b277c77c9cb1b000f4b6b55",
+      "version": 1,
+      "original_osf_path": "/rsfmri-9-10.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/wbd8h/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-9-11.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-9-11.csv",
+      "sha256": "88e3120aa53a6cfd6736b0a3eda622342520211dc63f0e29dab669a910c0a44a",
+      "bytes": 9278,
+      "osf_file_id": "5b277c77c9cb1b000e4c7456",
+      "version": 1,
+      "original_osf_path": "/rsfmri-9-11.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/xuvza/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-9-12.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-9-12.csv",
+      "sha256": "ae16fd21eb046a0bf3eb3f9f7ee74f0d8ec9a3af363f6415c3abd52b9c1b667f",
+      "bytes": 9279,
+      "osf_file_id": "5b277c77c9cb1b000d4b9fed",
+      "version": 1,
+      "original_osf_path": "/rsfmri-9-12.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/abqu7/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-9-13.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-9-13.csv",
+      "sha256": "d0b692fb44ae32a6369e2fe9ec0bc1990fe397ea288103438c3fe19274d8036e",
+      "bytes": 9299,
+      "osf_file_id": "5b277c78c9cb1b00104b4331",
+      "version": 1,
+      "original_osf_path": "/rsfmri-9-13.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/7se39/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-9-14.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-9-14.csv",
+      "sha256": "0578c6b0da19e895c6f9b786bfa41a92dc68099fda8fea6795cef5e33df91869",
+      "bytes": 9280,
+      "osf_file_id": "5b277c79c9cb1b000f4b6b5d",
+      "version": 1,
+      "original_osf_path": "/rsfmri-9-14.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/yuemc/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-9-15.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-9-15.csv",
+      "sha256": "2bc44bf9d7ea978f502dff42135cf8e737a0fb5e64c4252a83cc3f693a17c552",
+      "bytes": 9309,
+      "osf_file_id": "5b277c7ac9cb1b000e4c7469",
+      "version": 1,
+      "original_osf_path": "/rsfmri-9-15.csv"
+    },
+    {
+      "source_url": "https://osf.io/download/evykz/",
+      "raw_path": "quarantine/archives/iced-example-data/rsfmri-9-16.csv",
+      "extracted_path": "quarantine/references/iced-example-data/rsfmri-9-16.csv",
+      "sha256": "6671d6d0fcb0e9114a9e9778651bb60e836d1e19c448cd46ae2d0c5536963c66",
+      "bytes": 9302,
+      "osf_file_id": "5b277c7a8b4bed000eb88699",
+      "version": 1,
+      "original_osf_path": "/rsfmri-9-16.csv"
+    }
+  ],
+  "failed_files": [],
+  "extracted_path": "quarantine/references/iced-example-data",
+  "extracted_files": 121,
+  "listed_entries": 121,
+  "duplicate_file_ids": [],
+  "path_conflicts": [],
+  "max_files": 200,
+  "restore_command": "python3 scripts/restore_references.py --only iced-example-data"
+}

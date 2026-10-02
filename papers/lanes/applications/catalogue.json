@@ -1,0 +1,1296 @@
+[
+  {
+    "id": "applications-briesch2014",
+    "title": "Generalizability theory: A practical guide to study design, implementation, and interpretation",
+    "authors": [
+      "Amy M. Briesch",
+      "Hariharan Swaminathan",
+      "Megan Welsh",
+      "Sandra M. Chafouleas"
+    ],
+    "year": 2014,
+    "doi": "10.1016/j.jsp.2013.11.008",
+    "source_url": "https://doi.org/10.1016/j.jsp.2013.11.008",
+    "fulltext_url": "https://www.sciencedirect.com/science/article/pii/S0022440513001106/pdfft",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "education",
+      "tutorial",
+      "design-planning"
+    ],
+    "relevance": "Practical decision guide and simulated student-engagement worked example; seven candidate facets and G/D study workflow.",
+    "evidence": "Primary publisher abstract, introduction, and worked student-engagement example preview inspected; PDF acquisition blocked.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-bloch-norman2012",
+    "title": "Generalizability theory for the perplexed: A practical introduction and guide: AMEE Guide No. 68",
+    "authors": [
+      "Ralph Bloch",
+      "Geoffrey Norman"
+    ],
+    "year": 2012,
+    "doi": "10.3109/0142159X.2012.703791",
+    "source_url": "https://doi.org/10.3109/0142159X.2012.703791",
+    "fulltext_url": "https://www.tandfonline.com/doi/pdf/10.3109/0142159X.2012.703791",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "medical",
+      "OSCE",
+      "tutorial"
+    ],
+    "relevance": "Broad applied medical teaching guide covering performance tests, knowledge tests, ratings and self-report.",
+    "evidence": "Primary bibliographic metadata and available publisher/author abstract or preview inspected; no local full text acquired.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-shavelson1993",
+    "title": "Sampling Variability of Performance Assessments",
+    "authors": [
+      "Richard J. Shavelson",
+      "Gail P. Baxter",
+      "Xiaohong Gao"
+    ],
+    "year": 1993,
+    "doi": "10.1111/j.1745-3984.1993.tb00424.x",
+    "source_url": "https://doi.org/10.1111/j.1745-3984.1993.tb00424.x",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "education",
+      "performance",
+      "tasks",
+      "school-aggregation"
+    ],
+    "relevance": "Seminal task/method/occasion/rater sampling; contrasts individual and school-level generalization.",
+    "evidence": "Final journal bibliographic identity verified against publisher-deposited Crossref DOI metadata. Full text of this journal version was not acquired or read; an associated precursor is catalogued separately.",
+    "acquisition_note": "Final journal version remains an acquisition gap. See applications-shavelson-report1993 for the independently identified acquired precursor; do not count its PDF as this DOI article."
+  },
+  {
+    "id": "applications-hill2012",
+    "title": "When Rater Reliability Is Not Enough",
+    "authors": [
+      "Heather C. Hill",
+      "Charalambos Y. Charalambous",
+      "Matthew A. Kraft"
+    ],
+    "year": 2012,
+    "doi": "10.3102/0013189X12437203",
+    "source_url": "https://doi.org/10.3102/0013189X12437203",
+    "fulltext_url": "https://scholar.harvard.edu/files/mkraft/files/hill_charalambous_kraft_2012.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "education",
+      "teacher-observation",
+      "lessons",
+      "raters"
+    ],
+    "relevance": "Separates observation instrument from scoring design and shows why interrater agreement alone misses lesson sampling.",
+    "evidence": "Primary bibliographic metadata and available publisher/author abstract or preview inspected; no local full text acquired.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-teacher-time",
+    "title": "Making Inferences About Teacher Observation Scores Over Time",
+    "authors": [
+      "Derek C. Briggs",
+      "Jessica L. Alzen"
+    ],
+    "year": 2019,
+    "doi": "10.1177/0013164419826237",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7328239/",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7328239/?report=xml",
+    "local_path": "papers/downloads/applications/teacher-time.html",
+    "status": "acquired",
+    "topics": [
+      "education",
+      "teacher-observation",
+      "time",
+      "confounding"
+    ],
+    "relevance": "Hidden occasion facet can be confounded with lesson; systematic growth makes observation timing consequential.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record. Failed attempts recorded: 1."
+  },
+  {
+    "id": "applications-bachman1995",
+    "title": "Investigating variability in tasks and rater judgements in a performance test of foreign language speaking",
+    "authors": [
+      "Lyle F. Bachman",
+      "Brian K. Lynch",
+      "Maureen Mason"
+    ],
+    "year": 1995,
+    "doi": "10.1177/026553229501200206",
+    "source_url": "https://doi.org/10.1177/026553229501200206",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "language",
+      "speaking",
+      "raters",
+      "many-facet-Rasch"
+    ],
+    "relevance": "Seminal comparative GENOVA/FACETS application; GT variance allocation and Rasch severity diagnosis answer complementary questions.",
+    "evidence": "Final journal bibliographic identity verified against publisher-deposited Crossref DOI metadata. Full text of this journal version was not acquired or read; an associated precursor is catalogued separately.",
+    "acquisition_note": "Final journal version remains an acquisition gap. See applications-bachman-conference1993 for the independently identified acquired precursor; do not count its PDF as this DOI article."
+  },
+  {
+    "id": "applications-innami-koizumi2016",
+    "title": "Task and rater effects in L2 speaking and writing: A synthesis of generalizability studies",
+    "authors": [
+      "Yo In’nami",
+      "Rie Koizumi"
+    ],
+    "year": 2016,
+    "doi": "10.1177/0265532215587390",
+    "source_url": "https://doi.org/10.1177/0265532215587390",
+    "fulltext_url": "https://journals.sagepub.com/doi/pdf/10.1177/0265532215587390",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "language",
+      "review",
+      "tasks",
+      "raters"
+    ],
+    "relevance": "Primary synthesis of L2 GT designs and contextual moderators; does not imply universal task/rater allocation.",
+    "evidence": "Primary bibliographic metadata and available publisher/author abstract or preview inspected; no local full text acquired.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-reading2015",
+    "title": "A Generalizability Theory Study on the Assessment of Task-Based Reading Performance",
+    "authors": [
+      "Yuji USHIRO",
+      "Akira HAMADA",
+      "Yusuke HASEGAWA",
+      "Eleanor DOWSE",
+      "Natsumi TANAKA",
+      "Kentaro SUZUKI",
+      "Masaya HOSODA",
+      "Yoshinobu MORI"
+    ],
+    "year": 2015,
+    "doi": "10.20622/jltajournal.18.0_92",
+    "source_url": "https://doi.org/10.20622/jltajournal.18.0_92",
+    "fulltext_url": "https://www.jstage.jst.go.jp/article/jltajournal/18/0/18_92/_pdf",
+    "local_path": "papers/downloads/applications/reading2015.pdf",
+    "status": "acquired",
+    "topics": [
+      "language",
+      "reading",
+      "rating-scales"
+    ],
+    "relevance": "122 students by six tasks by six raters; rating scale type can alter qualitative scoring despite similar reliability.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record."
+  },
+  {
+    "id": "applications-pharmacy-primer2021",
+    "title": "Moving beyond Cronbach's Alpha and Inter-Rater Reliability: A Primer on Generalizability Theory for Pharmacy Education",
+    "authors": [
+      "Peeters MJ"
+    ],
+    "year": 2021,
+    "doi": "10.24926/iip.v12i1.2131",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8102977/",
+    "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102977/fullTextXML",
+    "local_path": "papers/downloads/applications/pharmacy-primer2021.xml",
+    "status": "acquired",
+    "topics": [
+      "pharmacy",
+      "tutorial",
+      "validity"
+    ],
+    "relevance": "Applied primer connecting GT to generalization inference in Kane framework; reliability alone does not establish extrapolation validity.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record."
+  },
+  {
+    "id": "applications-pharmacy-course2021",
+    "title": "Validation Evidence from using Generalizability Theory in a Basic-Science Course: Reliability of Course-Grades from Multiple Examinations",
+    "authors": [
+      "Peeters MJ",
+      "Cor MK",
+      "Boddu SH",
+      "Nesamony J"
+    ],
+    "year": 2021,
+    "doi": "10.24926/iip.v12i1.2925",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8102975/",
+    "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102975/fullTextXML",
+    "local_path": "papers/downloads/applications/pharmacy-course2021.xml",
+    "status": "acquired",
+    "topics": [
+      "pharmacy",
+      "examinations",
+      "occasions",
+      "course-grades"
+    ],
+    "relevance": "Course-level reliability treats repeated examinations as an occasion facet.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record."
+  },
+  {
+    "id": "applications-crossley2002",
+    "title": "Generalisability: a key to unlock professional assessment",
+    "authors": [
+      "Jim Crossley",
+      "Helena Davies",
+      "Gerry Humphris",
+      "Brian Jolly"
+    ],
+    "year": 2002,
+    "doi": "10.1046/j.1365-2923.2002.01320.x",
+    "source_url": "https://doi.org/10.1046/j.1365-2923.2002.01320.x",
+    "fulltext_url": "https://asmepublications.onlinelibrary.wiley.com/doi/pdf/10.1046/j.1365-2923.2002.01320.x",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "medical",
+      "professional-assessment",
+      "tutorial"
+    ],
+    "relevance": "Observer/case/situation interaction sampling with worked professional-assessment examples.",
+    "evidence": "Primary bibliographic metadata and available publisher/author abstract or preview inspected; no local full text acquired.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-mini-cex-laboratory",
+    "title": "A laboratory study on the reliability estimations of the mini-CEX",
+    "authors": [
+      "Alves de Lima A",
+      "Conde D",
+      "Costabel J",
+      "Corso J",
+      "Van der Vleuten C"
+    ],
+    "year": 2013,
+    "doi": "10.1007/s10459-011-9343-y",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3569586/",
+    "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3569586/fullTextXML",
+    "local_path": "papers/downloads/applications/mini-cex-laboratory.xml",
+    "status": "acquired",
+    "topics": [
+      "medical",
+      "workplace",
+      "mini-CEX",
+      "confounding"
+    ],
+    "relevance": "Controlled crossed video design breaks case/assessor confounding in ordinary clinical encounters and supports alternative nested D designs.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record."
+  },
+  {
+    "id": "applications-crossley2011",
+    "title": "Good questions, good answers: construct alignment improves the performance of workplace‐based assessment scales",
+    "authors": [
+      "Jim Crossley",
+      "Gavin Johnson",
+      "Joe Booth",
+      "Winnie Wade"
+    ],
+    "year": 2011,
+    "doi": "10.1111/j.1365-2923.2010.03913.x",
+    "source_url": "https://doi.org/10.1111/j.1365-2923.2010.03913.x",
+    "fulltext_url": "https://asmepublications.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2923.2010.03913.x",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "medical",
+      "workplace",
+      "rating-scales"
+    ],
+    "relevance": "Construct alignment changes rating performance and sampling demands; instrument redesign may matter as much as replication.",
+    "evidence": "Primary bibliographic metadata and available publisher/author abstract or preview inspected; no local full text acquired.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-putka-hoffman2013",
+    "title": "Clarifying the contribution of assessee-, dimension-, exercise-, and assessor-related effects to reliable and unreliable variance in assessment center ratings",
+    "authors": [
+      "Dan J. Putka",
+      "Brian J. Hoffman"
+    ],
+    "year": 2013,
+    "doi": "10.1037/a0030887",
+    "source_url": "https://doi.org/10.1037/a0030887",
+    "fulltext_url": "https://www.apa.org/pubs/journals/features/apl-a0030887.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "workplace",
+      "assessment-centers",
+      "dimensions",
+      "aggregation"
+    ],
+    "relevance": "Detailed assessment-center decomposition with actual assessor identifiers; interpretation depends on aggregation and target generalizations.",
+    "evidence": "Publisher DOI metadata plus primary follow-on paper citation/discussion inspected; original full text blocked. Original-method details remain a reading gap.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-jackson2022",
+    "title": "Clarifying the Scope of Generalizability Theory for Multifaceted Assessment",
+    "authors": [
+      "Duncan J. R. Jackson",
+      "George Michaelides",
+      "Chris Dewberry",
+      "Paul Englert"
+    ],
+    "year": 2022,
+    "doi": null,
+    "source_url": "https://ueaeprints.uea.ac.uk/id/document/97064",
+    "fulltext_url": "https://ueaeprints.uea.ac.uk/id/document/97064",
+    "local_path": "papers/downloads/applications/jackson2022.pdf",
+    "status": "acquired",
+    "topics": [
+      "workplace",
+      "assessment-centers",
+      "SEM",
+      "construct-validity"
+    ],
+    "relevance": "214 managerial assessees; compares GT and latent-variable approaches for structural validity as well as reliability.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "University of East Anglia author manuscript acquired; journal metadata verified against New Zealand Journal of Psychology51(2),53–64(2022). No DOI identified."
+  },
+  {
+    "id": "applications-jackson-confounds2016",
+    "title": "Everything that you have ever been told about assessment center ratings is confounded",
+    "authors": [
+      "Duncan J. R. Jackson",
+      "George Michaelides",
+      "Chris Dewberry",
+      "Young-Jae Kim"
+    ],
+    "year": 2016,
+    "doi": "10.1037/apl0000102",
+    "source_url": "https://eprints.bbk.ac.uk/id/eprint/14241/",
+    "fulltext_url": "https://eprints.bbk.ac.uk/id/eprint/14241/1/14241.pdf",
+    "local_path": "papers/downloads/applications/jackson-confounds2016.pdf",
+    "status": "acquired",
+    "topics": [
+      "workplace",
+      "assessment-centers",
+      "confounding"
+    ],
+    "relevance": "Follow-on decomposition of assessor/dimension/exercise effects; caution: authors’ description of REML boundary estimates needs checking against estimator foundations.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Birkbeck accepted manuscript acquired; title and DOI corrected against header and King’s College London primary publication record."
+  },
+  {
+    "id": "applications-lakes-hoyt2009",
+    "title": "Applications of generalizability theory to clinical child and adolescent psychology research",
+    "authors": [
+      "Lakes KD",
+      "Hoyt WT"
+    ],
+    "year": 2009,
+    "doi": "10.1080/15374410802575461",
+    "source_url": "https://doi.org/10.1080/15374410802575461",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3650138/?report=xml",
+    "local_path": "papers/downloads/applications/lakes-hoyt2009.html",
+    "status": "acquired",
+    "topics": [
+      "clinical",
+      "child",
+      "observer-ratings",
+      "occasions"
+    ],
+    "relevance": "181 children; raters/items/occasions worked example, contextual differences in parent/teacher/observer ratings.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record. Failed attempts recorded: 1."
+  },
+  {
+    "id": "applications-lakes-hoyt2008",
+    "title": "What Sources Contribute to Variance in Observer Ratings? Using Generalizability Theory to Assess Construct Validity of Psychological Measures",
+    "authors": [
+      "Lakes KD",
+      "Hoyt WT"
+    ],
+    "year": 2008,
+    "doi": "10.1002/icd.551",
+    "source_url": "https://doi.org/10.1002/icd.551",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4083611/?report=xml",
+    "local_path": "papers/downloads/applications/lakes-hoyt2008.html",
+    "status": "acquired",
+    "topics": [
+      "clinical",
+      "observer-ratings",
+      "construct-validity",
+      "contexts"
+    ],
+    "relevance": "27 caregiver–child dyads across situations; GT as substantive contextual inquiry as well as score reliability.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record. Failed attempts recorded: 1."
+  },
+  {
+    "id": "applications-lakes-restricted",
+    "title": "Restricted sample variance reduces generalizability",
+    "authors": [
+      "Lakes KD"
+    ],
+    "year": 2013,
+    "doi": "10.1037/a0030912",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3657319/",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3657319/?report=xml",
+    "local_path": "papers/downloads/applications/lakes-restricted.html",
+    "status": "acquired",
+    "topics": [
+      "clinical",
+      "child",
+      "population",
+      "range-restriction"
+    ],
+    "relevance": "Population heterogeneity changes coefficient; developmentally homogeneous subgroups can invalidate transported reliability.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record. Failed attempts recorded: 1."
+  },
+  {
+    "id": "applications-arterberry2014",
+    "title": "Application of Generalizability Theory to the Big Five Inventory",
+    "authors": [
+      "Arterberry BJ",
+      "Martens MP",
+      "Cadigan JM",
+      "Rohrer D"
+    ],
+    "year": 2014,
+    "doi": "10.1016/j.paid.2014.05.015",
+    "source_url": "https://doi.org/10.1016/j.paid.2014.05.015",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4236721/?report=xml",
+    "local_path": "papers/downloads/applications/arterberry2014.html",
+    "status": "acquired",
+    "topics": [
+      "personality",
+      "items",
+      "occasions"
+    ],
+    "relevance": "Items and occasions jointly assessed for BFI; reliability is a property of scores in specified sampling conditions.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record. Failed attempts recorded: 1."
+  },
+  {
+    "id": "applications-medvedev2017",
+    "title": "Measuring Mindfulness: Applying Generalizability Theory to Distinguish between State and Trait",
+    "authors": [
+      "Oleg N. Medvedev",
+      "Christian U. Krägeloh",
+      "Ajit Narayanan",
+      "Richard J. Siegert"
+    ],
+    "year": 2017,
+    "doi": "10.1007/s12671-017-0679-0",
+    "source_url": "https://doi.org/10.1007/s12671-017-0679-0",
+    "fulltext_url": "https://link.springer.com/content/pdf/10.1007/s12671-017-0679-0.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "state-trait",
+      "mindfulness",
+      "occasions"
+    ],
+    "relevance": "Person-by-occasion interaction interpreted as state variability; treating that signal as error changes substantive question.",
+    "evidence": "Primary bibliographic metadata and available publisher/author abstract or preview inspected; no local full text acquired.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-selfcompassion2021",
+    "title": "Applying Generalizability Theory to the Self-Compassion Scale to Examine State and Trait Aspects and Generalizability of Assessment Scores",
+    "authors": [
+      "Oleg N. Medvedev",
+      "Anastasia T. Dailianis",
+      "Yoon-Suk Hwang",
+      "Christian U. Krägeloh",
+      "Nirbhay N. Singh"
+    ],
+    "year": 2021,
+    "doi": "10.1007/s12671-020-01522-3",
+    "source_url": "https://self-compassion.org/wp-content/uploads/2021/11/Medvedev-et-al.-2021-Applying-Generalizability-Theory-to-the-Self-Compa.pdf",
+    "fulltext_url": "https://self-compassion.org/wp-content/uploads/2021/11/Medvedev-et-al.-2021-Applying-Generalizability-Theory-to-the-Self-Compa.pdf",
+    "local_path": "papers/downloads/applications/selfcompassion2021.pdf",
+    "status": "acquired",
+    "topics": [
+      "state-trait",
+      "self-compassion",
+      "occasions"
+    ],
+    "relevance": "Repeated psychological self-report; distinguishing state sensitivity and stable trait inference.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record."
+  },
+  {
+    "id": "applications-hoyt-melby1999",
+    "title": "Dependability of Measurement in Counseling Psychology",
+    "authors": [
+      "William T. Hoyt",
+      "Janet N. Melby"
+    ],
+    "year": 1999,
+    "doi": "10.1177/0011000099273003",
+    "source_url": "https://doi.org/10.1177/0011000099273003",
+    "fulltext_url": "https://journals.sagepub.com/doi/pdf/10.1177/0011000099273003",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "counseling",
+      "tutorial",
+      "observer-ratings"
+    ],
+    "relevance": "Foundational applied psychology primer; multiple error sources and diverse measurement contexts.",
+    "evidence": "Primary bibliographic metadata and available publisher/author abstract or preview inspected; no local full text acquired.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-baldwin2015",
+    "title": "The dependability of electrophysiological measurements of performance monitoring in a clinical sample: A generalizability and decision analysis of the ERN and Pe",
+    "authors": [
+      "Scott A. Baldwin",
+      "Michael J. Larson",
+      "Peter E. Clayson"
+    ],
+    "year": 2015,
+    "doi": "10.1111/psyp.12401",
+    "source_url": "https://doi.org/10.1111/psyp.12401",
+    "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/psyp.12401",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "psychophysiology",
+      "ERP",
+      "trials",
+      "clinical"
+    ],
+    "relevance": "Early ERP G/D analysis considering psychopathology and trial count; coefficient conditions include population.",
+    "evidence": "Primary bibliographic metadata and available publisher/author abstract or preview inspected; no local full text acquired.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-era2017",
+    "title": "ERP Reliability Analysis (ERA) Toolbox: An open-source toolbox for analyzing the reliability of event-related brain potentials",
+    "authors": [
+      "Peter E. Clayson",
+      "Gregory A. Miller"
+    ],
+    "year": 2017,
+    "doi": "10.1016/j.ijpsycho.2016.10.012",
+    "source_url": "https://doi.org/10.1016/j.ijpsycho.2016.10.012",
+    "fulltext_url": "https://www.sciencedirect.com/science/article/pii/S016787601630736X/pdfft",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "psychophysiology",
+      "ERP",
+      "software",
+      "trials"
+    ],
+    "relevance": "Reference implementation for event/group/trial sampling; predecessor to PsyRAT.",
+    "evidence": "Primary bibliographic metadata and available publisher/author abstract or preview inspected; no local full text acquired.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-erp-guidelines2017",
+    "title": "Psychometric considerations in the measurement of event-related brain potentials: Guidelines for measurement and reporting",
+    "authors": [
+      "Peter E. Clayson",
+      "Gregory A. Miller"
+    ],
+    "year": 2017,
+    "doi": "10.1016/j.ijpsycho.2016.09.005",
+    "source_url": "https://doi.org/10.1016/j.ijpsycho.2016.09.005",
+    "fulltext_url": "https://www.sciencedirect.com/science/article/pii/S0167876016306973/pdfft",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "psychophysiology",
+      "ERP",
+      "reporting",
+      "tutorial"
+    ],
+    "relevance": "Reliability should be evaluated for each study/population/pipeline; guidelines for trial minima and reporting.",
+    "evidence": "Primary bibliographic metadata and available publisher/author abstract or preview inspected; no local full text acquired.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-erp-retest2021",
+    "title": "Using generalizability theory and the ERP Reliability Analysis (ERA) Toolbox for assessing test-retest reliability of ERP scores part 1: Algorithms, framework, and implementation",
+    "authors": [
+      "Clayson PE",
+      "Carbine KA",
+      "Baldwin SA",
+      "Olsen JA",
+      "Larson MJ"
+    ],
+    "year": 2021,
+    "doi": "10.1016/j.ijpsycho.2021.01.006",
+    "source_url": "https://doi.org/10.1016/j.ijpsycho.2021.01.006",
+    "fulltext_url": "https://osf.io/preprints/psyarxiv/kcven/download",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "psychophysiology",
+      "ERP",
+      "test-retest",
+      "software"
+    ],
+    "relevance": "Algorithms extend trial-only analysis to occasions; explicit reliability of change and repeated assessments.",
+    "evidence": "Primary bibliographic metadata and available publisher/author abstract or preview inspected; no local full text acquired.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 3."
+  },
+  {
+    "id": "applications-erp-subject2021",
+    "title": "Data quality and reliability metrics for event-related potentials (ERPs): The utility of subject-level reliability",
+    "authors": [
+      "Peter E. Clayson",
+      "C.J. Brush",
+      "Greg Hajcak"
+    ],
+    "year": 2021,
+    "doi": "10.1016/j.ijpsycho.2021.04.004",
+    "source_url": "https://doi.org/10.1016/j.ijpsycho.2021.04.004",
+    "fulltext_url": "https://osf.io/preprints/psyarxiv/ja6bw/download",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "psychophysiology",
+      "ERP",
+      "subject-level",
+      "reliability"
+    ],
+    "relevance": "Subject-level versus group reliability and trial inclusion rules require distinct interpretation.",
+    "evidence": "Primary bibliographic metadata and available publisher/author abstract or preview inspected; no local full text acquired.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-erp-difference2021",
+    "title": "Evaluating the internal consistency of subtraction‐based and residualized difference scores: Considerations for psychometric reliability analyses of event‐related potentials",
+    "authors": [
+      "Peter E. Clayson",
+      "Scott A. Baldwin",
+      "Michael J. Larson"
+    ],
+    "year": 2021,
+    "doi": "10.1111/psyp.13762",
+    "source_url": "https://doi.org/10.1111/psyp.13762",
+    "fulltext_url": "https://osf.io/preprints/psyarxiv/nqwz6/download",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "psychophysiology",
+      "ERP",
+      "difference-scores",
+      "covariance"
+    ],
+    "relevance": "Difference-score reliability requires covariance propagation and choice of subtraction versus residualization.",
+    "evidence": "Primary bibliographic metadata and available publisher/author abstract or preview inspected; no local full text acquired.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-rocha2026",
+    "title": "Beyond classical metrics: Generalizability theory across psychophysiological modalities",
+    "authors": [
+      "Rocha HA",
+      "Holbrook A",
+      "Hajcak G",
+      "Keil A",
+      "Rast P",
+      "Thayer JF",
+      "Verona E",
+      "Vispoel WP",
+      "Clayson PE"
+    ],
+    "year": 2026,
+    "doi": "10.1016/j.ijpsycho.2026.113321",
+    "source_url": "https://doi.org/10.1016/j.ijpsycho.2026.113321",
+    "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13156807/fullTextXML",
+    "local_path": "papers/downloads/applications/rocha2026.xml",
+    "status": "acquired",
+    "topics": [
+      "psychophysiology",
+      "tutorial",
+      "EEG",
+      "EDA",
+      "EMG",
+      "ECG",
+      "PsyRAT"
+    ],
+    "relevance": "Cross-modality synthesis; trials/tasks/sessions, difference scores, multilevel estimation and design optimization.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Primary author-manuscript fulltext XML acquired from Europe PMC after publisher PDF access failed. Original publisher identifies article as open access. Failed attempts recorded: 1."
+  },
+  {
+    "id": "applications-rast-clayson2026",
+    "title": "Enhancing generalizability theory with mixed-effects models for heteroscedasticity in psychological measurement: A theoretical introduction with an application from EEG data",
+    "authors": [
+      "Rast P",
+      "Clayson PE"
+    ],
+    "year": 2026,
+    "doi": "10.1111/bmsp.70026",
+    "source_url": "https://doi.org/10.1111/bmsp.70026",
+    "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13410726/fullTextXML",
+    "local_path": "papers/downloads/applications/rast-clayson2026.xml",
+    "status": "acquired",
+    "topics": [
+      "psychophysiology",
+      "EEG",
+      "heteroscedasticity",
+      "mixed-models"
+    ],
+    "relevance": "Reliability changes over participant dimensions rather than assuming a single homogeneous residual distribution.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Primary author-manuscript fulltext XML acquired from Europe PMC; associated public OSF5rn6u data/code separately acquired as eeg-location-scale reference files. Failed attempts recorded: 1."
+  },
+  {
+    "id": "applications-fmri-working2014",
+    "title": "Reliability of functional magnetic resonance imaging activation during working memory in a multi-site study: analysis from the North American Prodrome Longitudinal Study",
+    "authors": [
+      "Forsyth JK",
+      "McEwen SC",
+      "Gee DG",
+      "Bearden CE",
+      "Addington J",
+      "Goodyear B",
+      "Cadenhead KS",
+      "Mirzakhanian H",
+      "Cornblatt BA",
+      "Olvet DM",
+      "Mathalon DH",
+      "McGlashan TH",
+      "Perkins DO",
+      "Belger A",
+      "Seidman LJ",
+      "Thermenos HW",
+      "Tsuang MT",
+      "van Erp TG",
+      "Walker EF",
+      "Hamann S",
+      "Woods SW",
+      "Qiu M",
+      "Cannon TD"
+    ],
+    "year": 2014,
+    "doi": "10.1016/j.neuroimage.2014.04.027",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4065837/",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4065837/?report=xml",
+    "local_path": "papers/downloads/applications/fmri-working2014.html",
+    "status": "acquired",
+    "topics": [
+      "neuroimaging",
+      "fMRI",
+      "sites",
+      "sessions"
+    ],
+    "relevance": "Traveling participants and site/session decomposition; extrapolation to ordinary multisite cohorts requires a matching D design.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record. Failed attempts recorded: 1."
+  },
+  {
+    "id": "applications-fmri-clarification2017",
+    "title": "Reliability of an fMRI paradigm for emotional processing in a multisite longitudinal study: Clarification and implications for statistical power",
+    "authors": [
+      "Tyrone D. Cannon",
+      "Hengyi Cao",
+      "Daniel H. Mathalon",
+      "Dylan G. Gee",
+      "on behalf of the NAPLS consortium"
+    ],
+    "year": 2018,
+    "doi": "10.1002/hbm.23875",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5718980/",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5718980/?report=xml",
+    "local_path": "papers/downloads/applications/fmri-clarification2017.html",
+    "status": "acquired",
+    "topics": [
+      "neuroimaging",
+      "fMRI",
+      "sites",
+      "design-change"
+    ],
+    "relevance": "Essential cautionary follow-up: reliability across eight sites/two sessions differs from one random site/single scan per participant.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Primary PMC HTML fulltext acquired. Record year is2018 issue publication although the stable internal slug retains2017 from online-publication discovery. Failed attempts recorded: 1."
+  },
+  {
+    "id": "applications-connectomic2017",
+    "title": "Toward Leveraging Human Connectomic Data in Large Consortia: Generalizability of fMRI-Based Brain Graphs Across Sites, Sessions, and Paradigms",
+    "authors": [
+      "Cao H",
+      "McEwen SC",
+      "Forsyth JK",
+      "Gee DG",
+      "Bearden CE",
+      "Addington J",
+      "Goodyear B",
+      "Cadenhead KS",
+      "Mirzakhanian H",
+      "Cornblatt BA",
+      "Carrión RE",
+      "Mathalon DH",
+      "McGlashan TH",
+      "Perkins DO",
+      "Belger A",
+      "Seidman LJ",
+      "Thermenos H",
+      "Tsuang MT",
+      "van Erp TGM",
+      "Walker EF",
+      "Hamann S",
+      "Anticevic A",
+      "Woods SW",
+      "Cannon TD"
+    ],
+    "year": 2019,
+    "doi": "10.1093/cercor/bhy032",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6676966/",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6676966/?report=xml",
+    "local_path": "papers/downloads/applications/connectomic2017.html",
+    "status": "acquired",
+    "topics": [
+      "neuroimaging",
+      "connectomics",
+      "sites",
+      "sessions",
+      "paradigms"
+    ],
+    "relevance": "Crossed traveling-subject data used to project nested single-site design; pipeline choices and graph metric specificity matter.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Primary PMC HTML fulltext acquired. Record year is2019 issue publication; stable slug retains an earlier discovery-year label. Failed attempts recorded: 1."
+  },
+  {
+    "id": "applications-iced2018",
+    "title": "Assessing reliability in neuroimaging research through intra-class effect decomposition (ICED)",
+    "authors": [
+      "Brandmaier AM",
+      "Wenger E",
+      "Bodammer NC",
+      "Kühn S",
+      "Raz N",
+      "Lindenberger U"
+    ],
+    "year": 2018,
+    "doi": "10.7554/elife.35718",
+    "source_url": "https://doi.org/10.7554/eLife.35718",
+    "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6044907/fullTextXML",
+    "local_path": "papers/downloads/applications/iced2018.xml",
+    "status": "acquired",
+    "topics": [
+      "neuroimaging",
+      "SEM",
+      "reliability",
+      "ICED"
+    ],
+    "relevance": "SEM method grounded in GT separates run/session/day/site error; potential reusable simulation and worked neuroimaging data.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Primary fulltext XML acquired. OSFt68my worked myelin CSV and OSF8n24x derived resting-state connectivity CSVs separately acquired; see software records. Failed attempts recorded: 1."
+  },
+  {
+    "id": "applications-bodoff2008",
+    "title": "Test theory for evaluating reliability of IR test collections",
+    "authors": [
+      "David Bodoff"
+    ],
+    "year": 2008,
+    "doi": "10.1016/j.ipm.2007.11.006",
+    "source_url": "https://doi.org/10.1016/j.ipm.2007.11.006",
+    "fulltext_url": "https://www.sciencedirect.com/science/article/pii/S0306457307002129/pdfft",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "information-retrieval",
+      "systems",
+      "queries",
+      "assessors"
+    ],
+    "relevance": "Early GT translation from students/questions to retrieval systems/queries; compares query and assessor allocation.",
+    "evidence": "Primary bibliographic metadata and available publisher/author abstract or preview inspected; no local full text acquired.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-urbano2013",
+    "title": "On the measurement of test collection reliability",
+    "authors": [
+      "Julián Urbano",
+      "Mónica Marrero",
+      "Diego Martín"
+    ],
+    "year": 2013,
+    "doi": "10.1145/2484028.2484038",
+    "source_url": "https://doi.org/10.1145/2484028.2484038",
+    "fulltext_url": "https://julian-urbano.info/files/publications/055-measurement-test-collection-reliability.pdf",
+    "local_path": "papers/downloads/applications/urbano2013.pdf",
+    "status": "acquired",
+    "topics": [
+      "information-retrieval",
+      "systems",
+      "queries",
+      "confidence-intervals"
+    ],
+    "relevance": "TREC collections; relates GT coefficients to ranking stability and highlights sample-sensitive query requirements.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record."
+  },
+  {
+    "id": "applications-urbano2016",
+    "title": "Test collection reliability: a study of bias and robustness to statistical assumptions via stochastic simulation",
+    "authors": [
+      "Julián Urbano"
+    ],
+    "year": 2016,
+    "doi": "10.1007/s10791-015-9274-y",
+    "source_url": "https://doi.org/10.1007/s10791-015-9274-y",
+    "fulltext_url": "https://julian-urbano.info/files/publications/064-test-collection-reliability-study-bias-robustness-statistical-assumptions-stochastic-simulation.pdf",
+    "local_path": "papers/downloads/applications/urbano2016.pdf",
+    "status": "acquired",
+    "topics": [
+      "information-retrieval",
+      "simulation",
+      "robustness"
+    ],
+    "relevance": "Simulation distinguishes estimator bias/robustness from known true system scores; data/code repository irj2015-reliability.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record."
+  },
+  {
+    "id": "applications-ddr2026",
+    "title": "Deployment Decision Reliability: A Generalizability-Theory Framework for Sizing Long-Horizon Agent Evaluations",
+    "authors": [
+      "Vasundra Srinivasan"
+    ],
+    "year": 2026,
+    "doi": "10.48550/arXiv.2608.11323",
+    "source_url": "https://arxiv.org/abs/2608.11323",
+    "fulltext_url": "https://arxiv.org/pdf/2608.11323",
+    "local_path": "papers/downloads/applications/ddr2026.pdf",
+    "status": "acquired",
+    "topics": [
+      "AI",
+      "agents",
+      "preprint",
+      "benchmarks"
+    ],
+    "relevance": "2026 unreviewed preprint applies four-facet analysis to three public agent benchmarks; numerical agreement claims require independent validation.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "arXiv preprint PDF acquired; root separately pinned agent-reliability-engineering-lab source archive. Gaussian/binary variance-scale comparability and omitted interactions need independent review before use as numerical reference."
+  },
+  {
+    "id": "applications-brand2026",
+    "title": "Where Does the Noise Come From? A Variance-Components Decomposition of Non-Determinism in LLM Brand Answers",
+    "authors": [
+      "Dmitrij Żatuchin"
+    ],
+    "year": 2026,
+    "doi": "10.48550/arXiv.2607.13304",
+    "source_url": "https://arxiv.org/abs/2607.13304",
+    "fulltext_url": "https://arxiv.org/pdf/2607.13304",
+    "local_path": "papers/downloads/applications/brand2026.pdf",
+    "status": "acquired",
+    "topics": [
+      "AI",
+      "LLM",
+      "preprint",
+      "language",
+      "prompts",
+      "repeats"
+    ],
+    "relevance": "2026 unreviewed preprint: brands crossed with language/model/prompt/repeats; relative ranking and absolute brand outcomes are distinct.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "arXiv preprint PDF acquired. Zenodo links describe aggregate data; response-level iteration inputs are available only on reasonable request according to the PDF. Appendix code is present in the paper, but no complete response-level replication bundle is acquired."
+  },
+  {
+    "id": "applications-judge2026",
+    "title": "Ask Which, Not How Good: Sizing Benchmarks Scored by an LLM",
+    "authors": [
+      "Atul Anand"
+    ],
+    "year": 2026,
+    "doi": "10.48550/arXiv.2609.27787",
+    "source_url": "https://arxiv.org/abs/2609.27787",
+    "fulltext_url": "https://arxiv.org/pdf/2609.27787",
+    "local_path": "papers/downloads/applications/judge2026.pdf",
+    "status": "acquired",
+    "topics": [
+      "AI",
+      "LLM-judge",
+      "preprint",
+      "interactions",
+      "design-ceiling"
+    ],
+    "relevance": "2026 unreviewed preprint: system-by-judge term imposes one-judge reliability ceiling; pairwise protocol introduces order effect.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "arXiv preprint PDF acquired. Full crossed judgment dataset, calculator and audit code are author-on-request according to the PDF; no public release was acquired. The arXiv abstract and PDF contain differing numerical counts, so no count is treated as independently validated."
+  },
+  {
+    "id": "applications-liu-gt2026",
+    "title": "Generalizability Theory for LLM-as-Evaluator Reliability: Univariate and Multivariate Variance Decomposition Across Models, Prompts, and Temperatures in Text Classification",
+    "authors": [
+      "Jin Liu"
+    ],
+    "year": 2026,
+    "doi": "10.2139/ssrn.6432598",
+    "source_url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6432598",
+    "fulltext_url": "https://papers.ssrn.com/sol3/Delivery.cfm/6432598.pdf?abstractid=6432598",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "AI",
+      "LLM-annotation",
+      "preprint",
+      "multivariate",
+      "temperature",
+      "seed"
+    ],
+    "relevance": "Unreviewed SSRN analysis of 64,800 observations across three annotation panels; code archive and public OSF deposit provide reusable full designs.",
+    "evidence": "Primary SSRN abstract/metadata and author-maintained Gtheory4LLM README and validation-scope documentation inspected; fulltext delivery blocked.",
+    "acquisition_note": "SSRN fulltext delivery blocked. Primary SSRN abstract and root-pinned Gtheory4LLM documentation/data provenance inspected; public annotation OSF deposit K9CAJ linked. No full manuscript review is claimed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-llm-writing2025",
+    "title": "Exploring LLM Autoscoring Reliability in Large-Scale Writing Assessments Using Generalizability Theory",
+    "authors": [
+      "Dan Song",
+      "Won-Chan Lee",
+      "Hong Jiao"
+    ],
+    "year": 2025,
+    "doi": "10.48550/arXiv.2507.19980",
+    "source_url": "https://arxiv.org/abs/2507.19980",
+    "fulltext_url": "https://arxiv.org/pdf/2507.19980",
+    "local_path": "papers/downloads/applications/llm-writing2025.pdf",
+    "status": "acquired",
+    "topics": [
+      "AI",
+      "language",
+      "writing",
+      "preprint",
+      "LLM-raters"
+    ],
+    "relevance": "2025 preprint applies GT to AP Chinese writing autoscoring; verify disposition and relationship to other writing-rater papers rather than conflating them.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record."
+  },
+  {
+    "id": "applications-llm-writing-journal2025",
+    "title": "Evaluating large language models as raters in large-scale writing assessments: A psychometric framework for reliability and validity",
+    "authors": [
+      "Yuehan Wang",
+      "Jinyan Huang",
+      "Lun Du",
+      "Yuxin Guo",
+      "Ying Liu",
+      "Rong Wang"
+    ],
+    "year": 2025,
+    "doi": "10.1016/j.caeai.2025.100481",
+    "source_url": "https://www.sciencedirect.com/science/article/pii/S2666920X25001213",
+    "fulltext_url": "https://www.sciencedirect.com/science/article/pii/S2666920X25001213/pdfft",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "AI",
+      "language",
+      "writing",
+      "LLM-raters",
+      "many-facet-Rasch"
+    ],
+    "relevance": "Published 2025 study combines GT/MFRM across three essay genres; restrict conclusions to the studied prompts/models/rubrics.",
+    "evidence": "Primary bibliographic metadata and available publisher/author abstract or preview inspected; no local full text acquired.",
+    "acquisition_note": "Fulltext requests failed or returned a challenge. See search-log.json for exact attempted URLs and error output; institutional/author access may be needed. Failed attempts recorded: 2."
+  },
+  {
+    "id": "applications-pharmacy-osce2021",
+    "title": "Validation Evidence using Generalizability Theory for an Objective Structured Clinical Examination",
+    "authors": [
+      "Peeters MJ",
+      "Cor MK",
+      "Petite SE",
+      "Schroeder MN"
+    ],
+    "year": 2021,
+    "doi": "10.24926/iip.v12i1.2110",
+    "source_url": "https://doi.org/10.24926/iip.v12i1.2110",
+    "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102968/fullTextXML",
+    "local_path": "papers/downloads/applications/pharmacy-osce2021.xml",
+    "status": "acquired",
+    "topics": [
+      "pharmacy",
+      "OSCE",
+      "stations",
+      "raters"
+    ],
+    "relevance": "Companion primary pharmacy OSCE application; station/rater design for criterion decisions.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record."
+  },
+  {
+    "id": "applications-pharmacy-quizzes2021",
+    "title": "Providing Validation Evidence for a Clinical-Science Module: Improving Testing Reliability with Quizzes",
+    "authors": [
+      "Peeters MJ",
+      "Cor MK",
+      "Maki ED"
+    ],
+    "year": 2021,
+    "doi": "10.24926/iip.v12i1.2235",
+    "source_url": "https://doi.org/10.24926/iip.v12i1.2235",
+    "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102960/fullTextXML",
+    "local_path": "papers/downloads/applications/pharmacy-quizzes2021.xml",
+    "status": "acquired",
+    "topics": [
+      "pharmacy",
+      "examinations",
+      "quizzes",
+      "composites"
+    ],
+    "relevance": "Companion application combining quiz and examination observations for course decisions.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record."
+  },
+  {
+    "id": "applications-lin-guide2015",
+    "title": "A Practical Guide to Investigating Score Reliability under a Generalizability Theory Framework",
+    "authors": [
+      "Chih-Kai Lin"
+    ],
+    "year": 2015,
+    "doi": null,
+    "source_url": "https://michiganassessment.org/wp-content/uploads/2020/02/20.02.pdf.Res_.ApracticalGuidetoInvestigatingScoreReliabilityunderaGeneralizabilityTheoryFramework.pdf",
+    "fulltext_url": "https://michiganassessment.org/wp-content/uploads/2020/02/20.02.pdf.Res_.ApracticalGuidetoInvestigatingScoreReliabilityunderaGeneralizabilityTheoryFramework.pdf",
+    "local_path": "papers/downloads/applications/lin-guide2015.pdf",
+    "status": "acquired",
+    "topics": [
+      "language",
+      "tutorial",
+      "design-planning"
+    ],
+    "relevance": "CaMLA2015-01 primary Monte Carlo study comparing rating-slot transformation and fully crossed rater-block methods for sparse operational language-assessment data. Preserving actual rater identity changes the estimated variance and interpretation.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Cambridge Michigan Language Assessments primary working-paper PDF acquired; abstract/method sections compare rating-slot and rater-block transformations for sparse ratings."
+  },
+  {
+    "id": "applications-noble2017",
+    "title": "Influences on the Test-Retest Reliability of Functional Connectivity MRI and its Relationship with Behavioral Utility",
+    "authors": [
+      "Noble S",
+      "Spann MN",
+      "Tokoglu F",
+      "Shen X",
+      "Constable RT",
+      "Scheinost D"
+    ],
+    "year": 2017,
+    "doi": "10.1093/cercor/bhx230",
+    "source_url": "https://doi.org/10.1093/cercor/bhx230",
+    "fulltext_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6248395/fullTextXML",
+    "local_path": "papers/downloads/applications/noble2017.xml",
+    "status": "acquired",
+    "topics": [
+      "neuroimaging",
+      "functional-connectivity",
+      "runs",
+      "sessions"
+    ],
+    "relevance": "Explicit three-way person/session/run GT plus behavioral utility; acquisition and processing choices can affect reliability and validity differently.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record."
+  },
+  {
+    "id": "applications-gee2015",
+    "title": "Reliability of an fMRI paradigm for emotional processing in a multisite longitudinal study",
+    "authors": [
+      "Gee DG",
+      "McEwen SC",
+      "Forsyth JK",
+      "Haut KM",
+      "Bearden CE",
+      "Addington J",
+      "Goodyear B",
+      "Cadenhead KS",
+      "Mirzakhanian H",
+      "Cornblatt BA",
+      "Olvet D",
+      "Mathalon DH",
+      "McGlashan TH",
+      "Perkins DO",
+      "Belger A",
+      "Seidman LJ",
+      "Thermenos H",
+      "Tsuang MT",
+      "van Erp TG",
+      "Walker EF",
+      "Hamann S",
+      "Woods SW",
+      "Constable T",
+      "Cannon TD"
+    ],
+    "year": 2015,
+    "doi": "10.1002/hbm.22791",
+    "source_url": "https://doi.org/10.1002/hbm.22791",
+    "fulltext_url": "https://bpb-us-e1.wpmucdn.com/sites.uw.edu/dist/c/18634/files/2022/08/HBM-36-2558.pdf",
+    "local_path": "papers/downloads/applications/gee2015.pdf",
+    "status": "acquired",
+    "topics": [
+      "neuroimaging",
+      "fMRI",
+      "sites",
+      "sessions",
+      "follow-up-clarification"
+    ],
+    "relevance": "Original traveling-subject emotional-task reliability study; must be read together with Cannon et al.2018 clarification of target design.",
+    "evidence": "Primary full text acquired; inspected title/author metadata, abstract or introductory passages, and selected design/variance discussion excerpts. This is a targeted reading, not an end-to-end mathematical validation.",
+    "acquisition_note": "Original primary or author-deposited fulltext bytes preserved with adjacent source_url/final_url/SHA-256/byte-count acquisition record."
+  },
+  {
+    "id": "applications-shavelson-report1993",
+    "title": "Sampling Variability of Performance Assessments (CSE Technical Report 361)",
+    "authors": [
+      "Richard J. Shavelson",
+      "Xiaohong Gao",
+      "Gail P. Baxter"
+    ],
+    "year": 1993,
+    "doi": null,
+    "source_url": "https://cresst.org/wp-content/uploads/TECH361.pdf",
+    "fulltext_url": "https://cresst.org/wp-content/uploads/TECH361.pdf",
+    "local_path": "papers/downloads/applications/shavelson1993.pdf",
+    "status": "acquired",
+    "topics": [
+      "education",
+      "performance",
+      "tasks",
+      "school-aggregation"
+    ],
+    "relevance": "Seminal task/method/occasion/rater sampling; contrasts individual and school-level generalization.",
+    "evidence": "Acquired complete primary report/conference PDF; inspected title page, abstract and selected design discussion. This is a targeted reading of the precursor document, not the final journal article.",
+    "acquisition_note": "March 1993 CSE Technical Report 361; report author order is Shavelson, Gao, Baxter. Related September 1993 journal article has different author order and is separately catalogued; this report does not establish acquisition of that final article."
+  },
+  {
+    "id": "applications-bachman-conference1993",
+    "title": "Investigating Variability in Tasks and Rater Judgments in a Performance Test of Foreign Language Speaking (1993 conference paper, ERIC ED368154)",
+    "authors": [
+      "Lyle F. Bachman",
+      "Brian K. Lynch",
+      "Maureen Mason"
+    ],
+    "year": 1993,
+    "doi": null,
+    "source_url": "https://eric.ed.gov/?id=ED368154",
+    "fulltext_url": "https://files.eric.ed.gov/fulltext/ED368154.pdf",
+    "local_path": "papers/downloads/applications/bachman1995.pdf",
+    "status": "acquired",
+    "topics": [
+      "language",
+      "speaking",
+      "raters",
+      "many-facet-Rasch"
+    ],
+    "relevance": "Seminal comparative GENOVA/FACETS application; GT variance allocation and Rasch severity diagnosis answer complementary questions.",
+    "evidence": "Acquired complete primary report/conference PDF; inspected title page, abstract and selected design discussion. This is a targeted reading of the precursor document, not the final journal article.",
+    "acquisition_note": "August 1993 conference paper, ERIC ED368154, Language Testing Research Colloquium 15, Cambridge, 2–4 August 1993. Related 1995 journal article is separately catalogued; this PDF does not establish acquisition of that final article."
+  }
+]

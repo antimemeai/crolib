@@ -1,0 +1,123 @@
+{
+  "id": "eeg-location-scale",
+  "kind": "files",
+  "source_url": "https://osf.io/5rn6u/",
+  "revision": "OSF file versions and SHA-256 recorded individually",
+  "description": "Rast and Clayson2026 EEG location-scale generalizability data and source code; inspect only",
+  "license_note": "Public author-deposited materials; inspect project and file licenses before reuse",
+  "status": "acquired",
+  "files": [
+    {
+      "source_url": "https://osf.io/download/97y4p/",
+      "raw_path": "quarantine/archives/eeg-location-scale/Manuscript Analyses + Supplementary Analyses/resp.csv",
+      "extracted_path": "quarantine/references/eeg-location-scale/Manuscript Analyses + Supplementary Analyses/resp.csv",
+      "sha256": "0f4e2a4a6d245ea7cca4f98ed37d17f10031a0da34895eec8b5a7d0a13442804",
+      "bytes": 583827,
+      "osf_file_id": "65835942951384140f2385c5",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/b752w/",
+      "raw_path": "quarantine/archives/eeg-location-scale/Manuscript Analyses + Supplementary Analyses/rel_table_usf_111423.csv",
+      "extracted_path": "quarantine/references/eeg-location-scale/Manuscript Analyses + Supplementary Analyses/rel_table_usf_111423.csv",
+      "sha256": "68265c5f1b1f0b905f1131e5c18e194bc7c120859a6892d6238b7da9ad48d660",
+      "bytes": 1612,
+      "osf_file_id": "658359412a656013090bf1a1",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/w2j83/",
+      "raw_path": "quarantine/archives/eeg-location-scale/Manuscript Analyses + Supplementary Analyses/rel_table_byu_111423.csv",
+      "extracted_path": "quarantine/references/eeg-location-scale/Manuscript Analyses + Supplementary Analyses/rel_table_byu_111423.csv",
+      "sha256": "6c16d4bd94d7df71b66a2fdc998f9d1ff889ebb44a89fd2ba273a885302e2675",
+      "bytes": 1612,
+      "osf_file_id": "6583593f7094e9123ba17464",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/7pzye/",
+      "raw_path": "quarantine/archives/eeg-location-scale/Manuscript Analyses + Supplementary Analyses/rel_table_all_111423.csv",
+      "extracted_path": "quarantine/references/eeg-location-scale/Manuscript Analyses + Supplementary Analyses/rel_table_all_111423.csv",
+      "sha256": "9932f15bf4d5b3775081250b4d1fe8489722a2f17b4eb26ad859ad75311b66f6",
+      "bytes": 1612,
+      "osf_file_id": "6583593ff31e1312be82ddfe",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/3zjyp/",
+      "raw_path": "quarantine/archives/eeg-location-scale/Manuscript Analyses + Supplementary Analyses/FF_ERN.html",
+      "extracted_path": "quarantine/references/eeg-location-scale/Manuscript Analyses + Supplementary Analyses/FF_ERN.html",
+      "sha256": "57be77b27c2af3f67f70db5924ab6072adea10231ea1279da03bfd34fd01ac59",
+      "bytes": 5243550,
+      "osf_file_id": "6583593d2a656013090bf19f",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/6scmg/",
+      "raw_path": "quarantine/archives/eeg-location-scale/Manuscript Analyses + Supplementary Analyses/FF_ERN.Rmd",
+      "extracted_path": "quarantine/references/eeg-location-scale/Manuscript Analyses + Supplementary Analyses/FF_ERN.Rmd",
+      "sha256": "292d26fbcaaa4d4cc572ad8f16e7f248259613088646418f5b9f613dc5f28397",
+      "bytes": 112137,
+      "osf_file_id": "6583593df31e1312bd82ddbe",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/mdcxa/",
+      "raw_path": "quarantine/archives/eeg-location-scale/Power Analysis/power_analysis_summary.html",
+      "extracted_path": "quarantine/references/eeg-location-scale/Power Analysis/power_analysis_summary.html",
+      "sha256": "1a36d71b4729d71a3e1bae63c069b16bfa90eeed61e03c6c1932bd643f60dbb5",
+      "bytes": 1266774,
+      "osf_file_id": "628785626a659e4ef5eec994",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/r6mzn/",
+      "raw_path": "quarantine/archives/eeg-location-scale/Power Analysis/pwr_summ.rds",
+      "extracted_path": "quarantine/references/eeg-location-scale/Power Analysis/pwr_summ.rds",
+      "sha256": "dc729e63739382ce187f15dc4a165b859143ea54c53a89d786ff936a89574a7a",
+      "bytes": 17353,
+      "osf_file_id": "61f2e9ff026ee601d9b4f587",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/8g72w/",
+      "raw_path": "quarantine/archives/eeg-location-scale/Power Analysis/power_analysis_summary.Rmd",
+      "extracted_path": "quarantine/references/eeg-location-scale/Power Analysis/power_analysis_summary.Rmd",
+      "sha256": "43b48102907d38f463d4245aba139c198ed0f5b9c4cbfc803d943f38cb72aff4",
+      "bytes": 31387,
+      "osf_file_id": "6287856247df85605e6efe37",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/dw8c3/",
+      "raw_path": "quarantine/archives/eeg-location-scale/Power Analysis/ern_mpipe_out.csv",
+      "extracted_path": "quarantine/references/eeg-location-scale/Power Analysis/ern_mpipe_out.csv",
+      "sha256": "519a2e0625f5f5299d0b664240deb974be86a0db3f125899b882adca85a7da7b",
+      "bytes": 23613444,
+      "osf_file_id": "61f2ea01102f9201a3b17567",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/k4su5/",
+      "raw_path": "quarantine/archives/eeg-location-scale/Power Analysis/readme.pdf",
+      "extracted_path": "quarantine/references/eeg-location-scale/Power Analysis/readme.pdf",
+      "sha256": "b327ff28b89832b1ad8817b3a9335ee8ad1f3c9f576236d80420c040669183db",
+      "bytes": 75268,
+      "osf_file_id": "61f2ea0179e27201db20df36",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/mkgzu/",
+      "raw_path": "quarantine/archives/eeg-location-scale/ERP Processing/erp_pca_toolkit_processing.docx",
+      "extracted_path": "quarantine/references/eeg-location-scale/ERP Processing/erp_pca_toolkit_processing.docx",
+      "sha256": "3cdb760779dab8586b4666f8564c7399725db899463f5388ab3fea4ea9a990fc",
+      "bytes": 725476,
+      "osf_file_id": "621d40ba7f4112076dfa23b9",
+      "version": 1
+    }
+  ],
+  "failed_files": [],
+  "extracted_path": "quarantine/references/eeg-location-scale",
+  "extracted_files": 12,
+  "restore_command": "python3 scripts/restore_references.py --only eeg-location-scale"
+}

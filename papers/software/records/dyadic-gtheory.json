@@ -1,0 +1,133 @@
+{
+  "id": "dyadic-gtheory",
+  "kind": "files",
+  "source_url": "https://osf.io/9az5x/",
+  "listing_url": "https://api.osf.io/v2/nodes/9az5x/files/osfstorage/?sort=name",
+  "revision": "OSF file versions and SHA-256 recorded individually",
+  "description": "tenHove/Jorgensen/van-der-Ark dyadic G-theory and social-relations-model simulation/reference code, DOI10.1080/00273171.2024.2444940",
+  "license_note": "Public author-deposited materials; inspect project and file licenses before reuse",
+  "status": "acquired",
+  "files": [
+    {
+      "source_url": "https://osf.io/download/fsg8w/",
+      "raw_path": "quarantine/archives/dyadic-gtheory/Example/EmpiricalExample_OSF.R",
+      "extracted_path": "quarantine/references/dyadic-gtheory/Example/EmpiricalExample_OSF.R",
+      "sha256": "15492be4e9f96a798b8345365108dbc20093254de359587b099dd842a649f56a",
+      "bytes": 5782,
+      "osf_file_id": "639b246a7ae6c40112df320a",
+      "version": 1,
+      "original_osf_path": "/Example/EmpiricalExample_OSF.R"
+    },
+    {
+      "source_url": "https://osf.io/download/sv5fb/",
+      "raw_path": "quarantine/archives/dyadic-gtheory/Example/ICCfunctions.R",
+      "extracted_path": "quarantine/references/dyadic-gtheory/Example/ICCfunctions.R",
+      "sha256": "be70ee6b98efd736d2dcaf2de4fd02e88555a883624c5a0dd681c2f0e1669e6a",
+      "bytes": 17987,
+      "osf_file_id": "6391f427f9fa23093faceb86",
+      "version": 1,
+      "original_osf_path": "/Example/ICCfunctions.R"
+    },
+    {
+      "source_url": "https://osf.io/download/t3wnz/",
+      "raw_path": "quarantine/archives/dyadic-gtheory/Example/Reshape_SalazarKampfData.R",
+      "extracted_path": "quarantine/references/dyadic-gtheory/Example/Reshape_SalazarKampfData.R",
+      "sha256": "91ee8a75efa4b0be3b59c1d274b8bdad0b382b4b4b3ddd538524d3c0f2d5f60d",
+      "bytes": 3210,
+      "osf_file_id": "6391f42c7a84420925bf1dd6",
+      "version": 1,
+      "original_osf_path": "/Example/Reshape_SalazarKampfData.R"
+    },
+    {
+      "source_url": "https://osf.io/download/d6pnw/",
+      "raw_path": "quarantine/archives/dyadic-gtheory/Example/RESRM_mimicry_traceplots.png",
+      "extracted_path": "quarantine/references/dyadic-gtheory/Example/RESRM_mimicry_traceplots.png",
+      "sha256": "52f1ac68cfaa4c201f32a67163c356c983fbeab9938c4ce883da82a64f4fdd05",
+      "bytes": 33764,
+      "osf_file_id": "656f334243d0672288b19db3",
+      "version": 1,
+      "original_osf_path": "/Example/RESRM_mimicry_traceplots.png"
+    },
+    {
+      "source_url": "https://osf.io/download/xm2pk/",
+      "raw_path": "quarantine/archives/dyadic-gtheory/Example/RESRM_mod.stan",
+      "extracted_path": "quarantine/references/dyadic-gtheory/Example/RESRM_mod.stan",
+      "sha256": "3e57d942628438a07ce268f7cf651591b1bd6220db7c63a0471a4621cccda0d1",
+      "bytes": 8979,
+      "osf_file_id": "6391f43348b9630ae50e272c",
+      "version": 1,
+      "original_osf_path": "/Example/RESRM_mod.stan"
+    },
+    {
+      "source_url": "https://osf.io/download/8hu9v/",
+      "raw_path": "quarantine/archives/dyadic-gtheory/Simulation/combineConditionFiles.R",
+      "extracted_path": "quarantine/references/dyadic-gtheory/Simulation/combineConditionFiles.R",
+      "sha256": "d30135928c4089aea8020e81698e9f7f3cf55f0da2230df295d2fa40fccf0ef2",
+      "bytes": 1406,
+      "osf_file_id": "6391ee6a95c0540965eeba71",
+      "version": 1,
+      "original_osf_path": "/Simulation/combineConditionFiles.R"
+    },
+    {
+      "source_url": "https://osf.io/download/adq6y/",
+      "raw_path": "quarantine/archives/dyadic-gtheory/Simulation/makeBashScripts.R",
+      "extracted_path": "quarantine/references/dyadic-gtheory/Simulation/makeBashScripts.R",
+      "sha256": "6b0f94444721540bfacb464f908f5d184fb49c6fb3b978ccfd178c3f2e2fcf88",
+      "bytes": 1694,
+      "osf_file_id": "6391ee668ad0c80b10ffaf6e",
+      "version": 1,
+      "original_osf_path": "/Simulation/makeBashScripts.R"
+    },
+    {
+      "source_url": "https://osf.io/download/t3jwn/",
+      "raw_path": "quarantine/archives/dyadic-gtheory/Simulation/plotAllResults.R",
+      "extracted_path": "quarantine/references/dyadic-gtheory/Simulation/plotAllResults.R",
+      "sha256": "9bbff05a002c1211027c5a906854d64a91f2be3c57a02abcef5844c34019a2fd",
+      "bytes": 5138,
+      "osf_file_id": "6391ee6e8ad0c80b03ffafee",
+      "version": 1,
+      "original_osf_path": "/Simulation/plotAllResults.R"
+    },
+    {
+      "source_url": "https://osf.io/download/6h5gr/",
+      "raw_path": "quarantine/archives/dyadic-gtheory/Simulation/RESRM_mod.stan",
+      "extracted_path": "quarantine/references/dyadic-gtheory/Simulation/RESRM_mod.stan",
+      "sha256": "34ea8fa8bb9ec349330bea43de110934cd9accbbdff3cbbd21a284f9d60e0e2c",
+      "bytes": 7741,
+      "osf_file_id": "6391f1e37a8442092abf1da2",
+      "version": 1,
+      "original_osf_path": "/Simulation/RESRM_mod.stan"
+    },
+    {
+      "source_url": "https://osf.io/download/hbt2v/",
+      "raw_path": "quarantine/archives/dyadic-gtheory/Simulation/simFunctions_RESRM.R",
+      "extracted_path": "quarantine/references/dyadic-gtheory/Simulation/simFunctions_RESRM.R",
+      "sha256": "fb237a3040b4e308639896bf3fc03c38ca42f1ef34d37f941b839b9550712edd",
+      "bytes": 14305,
+      "osf_file_id": "6391ee6d95c0540966eec186",
+      "version": 1,
+      "original_osf_path": "/Simulation/simFunctions_RESRM.R"
+    },
+    {
+      "source_url": "https://osf.io/download/jgdh3/",
+      "raw_path": "quarantine/archives/dyadic-gtheory/Simulation/summarizeConditionResults.R",
+      "extracted_path": "quarantine/references/dyadic-gtheory/Simulation/summarizeConditionResults.R",
+      "sha256": "13604750307cda092397e07232618d585218af3139d5dd3f8d67e6c563278118",
+      "bytes": 7656,
+      "osf_file_id": "6391ee7695c0540965eeba94",
+      "version": 1,
+      "original_osf_path": "/Simulation/summarizeConditionResults.R"
+    }
+  ],
+  "failed_files": [],
+  "extracted_path": "quarantine/references/dyadic-gtheory",
+  "extracted_files": 11,
+  "listed_entries": 11,
+  "duplicate_file_ids": [],
+  "skipped_files": [],
+  "max_file_mib": null,
+  "path_conflicts": [],
+  "max_files": 100,
+  "workers": 1,
+  "restore_command": "python3 scripts/restore_references.py --only dyadic-gtheory"
+}

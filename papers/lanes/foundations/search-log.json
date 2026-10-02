@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-02",
+  "lane": "foundations",
+  "search_engine": "web.run",
+  "queries": [
+    "Cronbach Gleser Nanda Rajaratnam 1972 dependability behavioral measurements generalizability theory pdf",
+    "Brennan generalizability theory CASMA technical reports pdf",
+    "Cardinet Tourneur Allal 1976 generalizability theory symmetry fixed random facets",
+    "Gleser Cronbach Rajaratnam 1965 generalizability scores influenced multiple sources variance doi",
+    "Rajaratnam Cronbach Gleser 1965 generalizability stratified parallel tests doi",
+    "Cardinet Tourneur Allal 1981 Extension generalizability theory domain referenced measurement doi",
+    "site.education.uiowa.edu CASMA generalizability reports",
+    "site.files.eric.ed.gov Brennan Generalizability Analyses Principles",
+    "site.files.eric.ed.gov Cronbach generalizability 1960",
+    "Shavelson Webb 1981 Generalizability theory 1973 1980 doi",
+    "Webb Shavelson Haertel 2006 Reliability coefficients generalizability theory doi",
+    "Cornfield Tukey 1956 Average values mean squares factorials doi",
+    "site.education.uiowa.edu confounded generalizability",
+    "site.education.uiowa.edu generalizability theory finite",
+    "site.eric.ed.gov Brennan Some Issues Concerning Variance Components",
+    "Shavelson Webb 1991 Generalizability theory primer Sage DOI",
+    "site.eric.ed.gov Some Issues Concerning the Estimation Brennan",
+    "site.eric.ed.gov Algorithms Procedures and Variance Components",
+    "site.eric.ed.gov Some Statistical Issues in Generalizability Theory",
+    "Generalizability of class means Brennan Kane 1977",
+    "Generalizability theory 1992 Brennan doi",
+    "An index of dependability for mastery tests Brennan Kane",
+    "The calculation of reliability from a split-plot factorial design",
+    "Brennan Generalizability Theory and Classical Test Theory doi",
+    "Kane A sampling model for validity doi",
+    "Cronbach Shavelson My Current Thoughts doi",
+    "Test reliability estimated by analysis of variance 1941 doi",
+    "Average Values of Mean Squares in Factorials pdf Cornfield Tukey",
+    "Applying Generalizability Theory using EduG Routledge Cardinet Johnson Pini",
+    "Theory of Generalizability Cronbach 1963 site:files.eric.ed.gov",
+    "Rules of thumb for the ANOVA table Millman Glass doi",
+    "site.eric.ed.gov Generalizability Analyses 1977",
+    "site.eric.ed.gov Algorithms Brennan 1978",
+    "site.eric.ed.gov Some Issues Jarjoura Deaton",
+    "site.eric.ed.gov Some Statistical Issues Brennan",
+    "Generalizability theory: 1973 site:rand.org",
+    "Generalizability theory Shavelson 1989 site:stanford.edu",
+    "Reliability Coefficients and Generalizability Theory site:stanford.edu",
+    "Generalizability analysis Cronbach site:cresst.org",
+    "Generalizability Analysis for Performance Assessments PDF",
+    "Theory of Generalizability Cronbach 1963 pdf -site:scispace.com -site:wikipedia.org",
+    "Generalizability analyses: Principles and procedures ERIC",
+    "The dependability of behavioral measurements Wiley 1972 ISBN",
+    "Cardinet Tourneur 1985 Assurer",
+    "Generalizability theory Shavelson Webb site:sagepub.com/books",
+    "An index of dependability for mastery tests site:onlinelibrary.wiley.com",
+    "Signal/noise ratios for domain-referenced tests",
+    "Cardinet Tourneur Assurer la mesure 1985 Peter Lang",
+    "Brennan Elements Generalizability theory 1992 ACT book pdf",
+    "Brennan 1978 Algorithms procedures variance components analysis variance ED",
+    "Generalizability Analysis Educational Assessment Cronbach Linn Brennan Haertel CSE 1995 report",
+    "Cardinet Tourneur definition of generalizability parameters",
+    "Cardinet Allal 1983 generalizability",
+    "Generalizability Analysis for Educational Assessment CRESST",
+    "Elements of Generalizability Theory Brennan ACT 1992",
+    "The Generalizability of an Individual’s Progress Cardinet doi",
+    "Estimation of generalizability parameters doi Cardinet Allal",
+    "Signal/noise ratios for domain-referenced tests doi Brennan Kane",
+    "The Calculation of Reliability From a Split-Plot Factorial Design sage",
+    "Brennan Perspectives on the History of Generalizability Theory 2020 doi",
+    "Cardinet Allal Estimation of generalizability parameters Wiley",
+    "Test Reliability Ebel 1951 doi",
+    "Rules of thumb for writing the anova table site:onlinelibrary.wiley.com",
+    "Brennan Generalizability theory: Contributions Challenges",
+    "Definition of the components of generalizability parameters doi",
+    "Extension of generalizability 1982 331 Cardinet",
+    "Brennan An Essay on the History and Future of Reliability",
+    "Brennan history of generalizability theory 2022",
+    "Errata Cardinet 1982 Wiley",
+    "Generalizability Theory Contributions Challenges Brennan 2022",
+    "Estimation of the reliability of ratings Cambridge Ebel"
+  ],
+  "expansion_spines": [
+    {
+      "url": "https://education.uiowa.edu/casma/pubs",
+      "method": "Read complete current report/monograph/technical-note index and follow core links; route modern material to other lane."
+    },
+    {
+      "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-53-archived.pdf",
+      "method": "Read introduction and systematically inspect foundation/design/history references from over-300-reference author bibliography."
+    },
+    {
+      "url": "https://www.irdp.ch/data/secure/4111/document/bibliographie_cardinet_2017.pdf",
+      "method": "Search and inspect generalizability-related author bibliography across French/English original reports and translations."
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1745-3984.1981.tb00852.x",
+      "method": "Backward-expand Cardinet original reference list."
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1745-3992.1992.tb00260.x",
+      "method": "Backward-expand Brennan instructional-module annotated bibliography."
+    }
+  ],
+  "failed_urls": [
+    {
+      "url": "https://education.uiowa.edu/casma/research-reports",
+      "result": "web tool internal error; current index recovered at /casma/pubs"
+    },
+    {
+      "url": "https://education.uiowa.edu/casma/publications",
+      "result": "web tool internal error; current index recovered at /casma/pubs"
+    },
+    {
+      "url": "https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1111/j.2044-8317.1963.tb00206.x",
+      "result": "HTTP 403"
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-3984.1976.tb00003.x",
+      "result": "HTTP 403"
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-3984.1981.tb00852.x",
+      "result": "HTTP 403"
+    },
+    {
+      "url": "https://cresst.org/wp-content/uploads/cresst_ec1995_3.pdf",
+      "result": "HTTP 404; guessed migrated path based on published historical filename"
+    },
+    {
+      "url": "https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-27/issue-4/Average-Values-of-Mean-Squares-in-Factorials/10.1214/aoms/1177728067.pdf",
+      "result": "HTML rather than PDF; rejected by acquisition helper"
+    },
+    {
+      "url": "https://moodle.eduhk.hk/pluginfile.php/28244/mod_forum/attachment/2782/Generalizability_Theory_and_Classical_Test_Theory.pdf",
+      "result": "HTTP 404"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Richard-Shavelson/publication/232586408_Generalizability_Theory/links/00b7d537636b397f27000000/Generalizability-Theory.pdf",
+      "result": "HTTP 403"
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Richard-Shavelson/publication/235726254_Generalizability_Theory_A_Primer/links/63d061ded7e5841e0bf23879/Generalizability-Theory-A-Primer.pdf",
+      "result": "HTTP 403"
+    },
+    {
+      "url": "https://citeseerx.ist.psu.edu/document?doi=126d8c6a21871933efa38c5dc6ae3de0476ac72e&repid=rep1&type=pdf",
+      "result": "HTTP 404"
+    }
+  ],
+  "exclusions": [
+    "Reviews wrongly indexed as original monographs; 1991 Primer records carrying unrelated chapter DOIs.",
+    "Dubious pirate book mirrors and Scribd scans; no gate bypass, requests to people, or purchased access.",
+    "Cross-domain machine-learning external validity results unrelated to measurement G-theory."
+  ],
+  "completion_boundary": "Foundational lane is a verified, broad primary-source map with acquisition gaps. Does not claim every work or close reading of every full text. ResearchGate and publisher snippets serve discovery only; authoritative institutional or publisher metadata recorded where available."
+}

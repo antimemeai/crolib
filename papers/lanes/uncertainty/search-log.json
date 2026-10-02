@@ -1,0 +1,206 @@
+{
+  "lane": "uncertainty",
+  "date": "2026-10-02",
+  "queries": [
+    "generalizability theory confidence intervals generalizability coefficients bootstrap variance components Brennan Tong",
+    "generalizability theory jackknife confidence intervals negative variance components boundaries",
+    "generalizability theory simulation precision sample size confidence intervals Phi",
+    "\"A Monte Carlo Study of Confidence Interval Methods for Generalizability Coefficient\"",
+    "\"Wiley\" \"2000\" \"Bootstrap strategies\" pdf",
+    "\"Gao\" \"Brennan\" \"2001\" \"Variability\" generalizability",
+    "\"Sampling errors of variance components\" Smith 1978",
+    "\"A confidence interval approach\" \"Smith\" \"1982\" generalizability",
+    "\"The bootstrap and other procedures\" Brennan Harris Hanson pdf",
+    "\"Variability of estimated variance components\" \"2001\" doi",
+    "\"bootstrap\" \"Brennan\" \"Hanson\" \"1987\" ACT research report",
+    "\"generalizability\" \"finite\" \"bootstrap\" uncertainty",
+    "\"generalizability\" \"negative\" \"variance\" estimates",
+    "\"Generalizability\" \"confidence\" \"Almehrizi\" 2020",
+    "\"generalizability\" \"Moore\" \"2010\" confidence",
+    "\"Simultaneous confidence intervals\" \"Bell\" \"1986\"",
+    "\"Wiley\" \"Bootstrap strategies\" \"Stanford\"",
+    "\"Simultaneous Confidence Intervals\" \"197–205\" Bell",
+    "\"A Confidence Interval Approach\" \"459\" Smith DOI",
+    "\"generalizability\" \"variance\" \"positive definite\" Brennan",
+    "\"generalizability\" \"bootstrap\" \"finite population\"",
+    "\"Standard errors\" \"generalizability coefficients\" Almehrizi nested",
+    "\"Estimating the Variability\" \"2009\" \"Li\" generalizability",
+    "\"Confidence bounds and power\" \"Shin\" \"Raudenbush\"",
+    "\"Bootstrap strategies for variance component estimation\" Stanford library",
+    "\"Almehrizi\" \"nested\" \"standard errors\"",
+    "\"Generalizability Theory\" \"Moore\" \"2010\" sampling",
+    "\"Wiley\" \"Bootstrap strategies\" Stanford searchworks",
+    "\"generalizability\" \"nonnegative\" \"covariance\" variance components",
+    "Owen Eckles 2012 bootstrapping data arrays arbitrary order pdf stanford",
+    "Owen 2007 pigeonhole bootstrap pdf stanford",
+    "\"Estimating standard errors\" \"Moore\" \"2010\" Iowa dissertation",
+    "\"Bootstrap strategies\" Wiley Stanford 2000 2001 searchworks",
+    "\"Using adjusted bootstrap\" \"2013\" Li Zhang DOI",
+    "\"Resampling and exchangeable arrays\" McCullagh 2000 pdf",
+    "\"variance components\" \"boundary\" Self Liang 1987 pdf",
+    "\"simulation studies\" \"Monte Carlo standard errors\" Morris White Crowther 2019 pdf",
+    "\"Bootstrap strategies for variance component\" \"Wiley\" library stanford.edu",
+    "\"Self\" \"Liang\" \"1987\" \"Asymptotic properties\" pdf edu",
+    "\"generalizability\" \"confidence interval\" \"Almehrizi\" 2024 2023",
+    "\"generalizability\" \"finite universe\" \"standard error\"",
+    "\"Joann Lynn Moore\" \"2010\" \"bootstrap\" Iowa",
+    "\"Wiley\" \"Bootstrap strategies for variance component estimation\" dissertation Stanford 2001",
+    "\"Gaining accuracy in generalizability theory\" Smith 1981",
+    "\"Burdick\" \"Graybill\" \"Confidence intervals on variance components\" 1992",
+    "\"Joann Lynn Moore\" \"Estimating\" Iowa dissertation pdf",
+    "\"Bootstrap strategies\" \"Wiley\" \"Stanford University\" catalogue",
+    "\"Sample Size for Estimation of G and Phi\"",
+    "\"Confidence intervals on nonnegative linear combinations of variances\" doi",
+    "\"Confidence intervals on a difference of expected mean squares\" doi",
+    "\"Confidence intervals on linear combinations of variance components that are unrestricted in sign\" doi",
+    "\"Simultaneous confidence intervals for functions of variance components\" Khuri 1981",
+    "\"An approximate distribution of estimates of variance components\" 1946 doi",
+    "\"Sample size requirements for precise estimates\" Charter 1999",
+    "\"Brennan\" \"Variability of Statistics in Generalizability Theory\" 2001 Springer",
+    "\"Wiley\" \"Bootstrap strategies\" site:searchworks.stanford.edu",
+    "\"Sample size requirements for precise estimates\" site:pubmed.ncbi.nlm.nih.gov",
+    "\"Gao\" \"Brennan\" \"Variability of estimated variance\" site:ets.org",
+    "\"Bootstrap strategies for variance component estimation\" Wiley Stanford \"2000\"",
+    "\"Burdick\" \"Graybill\" \"1992\" site:routledge.com/Confidence",
+    "\"Pigeonhole bootstrap\" \"10.1214\"",
+    "\"Variance Components Testing in the Longitudinal\" \"10.2307\""
+  ],
+  "primary_expansion_spines": [
+    {
+      "source": "CASMA53 local bibliography",
+      "targets": [
+        "Smith1978/1981/1982",
+        "Bell1986",
+        "ACT87-7",
+        "Wiley2000",
+        "Othman1995",
+        "Gao/Brennan2001"
+      ]
+    },
+    {
+      "source": "CASMA5/15/21 and ACT87-7",
+      "targets": [
+        "bootstrap bias rules",
+        "finite universe jackknife",
+        "T terms",
+        "SE of absolute/relative error"
+      ]
+    },
+    {
+      "source": "Jiang2022 full text",
+      "targets": [
+        "Almehrizi2021",
+        "Moore2010",
+        "coefficient versus component intervals",
+        "absolute-error footnote"
+      ]
+    },
+    {
+      "source": "Li2023 and2025 correction",
+      "targets": [
+        "Chinese2009/2013 originals",
+        "80%coverage tolerance",
+        "title-only erratum"
+      ]
+    },
+    {
+      "source": "Betebenner1998",
+      "targets": [
+        "Graybill/Wang1980",
+        "Lu1988",
+        "Ting1990",
+        "Burdick/Graybill1992",
+        "signed expected mean squares"
+      ]
+    },
+    {
+      "source": "Owen2007/OwenEckles2012",
+      "targets": [
+        "crossed-array bootstrap dependence",
+        "McCullagh2000",
+        "variance of mean versus coefficient ratio"
+      ]
+    },
+    {
+      "source": "NCME Lee/Harris2025 andCASMA58",
+      "targets": [
+        "error in reliability estimates",
+        "replication benchmark limits",
+        "conditional SEM distinction"
+      ]
+    }
+  ],
+  "failed_urls": [
+    {
+      "url": "https://journals.sagepub.com/doi/pdf/10.1177/0013164407301533",
+      "result": "HTTP403; CASMA precursors acquired."
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/pdf/10.1177/00131644211033899",
+      "result": "HTTP403; public PMC full HTML acquired."
+    },
+    {
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228698/pdf/10.1177_00131644211033899.pdf",
+      "result": "ReturnedHTML/access page; PDF validator rejected. Full HTML acquired from same public repository."
+    },
+    {
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/utils/oa/oa.fcgi?id=PMC9228698",
+      "result": "404; OA package endpoint not available for this article."
+    },
+    {
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9228698/fullTextXML",
+      "result": "HTTP500; no XML acquired."
+    },
+    {
+      "url": "https://projecteuclid.org/journals/annals-of-applied-statistics/volume-6/issue-3/Bootstrapping-data-arrays-of-arbitrary-order/10.1214/12-AOAS547.pdf",
+      "result": "ReturnedHTML rather thanPDF; legitimate arXiv replacement acquired."
+    },
+    {
+      "url": "https://ir.uiowa.edu/etd/860/",
+      "result": "TLS certificate verification failure; no TLS disabling. Official Iowa library metadata found."
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/abs/10.1207/S15324818AME1402_5",
+      "result": "Web internalerror/403; no original acquired."
+    },
+    {
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/01621459.1981.10477736",
+      "result": "403; Crossref and primary bibliography verified metadata."
+    },
+    {
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/0378375888900146",
+      "result": "403; Crossref verified title/page correction."
+    },
+    {
+      "url": "https://journals.sagepub.com/doi/10.3102/10769986011003197",
+      "result": "Publisherfetch unavailable; Crossref verifiedtitle/author/pages."
+    },
+    {
+      "url": "https://www.cs.cas.cz/martinkova/docsNMST570/readingL2.pdf",
+      "result": "401Unauthorized; no attempt to circumvent institutional gate. This is handbook source lead already in foundations."
+    },
+    {
+      "url": "https://searchworks.stanford.edu/?q=%22Bootstrap+strategies+for+variance+component%22",
+      "result": "Webtool internalerror; exact thesis record notverified."
+    },
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-3984.1981.tb00849.x",
+      "result": "Webfetch unavailable; Crossref verifiedtitle/author/pages."
+    }
+  ],
+  "acquisition_policy": "Public publishers, official institutions and authors only. No access-gate circumvention, dependency adoption or downloaded-code execution.",
+  "reading_limitations": [
+    "No exhaustive coverage of every language or grey-literature repository.",
+    "Acquisition status does not imply full reading; evidence fields record actual depth.",
+    "Chinese papers: English abstracts inspected, full translated reading pending.",
+    "Atılgan2013PDF has largely missing text layer; author abstract through ERIC reviewed.",
+    "Multivariate covariance PSD audit delegated to multivariate lane; no estimator-specific matrix theorem reviewed here."
+  ],
+  "exclusions": [
+    "PubMed10550807 was an unrelated accidentally opened record; excluded.",
+    "Dubious commercial mirror copies/Scribd not acquired.",
+    "Application-only citations not included unless they directly examine uncertainty methods.",
+    "Bare author-firstname guesses replaced with source-provided initials."
+  ],
+  "metadata_audit": "Crossref confirmed Bell1986, Smith1981 and Khuri1981; Lu1988 page range corrected by DOI metadata. Other parallel Crossref requests hit429; no excessive retry. Wiley2000/2001 thesis discrepancy retained. Stram/Lee1994 DOI corrected to10.2307/2533455 against primary JSTOR issue contents."
+}

@@ -1,0 +1,897 @@
+[
+  {
+    "id": "multivariate-casma-53",
+    "title": "Generalizability Theory References: The First Sixty Years",
+    "authors": [
+      "Robert L. Brennan",
+      "Jui-Teng Ray Liao"
+    ],
+    "year": 2020,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-53-archived.pdf",
+    "local_path": "papers/downloads/foundations/brennan-liao-2020-first-sixty-years.pdf",
+    "status": "acquired",
+    "topics": [
+      "bibliography",
+      "history"
+    ],
+    "relevance": "Primary bibliography containing over 300 references; expands search beyond readily discoverable modern papers.",
+    "evidence": "Official CASMA listing and PDF title page inspected; report selected for derivation and worked examples. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Shared artifact acquired by foundations lane; no duplicate PDF downloaded."
+  },
+  {
+    "id": "multivariate-casma-59",
+    "title": "Reliability of Difference Scores Obtained from Nested Data within a Multivariate Generalizability Theory Framework",
+    "authors": [
+      "Rabia Karatoprak Ersen",
+      "Won-Chan Lee",
+      "Donald B. Yarbrough"
+    ],
+    "year": 2025,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-59-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-59.pdf",
+    "status": "acquired",
+    "topics": [
+      "difference-scores",
+      "nested",
+      "multilevel",
+      "covariance-components"
+    ],
+    "relevance": "Recent worked pretest/posttest example with two nesting levels and different objects of measurement.",
+    "evidence": "Official CASMA listing and PDF title page inspected; report selected for derivation and worked examples. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 373624 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-casma-50",
+    "title": "Nominal Weights in Multivariate Generalizability Theory",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2016,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-50-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-50.pdf",
+    "status": "acquired",
+    "topics": [
+      "weights",
+      "composites",
+      "nominal-effective-weights",
+      "score-metric"
+    ],
+    "relevance": "Derives nominal weights for intended score-range contributions under mean versus total score metrics; also discusses effective weights.",
+    "evidence": "Official CASMA listing and PDF title page inspected; report selected for derivation and worked examples. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 196786 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-casma-44",
+    "title": "Utility Indexes for Composite Scores: Matrix Formulation Including R Code and Examples",
+    "authors": [
+      "Hyung Jin Kim",
+      "Robert L. Brennan"
+    ],
+    "year": 2016,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-44-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-44.pdf",
+    "status": "acquired",
+    "topics": [
+      "composites",
+      "matrix-formulation",
+      "worked-example",
+      "R-code"
+    ],
+    "relevance": "Matrix formulation and reproducible code/examples for composite utility; revised August 2016.",
+    "evidence": "Official CASMA listing and PDF title page inspected; report selected for derivation and worked examples. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 329037 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-casma-33",
+    "title": "Utility Indexes for Decisions about Subscores",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2012,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-33-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-33.pdf",
+    "status": "acquired",
+    "topics": [
+      "subscores",
+      "regressed-scores",
+      "utility"
+    ],
+    "relevance": "Functions connecting subscore usefulness, estimation errors and test interpretation; revised December 2012.",
+    "evidence": "Official CASMA listing and PDF title page inspected; report selected for derivation and worked examples. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 409500 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-casma-note-5",
+    "title": "Regressed Score Estimates and Inconsistencies with Classical Test Theory",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2012,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-technical-report-5-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-note-5.pdf",
+    "status": "acquired",
+    "topics": [
+      "regressed-scores",
+      "CTT-bridge"
+    ],
+    "relevance": "Important interpretation boundary: regressed estimates need not share the properties of true scores.",
+    "evidence": "Official PDF title page/metadata inspected. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 129995 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-casma-29",
+    "title": "Multivariate Generalizability Analyses of Mixed-Format Advanced Placement Exams",
+    "authors": [
+      "Sonya Powers",
+      "Robert L. Brennan"
+    ],
+    "year": 2009,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-29-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-29.pdf",
+    "status": "acquired",
+    "topics": [
+      "mixed-format",
+      "multivariate",
+      "worked-example",
+      "raters"
+    ],
+    "relevance": "Real-data composite reliability with multiple-choice and free-response sections. PDF uses fuller title than listing.",
+    "evidence": "Official CASMA listing and PDF title page inspected; report selected for derivation and worked examples. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 3417955 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-casma-34",
+    "title": "A Multivariate Generalizability Analysis of Portfolio Assessments in Dental Education",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2013,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2022-10/casma-research-report-34.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-34.pdf",
+    "status": "acquired",
+    "topics": [
+      "portfolios",
+      "multivariate",
+      "worked-example"
+    ],
+    "relevance": "Small real-data multivariate assessment example for covariance-components and D-study validation.",
+    "evidence": "Official report listing and title page inspected. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 251826 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-casma-4",
+    "title": "A Multivariate Generalizability Analysis of the Multistate Bar Examination",
+    "authors": [
+      "Ping Yin"
+    ],
+    "year": 2004,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-4-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-4.pdf",
+    "status": "acquired",
+    "topics": [
+      "mixed-format",
+      "multivariate",
+      "worked-example"
+    ],
+    "relevance": "Six subject domains and score composites for multivariate test design.",
+    "evidence": "Official CASMA listing and PDF title page inspected; report selected for derivation and worked examples. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 240944 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-casma-25",
+    "title": "A Multi-group Generalizability Analysis of a Large-scale Reading Comprehension Test",
+    "authors": [
+      "Dongmei Li",
+      "Robert L. Brennan"
+    ],
+    "year": 2007,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-25-archived_0.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-25.pdf",
+    "status": "acquired",
+    "topics": [
+      "multigroup",
+      "reading-test",
+      "multivariate",
+      "stratification"
+    ],
+    "relevance": "Analyzes group-specific reliability and passages/items; PDF title differs slightly from listing.",
+    "evidence": "Acquired report title page and contents inspected; original publisher-index text extract incorrectly expanded the title to ITBS, corrected against actual PDF.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 709606 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-casma-42",
+    "title": "Utility Indexes for Composite Scores",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2016,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-42-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-42.pdf",
+    "status": "acquired",
+    "topics": [
+      "composites",
+      "utility",
+      "regressed-scores"
+    ],
+    "relevance": "Underlying theory for matrix/code report #44; revised September 2016, originally May 2015.",
+    "evidence": "Official CASMA listing and PDF title page inspected; report selected for derivation and worked examples. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 171585 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-casma-46",
+    "title": "Interval Estimation Procedures for Weighted Composite Scores",
+    "authors": [
+      "Kyung Yong Kim",
+      "Won-Chan Lee"
+    ],
+    "year": 2016,
+    "doi": null,
+    "source_url": "https://education.uiowa.edu/casma/pubs",
+    "fulltext_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-46-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-46.pdf",
+    "status": "acquired",
+    "topics": [
+      "intervals",
+      "weighted-composites",
+      "uncertainty"
+    ],
+    "relevance": "Interval procedures for composites, adjacent to multivariate G-theory; distinguish latent/observed score targets.",
+    "evidence": "Official CASMA listing and PDF title page inspected; report selected for derivation and worked examples. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 1056697 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-extended-2022",
+    "title": "Extended Multivariate Generalizability Theory With Complex Design Structures",
+    "authors": [
+      "Robert L. Brennan",
+      "Stella Y. Kim",
+      "Won-Chan Lee"
+    ],
+    "year": 2022,
+    "doi": "10.1177/00131644211049746",
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228696/",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228696/",
+    "local_path": "papers/downloads/multivariate/multivariate-extended-2022.html",
+    "status": "acquired",
+    "topics": [
+      "extended-multivariate",
+      "mixed-format",
+      "testlets",
+      "heterogeneous-designs"
+    ],
+    "relevance": "Key extension: different design structures at different fixed-facet levels.",
+    "evidence": "Full-text abstract, introductory framework and discussion inspected; online 2021, issue 2022. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public alternate full text acquired; original attempt: Identified public/publisher full-text attempt failed: response is not a PDF (possibly an access page); obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+  },
+  {
+    "id": "multivariate-subscores-2018",
+    "title": "The Use of Multivariate Generalizability Theory to Evaluate the Quality of Subscores",
+    "authors": [
+      "Zhehan Jiang",
+      "Mark R. Raymond"
+    ],
+    "year": 2018,
+    "doi": "10.1177/0146621618758698",
+    "source_url": "https://ir.ua.edu/items/a4f4f4a9-143c-4880-8f1e-14dee2afa913",
+    "fulltext_url": "https://www.nbme.org/sites/default/files/2020-01/Zhang-Raymond2018_MV%20G-theory%20and%20subscores.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-subscores-2018.pdf",
+    "status": "acquired",
+    "topics": [
+      "score-profiles",
+      "subscores",
+      "simulation",
+      "conditional-SEM"
+    ],
+    "relevance": "Profile reliability sensitive to subtest mean variation; distinguishes profile reliability from added-value utility.",
+    "evidence": "Full-text methods, results and discussion inspected through indexed PMC source; legitimate NBME copy selected. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 586498 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-subscore-utility-2020",
+    "title": "Indices of Subscore Utility for Individuals and Subgroups Based on Multivariate Generalizability Theory",
+    "authors": [
+      "Mark R. Raymond",
+      "Zhehan Jiang"
+    ],
+    "year": 2020,
+    "doi": "10.1177/0013164419846936",
+    "source_url": "https://doi.org/10.1177/0013164419846936",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6943993/",
+    "local_path": "papers/downloads/multivariate/multivariate-subscore-utility-2020.html",
+    "status": "acquired",
+    "topics": [
+      "subscore-utility",
+      "conditional-SEM",
+      "individual-profiles"
+    ],
+    "relevance": "Moves beyond population-average profile reliability to individuals and subgroups.",
+    "evidence": "Institutional full-text title page/abstract inspected; online 2019, issue 2020. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Actual PMC article HTML acquired; University of Alabama PDF API returned 503."
+  },
+  {
+    "id": "multivariate-psychological-assessments-2023",
+    "title": "Applying Multivariate Generalizability Theory to Psychological Assessments",
+    "authors": [
+      "Walter P. Vispoel",
+      "Hyeryung Lee",
+      "Hyeri Hong",
+      "Tingting Chen"
+    ],
+    "year": 2023,
+    "doi": "10.1037/met0000606",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/37676165/",
+    "fulltext_url": "https://supp.apa.org/psycarticles/supplemental/met0000606/met0000606_sm4.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "multivariate",
+      "tutorial",
+      "disattenuation",
+      "subscale-viability"
+    ],
+    "relevance": "Practical tutorial with multi-occasion psychological scales; direct full-text publisher supplement.",
+    "evidence": "Publisher-hosted full-text abstract and references inspected; year reflects first online publication (2023), later issue metadata may differ.",
+    "acquisition_note": "Identified public/publisher full-text attempt failed: HTTP Error 404: Not Found; obtain lawful publisher/institutional/author copy if unavailable via alternate open source. Alternate https://supp.apa.org/psycarticles/supplemental/met0000606/met0000606_sm4.pdf failed: HTTP Error 404: Not Found."
+  },
+  {
+    "id": "multivariate-ctt-sem-2018",
+    "title": "Applications of Generalizability Theory and Their Relations to Classical Test Theory and Structural Equation Modeling",
+    "authors": [
+      "Walter P. Vispoel",
+      "Carrie A. Morris",
+      "Murat Kilinc"
+    ],
+    "year": 2018,
+    "doi": "10.1037/met0000107",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/28114776/",
+    "fulltext_url": "https://www.apa.org/pubs/journals/features/met-met0000107.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "SEM-bridge",
+      "ordinal",
+      "CTT-bridge",
+      "cut-scores"
+    ],
+    "relevance": "Comprehensive bridge with ordinal latent-response treatment and software survey.",
+    "evidence": "PubMed abstract and full-text ordinal section inspected; online 2017, issue 2018.",
+    "acquisition_note": "Identified public/publisher full-text attempt failed: response is not a PDF (possibly an access page); obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+  },
+  {
+    "id": "multivariate-latent-response-2019",
+    "title": "Using Generalizability Theory with Continuous Latent Response Variables",
+    "authors": [
+      "Walter P. Vispoel",
+      "Carrie A. Morris",
+      "Murat Kilinc"
+    ],
+    "year": 2019,
+    "doi": "10.1037/met0000177",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/30080056/",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "ordinal",
+      "latent-response",
+      "scale-coarseness"
+    ],
+    "relevance": "Central categorical-data extension; latent response reliability is not observed score reliability.",
+    "evidence": "Verified DOI and abstract; first online 2018, issue volume 24(2), 2019.",
+    "acquisition_note": "Acquisition pending if an identified lawful public full-text URL is available."
+  },
+  {
+    "id": "multivariate-mixed-model-r-2020",
+    "title": "Using a Linear Mixed-Effect Model Framework to Estimate Multivariate Generalizability Theory Parameters in R",
+    "authors": [
+      "Zhehan Jiang",
+      "Mark R. Raymond",
+      "Dexin Shi",
+      "Christine DiStefano"
+    ],
+    "year": 2020,
+    "doi": "10.3758/s13428-020-01399-z",
+    "source_url": "https://link.springer.com/article/10.3758/s13428-020-01399-z",
+    "fulltext_url": "https://link.springer.com/content/pdf/10.3758/s13428-020-01399-z.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-mixed-model-r-2020.pdf",
+    "status": "acquired",
+    "topics": [
+      "mixed-models",
+      "multivariate",
+      "glmmTMB",
+      "R-code"
+    ],
+    "relevance": "Alternative estimation machinery for covariance-components beyond mGENOVA restrictions.",
+    "evidence": "Acquired full text introduction, design/covariance structures and limitations inspected. Uses glmmTMB, not simply lme4; linked/unlinked facet covariance structure differs by design.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 2062601 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-bayesian-multivariate-2018",
+    "title": "A Bayesian Approach to Estimating Variance Components within a Multivariate Generalizability Theory Framework",
+    "authors": [
+      "Zhehan Jiang",
+      "William Skorupski"
+    ],
+    "year": 2018,
+    "doi": "10.3758/s13428-017-0986-3",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/29235072/",
+    "fulltext_url": "https://link.springer.com/content/pdf/10.3758/s13428-017-0986-3.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-bayesian-multivariate-2018.pdf",
+    "status": "acquired",
+    "topics": [
+      "Bayesian",
+      "multivariate",
+      "BUGS-code",
+      "nested",
+      "crossed"
+    ],
+    "relevance": "Tutorial includes BUGS code for one-facet, two-facet crossed and nested designs.",
+    "evidence": "PubMed abstract inspected; online 2017, issue 2018. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 5093219 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-girm-2007",
+    "title": "Generalizability in Item Response Modeling",
+    "authors": [
+      "Derek C. Briggs",
+      "Mark Wilson"
+    ],
+    "year": 2007,
+    "doi": "10.1111/j.1745-3984.2007.00031.x",
+    "source_url": "https://experts.colorado.edu/display/pubid_22628",
+    "fulltext_url": "https://bse.berkeley.edu/sites/default/files/gse-archive-4/Wilson9.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-girm-2007.pdf",
+    "status": "acquired",
+    "topics": [
+      "IRT-bridge",
+      "binary",
+      "polytomous",
+      "Bayesian"
+    ],
+    "relevance": "GIRM performs GT on expected response matrices while estimating random-effects IRT parameters.",
+    "evidence": "Author-institution full-text introduction inspected and DOI verified on CU Experts. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 954971 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-gllamm-rater-2018",
+    "title": "Modeling Rater Effects Using a Combination of Generalizability Theory and IRT",
+    "authors": [
+      "Jinnie Choi",
+      "Mark R. Wilson"
+    ],
+    "year": 2018,
+    "doi": null,
+    "source_url": "https://www.psychologie-aktuell.com/fileadmin/download/ptam/1-2018_20180323/PTAM-1-2018_Sammlung_v2.pdf",
+    "fulltext_url": "https://www.psychologie-aktuell.com/fileadmin/download/ptam/1-2018_20180323/PTAM-1-2018_Sammlung_v2.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-gllamm-rater-2018.pdf",
+    "status": "acquired",
+    "topics": [
+      "IRT-bridge",
+      "GLLAMM",
+      "raters",
+      "ordinal"
+    ],
+    "relevance": "Generalized linear latent and mixed framework integrating sampling and scaling.",
+    "evidence": "Official publisher full issue inspected: article pp.53–79; archived whole issue intact. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public full-text PDF acquired from identified source; 2863329 bytes. Provenance sidecar retained."
+  },
+  {
+    "id": "multivariate-sem-absolute-2021",
+    "title": "How to Estimate Absolute-Error Components in Structural Equation Models of Generalizability Theory",
+    "authors": [
+      "Terrence D. Jorgensen"
+    ],
+    "year": 2021,
+    "doi": "10.3390/psych3020011",
+    "source_url": "https://www.mdpi.com/2624-8611/3/2/11",
+    "fulltext_url": "https://mdpi-res.com/d_attachment/psych/psych-03-00011/article_deploy/psych-03-00011.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-sem-absolute-2021.pdf",
+    "status": "acquired",
+    "topics": [
+      "SEM-bridge",
+      "absolute-error",
+      "ordinal",
+      "planned-missingness"
+    ],
+    "relevance": "Mean/threshold constraints permit absolute-error estimation in one SEM; cautions for missing-rater designs.",
+    "evidence": "Publisher full-text abstract inspected. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public alternate full text acquired; original attempt: Identified public/publisher full-text attempt failed: The read operation timed out; obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+  },
+  {
+    "id": "multivariate-sem-anova-2023",
+    "title": "Using Structural Equation Modeling to Reproduce and Extend ANOVA-Based Generalizability Theory Analyses for Psychological Assessments",
+    "authors": [
+      "Walter P. Vispoel",
+      "Hyeryung Lee",
+      "Tingting Chen",
+      "Hyeri Hong"
+    ],
+    "year": 2023,
+    "doi": "10.3390/psych5020019",
+    "source_url": "https://www.mdpi.com/2624-8611/5/2/19",
+    "fulltext_url": "https://mdpi-res.com/d_attachment/psych/psych-05-00019/article_deploy/psych-05-00019.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-sem-anova-2023.pdf",
+    "status": "acquired",
+    "topics": [
+      "SEM-bridge",
+      "ANOVA",
+      "confidence-intervals",
+      "ordinal"
+    ],
+    "relevance": "Worked ANOVA/SEM equivalence and extensions for multi-occasion inventories.",
+    "evidence": "Publisher article mirrored openly on ResearchGate: abstract/introduction inspected. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public alternate full text acquired; original attempt: Identified public/publisher full-text attempt failed: HTTP Error 403: Forbidden; obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+  },
+  {
+    "id": "multivariate-sem-bifactor-2025",
+    "title": "Structural Equation Modeling Approaches to Estimating Score Dependability Within Generalizability Theory-Based Univariate, Multivariate, and Bifactor Designs",
+    "authors": [
+      "Walter P. Vispoel",
+      "Hyeryung Lee",
+      "Tingting Chen"
+    ],
+    "year": 2025,
+    "doi": "10.3390/math13061001",
+    "source_url": "https://www.mdpi.com/2227-7390/13/6/1001",
+    "fulltext_url": "https://mdpi-res.com/d_attachment/mathematics/mathematics-13-01001/article_deploy/mathematics-13-01001.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-sem-bifactor-2025.pdf",
+    "status": "acquired",
+    "topics": [
+      "bifactor",
+      "SEM-bridge",
+      "ordinal",
+      "absolute-error",
+      "R-code"
+    ],
+    "relevance": "Recent 49-page tutorial with item-mean approach, dichotomous/4-/8-point examples and instructional R supplement.",
+    "evidence": "Full-text design, advantages, discussion, supplemental code availability inspected. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public alternate full text acquired; original attempt: Identified public/publisher full-text attempt failed: HTTP Error 403: Forbidden; obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+  },
+  {
+    "id": "multivariate-art-multivariate-1984",
+    "title": "Multivariate Generalizability Theory in Educational Measurement: An Empirical Study",
+    "authors": [
+      "Albert Nußbaum"
+    ],
+    "year": 1984,
+    "doi": "10.1177/014662168400800211",
+    "source_url": "https://journals.sagepub.com/doi/10.1177/014662168400800211",
+    "fulltext_url": "https://conservancy.umn.edu/server/api/core/bitstreams/b41d6b22-4851-4177-b2d5-a57535070e72/content",
+    "local_path": "papers/downloads/multivariate/multivariate-art-multivariate-1984.pdf",
+    "status": "acquired",
+    "topics": [
+      "multivariate",
+      "raters",
+      "worked-example"
+    ],
+    "relevance": "Classic three-criterion art rating example: covariance components expose shared rater contributions.",
+    "evidence": "University repository full-text first page and publisher metadata inspected. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public alternate full text acquired; original attempt: Identified public/publisher full-text attempt failed: HTTP Error 403: Forbidden; obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+  },
+  {
+    "id": "multivariate-stratified-parallel-1965",
+    "title": "Generalizability of Stratified-Parallel Tests",
+    "authors": [
+      "Nageswari Rajaratnam",
+      "Lee J. Cronbach",
+      "Goldine C. Gleser"
+    ],
+    "year": 1965,
+    "doi": "10.1007/BF02289746",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/14293191/",
+    "fulltext_url": "https://link.springer.com/content/pdf/10.1007/BF02289746.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "stratification",
+      "fixed-facets",
+      "composites"
+    ],
+    "relevance": "Foundational stratified item sampling; critical precursor to multivariate fixed categories.",
+    "evidence": "Primary PubMed/publisher bibliographic metadata verified; abstract unavailable there.",
+    "acquisition_note": "Identified public/publisher full-text attempt failed: response is not a PDF (possibly an access page); obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+  },
+  {
+    "id": "multivariate-table-specifications-1982",
+    "title": "A Variance Components Model for Measurement Procedures Associated with a Table of Specifications",
+    "authors": [
+      "David Jarjoura",
+      "Robert L. Brennan"
+    ],
+    "year": 1982,
+    "doi": "10.1177/014662168200600202",
+    "source_url": "https://journals.sagepub.com/doi/10.1177/014662168200600202",
+    "fulltext_url": "https://conservancy.umn.edu/server/api/core/bitstreams/8c1c70a2-1ba6-45eb-b1aa-254581b47ce5/content",
+    "local_path": "papers/downloads/multivariate/multivariate-table-specifications-1982.pdf",
+    "status": "acquired",
+    "topics": [
+      "stratification",
+      "fixed-facets",
+      "composites",
+      "category-means"
+    ],
+    "relevance": "Model explicitly estimates category means and component-based composite/error variances.",
+    "evidence": "Publisher table-of-contents metadata and repository text inspected. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Public alternate full text acquired; original attempt: Identified public/publisher full-text attempt failed: HTTP Error 403: Forbidden; obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+  },
+  {
+    "id": "multivariate-content-stratification-2010",
+    "title": "Using Multivariate Generalizability Theory to Assess the Effect of Content Stratification on the Reliability of a Performance Assessment",
+    "authors": [
+      "Lisa A. Keller",
+      "Brian E. Clauser",
+      "David B. Swanson"
+    ],
+    "year": 2010,
+    "doi": "10.1007/s10459-010-9233-8",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/20509047/",
+    "fulltext_url": "https://link.springer.com/content/pdf/10.1007/s10459-010-9233-8.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "stratification",
+      "performance-assessment",
+      "worked-example"
+    ],
+    "relevance": "Ignoring fixed strata may underestimate parallel-form reliability and overestimate person×task components.",
+    "evidence": "PubMed full abstract inspected.",
+    "acquisition_note": "Identified public/publisher full-text attempt failed: response is not a PDF (possibly an access page); obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+  },
+  {
+    "id": "multivariate-writing-sem-2005",
+    "title": "Generalizability of Writing Scores: An Application of Structural Equation Modeling",
+    "authors": [
+      "Rob Schoonen"
+    ],
+    "year": 2005,
+    "doi": "10.1191/0265532205lt295oa",
+    "source_url": "https://journals.sagepub.com/doi/10.1191/0265532205lt295oa",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "SEM-bridge",
+      "writing-assessment",
+      "traits",
+      "raters"
+    ],
+    "relevance": "89 writers, 4 essays, 5 raters, two methods/two traits; useful general mixed-facet worked example.",
+    "evidence": "Publisher abstract inspected.",
+    "acquisition_note": "Acquisition pending if an identified lawful public full-text URL is available."
+  },
+  {
+    "id": "multivariate-brennan-book-2001",
+    "title": "Generalizability Theory",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 2001,
+    "doi": "10.1007/978-1-4757-3456-0",
+    "source_url": "https://link.springer.com/book/10.1007/978-1-4757-3456-0",
+    "fulltext_url": "https://link.springer.com/content/pdf/10.1007/978-1-4757-3456-0.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "multivariate-G",
+      "multivariate-D",
+      "unbalanced",
+      "regressed-scores",
+      "foundations"
+    ],
+    "relevance": "Chapters 9–12 are central derivations for this lane; chapters 7–8 supply unbalanced estimation.",
+    "evidence": "Publisher table of contents/preface inspected; complete book not yet read.",
+    "acquisition_note": "Identified public/publisher full-text attempt failed: response is not a PDF (possibly an access page); obtain lawful publisher/institutional/author copy if unavailable via alternate open source."
+  },
+  {
+    "id": "multivariate-sem-congeneric-2024",
+    "title": "Multivariate Structural Equation Modeling Techniques for Estimating Reliability, Measurement Error, and Subscale Viability When Using Both Composite and Subscale Scores in Practice",
+    "authors": [
+      "Walter P. Vispoel",
+      "Hyeryung Lee",
+      "Tingting Chen"
+    ],
+    "year": 2024,
+    "doi": "10.3390/math12081164",
+    "source_url": "https://www.mdpi.com/2227-7390/12/8/1164",
+    "fulltext_url": "https://mdpi-res.com/d_attachment/mathematics/mathematics-12-01164/article_deploy/mathematics-12-01164.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-sem-congeneric-2024.pdf",
+    "status": "acquired",
+    "topics": [
+      "SEM-bridge",
+      "congeneric",
+      "multivariate",
+      "prophecy-formulas",
+      "R-code"
+    ],
+    "relevance": "Compares essential tau-equivalent GT constraints with congeneric SEM; measurement-procedure prophecy formulas.",
+    "evidence": "Official publisher citation in 2025 tutorial and article abstract verified. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Verified public full text acquired with provenance sidecar."
+  },
+  {
+    "id": "multivariate-randomly-parallel-2026",
+    "title": "Generalizability Theory for Randomly Parallel Testing",
+    "authors": [
+      "Won-Chan Lee",
+      "Stella Y. Kim",
+      "Seungwon Shin"
+    ],
+    "year": 2026,
+    "doi": "10.1111/jedm.70029",
+    "source_url": "https://onlinelibrary.wiley.com/doi/full/10.1111/jedm.70029",
+    "fulltext_url": "https://ninercommons.charlotte.edu/nanna/record/12832/files/kimstel_etal_genth_ir_2026.pdf?registerDownload=1&version=1&withMetadata=0&withWatermark=0",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "randomly-parallel-tests",
+      "nested-items",
+      "stratification",
+      "conditional-SEM"
+    ],
+    "relevance": "2026 update for nested item-within-person random forms and multivariate stratified domains.",
+    "evidence": "Publisher author list and multivariate/CSEM full-text sections inspected.",
+    "acquisition_note": "Attempt failed: empty source response Attempt https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jedm.70029: HTTP Error 403: Forbidden. Attempt https://onlinelibrary.wiley.com/doi/full/10.1111/jedm.70029: HTTP Error 403: Forbidden."
+  },
+  {
+    "id": "multivariate-mixed-format-classification-2015",
+    "title": "Methods for Evaluating Composite Reliability, Classification Consistency, and Classification Accuracy for Mixed-Format Licensure Tests",
+    "authors": [
+      "Tim Moses",
+      "Sooyeon Kim"
+    ],
+    "year": 2015,
+    "doi": "10.1177/0146621614563067",
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/29881011/",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5978540/",
+    "local_path": "papers/downloads/multivariate/multivariate-mixed-format-classification-2015.html",
+    "status": "acquired",
+    "topics": [
+      "mixed-format",
+      "classification",
+      "raters",
+      "extended-multivariate"
+    ],
+    "relevance": "Direct precursor to heterogeneous-design MGT with single versus double scoring and varied section weights.",
+    "evidence": "Primary PubMed abstract/metadata verified; online 2014, issue 2015. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Verified public full text acquired with provenance sidecar."
+  },
+  {
+    "id": "multivariate-maximum-multivariate-1976",
+    "title": "Some Developments in Multivariate Generalizability",
+    "authors": [
+      "George W. Joe",
+      "J. Arthur Woodward"
+    ],
+    "year": 1976,
+    "doi": "10.1007/BF02291839",
+    "source_url": "https://www.cambridge.org/core/journals/psychometrika/article/abs/some-developments-in-multivariate-generalizability/0BA454D9F09E91A95DF49DC0C5485A42",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "maximum-reliability",
+      "weight-optimization",
+      "multivariate-MANOVA"
+    ],
+    "relevance": "Foundational generalized-eigenvalue approach to maximally reliable multivariate composites.",
+    "evidence": "Primary publisher abstract/DOI inspected; Cambridge hosting date 2025 is not original publication date.",
+    "acquisition_note": "No unverified derivative claims; metadata or abstract basis only until full text inspected."
+  },
+  {
+    "id": "multivariate-weighting-schemes-1994",
+    "title": "Selecting Weighting Schemes in Multivariate Generalizability Studies",
+    "authors": [
+      "George A. Marcoulides"
+    ],
+    "year": 1994,
+    "doi": "10.1177/0013164494054001001",
+    "source_url": "https://journals.sagepub.com/doi/10.1177/0013164494054001001",
+    "fulltext_url": null,
+    "local_path": null,
+    "status": "metadata_only",
+    "topics": [
+      "weights",
+      "budget-constraints",
+      "D-study-optimization"
+    ],
+    "relevance": "Weighting interacts with optimal allocation of observations; do not optimize these independently without evidence.",
+    "evidence": "Primary publisher abstract/DOI inspected.",
+    "acquisition_note": "No unverified derivative claims; metadata or abstract basis only until full text inspected."
+  },
+  {
+    "id": "multivariate-change-scores-2016",
+    "title": "Examining the Reliability of ADAS-Cog Change Scores",
+    "authors": [
+      "Joseph H. Grochowalski",
+      "Ying Liu",
+      "Karen L. Siedlecki"
+    ],
+    "year": 2016,
+    "doi": "10.1080/13825585.2015.1127320",
+    "source_url": "https://adni.loni.usc.edu/adni-publications/Grochowalski_2016_AgingNeuroCog.pdf",
+    "fulltext_url": "https://adni.loni.usc.edu/adni-publications/Grochowalski_2016_AgingNeuroCog.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-change-scores-2016.pdf",
+    "status": "acquired",
+    "topics": [
+      "difference-scores",
+      "change-scores",
+      "multivariate",
+      "worked-example"
+    ],
+    "relevance": "Worked longitudinal clinical change-score reliability example complementing nested education designs.",
+    "evidence": "Author/institutional full-text first page and abstract inspected; online December 2015, issue 2016. Acquired artifact title/content checked; acquisition does not claim complete line-by-line mathematical review.",
+    "acquisition_note": "Verified public full text acquired with provenance sidecar."
+  },
+  {
+    "id": "multivariate-ordinal-thesis-2015",
+    "title": "Ordinal Generalizability Theory Using an Underlying Latent Variable Framework",
+    "authors": [
+      "Tavinder K. Ark"
+    ],
+    "year": 2015,
+    "doi": "10.14288/1.0166304",
+    "source_url": "https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0166304",
+    "fulltext_url": "https://open.library.ubc.ca/media/download/pdf/24/1.0166304/1",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "ordinal",
+      "latent-response",
+      "SEM-bridge",
+      "simulation"
+    ],
+    "relevance": "Dissertation concentrates on variance components for ordinal ratings via latent covariance structure.",
+    "evidence": "Verified primary bibliographic references and official UBC defense announcement; item webpage blocks automated access.",
+    "acquisition_note": "Pending public full-text acquisition attempt. Attempt https://open.library.ubc.ca/media/download/pdf/24/1.0166304/1: response is not a PDF (possibly an access page)."
+  },
+  {
+    "id": "multivariate-mixed-format-bayesian-2024",
+    "title": "Customizing Bayesian Multivariate Generalizability Theory to Mixed-Format Tests",
+    "authors": [
+      "Zhehan Jiang",
+      "Jinying Ouyang",
+      "Dingjing Shi",
+      "Dexin Shi",
+      "Jihong Zhang",
+      "Lingling Xu",
+      "Fen Cai"
+    ],
+    "year": 2024,
+    "doi": "10.3758/s13428-024-02472-7",
+    "source_url": "https://link.springer.com/article/10.3758/s13428-024-02472-7",
+    "fulltext_url": "https://link.springer.com/content/pdf/10.3758/s13428-024-02472-7.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-mixed-format-bayesian-2024.pdf",
+    "status": "acquired",
+    "topics": [
+      "Bayesian",
+      "mixed-format",
+      "binary",
+      "polytomous",
+      "Stan-code"
+    ],
+    "relevance": "Mixed-outcome tailored Stan model with prior sensitivity; code/data OSF https://osf.io/wud3x/.",
+    "evidence": "Acquired publisher PDF title/abstract, model/GLM framework, estimation/prior sections and limitations inspected. Distinct links for MCQ and free-response data; Stan supplement/data on OSF. Publisher landing says subscription preview, but ordinary content/PDF URL returned actual paper without credentials.",
+    "acquisition_note": "Public full-text bytes acquired; original URL may have failed or blocked automation."
+  }
+]

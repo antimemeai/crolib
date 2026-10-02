@@ -1,0 +1,6 @@
+{
+  "id": "bayesian-mgt-supplement",
+  "source_url": "https://s3-us-west-1.amazonaws.com/zjiang4/data_code.zip",
+  "status": "acquisition_failed",
+  "reason": "HTTP Error 404: Not Found"
+}

@@ -1,0 +1,231 @@
+{
+  "id": "multilevel-irr",
+  "kind": "files",
+  "source_url": "https://osf.io/bwk5t/",
+  "revision": "OSF file versions and SHA-256 recorded individually",
+  "description": "Multilevel inter-rater reliability simulation and application materials, author OSF deposit",
+  "license_note": "Public author-deposited materials; inspect project and file licenses before reuse",
+  "status": "acquired",
+  "files": [
+    {
+      "source_url": "https://osf.io/download/8pszg/",
+      "raw_path": "quarantine/archives/multilevel-irr/Application/MLM_IRR_Functions.r",
+      "extracted_path": "quarantine/references/multilevel-irr/Application/MLM_IRR_Functions.r",
+      "sha256": "362cb83920ca8b8ee4c9990814b9e6017ed02c4b9ddfbd2495b2449e26497ed3",
+      "bytes": 5876,
+      "osf_file_id": "60ed6c87f80fdb02c84dc212",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/3huvy/",
+      "raw_path": "quarantine/archives/multilevel-irr/Application/IRR_ML_mod.rds",
+      "extracted_path": "quarantine/references/multilevel-irr/Application/IRR_ML_mod.rds",
+      "sha256": "2319afc3233e976aad2ba34ca55c2490e4d5c3cefe2f6bdf73fcbc0f01f82274",
+      "bytes": 1355165,
+      "osf_file_id": "5f4f643fa392b9002f1dd785",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/7gr4m/",
+      "raw_path": "quarantine/archives/multilevel-irr/Application/IRRemo.rds",
+      "extracted_path": "quarantine/references/multilevel-irr/Application/IRRemo.rds",
+      "sha256": "6301f2dbb9d03a6f2a086abe3cb95f122b0d2916dc6d2c76013e1814901ab1fa",
+      "bytes": 1304,
+      "osf_file_id": "5f4f6414ae5a95002f6e180c",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/mgeab/",
+      "raw_path": "quarantine/archives/multilevel-irr/Application/IRR_ML_mod.stan",
+      "extracted_path": "quarantine/references/multilevel-irr/Application/IRR_ML_mod.stan",
+      "sha256": "cb42dd4d6c5664307e61e1ed37f7df61fd6ce6a6668c330346451a7fec1f1117",
+      "bytes": 2772,
+      "osf_file_id": "5f4f643ba392b900351da893",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/nxysz/",
+      "raw_path": "quarantine/archives/multilevel-irr/Application/emo.csv",
+      "extracted_path": "quarantine/references/multilevel-irr/Application/emo.csv",
+      "sha256": "f6979ad7ed26d0b1725ff960f3d26193f28ffe1b0a7b44214c1786577a47d129",
+      "bytes": 10838,
+      "osf_file_id": "5f4f63ffae5a95003d6da0d2",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/kt49y/",
+      "raw_path": "quarantine/archives/multilevel-irr/Application/illustrativeExample.R",
+      "extracted_path": "quarantine/references/multilevel-irr/Application/illustrativeExample.R",
+      "sha256": "79a7b742e3744a2d448f7cc1c07648e8a2d0d2ddcb5a0fc3f031de58b178e49f",
+      "bytes": 2607,
+      "osf_file_id": "5f4f63ffa392b9002e1db91a",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/edg7n/",
+      "raw_path": "quarantine/archives/multilevel-irr/Application/IRR_mod_halfT.stan",
+      "extracted_path": "quarantine/references/multilevel-irr/Application/IRR_mod_halfT.stan",
+      "sha256": "59c25ccb0d977962444a03d0ace6f5f3b6ed6d3e85151870fcf4d3c8b2eef466",
+      "bytes": 1698,
+      "osf_file_id": "5f4f643eae5a95003e6da306",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/2x5by/",
+      "raw_path": "quarantine/archives/multilevel-irr/Application/IRR_functions.r",
+      "extracted_path": "quarantine/references/multilevel-irr/Application/IRR_functions.r",
+      "sha256": "feb57b262865c583105d5aba408bf852dfb540e372c7c7d2df796edd4d8453f3",
+      "bytes": 6700,
+      "osf_file_id": "60ed6c87924b4002d64e9f2d",
+      "version": 2
+    },
+    {
+      "source_url": "https://osf.io/download/ykvns/",
+      "raw_path": "quarantine/archives/multilevel-irr/Application/IRR_mod_halfT.rds",
+      "extracted_path": "quarantine/references/multilevel-irr/Application/IRR_mod_halfT.rds",
+      "sha256": "e0f4b2838aefd34038672346169c50d14e6e1eae8a08d56a8f48b73ff2a258a3",
+      "bytes": 1325955,
+      "osf_file_id": "5f4f6441a392b900271dcb70",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/yf497/",
+      "raw_path": "quarantine/archives/multilevel-irr/Simulation 2/makeScripts_sim2.R",
+      "extracted_path": "quarantine/references/multilevel-irr/Simulation 2/makeScripts_sim2.R",
+      "sha256": "10051e853979d0c271dc4b5d6f5a5d1d57cd04d82c78a240405c37c7be5e91bc",
+      "bytes": 2067,
+      "osf_file_id": "5f4f64a1a392b900351daa07",
+      "version": 2
+    },
+    {
+      "source_url": "https://osf.io/download/4g2n8/",
+      "raw_path": "quarantine/archives/multilevel-irr/Simulation 2/conditionResults_sim2.rds",
+      "extracted_path": "quarantine/references/multilevel-irr/Simulation 2/conditionResults_sim2.rds",
+      "sha256": "741cb29755e08dfe9dcdd247023df700545ab8342bab49617b474f47445ed42f",
+      "bytes": 1298,
+      "osf_file_id": "5f4f64a1ae5a95003e6da420",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/gs53d/",
+      "raw_path": "quarantine/archives/multilevel-irr/Simulation 2/IRR_ML_mod.stan",
+      "extracted_path": "quarantine/references/multilevel-irr/Simulation 2/IRR_ML_mod.stan",
+      "sha256": "defb1aa4d9423312401937914860ed0e901fd1ca3b4456b184fe8d713d95bf19",
+      "bytes": 2610,
+      "osf_file_id": "5f4f649a154f9a00324ea1f6",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/fgyh2/",
+      "raw_path": "quarantine/archives/multilevel-irr/Simulation 2/results_sim2.rds",
+      "extracted_path": "quarantine/references/multilevel-irr/Simulation 2/results_sim2.rds",
+      "sha256": "b28d4688494491a52a02fe5c94fc875741ac8a78998129406d61492a4c11c665",
+      "bytes": 2058298,
+      "osf_file_id": "5f4f64a5a392b9002e1dba32",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/vwt4z/",
+      "raw_path": "quarantine/archives/multilevel-irr/Simulation 2/simFunctions_ML_IRR_sim2.R",
+      "extracted_path": "quarantine/references/multilevel-irr/Simulation 2/simFunctions_ML_IRR_sim2.R",
+      "sha256": "2769a8343c7a249201cd21fe7468eec4d036ca8ade8d5aec08e4686603ef8888",
+      "bytes": 15746,
+      "osf_file_id": "5f4f64aaae5a95003e6da438",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/j2e4u/",
+      "raw_path": "quarantine/archives/multilevel-irr/Simulation 2/postProcess.R",
+      "extracted_path": "quarantine/references/multilevel-irr/Simulation 2/postProcess.R",
+      "sha256": "283cb8606c2b37f6fd4a8ab2f4fa7dfd52a35381c940929d1c0ee61a557b8373",
+      "bytes": 15694,
+      "osf_file_id": "5f4f64a1ae5a9500306e3c1b",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/3anpj/",
+      "raw_path": "quarantine/archives/multilevel-irr/Simulation 2/conditions_ML_IRR_sim2.txt",
+      "extracted_path": "quarantine/references/multilevel-irr/Simulation 2/conditions_ML_IRR_sim2.txt",
+      "sha256": "0f34488c80126813bd7622a583ca50cfb4ecc64f8c539c75bdd2d6804023ac98",
+      "bytes": 168,
+      "osf_file_id": "5f4f64a1a392b900351daa0b",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/jymf2/",
+      "raw_path": "quarantine/archives/multilevel-irr/Simulation 1/PostProcess.R",
+      "extracted_path": "quarantine/references/multilevel-irr/Simulation 1/PostProcess.R",
+      "sha256": "636ad5a54a81ff7ded35e295c4ee9a5dbdc7faa3c9cd613faa632613fe0c4215",
+      "bytes": 18759,
+      "osf_file_id": "5f4f6482a392b900271dcbb2",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/s5br4/",
+      "raw_path": "quarantine/archives/multilevel-irr/Simulation 1/results.rds",
+      "extracted_path": "quarantine/references/multilevel-irr/Simulation 1/results.rds",
+      "sha256": "6cfb7d485b3e05b766a72a4df5b7c1a5e57004d62a52a284283e510ac3e734cc",
+      "bytes": 24605066,
+      "osf_file_id": "5f4f648ca392b9002f1dd82c",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/8rwcb/",
+      "raw_path": "quarantine/archives/multilevel-irr/Simulation 1/myResults.rds",
+      "extracted_path": "quarantine/references/multilevel-irr/Simulation 1/myResults.rds",
+      "sha256": "b9b861dfb06ccd893c12d9dd6d124ef31037e20b0b61ed9798a9391063a9fea6",
+      "bytes": 3492,
+      "osf_file_id": "5f4f6479a392b900351da966",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/5mtyd/",
+      "raw_path": "quarantine/archives/multilevel-irr/Simulation 1/makeScripts.R",
+      "extracted_path": "quarantine/references/multilevel-irr/Simulation 1/makeScripts.R",
+      "sha256": "bce67f1f826c8fb9f3f408c5191e41f4a5f01c19a44fbad2755cf9fc9da3f406",
+      "bytes": 2004,
+      "osf_file_id": "5f4f647e154f9a00254eee13",
+      "version": 2
+    },
+    {
+      "source_url": "https://osf.io/download/sq2ue/",
+      "raw_path": "quarantine/archives/multilevel-irr/Simulation 1/conditionResults.rds",
+      "extracted_path": "quarantine/references/multilevel-irr/Simulation 1/conditionResults.rds",
+      "sha256": "4b3a2befd546853ac657535cdcc941a65c3b0eb4dba23bc3b2ab17160afb1617",
+      "bytes": 10505,
+      "osf_file_id": "5f4f647eae5a95002a6dfcee",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/nwqj4/",
+      "raw_path": "quarantine/archives/multilevel-irr/Simulation 1/simFunctions_ML_IRR.R",
+      "extracted_path": "quarantine/references/multilevel-irr/Simulation 1/simFunctions_ML_IRR.R",
+      "sha256": "05705642f3a0c49d0b8b177ee83b15aec0c463fff7eb458b973733d32eea31ef",
+      "bytes": 16069,
+      "osf_file_id": "5f4f6481a392b9002f1dd81c",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/e3xmq/",
+      "raw_path": "quarantine/archives/multilevel-irr/Simulation 1/IRR_ML_mod.stan",
+      "extracted_path": "quarantine/references/multilevel-irr/Simulation 1/IRR_ML_mod.stan",
+      "sha256": "defb1aa4d9423312401937914860ed0e901fd1ca3b4456b184fe8d713d95bf19",
+      "bytes": 2610,
+      "osf_file_id": "5f4f647c154f9a00254eee09",
+      "version": 1
+    },
+    {
+      "source_url": "https://osf.io/download/ybuwv/",
+      "raw_path": "quarantine/archives/multilevel-irr/Simulation 1/conditions_ML_IRR.txt",
+      "extracted_path": "quarantine/references/multilevel-irr/Simulation 1/conditions_ML_IRR.txt",
+      "sha256": "900143d517eb36387a17bbd31210a8c746c031beadee9efb0d2fefcd091b3506",
+      "bytes": 1848,
+      "osf_file_id": "5f4f647d154f9a00254eee0e",
+      "version": 1
+    }
+  ],
+  "failed_files": [],
+  "extracted_path": "quarantine/references/multilevel-irr",
+  "extracted_files": 24,
+  "restore_command": "python3 scripts/restore_references.py --only multilevel-irr"
+}

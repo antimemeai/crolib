@@ -1,0 +1,23 @@
+{
+  "id": "gtheory",
+  "source_url": "https://github.com/cran/gtheory",
+  "revision": "505281bcd38f9b85e976c1cf3c8c1ebbcce88434",
+  "archive_url": "https://codeload.github.com/cran/gtheory/tar.gz/505281bcd38f9b85e976c1cf3c8c1ebbcce88434",
+  "archive_path": "quarantine/archives/gtheory.tar.gz",
+  "archive_sha256": "c905a32dd22f5ba0065e54aeb70fb9c50acfe0caa5e59be6fc5298d370db3f30",
+  "archive_bytes": 9494,
+  "extracted_path": "quarantine/references/gtheory",
+  "extracted_files": 17,
+  "excluded_paths": [
+    "gtheory-505281bcd38f9b85e976c1cf3c8c1ebbcce88434",
+    "gtheory-505281bcd38f9b85e976c1cf3c8c1ebbcce88434/R",
+    "gtheory-505281bcd38f9b85e976c1cf3c8c1ebbcce88434/data",
+    "gtheory-505281bcd38f9b85e976c1cf3c8c1ebbcce88434/man"
+  ],
+  "strip_root": true,
+  "license_note": "GPL-3 explicitly declared in original DESCRIPTION; GitHub license detection had no assertion.",
+  "description": ":exclamation:\u00a0This\u00a0is\u00a0a\u00a0read-only\u00a0mirror\u00a0of\u00a0the\u00a0CRAN\u00a0R\u00a0package\u00a0repository.  gtheory\u00a0\u2014\u00a0Apply\u00a0Generalizability\u00a0Theory\u00a0with\u00a0R.\u00a0Homepage:\u00a0http://EvaluationDashboard.com  ",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:44:49.149225+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only gtheory"
+}

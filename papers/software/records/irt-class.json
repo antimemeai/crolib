@@ -1,0 +1,18 @@
+{
+  "id": "irt-class",
+  "source_url": "https://brennancrickgenova.org/classification-decision-consistency-programs/",
+  "revision": "Author-hosted PC distribution, SHA-256 recorded",
+  "archive_url": "https://brennancrickgenova.org/download/3-irt-class-v2-0-for-pc/?wpdmdl=352",
+  "archive_path": "quarantine/archives/irt-class.zip",
+  "archive_sha256": "709f707afa665b2586173119886690c3185979eacee33e00ac0d9bb8bb336b94",
+  "archive_bytes": 228922,
+  "extracted_path": "quarantine/references/irt-class",
+  "extracted_files": 8,
+  "excluded_paths": [],
+  "strip_root": false,
+  "license_note": "Author permits distribution; no permissive source license inferred",
+  "description": "Adjacent IRT classification consistency/accuracy distribution",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:57:28.860512+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only irt-class"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "jgenova-source",
+  "source_url": "https://brennancrickgenova.org/genova-suite/",
+  "revision": "unversioned official distribution; fingerprint retained",
+  "archive_url": "https://brennancrickgenova.org/download/jgenova-source-code/?wpdmdl=158",
+  "archive_path": "quarantine/archives/jgenova-source.zip",
+  "archive_sha256": "e6ae00cf459c956d1998ae50a8f517a477bcfdaf0e8a56d954028696fcf22f2d",
+  "archive_bytes": 218079,
+  "extracted_path": "quarantine/references/jgenova-source",
+  "extracted_files": 81,
+  "excluded_paths": [],
+  "strip_root": false,
+  "license_note": "GENOVA author allows redistribution; specific archive license must be inspected",
+  "description": "Java source workspace for balanced G/D-studies",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:46:52.715613+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only jgenova-source"
+}

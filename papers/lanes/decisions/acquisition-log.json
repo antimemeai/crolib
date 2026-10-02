@@ -1,0 +1,188 @@
+[
+  {
+    "id": "casma-7",
+    "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-7-archived.pdf",
+    "path": "papers/downloads/decisions/casma-7.pdf",
+    "ok": true
+  },
+  {
+    "id": "casma-9",
+    "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-9-archived.pdf",
+    "path": "papers/downloads/decisions/casma-9.pdf",
+    "ok": true
+  },
+  {
+    "id": "casma-10",
+    "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-10-archived.pdf",
+    "path": "papers/downloads/decisions/casma-10.pdf",
+    "ok": true
+  },
+  {
+    "id": "casma-13",
+    "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-13-archived.pdf",
+    "path": "papers/downloads/decisions/casma-13.pdf",
+    "ok": true
+  },
+  {
+    "id": "casma-16",
+    "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-16-archived.pdf",
+    "path": "papers/downloads/decisions/casma-16.pdf",
+    "ok": true
+  },
+  {
+    "id": "casma-18",
+    "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-18-archived.pdf",
+    "path": "papers/downloads/decisions/casma-18.pdf",
+    "ok": true
+  },
+  {
+    "id": "casma-22",
+    "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-22-archived.pdf",
+    "path": "papers/downloads/decisions/casma-22.pdf",
+    "ok": true
+  },
+  {
+    "id": "casma-27",
+    "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-27-archived.pdf",
+    "path": "papers/downloads/decisions/casma-27.pdf",
+    "ok": true
+  },
+  {
+    "id": "casma-32",
+    "url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-32-archived.pdf",
+    "path": "papers/downloads/decisions/casma-32.pdf",
+    "ok": true
+  },
+  {
+    "id": "optimization-2021",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8451023/",
+    "path": "papers/downloads/decisions/optimization-2021.html",
+    "ok": true
+  },
+  {
+    "id": "mixed-format-classification-2015",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5978540/",
+    "path": "papers/downloads/decisions/mixed-format-classification-2015.html",
+    "ok": true
+  },
+  {
+    "id": "huynh-proceedings-1978",
+    "url": "https://files.eric.ed.gov/fulltext/ED320928.pdf",
+    "path": "papers/downloads/decisions/huynh-proceedings-1978.pdf",
+    "ok": true
+  },
+  {
+    "id": "writing-optimization-eric",
+    "url": "https://files.eric.ed.gov/fulltext/ED390945.pdf",
+    "path": "papers/downloads/decisions/writing-optimization-eric.pdf",
+    "ok": true
+  },
+  {
+    "id": "reliability-decisions-umn",
+    "url": "https://conservancy.umn.edu/server/api/core/bitstreams/d5980f66-6f02-427b-886e-be41afb49b1a/content",
+    "path": "papers/downloads/decisions/reliability-decisions-umn.pdf",
+    "ok": true
+  },
+  {
+    "id": "cut-score-bootstrap-2024",
+    "url": "https://link.springer.com/content/pdf/10.1007/s12144-024-06306-9.pdf",
+    "ok": false,
+    "error": "response is not a PDF (possibly an access page)"
+  },
+  {
+    "id": "cost-effectiveness-2022",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9586649/",
+    "path": "papers/downloads/decisions/cost-effectiveness-2022.html",
+    "ok": true
+  },
+  {
+    "id": "cut-scores-yin-sconing",
+    "url": "https://citeseerx.ist.psu.edu/document?doi=afd8721ee069c0a3d3f9a1b954f4cafb6af45a5d&repid=rep1&type=pdf",
+    "path": "papers/downloads/decisions/cut-scores-yin-sconing.pdf",
+    "ok": true
+  },
+  {
+    "id": "minlp-performance-2016",
+    "url": "https://ndl.ethernet.edu.et/bitstream/123456789/63563/1/384.pdf",
+    "path": "papers/downloads/decisions/minlp-performance-2016.pdf",
+    "ok": true
+  },
+  {
+    "id": "criterion-analysis-1982",
+    "url": "https://ris.utwente.nl/ws/portalfiles/portal/6881254/Linden82criterion.pdf",
+    "path": "papers/downloads/decisions/criterion-analysis-1982.pdf",
+    "ok": true
+  },
+  {
+    "id": "agreement-kane-brennan-1980",
+    "url": "https://conservancy.umn.edu/server/api/core/bitstreams/1bceaffe-8203-4e11-8b65-01ff72936276/content",
+    "path": "papers/downloads/decisions/agreement-kane-brennan-1980.pdf",
+    "ok": true
+  },
+  {
+    "id": "lagrange-complex-2024",
+    "url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0307710&type=printable",
+    "path": "papers/downloads/decisions/lagrange-complex-2024.pdf",
+    "ok": true
+  },
+  {
+    "id": "bifactor-decisions-2023",
+    "url": "https://mdpi-res.com/d_attachment/psych/psych-05-00036/article_deploy/psych-05-00036.pdf",
+    "path": "papers/downloads/decisions/bifactor-decisions-2023.pdf",
+    "ok": true
+  },
+  {
+    "id": "teaching-optimization-2014",
+    "url": "https://www.columbia.edu/~xl2438/Meyer2014.pdf",
+    "ok": false,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "beta-moments-hanson-1991",
+    "url": "https://files.eric.ed.gov/fulltext/ED344945.pdf",
+    "path": "papers/downloads/decisions/beta-moments-hanson-1991.pdf",
+    "ok": true
+  },
+  {
+    "id": "mastery-index-1977",
+    "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-3984.1977.tb00045.x",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "huynh-decisions-1976",
+    "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-3984.1976.tb00016.x",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "livingston-lewis-1995",
+    "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-3984.1995.tb00462.x",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "hanson-brennan-1990",
+    "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-3984.1990.tb00753.x",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "conditional-raw-brennan-1998",
+    "url": "https://journals.sagepub.com/doi/pdf/10.1177/014662169802200401",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "norm-exam-2025",
+    "url": "https://asmepublications.onlinelibrary.wiley.com/doi/pdf/10.1111/medu.15742",
+    "ok": false,
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "norm-exam-2025",
+    "url": "https://eprints.whiterose.ac.uk/id/eprint/226675/9/250414%20Schauber-Homer%20-%20Challenging%20the%20norm.pdf",
+    "path": "papers/downloads/decisions/norm-exam-2025.pdf",
+    "ok": true
+  }
+]

@@ -1,0 +1,1694 @@
+[
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4236721/?report=xml",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4236721/?report=xml",
+    "local_path": "papers/downloads/applications/arterberry2014.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 186952,
+    "sha256": "35ab9c8f44b78cbe0942c03d38906894545dfd67049015658eb46c6b22c4cf99",
+    "acquired_at": "2026-10-02T12:02:36.336182+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/ED368154.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/ED368154.pdf",
+    "local_path": "papers/downloads/applications/bachman1995.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 611375,
+    "sha256": "ffe0c4e860b6e2c47ac94278e0d01fdf276e8abd3bdba925b02bfb36d0ef4bc0",
+    "acquired_at": "2026-10-02T12:00:25.500842+00:00"
+  },
+  {
+    "source_url": "https://arxiv.org/pdf/2607.13304",
+    "final_url": "https://arxiv.org/pdf/2607.13304",
+    "local_path": "papers/downloads/applications/brand2026.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 349966,
+    "sha256": "dbb7253b7e280d755c3395e34e1e269239273c86426bb5a5ad0eab5cb2a0cf64",
+    "acquired_at": "2026-10-02T12:00:33.532406+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6676966/?report=xml",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6676966/?report=xml",
+    "local_path": "papers/downloads/applications/connectomic2017.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 288775,
+    "sha256": "c14b9764828da9b2badf21392e1973728429d36217855ef0e28fb734741703db",
+    "acquired_at": "2026-10-02T12:02:38.687894+00:00"
+  },
+  {
+    "source_url": "https://arxiv.org/pdf/2608.11323",
+    "final_url": "https://arxiv.org/pdf/2608.11323",
+    "local_path": "papers/downloads/applications/ddr2026.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 389193,
+    "sha256": "af601300703e06468836e6d977f9634686dd18b07e71dc0df5ae54f344a9b9f7",
+    "acquired_at": "2026-10-02T12:00:33.545092+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5718980/?report=xml",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5718980/?report=xml",
+    "local_path": "papers/downloads/applications/fmri-clarification2017.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 125071,
+    "sha256": "8971ae222c9317d42b10ca05a18c582748d242233c3618c41b750d39096a1ff6",
+    "acquired_at": "2026-10-02T12:02:37.997969+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4065837/?report=xml",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4065837/?report=xml",
+    "local_path": "papers/downloads/applications/fmri-working2014.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 278322,
+    "sha256": "4351abafc0724b08375861817f157dbdfbfed26beb4cf73e3b6cb47b75a1188f",
+    "acquired_at": "2026-10-02T12:02:37.510762+00:00"
+  },
+  {
+    "source_url": "https://bpb-us-e1.wpmucdn.com/sites.uw.edu/dist/c/18634/files/2022/08/HBM-36-2558.pdf",
+    "final_url": "https://bpb-us-e1.wpmucdn.com/sites.uw.edu/dist/c/18634/files/2022/08/HBM-36-2558.pdf",
+    "local_path": "papers/downloads/applications/gee2015.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 911457,
+    "sha256": "175ac05972476e9c6c782996e825bc1af0c714f50b51aed6a533783e00b1d3cb",
+    "acquired_at": "2026-10-02T12:07:03.649353+00:00"
+  },
+  {
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6044907/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6044907/fullTextXML",
+    "local_path": "papers/downloads/applications/iced2018.xml",
+    "kind": "text",
+    "content_type": "application/xml",
+    "bytes": 164188,
+    "sha256": "c2a540a5a556f8f5723d4de98cfe25343a19edfad77adec9222eff68e38ed068",
+    "acquired_at": "2026-10-02T12:02:40.748582+00:00"
+  },
+  {
+    "source_url": "https://eprints.bbk.ac.uk/id/eprint/14241/1/14241.pdf",
+    "final_url": "https://eprints.bbk.ac.uk/id/eprint/14241/1/14241.pdf",
+    "local_path": "papers/downloads/applications/jackson-confounds2016.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1046287,
+    "sha256": "94c6f99630b7a65b24c44a232720152e064b5e10384646521e8d5c6c144ee529",
+    "acquired_at": "2026-10-02T12:00:27.897184+00:00"
+  },
+  {
+    "source_url": "https://ueaeprints.uea.ac.uk/id/document/97064",
+    "final_url": "https://ueaeprints.uea.ac.uk/id/eprint/84936/1/Scope_of_G_Theory_Full_Paper_Unmasked_NZJP_accepted.pdf",
+    "local_path": "papers/downloads/applications/jackson2022.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 440168,
+    "sha256": "b2b80b3a32ec4259f79275648130b78e84dc1c87349bafb9a1387b6ce953c90d",
+    "acquired_at": "2026-10-02T12:00:28.164008+00:00"
+  },
+  {
+    "source_url": "https://arxiv.org/pdf/2609.27787",
+    "final_url": "https://arxiv.org/pdf/2609.27787",
+    "local_path": "papers/downloads/applications/judge2026.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 480279,
+    "sha256": "0ff1d51b8f961b87010b5006224d7b2f5d15cd9a7795d6a0e70ef37c558b2158",
+    "acquired_at": "2026-10-02T12:00:34.558581+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4083611/?report=xml",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4083611/?report=xml",
+    "local_path": "papers/downloads/applications/lakes-hoyt2008.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 180760,
+    "sha256": "cdf5cda19b00af17be7e6e01b3849f4eecf44caa3c045b7e5fc934c7a7eb7915",
+    "acquired_at": "2026-10-02T12:02:36.032320+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3650138/?report=xml",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3650138/?report=xml",
+    "local_path": "papers/downloads/applications/lakes-hoyt2009.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 346683,
+    "sha256": "6496d48c61b020c7e095630b12f3855eef15668b0ee9c686d3eb47dacfd6695b",
+    "acquired_at": "2026-10-02T12:02:36.093343+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3657319/?report=xml",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3657319/?report=xml",
+    "local_path": "papers/downloads/applications/lakes-restricted.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 200773,
+    "sha256": "400cb185840a4d6d1ce0142713232a7720709bfa921b50190ddaf3022326fb70",
+    "acquired_at": "2026-10-02T12:02:36.077324+00:00"
+  },
+  {
+    "source_url": "https://michiganassessment.org/wp-content/uploads/2020/02/20.02.pdf.Res_.ApracticalGuidetoInvestigatingScoreReliabilityunderaGeneralizabilityTheoryFramework.pdf",
+    "final_url": "https://michiganassessment.org/wp-content/uploads/2020/02/20.02.pdf.Res_.ApracticalGuidetoInvestigatingScoreReliabilityunderaGeneralizabilityTheoryFramework.pdf",
+    "local_path": "papers/downloads/applications/lin-guide2015.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 247907,
+    "sha256": "1d6cfb66ad51eed2ed8068fb3ec8025f94eef4400d54c4391f80ee51a5857354",
+    "acquired_at": "2026-10-02T12:04:38.544278+00:00"
+  },
+  {
+    "source_url": "https://arxiv.org/pdf/2507.19980",
+    "final_url": "https://arxiv.org/pdf/2507.19980",
+    "local_path": "papers/downloads/applications/llm-writing2025.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 703633,
+    "sha256": "23aacc6b5897cd872927dfa316e35a1bc1d457b32a38cd4f824c558869a4c511",
+    "acquired_at": "2026-10-02T12:00:34.649406+00:00"
+  },
+  {
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3569586/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3569586/fullTextXML",
+    "local_path": "papers/downloads/applications/mini-cex-laboratory.xml",
+    "kind": "text",
+    "content_type": "application/xml",
+    "bytes": 58691,
+    "sha256": "0417ee3d8c10bb5011d33e512580023272821f05035bb58fed9f9f813fd5ec83",
+    "acquired_at": "2026-10-02T12:00:28.215302+00:00"
+  },
+  {
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6248395/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6248395/fullTextXML",
+    "local_path": "papers/downloads/applications/noble2017.xml",
+    "kind": "text",
+    "content_type": "application/xml",
+    "bytes": 203021,
+    "sha256": "6dcce23acc8a7a8ecd448091411ae1229c1a59dbaed769947aae21f7cdf57cd9",
+    "acquired_at": "2026-10-02T12:05:55.671615+00:00"
+  },
+  {
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102975/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102975/fullTextXML",
+    "local_path": "papers/downloads/applications/pharmacy-course2021.xml",
+    "kind": "text",
+    "content_type": "application/xml",
+    "bytes": 38250,
+    "sha256": "734de3ef884ad02133a9e09bb75beb058e7a43860846f81e248c05e230f4ff95",
+    "acquired_at": "2026-10-02T12:00:26.197767+00:00"
+  },
+  {
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102968/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102968/fullTextXML",
+    "local_path": "papers/downloads/applications/pharmacy-osce2021.xml",
+    "kind": "text",
+    "content_type": "application/xml",
+    "bytes": 43735,
+    "sha256": "09d261758e43660f2d219da8ee73e88e26477e7b4209f666be657245e65dded7",
+    "acquired_at": "2026-10-02T12:04:43.113617+00:00"
+  },
+  {
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102977/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102977/fullTextXML",
+    "local_path": "papers/downloads/applications/pharmacy-primer2021.xml",
+    "kind": "text",
+    "content_type": "application/xml",
+    "bytes": 109971,
+    "sha256": "9c08aca7b330a348947efd22961f93b09bbf359f98fd54278de3897ef5dc248f",
+    "acquired_at": "2026-10-02T12:00:26.414924+00:00"
+  },
+  {
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102960/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102960/fullTextXML",
+    "local_path": "papers/downloads/applications/pharmacy-quizzes2021.xml",
+    "kind": "text",
+    "content_type": "application/xml",
+    "bytes": 40942,
+    "sha256": "5e0b3e82f3b3b16e9098fecddbc6419fb706c373eb20cfe297f962cd5de1af2a",
+    "acquired_at": "2026-10-02T12:04:42.263185+00:00"
+  },
+  {
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13410726/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13410726/fullTextXML",
+    "local_path": "papers/downloads/applications/rast-clayson2026.xml",
+    "kind": "text",
+    "content_type": "application/xml",
+    "bytes": 221582,
+    "sha256": "59436cbe66e1e7a1db4b186c722b3887d9ae9df5394ac1a2496ec999cb53899a",
+    "acquired_at": "2026-10-02T12:02:40.178328+00:00"
+  },
+  {
+    "source_url": "https://www.jstage.jst.go.jp/article/jltajournal/18/0/18_92/_pdf",
+    "final_url": "https://www.jstage.jst.go.jp/article/jltajournal/18/0/18_92/_pdf",
+    "local_path": "papers/downloads/applications/reading2015.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf;charset=UTF-8",
+    "bytes": 1274955,
+    "sha256": "c865bc574803eebfddce8a680b3debe632f96ca2b4473003159f27767635801a",
+    "acquired_at": "2026-10-02T12:00:30.954702+00:00"
+  },
+  {
+    "source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13156807/fullTextXML",
+    "final_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13156807/fullTextXML",
+    "local_path": "papers/downloads/applications/rocha2026.xml",
+    "kind": "text",
+    "content_type": "application/xml",
+    "bytes": 328424,
+    "sha256": "bf1397cc02de1498cc0541e09462ec82081d515ca2a8bac8b6e75c3f1278d534",
+    "acquired_at": "2026-10-02T12:02:39.444572+00:00"
+  },
+  {
+    "source_url": "https://self-compassion.org/wp-content/uploads/2021/11/Medvedev-et-al.-2021-Applying-Generalizability-Theory-to-the-Self-Compa.pdf",
+    "final_url": "https://self-compassion.org/wp-content/uploads/2021/11/Medvedev-et-al.-2021-Applying-Generalizability-Theory-to-the-Self-Compa.pdf",
+    "local_path": "papers/downloads/applications/selfcompassion2021.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 331875,
+    "sha256": "af9ad0d4ed56e8a4044a7738c36beaf0c41fb2252cd9054e510ac8996647d6eb",
+    "acquired_at": "2026-10-02T12:00:29.478619+00:00"
+  },
+  {
+    "source_url": "https://cresst.org/wp-content/uploads/TECH361.pdf",
+    "final_url": "https://cresst.org/wp-content/uploads/TECH361.pdf",
+    "local_path": "papers/downloads/applications/shavelson1993.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 212279,
+    "sha256": "542bd1937c91e0a1722dad7005fc7add1df94d2c8a08b36412ae6f5af00b9c37",
+    "acquired_at": "2026-10-02T12:00:25.019939+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7328239/?report=xml",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7328239/?report=xml",
+    "local_path": "papers/downloads/applications/teacher-time.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 278048,
+    "sha256": "9a1e6703c18c379048fd95c6f8fd86cd1ea8343b2ebb6349981b16c1fd451bfe",
+    "acquired_at": "2026-10-02T12:02:35.582821+00:00"
+  },
+  {
+    "source_url": "https://julian-urbano.info/files/publications/055-measurement-test-collection-reliability.pdf",
+    "final_url": "https://julian-urbano.info/files/publications/055-measurement-test-collection-reliability.pdf",
+    "local_path": "papers/downloads/applications/urbano2013.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 691065,
+    "sha256": "dec1a1d8a1b914bd4e5fc919a5090f0e545e1b18bda91194cec3eaf200f5808b",
+    "acquired_at": "2026-10-02T12:00:32.773831+00:00"
+  },
+  {
+    "source_url": "https://julian-urbano.info/files/publications/064-test-collection-reliability-study-bias-robustness-statistical-assumptions-stochastic-simulation.pdf",
+    "final_url": "https://julian-urbano.info/files/publications/064-test-collection-reliability-study-bias-robustness-statistical-assumptions-stochastic-simulation.pdf",
+    "local_path": "papers/downloads/applications/urbano2016.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 874085,
+    "sha256": "b204bd898e65a5326f271a8072619bd0c6b12cbbc4e124fdaeed21a7f4eb0b86",
+    "acquired_at": "2026-10-02T12:00:33.251352+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/ED368773.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/ED368773.pdf",
+    "local_path": "papers/downloads/coverage/aggregate-scores-report-1993.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 374028,
+    "sha256": "c999ac1c871a47c89bd94aa507346278813d4334ec78c5c5b5a43374728a0404",
+    "acquired_at": "2026-10-02T12:15:55.768871+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/ED204374.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/ED204374.pdf",
+    "local_path": "papers/downloads/coverage/career-education-1981.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 11638875,
+    "sha256": "52d7bd9d2b48e59c0c25f096eb7d4955944e9d77a4267005b4978fce04055c76",
+    "acquired_at": "2026-10-02T12:15:59.384136+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/ED109148.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/ED109148.pdf",
+    "local_path": "papers/downloads/coverage/class-means-report-1975.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 990806,
+    "sha256": "1a8269590096598fef33e95db677bad000ba42566564947397bca8ecd9a1f8e9",
+    "acquired_at": "2026-10-02T12:15:55.876143+00:00"
+  },
+  {
+    "source_url": "https://link.springer.com/content/pdf/10.3758/s13428-021-01701-7.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.3758/s13428-021-01701-7.pdf?error=cookies_not_supported&code=d165062a-555f-42f5-ac66-a2470967496b",
+    "local_path": "papers/downloads/coverage/couple-ema-2022.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 650002,
+    "sha256": "4869fac8e8a12093cf0783f40479daab74399700f087682e6acf72081b6c7a23",
+    "acquired_at": "2026-10-02T12:19:16.942995+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2414486/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2414486/",
+    "local_path": "papers/downloads/coverage/diary-change-2006.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 215019,
+    "sha256": "e77007ddac7774267385c7d74bac56dd2e57dc1c8e29dff703042ab843f324f7",
+    "acquired_at": "2026-10-02T12:19:15.185690+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10852215/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10852215/",
+    "local_path": "papers/downloads/coverage/dyadic-corumination-2022.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 192197,
+    "sha256": "d587337a9d54f0d313ea35f5ba0f2a476f3067dd129d198e265161435e24f8e3",
+    "acquired_at": "2026-10-02T12:19:15.444076+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10066936/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10066936/",
+    "local_path": "papers/downloads/coverage/ema-mood-2023.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 243182,
+    "sha256": "107144aff3f6f3bb47bc0c3da6123873c3f6806162a29c80d61d5b38563d5b85",
+    "acquired_at": "2026-10-02T12:09:47.091757+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3374659/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3374659/",
+    "local_path": "papers/downloads/coverage/ema-process-speed-2011.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 214917,
+    "sha256": "197df7b18349933bb416ad4ad4a60c0e890b5e56d50f73346ce6c76a70ce0ba8",
+    "acquired_at": "2026-10-02T12:09:46.980798+00:00"
+  },
+  {
+    "source_url": "https://eiko-fried.com/wp-content/uploads/EBSCO-FullText-11_21_2025-2.pdf",
+    "final_url": "https://media.eiko-fried.com/publications/2025-castro-alvarez-psychological-assessment-assessing-the-internal-consistency-reliability-of-ecological-momentary-asse.pdf",
+    "local_path": "papers/downloads/coverage/ema-warnd-2025.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 279203,
+    "sha256": "cd381deeed1cdf55d2a645217b8da2b6d6f7bdd792eee4200984677db04536f7",
+    "acquired_at": "2026-10-02T12:09:48.049962+00:00"
+  },
+  {
+    "source_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1483092/pdf",
+    "final_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2025.1483092/pdf",
+    "local_path": "papers/downloads/coverage/instruction-norway-2025.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 857100,
+    "sha256": "f6f63561095cf5e21119bc33dcd783b4d2fc944f64b602e2a9a8a205a52e57d0",
+    "acquired_at": "2026-10-02T12:15:58.288656+00:00"
+  },
+  {
+    "source_url": "https://mdpi-res.com/d_attachment/psycholint/psycholint-08-00019/article_deploy/psycholint-08-00019.pdf",
+    "final_url": "https://mdpi-res.com/d_attachment/psycholint/psycholint-08-00019/article_deploy/psycholint-08-00019.pdf",
+    "local_path": "papers/downloads/coverage/invariance-2026.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 596404,
+    "sha256": "7d9f337bcfc72583042f279eb624a220a654fed1760b7fd81be68d731af6bd32",
+    "acquired_at": "2026-10-02T12:09:47.594125+00:00"
+  },
+  {
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s11336-024-09967-4.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.1007/s11336-024-09967-4.pdf?error=cookies_not_supported&code=cf7a606b-7166-4c52-a3f4-c3db5ece57a9",
+    "local_path": "papers/downloads/coverage/irt-gt-regression-2024.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 391032,
+    "sha256": "dd385f3b1c5bd4a5b5e3b9d655332fe7771672cef4ae94d20ff35b0edd655b7f",
+    "acquired_at": "2026-10-02T12:17:36.581117+00:00"
+  },
+  {
+    "source_url": "https://raw.githubusercontent.com/mlresearch/v339/main/assets/sharma26a/sharma26a.pdf",
+    "final_url": "https://raw.githubusercontent.com/mlresearch/v339/main/assets/sharma26a/sharma26a.pdf",
+    "local_path": "papers/downloads/coverage/mrbench-2026.pdf",
+    "kind": "pdf",
+    "content_type": "application/octet-stream",
+    "bytes": 410683,
+    "sha256": "ecab47b95f770c5990b588fca87ccf39ce9e11ddf80bd595bce89532d5705a55",
+    "acquired_at": "2026-10-02T12:11:10.196065+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5978517/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5978517/",
+    "local_path": "papers/downloads/coverage/multistage-standard-setting-2015.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 236711,
+    "sha256": "007acd3898bff0729a8dddb949f086a92032d14b5d3ada3182eab2326f5216c3",
+    "acquired_at": "2026-10-02T12:11:10.075836+00:00"
+  },
+  {
+    "source_url": "https://pure.uva.nl/ws/files/308960889/Interrater_Reliability_for_Interdependent_Social_Network_Data_A_Generalizability_Theory_Approach.pdf",
+    "final_url": "https://pure.uva.nl/ws/files/308960889/Interrater_Reliability_for_Interdependent_Social_Network_Data_A_Generalizability_Theory_Approach.pdf",
+    "local_path": "papers/downloads/coverage/network-dyadic-2025.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1524823,
+    "sha256": "d7d944ff2716b70edafc8951b065e6c9f9d27624956d8597c4d3bf8ce4c73b85",
+    "acquired_at": "2026-10-02T12:19:15.970668+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5978498/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5978498/",
+    "local_path": "papers/downloads/coverage/nonadditive-2016.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 324580,
+    "sha256": "fec2b3b995193287c0a841d07951285e06c135bfa945b382a5a5580f4ca99456",
+    "acquired_at": "2026-10-02T12:11:10.112815+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5965595/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5965595/",
+    "local_path": "papers/downloads/coverage/rater-trends-2015.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 244740,
+    "sha256": "b62f509586b97323516eb7fec22228b98c08f11529632dfc226bd226fdb91575",
+    "acquired_at": "2026-10-02T12:21:26.504379+00:00"
+  },
+  {
+    "source_url": "https://link.springer.com/content/pdf/10.1007/s12144-023-05072-4.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.1007/s12144-023-05072-4.pdf?error=cookies_not_supported&code=ea3c0cc7-ff91-461c-b031-0f417bfd0efc",
+    "local_path": "papers/downloads/coverage/resilience-2024.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 775545,
+    "sha256": "d8a2e063b7ce502fa8147d552e5a3de42d689ee15ad3ec094203e971716fcec2",
+    "acquired_at": "2026-10-02T12:09:48.308588+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/ED270486.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/ED270486.pdf",
+    "local_path": "papers/downloads/coverage/symmetry-europe-1986.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 244497,
+    "sha256": "fd5e26f3c63f8ae8450a62fa19e3424568856ea2896dd3b26000420de1a72c80",
+    "acquired_at": "2026-10-02T12:15:55.598145+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/ED399300.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/ED399300.pdf",
+    "local_path": "papers/downloads/coverage/technical-performance-1996.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 2087932,
+    "sha256": "cac952aeb900a0bc01e7694cf6c5ae817394c908736c6cb1f9ab8301897501b5",
+    "acquired_at": "2026-10-02T12:11:10.862258+00:00"
+  },
+  {
+    "source_url": "https://education.illinois.edu/docs/default-source/edpsy-documents/epsy-publications/zhang---detecting-nonadditivity-in-single-facet-generalizability-theory-applications-tukey-s-test.pdf?sfvrsn=b1d86dd3_2",
+    "final_url": "https://education.illinois.edu/docs/default-source/edpsy-documents/epsy-publications/zhang---detecting-nonadditivity-in-single-facet-generalizability-theory-applications-tukey-s-test.pdf?sfvrsn=b1d86dd3_2",
+    "local_path": "papers/downloads/coverage/tukey-nonadditive-2018.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 140006,
+    "sha256": "545c89a56a8c9580fbc2924c2562f02aa4f89034acb04419180841034a15f0cf",
+    "acquired_at": "2026-10-02T12:09:47.302275+00:00"
+  },
+  {
+    "source_url": "https://www.nature.com/articles/s41598-025-08550-w.pdf",
+    "final_url": "https://www.nature.com/articles/s41598-025-08550-w.pdf?error=cookies_not_supported&code=e01800e6-da7b-4199-b13d-7f1cf56f2c34",
+    "local_path": "papers/downloads/coverage/weights-ranking-2025.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1951284,
+    "sha256": "0e10aefebdec7b89ae1ef3a8ad6ee770211314c84368d18313dc0060367ffd58",
+    "acquired_at": "2026-10-02T12:17:09.109466+00:00"
+  },
+  {
+    "source_url": "https://conservancy.umn.edu/server/api/core/bitstreams/1bceaffe-8203-4e11-8b65-01ff72936276/content",
+    "final_url": "https://conservancy.umn.edu/server/api/core/bitstreams/1bceaffe-8203-4e11-8b65-01ff72936276/content",
+    "local_path": "papers/downloads/decisions/agreement-kane-brennan-1980.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf;charset=UTF-8",
+    "bytes": 1712749,
+    "sha256": "db1faf3d95357037357444fecefee5919c7ccf219ba5e71b9863168f5fb84fc7",
+    "acquired_at": "2026-10-02T11:58:39.708888+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/ED344945.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/ED344945.pdf",
+    "local_path": "papers/downloads/decisions/beta-moments-hanson-1991.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1021277,
+    "sha256": "e63f7e5e6b67f5716276054ba2e361019877c4ae467b1fe9a3cd1c6a041a9810",
+    "acquired_at": "2026-10-02T11:59:20.495359+00:00"
+  },
+  {
+    "source_url": "https://mdpi-res.com/d_attachment/psych/psych-05-00036/article_deploy/psych-05-00036.pdf",
+    "final_url": "https://mdpi-res.com/d_attachment/psych/psych-05-00036/article_deploy/psych-05-00036.pdf",
+    "local_path": "papers/downloads/decisions/bifactor-decisions-2023.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1992976,
+    "sha256": "4c1a797868b35ed4f5f761456eed550698113612bc99ebb2ed8257a9772cab71",
+    "acquired_at": "2026-10-02T11:58:39.018835+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-10-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-10-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-10.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1355786,
+    "sha256": "e484e9a958e176824bb08c60094011f1f49d57bbf9693c0ffdb91bd9f84b10cf",
+    "acquired_at": "2026-10-02T11:56:42.550706+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-13-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-13-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-13.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 519785,
+    "sha256": "e115ff9f10787521587261084b50d7b1ced96d7700c4c3147dfc57e9636d228c",
+    "acquired_at": "2026-10-02T11:56:41.928847+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-16-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-16-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-16.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 3826511,
+    "sha256": "7cfea9ba2a8a274fdfb0c8db9aac01f83b875d5b16cf5fa751e39bf269e4904b",
+    "acquired_at": "2026-10-02T11:56:43.916317+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-18-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-18-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-18.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 245094,
+    "sha256": "bb0cf0cd5f3fb5fae2869757e5368b6ec76da00e1b9e0c2b80f28c1cf3567b1d",
+    "acquired_at": "2026-10-02T11:56:41.852061+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-22-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-22-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-22.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1703739,
+    "sha256": "d79f9a5b7e301718f7f17235fa534bb2bb04f214915442df54dd5a95a6f4eeba",
+    "acquired_at": "2026-10-02T11:56:43.687631+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-27-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-27-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-27.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 195646,
+    "sha256": "ff345feab60ced6c059f5197379bccf99fcaea0eae5d0e882c680c9abdb420d9",
+    "acquired_at": "2026-10-02T11:56:43.240963+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-32-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-32-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-32.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 678606,
+    "sha256": "48aef85db328cb8d57fe55f365ec414b8009c16eb07c37820411158162adf682",
+    "acquired_at": "2026-10-02T11:56:43.429127+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-7-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-7-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-7.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 670309,
+    "sha256": "ebe7b6f6421494e779430423456f866b7bc8bf832ec71ea3766d52a03421cbc6",
+    "acquired_at": "2026-10-02T11:56:41.865201+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-9-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-9-archived.pdf",
+    "local_path": "papers/downloads/decisions/casma-9.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 571871,
+    "sha256": "090b6cfa931d435c0480b852e29935cb876f9f7614ad2b526b7cab9de2a48e6a",
+    "acquired_at": "2026-10-02T11:56:42.047300+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9586649/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9586649/",
+    "local_path": "papers/downloads/decisions/cost-effectiveness-2022.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 161327,
+    "sha256": "eaf63ec4518b4cc1ff0e10c48694595dfea99d38ccfc1f1c60937f6bb45ea95b",
+    "acquired_at": "2026-10-02T11:57:55.335883+00:00"
+  },
+  {
+    "source_url": "https://ris.utwente.nl/ws/portalfiles/portal/6881254/Linden82criterion.pdf",
+    "final_url": "https://ris.utwente.nl/ws/portalfiles/portal/6881254/Linden82criterion.pdf",
+    "local_path": "papers/downloads/decisions/criterion-analysis-1982.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1088247,
+    "sha256": "3394a0c76829b43145ead0f5fbbb9956944bf8b5e02827646c7ca23231f6af00",
+    "acquired_at": "2026-10-02T11:57:56.194790+00:00"
+  },
+  {
+    "source_url": "https://citeseerx.ist.psu.edu/document?doi=afd8721ee069c0a3d3f9a1b954f4cafb6af45a5d&repid=rep1&type=pdf",
+    "final_url": "https://web.archive.org/web/20240415072558/https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=afd8721ee069c0a3d3f9a1b954f4cafb6af45a5d",
+    "local_path": "papers/downloads/decisions/cut-scores-yin-sconing.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 133818,
+    "sha256": "9dbb4cf64f7d5ee12a28dea4bff0fa083b6801b86d736bbfd57145f9af975dc5",
+    "acquired_at": "2026-10-02T11:57:56.573101+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/ED320928.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/ED320928.pdf",
+    "local_path": "papers/downloads/decisions/huynh-proceedings-1978.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 5638500,
+    "sha256": "5c8ab93a76dc72687f600a13693102915782b65340b14ce2988aaab06466f20a",
+    "acquired_at": "2026-10-02T11:56:46.141915+00:00"
+  },
+  {
+    "source_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0307710&type=printable",
+    "final_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0307710&type=printable",
+    "local_path": "papers/downloads/decisions/lagrange-complex-2024.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 640446,
+    "sha256": "9ec1c40777b3c5b8f6142cd0c6fe9bb15ca87ff23aff0bf116473b5d680e14eb",
+    "acquired_at": "2026-10-02T11:58:38.316728+00:00"
+  },
+  {
+    "source_url": "https://ndl.ethernet.edu.et/bitstream/123456789/63563/1/384.pdf",
+    "final_url": "https://ndl.ethernet.edu.et/server/api/core/bitstreams/19926935-c41a-4459-a06f-06c32ffd6340/content",
+    "local_path": "papers/downloads/decisions/minlp-performance-2016.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf;charset=UTF-8",
+    "bytes": 5864828,
+    "sha256": "b3a2aba7a2554bb011039903a49d9fd8eb90a019fa40f13ea8fbe20fc8250e01",
+    "acquired_at": "2026-10-02T11:58:01.388866+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5978540/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5978540/",
+    "local_path": "papers/downloads/decisions/mixed-format-classification-2015.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 209797,
+    "sha256": "e3735ce5f77cc91dc4ca7b48192ee0be66bd61946efe79423efb6d4799ea3d25",
+    "acquired_at": "2026-10-02T11:56:44.077772+00:00"
+  },
+  {
+    "source_url": "https://eprints.whiterose.ac.uk/id/eprint/226675/9/250414%20Schauber-Homer%20-%20Challenging%20the%20norm.pdf",
+    "final_url": "https://eprints.whiterose.ac.uk/id/eprint/226675/9/250414%20Schauber-Homer%20-%20Challenging%20the%20norm.pdf",
+    "local_path": "papers/downloads/decisions/norm-exam-2025.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 460742,
+    "sha256": "82009f6297916395623723c0ecfd8586012c1be539e9ab4b9d1a82aed956d803",
+    "acquired_at": "2026-10-02T12:01:10.756192+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8451023/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8451023/",
+    "local_path": "papers/downloads/decisions/optimization-2021.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 197132,
+    "sha256": "1b491998fb6b163f9c164d8eb7f20ce71f6d2a16e3ecf7f9ea6c798619c83adb",
+    "acquired_at": "2026-10-02T11:56:43.386195+00:00"
+  },
+  {
+    "source_url": "https://conservancy.umn.edu/server/api/core/bitstreams/d5980f66-6f02-427b-886e-be41afb49b1a/content",
+    "final_url": "https://conservancy.umn.edu/server/api/core/bitstreams/d5980f66-6f02-427b-886e-be41afb49b1a/content",
+    "local_path": "papers/downloads/decisions/reliability-decisions-umn.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf;charset=UTF-8",
+    "bytes": 2876329,
+    "sha256": "81c50f243c5846019fd08aabcdc01cbe5ad8fa9a73399956c8324ec694edb4b9",
+    "acquired_at": "2026-10-02T11:56:47.582191+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/ED390945.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/ED390945.pdf",
+    "local_path": "papers/downloads/decisions/writing-optimization-eric.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 411377,
+    "sha256": "304d24764c64b87653a0b7a7a488425407bf90f7ac401a3fc95f9562e4ff89bc",
+    "acquired_at": "2026-10-02T11:56:44.269090+00:00"
+  },
+  {
+    "source_url": "https://arxiv.org/pdf/1406.5823",
+    "final_url": "https://arxiv.org/pdf/1406.5823",
+    "local_path": "papers/downloads/estimation/bates-lme4-2015.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 953598,
+    "sha256": "901030e6466b79afba9e87da51112a9da1302debd257ad504d759cf9d974d115",
+    "acquired_at": "2026-10-02T11:44:18.207023+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228696/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228696/",
+    "local_path": "papers/downloads/estimation/brennan-complex-2022.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 333481,
+    "sha256": "283b631ae148492d8b7cb81f0ade30b7b9c62ed2e9743a71156b71c3ae3f23c1",
+    "acquired_at": "2026-10-02T11:41:30.714404+00:00"
+  },
+  {
+    "source_url": "https://www.stat.cmu.edu/technometrics/70-79/VOL-18-01/v1801031.pdf",
+    "final_url": "https://www.stat.cmu.edu/technometrics/70-79/VOL-18-01/v1801031.pdf",
+    "local_path": "papers/downloads/estimation/corbeil-searle-1976.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 749034,
+    "sha256": "56a34d1c052a96f6209a76a9f69d6d764b7e7aefee5118173f4fb1f127de0f8e",
+    "acquired_at": "2026-10-02T11:41:24.580706+00:00"
+  },
+  {
+    "source_url": "https://sites.stat.columbia.edu/gelman/bayescomputation/Gelman2006.pdf",
+    "final_url": "https://sites.stat.columbia.edu/gelman/bayescomputation/Gelman2006.pdf",
+    "local_path": "papers/downloads/estimation/gelman-priors-2006.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 246284,
+    "sha256": "9842c9f5e1afdbb357a8b4bd7eb374bf620e3527f9ff27f2f333ffce5a9dfc29",
+    "acquired_at": "2026-10-02T11:41:25.344546+00:00"
+  },
+  {
+    "source_url": "https://www.stat.cmu.edu/~brian/463-2014/week07/reml/harville-ML-approaches-to-variance-components-1977-JASA.pdf",
+    "final_url": "https://www.stat.cmu.edu/~brian/463-2014/week07/reml/harville-ML-approaches-to-variance-components-1977-JASA.pdf",
+    "local_path": "papers/downloads/estimation/harville-1977.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 2422837,
+    "sha256": "7f5e0de2eb7e00c19a29758d7d45d84bf64857fdd6d726f18f34d4de4a9cc933",
+    "acquired_at": "2026-10-02T11:44:18.581666+00:00"
+  },
+  {
+    "source_url": "http://www.stat.yale.edu/~hz68/619/Henderson1953.pdf",
+    "final_url": "http://www.stat.yale.edu/~hz68/619/Henderson1953.pdf",
+    "local_path": "papers/downloads/estimation/henderson-1953.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1402366,
+    "sha256": "cf225728dce1ddd9909c62e3ee8930a7739d391b36497030455b81b115da4ce8",
+    "acquired_at": "2026-10-02T11:44:18.005726+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/EJ1222666.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/EJ1222666.pdf",
+    "local_path": "papers/downloads/estimation/huebner-lucht-r-2019.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 253754,
+    "sha256": "c4fd4d3e9026798f43b406da330716b81712e850bd62e0739b13c5809a17d90e",
+    "acquired_at": "2026-10-02T11:41:26.307909+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/EJ1482037.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/EJ1482037.pdf",
+    "local_path": "papers/downloads/estimation/huebner-mixed-2025.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 297899,
+    "sha256": "237e1d845beca243d4f44ff521a6d929093d4165e0838de67dfbb0b0157aa6be",
+    "acquired_at": "2026-10-02T11:41:26.648567+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/ED154003.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/ED154003.pdf",
+    "local_path": "papers/downloads/estimation/huynh-incomplete-1977.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 629309,
+    "sha256": "8f44e1885a3414bad56ecf446d7e669f3160d3e05a67358f85ca2ca0d43655b7",
+    "acquired_at": "2026-10-02T11:43:34.309535+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228698/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228698/",
+    "local_path": "papers/downloads/estimation/jiang-ci-2022.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 227774,
+    "sha256": "98f72edd009b15b74db71b20d850fae05c1e483fe26ff4131aa87d177773117c",
+    "acquired_at": "2026-10-02T11:41:30.588895+00:00"
+  },
+  {
+    "source_url": "https://jihongzhang.org/research/publications/2024/Customizing%20Bayesian%20multivariate%20generalizability%20theory%20to%20mixed-format%20tests.pdf",
+    "final_url": "https://jihongzhang.org/research/publications/2024/Customizing%20Bayesian%20multivariate%20generalizability%20theory%20to%20mixed-format%20tests.pdf",
+    "local_path": "papers/downloads/estimation/jiang-mixed-format-2024.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1428450,
+    "sha256": "f8edcb531fde4be98e18bf5f6039fe2c02cbbca77f946047158bb8f9bfea2318",
+    "acquired_at": "2026-10-02T11:41:25.900251+00:00"
+  },
+  {
+    "source_url": "https://link.springer.com/content/pdf/10.3758/s13428-017-0986-3.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.3758/s13428-017-0986-3.pdf?error=cookies_not_supported&code=1ef7a966-6895-42c8-9a76-e43185e283f5",
+    "local_path": "papers/downloads/estimation/jiang-skorupski-bayes-2018.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 5093219,
+    "sha256": "c873e7971bb2b03ad034a1ac6ce88e2d272f4d5c788709b4ddd226d8c20dafd1",
+    "acquired_at": "2026-10-02T11:41:30.222850+00:00"
+  },
+  {
+    "source_url": "https://ibiostat.be/documents/phd/annouschkalaenen.pdf",
+    "final_url": "https://ibiostat.be/documents/phd/annouschkalaenen.pdf",
+    "local_path": "papers/downloads/estimation/laenen-thesis-2008.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 2947640,
+    "sha256": "d45c1272b3ac51261f5be2db1c8238b40cfa638fa0cda0a037ce7873fc446f65",
+    "acquired_at": "2026-10-02T11:52:03.509608+00:00"
+  },
+  {
+    "source_url": "https://michiganassessment.org/wp-content/uploads/2020/02/20.02.pdf.Res_.WorkingwithSpraseDatainRatedLanguageTests-GeneraizabilityTheoryApplications.pdf",
+    "final_url": "https://michiganassessment.org/wp-content/uploads/2020/02/20.02.pdf.Res_.WorkingwithSpraseDatainRatedLanguageTests-GeneraizabilityTheoryApplications.pdf",
+    "local_path": "papers/downloads/estimation/lin-sparse-2017.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 402463,
+    "sha256": "1a48f548e224592f08f0b398125b7cb302a60a2cad371ca29458495005a1f0e8",
+    "acquired_at": "2026-10-02T11:43:34.958738+00:00"
+  },
+  {
+    "source_url": "https://public-pages-files-2025.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.976964/pdf",
+    "final_url": "https://public-pages-files-2025.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.976964/pdf",
+    "local_path": "papers/downloads/estimation/rockwood-jeon-2022.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 414992,
+    "sha256": "e6bb5b1a59c9cd83d9639f49505b0e0fd6541cf285d2b0d6ba14bcced084837a",
+    "acquired_at": "2026-10-02T11:41:31.908555+00:00"
+  },
+  {
+    "source_url": "https://www.stat.cmu.edu/~brian/763-2015/week06/papers/self-liang-1987.pdf",
+    "final_url": "https://www.stat.cmu.edu/~brian/763-2015/week06/papers/self-liang-1987.pdf",
+    "local_path": "papers/downloads/estimation/self-liang-1987.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1054920,
+    "sha256": "9e52f99ab938661a634a64654b69b86e854710913aaa1bfffa6c357f55700cc1",
+    "acquired_at": "2026-10-02T11:41:24.876967+00:00"
+  },
+  {
+    "source_url": "https://hua-zhou.github.io/teaching/st758-2014fall/monte-carlo/SwallowMonahan84VCMonteCarlo.pdf",
+    "final_url": "https://hua-zhou.github.io/teaching/st758-2014fall/monte-carlo/SwallowMonahan84VCMonteCarlo.pdf",
+    "local_path": "papers/downloads/estimation/swallow-monahan-1984.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 4657755,
+    "sha256": "cc33c73d7369737a7f38bebb8b7281f032e876e11cac389cf296944e14cfc0bf",
+    "acquired_at": "2026-10-02T11:43:35.190457+00:00"
+  },
+  {
+    "source_url": "https://pure.uva.nl/ws/files/113175549/met0000391_MLIRR_31Aug2020_Supplements.pdf",
+    "final_url": "https://pure.uva.nl/ws/files/113175549/met0000391_MLIRR_31Aug2020_Supplements.pdf",
+    "local_path": "papers/downloads/estimation/ten-hove-multilevel-2022-supplement.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 211006,
+    "sha256": "e0de0c0e67cff00921e9e77d11ab056fc441febdc0a380d5449783a9714b9e1d",
+    "acquired_at": "2026-10-02T11:44:18.202345+00:00"
+  },
+  {
+    "source_url": "https://pure.uva.nl/ws/files/111315847/Interrater_Reliability_for_Multilevel_Data_A_Generalizability_Theory_Approach.pdf",
+    "final_url": "https://pure.uva.nl/ws/files/111315847/Interrater_Reliability_for_Multilevel_Data_A_Generalizability_Theory_Approach.pdf",
+    "local_path": "papers/downloads/estimation/ten-hove-multilevel-2022.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1494093,
+    "sha256": "73df909dc95e7d0f7b575b0dbba82812c5c8205162eb9903584af4476e7c8fb7",
+    "acquired_at": "2026-10-02T11:41:28.087561+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/ED270486.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/ED270486.pdf",
+    "local_path": "papers/downloads/foundations/allal-1986-symmetry-europe.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 244497,
+    "sha256": "fd5e26f3c63f8ae8450a62fa19e3424568856ea2896dd3b26000420de1a72c80",
+    "acquired_at": "2026-10-02T11:40:50.180140+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/ED146215.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/ED146215.pdf",
+    "local_path": "papers/downloads/foundations/brennan-1977-act26-principles-procedures.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1895173,
+    "sha256": "a696c13f238c9476633fe425d6d3a4aed707fff2e0df8346c9ee19bd44380cf9",
+    "acquired_at": "2026-10-02T11:40:51.060347+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-1-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-1-archived.pdf",
+    "local_path": "papers/downloads/foundations/brennan-2003-coefficients-indices.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 775134,
+    "sha256": "b16c4c35fa2c0add5e204c7de94f193e9e076a7f029ff45f43336f75e15b9d1c",
+    "acquired_at": "2026-10-02T11:40:50.119869+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-8-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-8-archived.pdf",
+    "local_path": "papers/downloads/foundations/brennan-2004-measurement-model-inconsistencies.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 385127,
+    "sha256": "041264097a6123038ea85b25014ff427f567e16c583c7192c40df9071ae5e6ff",
+    "acquired_at": "2026-10-02T11:40:49.755886+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-51-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-51-archived.pdf",
+    "local_path": "papers/downloads/foundations/brennan-2017-confounded-effects.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 311476,
+    "sha256": "788e83b25d7bbbca9380d0dbe22ca121ac127b0ee81fd5bc4dfa72b68b15c744",
+    "acquired_at": "2026-10-02T11:40:49.873571+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/ED109148.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/ED109148.pdf",
+    "local_path": "papers/downloads/foundations/brennan-kane-1975-class-means.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 990806,
+    "sha256": "1a8269590096598fef33e95db677bad000ba42566564947397bca8ecd9a1f8e9",
+    "acquired_at": "2026-10-02T11:40:50.805171+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-53-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-53-archived.pdf",
+    "local_path": "papers/downloads/foundations/brennan-liao-2020-first-sixty-years.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 220903,
+    "sha256": "9bc9febb4e132c991cbca48955cf6e59a7568748f29926d67c01266833226293",
+    "acquired_at": "2026-10-02T11:40:15.713800+00:00"
+  },
+  {
+    "source_url": "https://www.irdp.ch/data/secure/4111/document/bibliographie_cardinet_2017.pdf",
+    "final_url": "https://www.irdp.ch/data/secure/4111/document/bibliographie_cardinet_2017.pdf",
+    "local_path": "papers/downloads/foundations/irdp-2017-cardinet-bibliography.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 297742,
+    "sha256": "6b1008690a3fefd2af483129eb8b06b95c861302e764d2303cfe1a80bf57fb66",
+    "acquired_at": "2026-10-02T11:40:50.839686+00:00"
+  },
+  {
+    "source_url": "https://conservancy.umn.edu/server/api/core/bitstreams/b41d6b22-4851-4177-b2d5-a57535070e72/content",
+    "final_url": "https://conservancy.umn.edu/server/api/core/bitstreams/b41d6b22-4851-4177-b2d5-a57535070e72/content",
+    "local_path": "papers/downloads/multivariate/multivariate-art-multivariate-1984.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf;charset=UTF-8",
+    "bytes": 735038,
+    "sha256": "efbada822633a609d278e4cb4c142bf98729103c6d7f8e291084f53285ec7af0",
+    "acquired_at": "2026-10-02T11:43:49.362446+00:00"
+  },
+  {
+    "source_url": "https://link.springer.com/content/pdf/10.3758/s13428-017-0986-3.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.3758/s13428-017-0986-3.pdf?error=cookies_not_supported&code=106f88ad-67fb-4bf5-9847-e73573c212fe",
+    "local_path": "papers/downloads/multivariate/multivariate-bayesian-multivariate-2018.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 5093219,
+    "sha256": "c873e7971bb2b03ad034a1ac6ce88e2d272f4d5c788709b4ddd226d8c20dafd1",
+    "acquired_at": "2026-10-02T11:42:35.308904+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-25-archived_0.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-25-archived_0.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-25.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 709606,
+    "sha256": "18d285849a7591d739615804f999c129dab091bfb07d5ef48246d0f491c0e583",
+    "acquired_at": "2026-10-02T11:42:30.915255+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-29-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-29-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-29.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 3417955,
+    "sha256": "ce7ce362848e33a23b3539e95f1c6eab2d34d6d471a6f01dc359e686e5cc94cf",
+    "acquired_at": "2026-10-02T11:42:30.942978+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-33-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-33-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-33.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 409500,
+    "sha256": "9d7ff0317f83a77906522f4ebac0cc0dc14de08f457a5b264cb701dc1cfabdec",
+    "acquired_at": "2026-10-02T11:42:29.663923+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2022-10/casma-research-report-34.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2022-10/casma-research-report-34.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-34.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 251826,
+    "sha256": "24bbef0673355d7a4996aaa4ea2ac38ecbb13f635c921af528c1206fd7307c66",
+    "acquired_at": "2026-10-02T11:42:30.021779+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-4-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-4-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-4.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 240944,
+    "sha256": "d37f343b376de4c0d5dbaf050508a67bfe3583192ca121099532f945a8b20d3c",
+    "acquired_at": "2026-10-02T11:42:30.331693+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-42-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-42-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-42.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 171585,
+    "sha256": "215e9837b81d7e4afa3557eda2eed4859857146de096218c47935c84a0c3c6b7",
+    "acquired_at": "2026-10-02T11:42:31.034328+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-44-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-44-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-44.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 329037,
+    "sha256": "a464e6f69af01119bffbc44787fdb02d712180da07fca26e6e65b1ae498cce52",
+    "acquired_at": "2026-10-02T11:42:29.663143+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-46-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-46-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-46.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1056697,
+    "sha256": "002a163f0bde230aee628a2f1bf4a5a1e4559a9812822962a2a95bd8104248d3",
+    "acquired_at": "2026-10-02T11:42:31.328179+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-50-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-50-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-50.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 196786,
+    "sha256": "74af886ad8935dbac0a0f8b8f988257c4ffaa9e4195f3cac971862d6045a9702",
+    "acquired_at": "2026-10-02T11:42:29.612006+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-59-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-59-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-59.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 373624,
+    "sha256": "b2ecb32acca6e112c3d1a5db295c66558a5351aaf2c21ef36414b43e9d5873cf",
+    "acquired_at": "2026-10-02T11:42:30.747900+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-technical-report-5-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-technical-report-5-archived.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-casma-note-5.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 129995,
+    "sha256": "1e81bc858960763a6520ff415ef814502cec0cf669e034d72eb02302497b5e87",
+    "acquired_at": "2026-10-02T11:42:29.339928+00:00"
+  },
+  {
+    "source_url": "https://adni.loni.usc.edu/adni-publications/Grochowalski_2016_AgingNeuroCog.pdf",
+    "final_url": "https://adni.loni.usc.edu/adni-publications/Grochowalski_2016_AgingNeuroCog.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-change-scores-2016.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1316082,
+    "sha256": "e43be79b3a5f540fab5d5c09e0de9df9682f6ab4ae4d544206805412b043dcca",
+    "acquired_at": "2026-10-02T11:45:12.206368+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228696/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228696/",
+    "local_path": "papers/downloads/multivariate/multivariate-extended-2022.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 333481,
+    "sha256": "a6a92dd14ccdb1b0d75bcc4e7275f552180e3938364e2bfe62ce1a824df4549e",
+    "acquired_at": "2026-10-02T11:43:49.366684+00:00"
+  },
+  {
+    "source_url": "https://bse.berkeley.edu/sites/default/files/gse-archive-4/Wilson9.pdf",
+    "final_url": "https://bse.berkeley.edu/sites/default/files/gse-archive-4/Wilson9.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-girm-2007.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 954971,
+    "sha256": "8ef28262d40c6702b1e206b32ab35122914eea71f19fb688bc4576e222dcc634",
+    "acquired_at": "2026-10-02T11:42:31.987955+00:00"
+  },
+  {
+    "source_url": "https://www.psychologie-aktuell.com/fileadmin/download/ptam/1-2018_20180323/PTAM-1-2018_Sammlung_v2.pdf",
+    "final_url": "https://www.psychologie-aktuell.com/fileadmin/download/ptam/1-2018_20180323/PTAM-1-2018_Sammlung_v2.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-gllamm-rater-2018.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 2863329,
+    "sha256": "42ee8ea6b233c1906f1eb9ff18f9ed6111f83980756f6a965db1ebb88e182178",
+    "acquired_at": "2026-10-02T11:42:33.680483+00:00"
+  },
+  {
+    "source_url": "https://link.springer.com/content/pdf/10.3758/s13428-024-02472-7.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.3758/s13428-024-02472-7.pdf?error=cookies_not_supported&code=f09d776c-651d-422d-b365-6b778ad20ce0",
+    "local_path": "papers/downloads/multivariate/multivariate-mixed-format-bayesian-2024.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1428450,
+    "sha256": "f8edcb531fde4be98e18bf5f6039fe2c02cbbca77f946047158bb8f9bfea2318",
+    "acquired_at": "2026-10-02T11:47:14.179400+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5978540/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5978540/",
+    "local_path": "papers/downloads/multivariate/multivariate-mixed-format-classification-2015.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 209797,
+    "sha256": "aeede4e30666b268cf1f00f3ef125e1c1ec159440067ba1c329836019b5c2f32",
+    "acquired_at": "2026-10-02T11:45:09.959139+00:00"
+  },
+  {
+    "source_url": "https://link.springer.com/content/pdf/10.3758/s13428-020-01399-z.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.3758/s13428-020-01399-z.pdf?error=cookies_not_supported&code=ccab1a6d-fbe4-453b-bed2-b03da2dad2d2",
+    "local_path": "papers/downloads/multivariate/multivariate-mixed-model-r-2020.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 2062601,
+    "sha256": "35e80f37738bdda0074539ede70ec22a815388dbc901c0fe0329b2dabcb97860",
+    "acquired_at": "2026-10-02T11:42:35.157792+00:00"
+  },
+  {
+    "source_url": "https://mdpi-res.com/d_attachment/psych/psych-03-00011/article_deploy/psych-03-00011.pdf",
+    "final_url": "https://mdpi-res.com/d_attachment/psych/psych-03-00011/article_deploy/psych-03-00011.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-sem-absolute-2021.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 537054,
+    "sha256": "f90d381dfac8310d73acd00340015fa01a61b12d6fc0dace79e7a456ba63b39a",
+    "acquired_at": "2026-10-02T11:43:48.397670+00:00"
+  },
+  {
+    "source_url": "https://mdpi-res.com/d_attachment/psych/psych-05-00019/article_deploy/psych-05-00019.pdf",
+    "final_url": "https://mdpi-res.com/d_attachment/psych/psych-05-00019/article_deploy/psych-05-00019.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-sem-anova-2023.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 705239,
+    "sha256": "872094c3b5804e998fc1c4c48c677fd5b1f79e90336969aba76284dbfdf67844",
+    "acquired_at": "2026-10-02T11:43:48.525470+00:00"
+  },
+  {
+    "source_url": "https://mdpi-res.com/d_attachment/mathematics/mathematics-13-01001/article_deploy/mathematics-13-01001.pdf",
+    "final_url": "https://mdpi-res.com/d_attachment/mathematics/mathematics-13-01001/article_deploy/mathematics-13-01001.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-sem-bifactor-2025.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1618248,
+    "sha256": "a23f5f6f8116c892f3c17802020ce3bc8ceb5a6e96cfb3ab43c324300851b7fc",
+    "acquired_at": "2026-10-02T11:43:49.241477+00:00"
+  },
+  {
+    "source_url": "https://mdpi-res.com/d_attachment/mathematics/mathematics-12-01164/article_deploy/mathematics-12-01164.pdf",
+    "final_url": "https://mdpi-res.com/d_attachment/mathematics/mathematics-12-01164/article_deploy/mathematics-12-01164.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-sem-congeneric-2024.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1154435,
+    "sha256": "08d9d02387ace2d8125cf5e32440d2aa5f28a569a2f9a9d6483a5121233d2ca8",
+    "acquired_at": "2026-10-02T11:45:10.303261+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6943993/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6943993/",
+    "local_path": "papers/downloads/multivariate/multivariate-subscore-utility-2020.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 288408,
+    "sha256": "c7d82c0722a1199ed12051c59017272f1d42661cd4e4c78b8fb58e6798a7d78f",
+    "acquired_at": "2026-10-02T11:46:33.984314+00:00"
+  },
+  {
+    "source_url": "https://www.nbme.org/sites/default/files/2020-01/Zhang-Raymond2018_MV%20G-theory%20and%20subscores.pdf",
+    "final_url": "https://www.nbme.org/wp-content/uploads/2020/01/Zhang-Raymond2018_MV-G-theory-and-subscores-a0e.pdf",
+    "local_path": "papers/downloads/multivariate/multivariate-subscores-2018.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 586498,
+    "sha256": "ea7acb284d5644d0a6ac1d3780221afb0858a22ef3181e5c053200f0f8cfc109",
+    "acquired_at": "2026-10-02T11:42:32.421897+00:00"
+  },
+  {
+    "source_url": "https://conservancy.umn.edu/server/api/core/bitstreams/8c1c70a2-1ba6-45eb-b1aa-254581b47ce5/content",
+    "final_url": "https://conservancy.umn.edu/server/api/core/bitstreams/8c1c70a2-1ba6-45eb-b1aa-254581b47ce5/content",
+    "local_path": "papers/downloads/multivariate/multivariate-table-specifications-1982.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf;charset=UTF-8",
+    "bytes": 1243521,
+    "sha256": "7da0d987d8a51a81332d69d2420e6e492cdcd20d57063b958be9842e772799f1",
+    "acquired_at": "2026-10-02T11:43:50.494522+00:00"
+  },
+  {
+    "source_url": "https://citeseerx.ist.psu.edu/document?doi=5ed8836348f7469791b98c1013a7d5902a159fb2&repid=rep1&type=pdf",
+    "final_url": "https://web.archive.org/web/20240413090717/https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5ed8836348f7469791b98c1013a7d5902a159fb2",
+    "local_path": "papers/downloads/software/bell-1985-software-problem.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1182656,
+    "sha256": "a78747c4bcde4abcc4ee96f5be3f115ccede01f4277c6422d0972f4ca12f49e5",
+    "acquired_at": "2026-10-02T12:14:16.151034+00:00"
+  },
+  {
+    "source_url": "https://cran.r-project.org/web/packages/csemGT/csemGT.pdf",
+    "final_url": "https://cran.r-project.org/web/packages/csemGT/csemGT.pdf",
+    "local_path": "papers/downloads/software/csemgt-manual-2026.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 167049,
+    "sha256": "a7d1e6c38985cf3999b098ed2e3b4e9b0c19a8b4428d70c211577d9e1b6e0207",
+    "acquired_at": "2026-10-02T12:19:57.446321+00:00"
+  },
+  {
+    "source_url": "https://web.archive.org/web/20160302052957id_/http://www.irdp.ch:80/edumetrie/englishprogram.htm",
+    "final_url": "https://web.archive.org/web/20160302052957id_/http://www.irdp.ch:80/edumetrie/englishprogram.htm",
+    "local_path": "papers/downloads/software/edug-legacy-download-page.html",
+    "kind": "html",
+    "content_type": "text/html",
+    "bytes": 12796,
+    "sha256": "f67e1f5bf9e348179b3c16b07baea82208d65700ae6f1fdafb45917cdcba79a8",
+    "acquired_at": "2026-10-02T12:20:13.681342+00:00"
+  },
+  {
+    "source_url": "https://web.archive.org/web/20160302052957id_/http://www.irdp.ch/edumetrie/eduGeng.htm",
+    "final_url": "https://web.archive.org/web/20160310181807id_/http://www.irdp.ch/edumetrie/eduGeng.htm",
+    "local_path": "papers/downloads/software/edug-legacy-installer-page.html",
+    "kind": "html",
+    "content_type": "text/html",
+    "bytes": 5127,
+    "sha256": "3e762f76a0075ac1f2f1e48d5839c44c154d6f2727beb193751406f85c4d233d",
+    "acquired_at": "2026-10-02T12:21:06.512860+00:00"
+  },
+  {
+    "source_url": "https://web.archive.org/web/20200901000000id_/https://www.irdp.ch/data/secure/1968/document/EduGUserGuide.pdf",
+    "final_url": "https://web.archive.org/web/20200604123914id_/https://www.irdp.ch/data/secure/1968/document/EduGUserGuide.pdf",
+    "local_path": "papers/downloads/software/edug-user-guide-2010.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1561007,
+    "sha256": "6dbcd87b43f3c543c6d302c2d6c35ec19fcf2541630766883e4a31e11bfd744b",
+    "acquired_at": "2026-10-02T12:16:26.435728+00:00"
+  },
+  {
+    "source_url": "https://www.irdp.ch/data/documents/Avertissement_windows-seven-vista_en.pdf",
+    "final_url": "https://www.irdp.ch/data/documents/Avertissement_windows-seven-vista_en.pdf",
+    "local_path": "papers/downloads/software/edug-windows-note.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 22933,
+    "sha256": "fdb9ebc24d969fb30b1212ba45537421c7c3abe15f2840a3a9e58db4e023cba7",
+    "acquired_at": "2026-10-02T12:19:59.089733+00:00"
+  },
+  {
+    "source_url": "https://osf.io/download/ek3ad/",
+    "final_url": "https://storage.googleapis.com/cos-osf-prod-files-us-east1/1fa3a8e019df9313615a221e8a51c971779dd08cf3bb6f2e136ac8778d72e7b8?response-content-disposition=attachment%3B%20filename%3D%22gempp_2026_csem_variances_v1.pdf%22%3B%20filename%2A%3DUTF-8%27%27gempp_2026_csem_variances_v1.pdf&GoogleAccessId=files-us%40cos-osf-prod.iam.gserviceaccount.com&Expires=1790943711&Signature=HrOGewu9oBX4ZbyG%2B7TGL1oCnAsdtKX4Ei5k6vDgn%2F2TRhw1irU3RlcsAKm9kZ%2FjOYgjUcicU%2BTagLqokHXFasFEQN%2FZJU3lKiqYYeuarPxDUsDwaGOpn1FjRi9CdSXUCMI%2BK1z6UmbaQ4lItv9dBFBP%2B3thNfdtoqeV70OZMAi7F0FKqbBf5eZ2HmsCb%2F8e7ahxp6bFKd%2FaOpk74%2B1usmqyvFIDLaPd9VSHrKoLE78GXpIaPTjBs44rvax7A4k2jMlOYyXctsBaWWOllRJhuGnK7lBiZB55UX%2BuCMgQ4tLL0%2BuFR9S8y0gC8goCDm%2FCYlfSm7rFcvdhHIigqkpvEw%3D%3D",
+    "local_path": "papers/downloads/software/gempp-2026-csem-sampling-variances.pdf",
+    "kind": "pdf",
+    "content_type": "application/octet-stream",
+    "bytes": 277851,
+    "sha256": "1fa3a8e019df9313615a221e8a51c971779dd08cf3bb6f2e136ac8778d72e7b8",
+    "acquired_at": "2026-10-02T12:20:51.807161+00:00"
+  },
+  {
+    "source_url": "https://arxiv.org/pdf/2411.17880",
+    "final_url": "https://arxiv.org/pdf/2411.17880",
+    "local_path": "papers/downloads/software/generalizit-2024-preprint.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 104570,
+    "sha256": "5f02c8ea6fd02e08af9118ca587a8db23c30130ef8eb2e51e445a7b399d64966",
+    "acquired_at": "2026-10-02T11:59:00.978073+00:00"
+  },
+  {
+    "source_url": "https://brennancrickgenova.org/download/genova-for-pc/?wpdmdl=236",
+    "final_url": "https://brennancrickgenova.org/download/genova-for-pc/?wpdmdl=236",
+    "local_path": "papers/downloads/software/genova-manual.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 23773394,
+    "sha256": "faf5b648f870ae4b21075224110d65459ebc658b59cf375f0405d712d00b7fa9",
+    "acquired_at": "2026-10-02T11:46:58.823771+00:00",
+    "container_path": "quarantine/archives/genova.zip",
+    "container_sha256": "7ee13589f8b70bb450b8a40410665b842af82528e5ce97485375b479d7dba4c4",
+    "container_member": "GENOVA for PC/Manual GENOVA ACT-TB43.pdf"
+  },
+  {
+    "source_url": "https://cran.r-project.org/web/packages/gt4ireval/gt4ireval.pdf",
+    "final_url": "https://cran.r-project.org/web/packages/gt4ireval/gt4ireval.pdf",
+    "local_path": "papers/downloads/software/gt4ireval-manual.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 96733,
+    "sha256": "b46d9bc54ca35ad8dac274fc5311c59c94b278bc9c008496ebebd6cbbda82617",
+    "acquired_at": "2026-10-02T12:19:58.267072+00:00"
+  },
+  {
+    "source_url": "https://cran.r-project.org/web/packages/gtheoryr/gtheoryr.pdf",
+    "final_url": "https://cran.r-project.org/web/packages/gtheoryr/gtheoryr.pdf",
+    "local_path": "papers/downloads/software/gtheoryr-manual.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 78470,
+    "sha256": "7b85c2caf7318d7afef48224cd2651ca2837b69bc1f625816ec437bec9b9ae4b",
+    "acquired_at": "2026-10-02T11:59:01.570291+00:00"
+  },
+  {
+    "source_url": "https://www.riped-online.com/articles/sagt-new-software-for-generalizability-analysis.pdf",
+    "final_url": "https://www.riped-online.com/articles/sagt-new-software-for-generalizability-analysis.pdf",
+    "local_path": "papers/downloads/software/hernandez-mendo-2016-sagt.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 646099,
+    "sha256": "84f0253c02dddb9fa7daaefe0fc5e2126da0df81464e32c98afc7110da4f6a25",
+    "acquired_at": "2026-10-02T12:17:50.966333+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/EJ1222666.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/EJ1222666.pdf",
+    "local_path": "papers/downloads/software/huebner-lucht-2019-gtheory.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 253754,
+    "sha256": "c4fd4d3e9026798f43b406da330716b81712e850bd62e0739b13c5809a17d90e",
+    "acquired_at": "2026-10-02T12:18:33.186423+00:00"
+  },
+  {
+    "source_url": "https://brennancrickgenova.org/download/jgenova1-and-user-manual/?wpdmdl=202",
+    "final_url": "https://brennancrickgenova.org/download/jgenova1-and-user-manual/?wpdmdl=202",
+    "local_path": "papers/downloads/software/jgenova-distribution-manual.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1887623,
+    "sha256": "3037afcfa50f3f090aed3e91a8fb94bd25716343ad2589dd700600e161704486",
+    "acquired_at": "2026-10-02T11:46:53.356682+00:00",
+    "container_path": "quarantine/archives/jgenova-distribution.zip",
+    "container_sha256": "dedf163aa4c59ae4d9282c33328f4a69377a0e4ff5d813a0548f2eb147268466",
+    "container_member": "jGENOVA User Manual.pdf"
+  },
+  {
+    "source_url": "https://brennancrickgenova.org/download/mgenova-for-pc/?wpdmdl=240",
+    "final_url": "https://brennancrickgenova.org/download/mgenova-for-pc/?wpdmdl=240",
+    "local_path": "papers/downloads/software/mgenova-manual.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 749740,
+    "sha256": "77582da236aefc6f2c28eaa02aa385a14b4a5e0c1c6656fc20345f73a4afd87a",
+    "acquired_at": "2026-10-02T11:46:56.515830+00:00",
+    "container_path": "quarantine/archives/mgenova.zip",
+    "container_sha256": "68c7d49430d9825a2526ccc4da01311ff31e0cfc8ec89189d0797c86cd04ad0e",
+    "container_member": "mGENOVA for PC/mGENOVA_manual.pdf"
+  },
+  {
+    "source_url": "https://link.springer.com/content/pdf/10.3758/BF03192810.pdf",
+    "final_url": "https://link.springer.com/content/pdf/10.3758/BF03192810.pdf?error=cookies_not_supported&code=5bef0da4-7b59-4d5b-8fe2-95ac9f40f71b",
+    "local_path": "papers/downloads/software/mushquash-oconnor-2006.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 109568,
+    "sha256": "2a19bc94dedc5b053fca676d7980693daf46117df500fa41bc348e84eab8ae79",
+    "acquired_at": "2026-10-02T11:59:02.017372+00:00"
+  },
+  {
+    "source_url": "https://julian-urbano.info/files/publications/055-measurement-test-collection-reliability.pdf",
+    "final_url": "https://julian-urbano.info/files/publications/055-measurement-test-collection-reliability.pdf",
+    "local_path": "papers/downloads/software/urbano-2013-test-collection.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 691065,
+    "sha256": "dec1a1d8a1b914bd4e5fc919a5090f0e545e1b18bda91194cec3eaf200f5808b",
+    "acquired_at": "2026-10-02T12:17:42.717844+00:00"
+  },
+  {
+    "source_url": "https://brennancrickgenova.org/download/urgenova-for-pc/?wpdmdl=243",
+    "final_url": "https://brennancrickgenova.org/download/urgenova-for-pc/?wpdmdl=243",
+    "local_path": "papers/downloads/software/urgenova-manual.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 404389,
+    "sha256": "d948cd87018e5e55e5bb83aad8af88e95b25d104905facc01ff851bc7c132b50",
+    "acquired_at": "2026-10-02T11:46:56.166385+00:00",
+    "container_path": "quarantine/archives/urgenova.zip",
+    "container_sha256": "d22f3171ddd6b8993f057c1609252da2f271ce4c318d6d97190012eecde4c61f",
+    "container_member": "urGENOVA for PC/urGENOVA_manual.pdf"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/ED423304.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/ED423304.pdf",
+    "local_path": "papers/downloads/uncertainty/betebenner-1998-improved-ci.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 252488,
+    "sha256": "0e0409522e4bf183a023b11e6b5658d2785394b2bf9d58a698bd45228bba24a2",
+    "acquired_at": "2026-10-02T11:55:28.577015+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-21-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-21-archived.pdf",
+    "local_path": "papers/downloads/uncertainty/brennan-2006-bootstrap-unbiased.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1593804,
+    "sha256": "ed67584d27e0db0ee4c80bda5a61a68f948dc2603099bc17822c137a242fb107",
+    "acquired_at": "2026-10-02T11:55:28.368178+00:00"
+  },
+  {
+    "source_url": "https://www.act.org/content/dam/act/unsecured/documents/ACT_RR87-07.pdf",
+    "final_url": "https://www.act.org/content/dam/act/unsecured/documents/ACT_RR87-07.pdf",
+    "local_path": "papers/downloads/uncertainty/brennan-harris-hanson-1987-bootstrap.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1348505,
+    "sha256": "5d40e83b5ecb4394b16bc6915d27272383494d83a4cbe94cd0b5bb6dcb8da1d0",
+    "acquired_at": "2026-10-02T11:56:13.585776+00:00"
+  },
+  {
+    "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228698/",
+    "final_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228698/",
+    "local_path": "papers/downloads/uncertainty/jiang-2022-coefficient-ci.html",
+    "kind": "html",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 227774,
+    "sha256": "b744872eee0fefff3c0f788d8ec046e456a2c73f1f9deb3dd0fd1a2adf07c186",
+    "acquired_at": "2026-10-02T11:57:48.010085+00:00"
+  },
+  {
+    "source_url": "https://ncme.org/wp-content/uploads/2026/01/Educational-Measurement-Fifth-Edition-Chapter-05.pdf",
+    "final_url": "https://ncme.org/wp-content/uploads/2026/01/Educational-Measurement-Fifth-Edition-Chapter-05.pdf",
+    "local_path": "papers/downloads/uncertainty/lee-harris-2025-reliability-chapter.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1453956,
+    "sha256": "057afdc9eb8b65cb35006805413d52aa20d484a3767ade18ac08ff5d49c06490",
+    "acquired_at": "2026-10-02T11:52:41.992922+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-58-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-58-archived.pdf",
+    "local_path": "papers/downloads/uncertainty/lee-harris-liu-chang-2025-reliability.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 803231,
+    "sha256": "4120522f872c08744e508290ad7aa3564a59e7bad13ea47c088c3b1fedf141ac",
+    "acquired_at": "2026-10-02T11:55:28.012397+00:00"
+  },
+  {
+    "source_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0288069&type=printable",
+    "final_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0288069&type=printable",
+    "local_path": "papers/downloads/uncertainty/li-2023-bootstrap-rules.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 644892,
+    "sha256": "2379c855be1017ed128693848e37b277a3d3579fa80ed1ace8786b88d6ed8328",
+    "acquired_at": "2026-10-02T11:55:29.541435+00:00"
+  },
+  {
+    "source_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0336869&type=printable",
+    "final_url": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0336869&type=printable",
+    "local_path": "papers/downloads/uncertainty/li-2025-correction.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 65541,
+    "sha256": "fe19b8ed2b527c4b1a7bcae1e69210c714d84f4b8b9f475b85e9d08f6d6f18bd",
+    "acquired_at": "2026-10-02T11:55:29.091923+00:00"
+  },
+  {
+    "source_url": "https://journal.psych.ac.cn/xlxb/CN/article/downloadArticleFile.do?attachType=PDF&id=5",
+    "final_url": "https://journal.psych.ac.cn/xlxb/CN/article/downloadArticleFile.do?attachType=PDF&id=5",
+    "local_path": "papers/downloads/uncertainty/li-zhang-2009-variability.pdf",
+    "kind": "pdf",
+    "content_type": "application/octet-stream",
+    "bytes": 382742,
+    "sha256": "7fa3adc49b43689a7d99f5f522c2025dac22ed6010052896d5badfbe6f389703",
+    "acquired_at": "2026-10-02T12:01:12.383061+00:00"
+  },
+  {
+    "source_url": "https://journal.psych.ac.cn/xlxb/CN/article/downloadArticleFile.do?attachType=PDF&id=3485",
+    "final_url": "https://journal.psych.ac.cn/xlxb/CN/article/downloadArticleFile.do?attachType=PDF&id=3485",
+    "local_path": "papers/downloads/uncertainty/li-zhang-2013-adjusted-bootstrap.pdf",
+    "kind": "pdf",
+    "content_type": "application/octet-stream",
+    "bytes": 398517,
+    "sha256": "6215377aa572a190bc01e09bbd7d604f3063d0edcf8720c7ba05e646e25f6e4e",
+    "acquired_at": "2026-10-02T12:00:32.619122+00:00"
+  },
+  {
+    "source_url": "https://discovery.ucl.ac.uk/id/eprint/10066118/1/2019%20-%20Morris%20-%20simulation%20studies%20tutorial%20-%20stat%20med.pdf",
+    "final_url": "https://discovery.ucl.ac.uk/id/eprint/10066118/1/2019%20-%20Morris%20-%20simulation%20studies%20tutorial%20-%20stat%20med.pdf",
+    "local_path": "papers/downloads/uncertainty/morris-white-crowther-2019-simulation.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1870265,
+    "sha256": "3aec72851ec6dc1e61a8921c4e0fa69b4b7722b73d26a764b423e53d0e6f106d",
+    "acquired_at": "2026-10-02T11:58:21.403983+00:00"
+  },
+  {
+    "source_url": "https://artowen.su.domains/reports/pbs2.pdf",
+    "final_url": "https://artowen.su.domains/reports/pbs2.pdf",
+    "local_path": "papers/downloads/uncertainty/owen-2007-pigeonhole.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1880587,
+    "sha256": "bb3484c7567d95892e63b7c9af1dc60f1c4075e00f7312355056fee17fcf958f",
+    "acquired_at": "2026-10-02T11:57:49.087729+00:00"
+  },
+  {
+    "source_url": "https://arxiv.org/pdf/1106.2125",
+    "final_url": "https://arxiv.org/pdf/1106.2125",
+    "local_path": "papers/downloads/uncertainty/owen-eckles-2012-data-arrays.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 408281,
+    "sha256": "2292aba23e87a87c75e66ea71e4f05c0f08ca645224e140e04266f0e7edf372b",
+    "acquired_at": "2026-10-02T11:57:48.010713+00:00"
+  },
+  {
+    "source_url": "https://files.eric.ed.gov/fulltext/EJ1059904.pdf",
+    "final_url": "https://files.eric.ed.gov/fulltext/EJ1059904.pdf",
+    "local_path": "papers/downloads/uncertainty/sample-size-2013.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 2359171,
+    "sha256": "b3077a1b9d4d9246b1e1c1cf4fe3a45ca0ae2a4ef3f9c3d57e2b3239d555ea47",
+    "acquired_at": "2026-10-02T11:55:29.565465+00:00"
+  },
+  {
+    "source_url": "https://www.stat.cmu.edu/~brian/763-2015/week06/papers/self-liang-1987.pdf",
+    "final_url": "https://www.stat.cmu.edu/~brian/763-2015/week06/papers/self-liang-1987.pdf",
+    "local_path": "papers/downloads/uncertainty/self-liang-1987-boundary.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 1054920,
+    "sha256": "9e52f99ab938661a634a64654b69b86e854710913aaa1bfffa6c357f55700cc1",
+    "acquired_at": "2026-10-02T11:58:43.998264+00:00"
+  },
+  {
+    "source_url": "https://wtgrantfoundation.org/wp-content/uploads/2015/09/Confidence-Bounds-and-Power-for-the-Reliability-of-Observational-Measures-on-the-Quality-of-a-Social-Setting.pdf",
+    "final_url": "https://wtgrantfoundation.org/wp-content/uploads/2015/09/Confidence-Bounds-and-Power-for-the-Reliability-of-Observational-Measures-on-the-Quality-of-a-Social-Setting.pdf",
+    "local_path": "papers/downloads/uncertainty/shin-raudenbush-2012-confidence-bounds.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 288875,
+    "sha256": "18e0cf8cf11f2aeaa6b3f1cda885e99ece59a7355583c22ed71b93ebd4f7bae4",
+    "acquired_at": "2026-10-02T11:57:14.400679+00:00"
+  },
+  {
+    "source_url": "https://www.stat.cmu.edu/~brian/720-2007-source/week07-08-ideas/stram-lee-1994-varcomp-testing.pdf",
+    "final_url": "https://www.stat.cmu.edu/~brian/720-2007-source/week07-08-ideas/stram-lee-1994-varcomp-testing.pdf",
+    "local_path": "papers/downloads/uncertainty/stram-lee-1994-boundary.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 264383,
+    "sha256": "836f6e496969e369951584be26863cf92321a457c918a01ca508a54304b48818",
+    "acquired_at": "2026-10-02T11:58:18.623861+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-5-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-5-archived.pdf",
+    "local_path": "papers/downloads/uncertainty/tong-brennan-2004-bootstrap-se.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 508102,
+    "sha256": "4198d986964db22cd2e5bab39fa6dcd8688a17a43cfab48bc35c4f28988e0799",
+    "acquired_at": "2026-10-02T11:55:27.776800+00:00"
+  },
+  {
+    "source_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-15-archived.pdf",
+    "final_url": "https://education.uiowa.edu/sites/education.uiowa.edu/files/2026-04/casma-research-report-15-archived.pdf",
+    "local_path": "papers/downloads/uncertainty/tong-brennan-2006-bootstrap.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 189800,
+    "sha256": "ad0ee3f07edc4a36074e2f60ff637e1e467c100ad3f0f234c2a3d939b2ab9480",
+    "acquired_at": "2026-10-02T11:55:27.764350+00:00"
+  },
+  {
+    "source_url": "https://arxiv.org/pdf/2509.00255",
+    "final_url": "https://arxiv.org/pdf/2509.00255",
+    "local_path": "papers/downloads/uncertainty/universal-inference-2025.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "bytes": 440604,
+    "sha256": "0576349a4f8c729574d11a80ce3b622fa7a5a219348be403a868ef59ffa97864",
+    "acquired_at": "2026-10-02T11:58:43.654914+00:00"
+  }
+]

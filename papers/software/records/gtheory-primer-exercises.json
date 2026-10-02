@@ -1,0 +1,20 @@
+{
+  "id": "gtheory-primer-exercises",
+  "source_url": "https://github.com/t-clark04/Summer-Research-Exercises-2024",
+  "revision": "0b348fe5f4ba86e18d2c3358c7365e810205563a",
+  "archive_url": "https://codeload.github.com/t-clark04/Summer-Research-Exercises-2024/tar.gz/0b348fe5f4ba86e18d2c3358c7365e810205563a",
+  "archive_path": "quarantine/archives/gtheory-primer-exercises.tar.gz",
+  "archive_sha256": "c5c49923d3280b96a65f64825448ccf958bde8a7ef9d76957114dfb6bcde130a",
+  "archive_bytes": 8099,
+  "extracted_path": "quarantine/references/gtheory-primer-exercises",
+  "extracted_files": 6,
+  "excluded_paths": [
+    "Summer-Research-Exercises-2024-0b348fe5f4ba86e18d2c3358c7365e810205563a"
+  ],
+  "strip_root": true,
+  "license_note": "No GitHub-recognized license; inspect source",
+  "description": "Chapter exercises from Generalizability Theory: A Primer",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:59:22.108136+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only gtheory-primer-exercises"
+}

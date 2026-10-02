@@ -1,0 +1,898 @@
+{
+  "lane": "applications",
+  "searched_at": "2026-10-02",
+  "scope": "Education/performance/language/medical OSCE/workplace/personality/state-trait/psychophysiology/neuroimaging/information retrieval/AI evaluations",
+  "search_log_kind": "Query-family synopsis with exact per-URL acquisition attempts; not a raw browser-event transcript",
+  "query_families": [
+    "generalizability theory education performance assessment Shavelson Baxter Gao1993 pdf",
+    "generalizability theory language assessment In nami Koizumi2016 tasks raters meta analysis",
+    "generalizability theory workplace assessment Crossley Davies Humphris Jolly2002",
+    "generalizability theory neuroimaging fMRI reliability generalizability study",
+    "generalizability theory personality state trait Medvedev generalizability mindfulness",
+    "generalizability theory information retrieval Urbano Marrero Mizzaro test collection reliability",
+    "generalizability theory ERP Clayson Miller2017 reliability toolbox DOI",
+    "generalizability theory Baldwin2015 ERP personality reliability",
+    "generalizability theory Big Five Inventory Arterberry Martens Cadigan2014",
+    "Lakes Hoyt2009 generalizability theory child behavior reliability",
+    "Briesch Swaminathan Welsh Chafouleas2014 generalizability practical guide pdf uconn",
+    "Generalizability theory for the perplexed pdf mcmaster",
+    "Beyond classical metrics pdf Rocha",
+    "generalizability LLM reliability fairness",
+    "Generalizability OSCE1998 Regehr checklist global",
+    "Generalizability workplace Crossley2011",
+    "Clarifying the Scope G Theory Jackson2022",
+    "Generalizability theory Bachman Lynch Mason",
+    "A review of Generalizability Theory1976 2013",
+    "generalizability Putka Hoffman2013",
+    "generalizability Urbano2015 robustness statistical assumptions",
+    "Hill Charalambous Kraft2012 generalizability",
+    "On the Measurement of Test Collection Reliability doi pdf",
+    "Assessing reliability in neuroimaging research ICED PMC",
+    "Generalizability theory Briesch filetype:pdf site:neu.edu",
+    "Generalizability theory for the perplexed filetype:pdf site:edu",
+    "Task and rater effects pdf site:ac.jp",
+    "When Rater Reliability Is Not Enough filetype:pdf site:edu",
+    "Measuring Mindfulness Medvedev filetype:pdf site:ac.nz",
+    "ERP Reliability Analysis pdf Clayson Miller2017",
+    "Enhancing generalizability theory Rast pdf",
+    "Everything That You Have Ever Been Told Jackson2016 doi",
+    "ERP Reliability Analysis filetype:pdf site:peterclayson.com",
+    "test-retest reliability of ERP scores part1 filetype:pdf site:edu",
+    "10.24926/iip.v12i1.2110 PMC",
+    "10.24926/iip.v12i1.2235 PMC",
+    "A Practical Guide to Investigating Score Reliability Lin2015",
+    "Reliability of an fMRI paradigm Clarification authors doi",
+    "Influences on the Test–Retest Reliability doi",
+    "Reliability of an fMRI paradigm for emotional processing2015 DOI"
+  ],
+  "discovery_sources": [
+    "primary publisher pages",
+    "author university repositories",
+    "NIH PubMed/PMC",
+    "Europe PMC API",
+    "Crossref publisher-deposited metadata",
+    "ERIC",
+    "CRESST",
+    "arXiv",
+    "SSRN",
+    "author-maintained reference READMEs and bibliographies"
+  ],
+  "bibliography_expansion": [
+    "Pharmacy primer refs42–44 -> OSCE/exams/quizzes companions",
+    "PsyRAT bibliography -> ERA2017/retest2021/subject2021/difference2021/Rocha2026/Rast2026",
+    "gt4ireval README -> Urbano2013 -> Urbano2016 stochastic robustness",
+    "ICED primary fulltext -> OSFt68my and8n24x",
+    "Rast2026 primary fulltext -> OSF5rn6u",
+    "Mindfulness2017 publisher references -> BFI2014 and state/trait distinctions"
+  ],
+  "metadata_corrections": [
+    "Guessed Noble DOI bhx109 resolved to unrelated paper; rejected and replaced with verified bhx230. No unrelated paper remains in catalogue.",
+    "Jackson2016 manuscript header corrected provisional title; primary KCL record verifies10.1037/apl0000102.",
+    "Lin2015 guide is a primary sparse-rating simulation comparison, not merely a generic introduction.",
+    "EPMC query field corrected from EXT_ID to PMCID; author-consortium metadata handled explicitly.",
+    "Stable internal discovery slugs retain earlier years, but catalogue uses verified issue-publication years.",
+    "Identity audit separated CSE Technical Report361(March1993) from its September1993journal DOI article; report has different author order. Journal remains metadata-only.",
+    "Identity audit separated ERIC ED368154 conference paper(August1993) from related1995journal DOI article. Journal remains metadata-only.",
+    "Removed Crossref title markup(<scp>) from Baldwin2015; expanded Briggs/Alzen names and retained Cannon collective-author attribution exactly as primary PMC metadata."
+  ],
+  "acquisitions": [
+    {
+      "id": "applications-briesch2014",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0022440513001106/pdfft",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.sciencedirect.com/science/article/pii/S0022440513001106/pdfft\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        },
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0022440513001106/pdfft",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.sciencedirect.com/science/article/pii/S0022440513001106/pdfft\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        }
+      ],
+      "metadata_failure": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "id": "applications-bloch-norman2012",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://www.tandfonline.com/doi/pdf/10.3109/0142159X.2012.703791",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.tandfonline.com/doi/pdf/10.3109/0142159X.2012.703791\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        },
+        {
+          "url": "https://www.tandfonline.com/doi/pdf/10.3109/0142159X.2012.703791",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.tandfonline.com/doi/pdf/10.3109/0142159X.2012.703791\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-shavelson1993",
+      "status": "metadata_only",
+      "attempts": [],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-hill2012",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://scholar.harvard.edu/files/mkraft/files/hill_charalambous_kraft_2012.pdf",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://scholar.harvard.edu/files/mkraft/files/hill_charalambous_kraft_2012.pdf\", \"status\": \"failed\", \"reason\": \"HTTP Error 503: Service Unavailable\"}"
+        },
+        {
+          "url": "https://scholar.harvard.edu/sites/scholar.harvard.edu/files/mkraft/files/hill_charalambous_kraft_2012._when_rater_reliability_is_not_enough_-_edr..pdf",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://scholar.harvard.edu/sites/scholar.harvard.edu/files/mkraft/files/hill_charalambous_kraft_2012._when_rater_reliability_is_not_enough_-_edr..pdf\", \"status\": \"failed\", \"reason\": \"HTTP Error 503: Service Unavailable\"}"
+        }
+      ],
+      "metadata_failure": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "id": "applications-teacher-time",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7328239/fullTextXML",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC7328239/fullTextXML\", \"status\": \"failed\", \"reason\": \"HTTP Error 500: \"}"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7328239/?report=xml",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC7328239/?report=xml\", \"final_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC7328239/?report=xml\", \"local_path\": \"papers/downloads/applications/teacher-time.html\", \"kind\": \"html\", \"content_type\": \"text/html; charset=utf-8\", \"bytes\": 278048, \"sha256\": \"9a1e6703c18c379048fd95c6f8fd86cd1ea8343b2ebb6349981b16c1fd451bfe\", \"acquired_at\": \"2026-10-02T12:02:35.582821+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-bachman1995",
+      "status": "metadata_only",
+      "attempts": [],
+      "metadata_failure": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "id": "applications-innami-koizumi2016",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://journals.sagepub.com/doi/pdf/10.1177/0265532215587390",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://journals.sagepub.com/doi/pdf/10.1177/0265532215587390\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        },
+        {
+          "url": "https://journals.sagepub.com/doi/pdf/10.1177/0265532215587390",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://journals.sagepub.com/doi/pdf/10.1177/0265532215587390\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-reading2015",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.jstage.jst.go.jp/article/jltajournal/18/0/18_92/_pdf",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://www.jstage.jst.go.jp/article/jltajournal/18/0/18_92/_pdf\", \"final_url\": \"https://www.jstage.jst.go.jp/article/jltajournal/18/0/18_92/_pdf\", \"local_path\": \"papers/downloads/applications/reading2015.pdf\", \"kind\": \"pdf\", \"content_type\": \"application/pdf;charset=UTF-8\", \"bytes\": 1274955, \"sha256\": \"c865bc574803eebfddce8a680b3debe632f96ca2b4473003159f27767635801a\", \"acquired_at\": \"2026-10-02T12:00:30.954702+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-pharmacy-primer2021",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102977/fullTextXML",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102977/fullTextXML\", \"final_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102977/fullTextXML\", \"local_path\": \"papers/downloads/applications/pharmacy-primer2021.xml\", \"kind\": \"text\", \"content_type\": \"application/xml\", \"bytes\": 109971, \"sha256\": \"9c08aca7b330a348947efd22961f93b09bbf359f98fd54278de3897ef5dc248f\", \"acquired_at\": \"2026-10-02T12:00:26.414924+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-pharmacy-course2021",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102975/fullTextXML",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102975/fullTextXML\", \"final_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102975/fullTextXML\", \"local_path\": \"papers/downloads/applications/pharmacy-course2021.xml\", \"kind\": \"text\", \"content_type\": \"application/xml\", \"bytes\": 38250, \"sha256\": \"734de3ef884ad02133a9e09bb75beb058e7a43860846f81e248c05e230f4ff95\", \"acquired_at\": \"2026-10-02T12:00:26.197767+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-crossley2002",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://asmepublications.onlinelibrary.wiley.com/doi/pdf/10.1046/j.1365-2923.2002.01320.x",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://asmepublications.onlinelibrary.wiley.com/doi/pdf/10.1046/j.1365-2923.2002.01320.x\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        },
+        {
+          "url": "https://asmepublications.onlinelibrary.wiley.com/doi/pdf/10.1046/j.1365-2923.2002.01320.x",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://asmepublications.onlinelibrary.wiley.com/doi/pdf/10.1046/j.1365-2923.2002.01320.x\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-mini-cex-laboratory",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3569586/fullTextXML",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3569586/fullTextXML\", \"final_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3569586/fullTextXML\", \"local_path\": \"papers/downloads/applications/mini-cex-laboratory.xml\", \"kind\": \"text\", \"content_type\": \"application/xml\", \"bytes\": 58691, \"sha256\": \"0417ee3d8c10bb5011d33e512580023272821f05035bb58fed9f9f813fd5ec83\", \"acquired_at\": \"2026-10-02T12:00:28.215302+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-crossley2011",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://asmepublications.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2923.2010.03913.x",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://asmepublications.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2923.2010.03913.x\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        },
+        {
+          "url": "https://asmepublications.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2923.2010.03913.x",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://asmepublications.onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2923.2010.03913.x\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-putka-hoffman2013",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://www.apa.org/pubs/journals/features/apl-a0030887.pdf",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.apa.org/pubs/journals/features/apl-a0030887.pdf\", \"status\": \"failed\", \"reason\": \"response is not a PDF (possibly an access page)\"}"
+        },
+        {
+          "url": "https://www.apa.org/pubs/journals/features/apl-a0030887.pdf",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.apa.org/pubs/journals/features/apl-a0030887.pdf\", \"status\": \"failed\", \"reason\": \"response is not a PDF (possibly an access page)\"}"
+        }
+      ],
+      "metadata_failure": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "id": "applications-jackson2022",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://ueaeprints.uea.ac.uk/id/document/97064",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://ueaeprints.uea.ac.uk/id/document/97064\", \"final_url\": \"https://ueaeprints.uea.ac.uk/id/eprint/84936/1/Scope_of_G_Theory_Full_Paper_Unmasked_NZJP_accepted.pdf\", \"local_path\": \"papers/downloads/applications/jackson2022.pdf\", \"kind\": \"pdf\", \"content_type\": \"application/pdf\", \"bytes\": 440168, \"sha256\": \"b2b80b3a32ec4259f79275648130b78e84dc1c87349bafb9a1387b6ce953c90d\", \"acquired_at\": \"2026-10-02T12:00:28.164008+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-jackson-confounds2016",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://eprints.bbk.ac.uk/id/eprint/14241/1/14241.pdf",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://eprints.bbk.ac.uk/id/eprint/14241/1/14241.pdf\", \"final_url\": \"https://eprints.bbk.ac.uk/id/eprint/14241/1/14241.pdf\", \"local_path\": \"papers/downloads/applications/jackson-confounds2016.pdf\", \"kind\": \"pdf\", \"content_type\": \"application/pdf\", \"bytes\": 1046287, \"sha256\": \"94c6f99630b7a65b24c44a232720152e064b5e10384646521e8d5c6c144ee529\", \"acquired_at\": \"2026-10-02T12:00:27.897184+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-lakes-hoyt2009",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3650138/fullTextXML",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3650138/fullTextXML\", \"status\": \"failed\", \"reason\": \"HTTP Error 500: \"}"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3650138/?report=xml",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC3650138/?report=xml\", \"final_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC3650138/?report=xml\", \"local_path\": \"papers/downloads/applications/lakes-hoyt2009.html\", \"kind\": \"html\", \"content_type\": \"text/html; charset=utf-8\", \"bytes\": 346683, \"sha256\": \"6496d48c61b020c7e095630b12f3855eef15668b0ee9c686d3eb47dacfd6695b\", \"acquired_at\": \"2026-10-02T12:02:36.093343+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-lakes-hoyt2008",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4083611/fullTextXML",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4083611/fullTextXML\", \"status\": \"failed\", \"reason\": \"HTTP Error 500: \"}"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4083611/?report=xml",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC4083611/?report=xml\", \"final_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC4083611/?report=xml\", \"local_path\": \"papers/downloads/applications/lakes-hoyt2008.html\", \"kind\": \"html\", \"content_type\": \"text/html; charset=utf-8\", \"bytes\": 180760, \"sha256\": \"cdf5cda19b00af17be7e6e01b3849f4eecf44caa3c045b7e5fc934c7a7eb7915\", \"acquired_at\": \"2026-10-02T12:02:36.032320+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-lakes-restricted",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3657319/fullTextXML",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC3657319/fullTextXML\", \"status\": \"failed\", \"reason\": \"HTTP Error 500: \"}"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3657319/?report=xml",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC3657319/?report=xml\", \"final_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC3657319/?report=xml\", \"local_path\": \"papers/downloads/applications/lakes-restricted.html\", \"kind\": \"html\", \"content_type\": \"text/html; charset=utf-8\", \"bytes\": 200773, \"sha256\": \"400cb185840a4d6d1ce0142713232a7720709bfa921b50190ddaf3022326fb70\", \"acquired_at\": \"2026-10-02T12:02:36.077324+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-arterberry2014",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4236721/fullTextXML",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4236721/fullTextXML\", \"status\": \"failed\", \"reason\": \"HTTP Error 500: \"}"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4236721/?report=xml",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC4236721/?report=xml\", \"final_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC4236721/?report=xml\", \"local_path\": \"papers/downloads/applications/arterberry2014.html\", \"kind\": \"html\", \"content_type\": \"text/html; charset=utf-8\", \"bytes\": 186952, \"sha256\": \"35ab9c8f44b78cbe0942c03d38906894545dfd67049015658eb46c6b22c4cf99\", \"acquired_at\": \"2026-10-02T12:02:36.336182+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-medvedev2017",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/s12671-017-0679-0.pdf",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://link.springer.com/content/pdf/10.1007/s12671-017-0679-0.pdf\", \"status\": \"failed\", \"reason\": \"response is not a PDF (possibly an access page)\"}"
+        },
+        {
+          "url": "https://link.springer.com/content/pdf/10.1007/s12671-017-0679-0.pdf",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://link.springer.com/content/pdf/10.1007/s12671-017-0679-0.pdf\", \"status\": \"failed\", \"reason\": \"response is not a PDF (possibly an access page)\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-selfcompassion2021",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://self-compassion.org/wp-content/uploads/2021/11/Medvedev-et-al.-2021-Applying-Generalizability-Theory-to-the-Self-Compa.pdf",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://self-compassion.org/wp-content/uploads/2021/11/Medvedev-et-al.-2021-Applying-Generalizability-Theory-to-the-Self-Compa.pdf\", \"final_url\": \"https://self-compassion.org/wp-content/uploads/2021/11/Medvedev-et-al.-2021-Applying-Generalizability-Theory-to-the-Self-Compa.pdf\", \"local_path\": \"papers/downloads/applications/selfcompassion2021.pdf\", \"kind\": \"pdf\", \"content_type\": \"application/pdf\", \"bytes\": 331875, \"sha256\": \"af9ad0d4ed56e8a4044a7738c36beaf0c41fb2252cd9054e510ac8996647d6eb\", \"acquired_at\": \"2026-10-02T12:00:29.478619+00:00\"}"
+        }
+      ],
+      "metadata_failure": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "id": "applications-hoyt-melby1999",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://journals.sagepub.com/doi/pdf/10.1177/0011000099273003",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://journals.sagepub.com/doi/pdf/10.1177/0011000099273003\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        },
+        {
+          "url": "https://journals.sagepub.com/doi/pdf/10.1177/0011000099273003",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://journals.sagepub.com/doi/pdf/10.1177/0011000099273003\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-baldwin2015",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/psyp.12401",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://onlinelibrary.wiley.com/doi/pdf/10.1111/psyp.12401\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        },
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/psyp.12401",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://onlinelibrary.wiley.com/doi/pdf/10.1111/psyp.12401\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        }
+      ],
+      "metadata_failure": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "id": "applications-era2017",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S016787601630736X/pdfft",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.sciencedirect.com/science/article/pii/S016787601630736X/pdfft\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        },
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S016787601630736X/pdfft",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.sciencedirect.com/science/article/pii/S016787601630736X/pdfft\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-erp-guidelines2017",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0167876016306973/pdfft",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.sciencedirect.com/science/article/pii/S0167876016306973/pdfft\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        },
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0167876016306973/pdfft",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.sciencedirect.com/science/article/pii/S0167876016306973/pdfft\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-erp-retest2021",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://osf.io/preprints/psyarxiv/kcven/download",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://osf.io/preprints/psyarxiv/kcven/download\", \"status\": \"failed\", \"reason\": \"response is not a PDF (possibly an access page)\"}"
+        },
+        {
+          "url": "https://osf.io/preprints/psyarxiv/kcven/download",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://osf.io/preprints/psyarxiv/kcven/download\", \"status\": \"failed\", \"reason\": \"response is not a PDF (possibly an access page)\"}"
+        },
+        {
+          "url": "https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=6836&context=facpub",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=6836&context=facpub\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        }
+      ],
+      "metadata_failure": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "id": "applications-erp-subject2021",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://osf.io/preprints/psyarxiv/ja6bw/download",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://osf.io/preprints/psyarxiv/ja6bw/download\", \"status\": \"failed\", \"reason\": \"response is not a PDF (possibly an access page)\"}"
+        },
+        {
+          "url": "https://osf.io/preprints/psyarxiv/ja6bw/download",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://osf.io/preprints/psyarxiv/ja6bw/download\", \"status\": \"failed\", \"reason\": \"response is not a PDF (possibly an access page)\"}"
+        }
+      ],
+      "metadata_failure": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "id": "applications-erp-difference2021",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://osf.io/preprints/psyarxiv/nqwz6/download",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://osf.io/preprints/psyarxiv/nqwz6/download\", \"status\": \"failed\", \"reason\": \"response is not a PDF (possibly an access page)\"}"
+        },
+        {
+          "url": "https://osf.io/preprints/psyarxiv/nqwz6/download",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://osf.io/preprints/psyarxiv/nqwz6/download\", \"status\": \"failed\", \"reason\": \"response is not a PDF (possibly an access page)\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-rocha2026",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0167876026000036/pdfft",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.sciencedirect.com/science/article/pii/S0167876026000036/pdfft\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13156807/fullTextXML",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13156807/fullTextXML\", \"final_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13156807/fullTextXML\", \"local_path\": \"papers/downloads/applications/rocha2026.xml\", \"kind\": \"text\", \"content_type\": \"application/xml\", \"bytes\": 328424, \"sha256\": \"bf1397cc02de1498cc0541e09462ec82081d515ca2a8bac8b6e75c3f1278d534\", \"acquired_at\": \"2026-10-02T12:02:39.444572+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-rast-clayson2026",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.70026",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1111/bmsp.70026\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13410726/fullTextXML",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13410726/fullTextXML\", \"final_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13410726/fullTextXML\", \"local_path\": \"papers/downloads/applications/rast-clayson2026.xml\", \"kind\": \"text\", \"content_type\": \"application/xml\", \"bytes\": 221582, \"sha256\": \"59436cbe66e1e7a1db4b186c722b3887d9ae9df5394ac1a2496ec999cb53899a\", \"acquired_at\": \"2026-10-02T12:02:40.178328+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-fmri-working2014",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4065837/fullTextXML",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4065837/fullTextXML\", \"status\": \"failed\", \"reason\": \"HTTP Error 500: \"}"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4065837/?report=xml",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC4065837/?report=xml\", \"final_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC4065837/?report=xml\", \"local_path\": \"papers/downloads/applications/fmri-working2014.html\", \"kind\": \"html\", \"content_type\": \"text/html; charset=utf-8\", \"bytes\": 278322, \"sha256\": \"4351abafc0724b08375861817f157dbdfbfed26beb4cf73e3b6cb47b75a1188f\", \"acquired_at\": \"2026-10-02T12:02:37.510762+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-fmri-clarification2017",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5718980/fullTextXML",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5718980/fullTextXML\", \"status\": \"failed\", \"reason\": \"HTTP Error 500: \"}"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5718980/?report=xml",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC5718980/?report=xml\", \"final_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC5718980/?report=xml\", \"local_path\": \"papers/downloads/applications/fmri-clarification2017.html\", \"kind\": \"html\", \"content_type\": \"text/html; charset=utf-8\", \"bytes\": 125071, \"sha256\": \"8971ae222c9317d42b10ca05a18c582748d242233c3618c41b750d39096a1ff6\", \"acquired_at\": \"2026-10-02T12:02:37.997969+00:00\"}"
+        }
+      ],
+      "metadata_failure": "'fullName'"
+    },
+    {
+      "id": "applications-connectomic2017",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6676966/fullTextXML",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6676966/fullTextXML\", \"status\": \"failed\", \"reason\": \"HTTP Error 500: \"}"
+        },
+        {
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6676966/?report=xml",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC6676966/?report=xml\", \"final_url\": \"https://pmc.ncbi.nlm.nih.gov/articles/PMC6676966/?report=xml\", \"local_path\": \"papers/downloads/applications/connectomic2017.html\", \"kind\": \"html\", \"content_type\": \"text/html; charset=utf-8\", \"bytes\": 288775, \"sha256\": \"c14b9764828da9b2badf21392e1973728429d36217855ef0e28fb734741703db\", \"acquired_at\": \"2026-10-02T12:02:38.687894+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-iced2018",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://elifesciences.org/articles/35718.pdf",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://elifesciences.org/articles/35718.pdf\", \"status\": \"failed\", \"reason\": \"response is not a PDF (possibly an access page)\"}"
+        },
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6044907/fullTextXML",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6044907/fullTextXML\", \"final_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6044907/fullTextXML\", \"local_path\": \"papers/downloads/applications/iced2018.xml\", \"kind\": \"text\", \"content_type\": \"application/xml\", \"bytes\": 164188, \"sha256\": \"c2a540a5a556f8f5723d4de98cfe25343a19edfad77adec9222eff68e38ed068\", \"acquired_at\": \"2026-10-02T12:02:40.748582+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-bodoff2008",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0306457307002129/pdfft",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.sciencedirect.com/science/article/pii/S0306457307002129/pdfft\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        },
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0306457307002129/pdfft",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.sciencedirect.com/science/article/pii/S0306457307002129/pdfft\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-urbano2013",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://julian-urbano.info/files/publications/055-measurement-test-collection-reliability.pdf",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://julian-urbano.info/files/publications/055-measurement-test-collection-reliability.pdf\", \"final_url\": \"https://julian-urbano.info/files/publications/055-measurement-test-collection-reliability.pdf\", \"local_path\": \"papers/downloads/applications/urbano2013.pdf\", \"kind\": \"pdf\", \"content_type\": \"application/pdf\", \"bytes\": 691065, \"sha256\": \"dec1a1d8a1b914bd4e5fc919a5090f0e545e1b18bda91194cec3eaf200f5808b\", \"acquired_at\": \"2026-10-02T12:00:32.773831+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-urbano2016",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://julian-urbano.info/files/publications/064-test-collection-reliability-study-bias-robustness-statistical-assumptions-stochastic-simulation.pdf",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://julian-urbano.info/files/publications/064-test-collection-reliability-study-bias-robustness-statistical-assumptions-stochastic-simulation.pdf\", \"final_url\": \"https://julian-urbano.info/files/publications/064-test-collection-reliability-study-bias-robustness-statistical-assumptions-stochastic-simulation.pdf\", \"local_path\": \"papers/downloads/applications/urbano2016.pdf\", \"kind\": \"pdf\", \"content_type\": \"application/pdf\", \"bytes\": 874085, \"sha256\": \"b204bd898e65a5326f271a8072619bd0c6b12cbbc4e124fdaeed21a7f4eb0b86\", \"acquired_at\": \"2026-10-02T12:00:33.251352+00:00\"}"
+        }
+      ],
+      "metadata_failure": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "id": "applications-ddr2026",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://arxiv.org/pdf/2608.11323",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://arxiv.org/pdf/2608.11323\", \"final_url\": \"https://arxiv.org/pdf/2608.11323\", \"local_path\": \"papers/downloads/applications/ddr2026.pdf\", \"kind\": \"pdf\", \"content_type\": \"application/pdf\", \"bytes\": 389193, \"sha256\": \"af601300703e06468836e6d977f9634686dd18b07e71dc0df5ae54f344a9b9f7\", \"acquired_at\": \"2026-10-02T12:00:33.545092+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-brand2026",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://arxiv.org/pdf/2607.13304",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://arxiv.org/pdf/2607.13304\", \"final_url\": \"https://arxiv.org/pdf/2607.13304\", \"local_path\": \"papers/downloads/applications/brand2026.pdf\", \"kind\": \"pdf\", \"content_type\": \"application/pdf\", \"bytes\": 349966, \"sha256\": \"dbb7253b7e280d755c3395e34e1e269239273c86426bb5a5ad0eab5cb2a0cf64\", \"acquired_at\": \"2026-10-02T12:00:33.532406+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-judge2026",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://arxiv.org/pdf/2609.27787",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://arxiv.org/pdf/2609.27787\", \"final_url\": \"https://arxiv.org/pdf/2609.27787\", \"local_path\": \"papers/downloads/applications/judge2026.pdf\", \"kind\": \"pdf\", \"content_type\": \"application/pdf\", \"bytes\": 480279, \"sha256\": \"0ff1d51b8f961b87010b5006224d7b2f5d15cd9a7795d6a0e70ef37c558b2158\", \"acquired_at\": \"2026-10-02T12:00:34.558581+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-liu-gt2026",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://papers.ssrn.com/sol3/Delivery.cfm/6432598.pdf?abstractid=6432598",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://papers.ssrn.com/sol3/Delivery.cfm/6432598.pdf?abstractid=6432598\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        },
+        {
+          "url": "https://papers.ssrn.com/sol3/Delivery.cfm/6432598.pdf?abstractid=6432598",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://papers.ssrn.com/sol3/Delivery.cfm/6432598.pdf?abstractid=6432598\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-llm-writing2025",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://arxiv.org/pdf/2507.19980",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://arxiv.org/pdf/2507.19980\", \"final_url\": \"https://arxiv.org/pdf/2507.19980\", \"local_path\": \"papers/downloads/applications/llm-writing2025.pdf\", \"kind\": \"pdf\", \"content_type\": \"application/pdf\", \"bytes\": 703633, \"sha256\": \"23aacc6b5897cd872927dfa316e35a1bc1d457b32a38cd4f824c558869a4c511\", \"acquired_at\": \"2026-10-02T12:00:34.649406+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-llm-writing-journal2025",
+      "status": "access_blocked",
+      "attempts": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S2666920X25001213/pdfft",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.sciencedirect.com/science/article/pii/S2666920X25001213/pdfft\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        },
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S2666920X25001213/pdfft",
+          "exit_code": 1,
+          "result": "{\"source_url\": \"https://www.sciencedirect.com/science/article/pii/S2666920X25001213/pdfft\", \"status\": \"failed\", \"reason\": \"HTTP Error 403: Forbidden\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-pharmacy-osce2021",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102968/fullTextXML",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102968/fullTextXML\", \"final_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102968/fullTextXML\", \"local_path\": \"papers/downloads/applications/pharmacy-osce2021.xml\", \"kind\": \"text\", \"content_type\": \"application/xml\", \"bytes\": 43735, \"sha256\": \"09d261758e43660f2d219da8ee73e88e26477e7b4209f666be657245e65dded7\", \"acquired_at\": \"2026-10-02T12:04:43.113617+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-pharmacy-quizzes2021",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102960/fullTextXML",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102960/fullTextXML\", \"final_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8102960/fullTextXML\", \"local_path\": \"papers/downloads/applications/pharmacy-quizzes2021.xml\", \"kind\": \"text\", \"content_type\": \"application/xml\", \"bytes\": 40942, \"sha256\": \"5e0b3e82f3b3b16e9098fecddbc6419fb706c373eb20cfe297f962cd5de1af2a\", \"acquired_at\": \"2026-10-02T12:04:42.263185+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-lin-guide2015",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://michiganassessment.org/wp-content/uploads/2020/02/20.02.pdf.Res_.ApracticalGuidetoInvestigatingScoreReliabilityunderaGeneralizabilityTheoryFramework.pdf",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://michiganassessment.org/wp-content/uploads/2020/02/20.02.pdf.Res_.ApracticalGuidetoInvestigatingScoreReliabilityunderaGeneralizabilityTheoryFramework.pdf\", \"final_url\": \"https://michiganassessment.org/wp-content/uploads/2020/02/20.02.pdf.Res_.ApracticalGuidetoInvestigatingScoreReliabilityunderaGeneralizabilityTheoryFramework.pdf\", \"local_path\": \"papers/downloads/applications/lin-guide2015.pdf\", \"kind\": \"pdf\", \"content_type\": \"application/pdf\", \"bytes\": 247907, \"sha256\": \"1d6cfb66ad51eed2ed8068fb3ec8025f94eef4400d54c4391f80ee51a5857354\", \"acquired_at\": \"2026-10-02T12:04:38.544278+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-noble2017",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6248395/fullTextXML",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6248395/fullTextXML\", \"final_url\": \"https://www.ebi.ac.uk/europepmc/webservices/rest/PMC6248395/fullTextXML\", \"local_path\": \"papers/downloads/applications/noble2017.xml\", \"kind\": \"text\", \"content_type\": \"application/xml\", \"bytes\": 203021, \"sha256\": \"6dcce23acc8a7a8ecd448091411ae1229c1a59dbaed769947aae21f7cdf57cd9\", \"acquired_at\": \"2026-10-02T12:05:55.671615+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-gee2015",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://bpb-us-e1.wpmucdn.com/sites.uw.edu/dist/c/18634/files/2022/08/HBM-36-2558.pdf",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://bpb-us-e1.wpmucdn.com/sites.uw.edu/dist/c/18634/files/2022/08/HBM-36-2558.pdf\", \"final_url\": \"https://bpb-us-e1.wpmucdn.com/sites.uw.edu/dist/c/18634/files/2022/08/HBM-36-2558.pdf\", \"local_path\": \"papers/downloads/applications/gee2015.pdf\", \"kind\": \"pdf\", \"content_type\": \"application/pdf\", \"bytes\": 911457, \"sha256\": \"175ac05972476e9c6c782996e825bc1af0c714f50b51aed6a533783e00b1d3cb\", \"acquired_at\": \"2026-10-02T12:07:03.649353+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-shavelson-report1993",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://cresst.org/wp-content/uploads/TECH361.pdf",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://cresst.org/wp-content/uploads/TECH361.pdf\", \"final_url\": \"https://cresst.org/wp-content/uploads/TECH361.pdf\", \"local_path\": \"papers/downloads/applications/shavelson1993.pdf\", \"kind\": \"pdf\", \"content_type\": \"application/pdf\", \"bytes\": 212279, \"sha256\": \"542bd1937c91e0a1722dad7005fc7add1df94d2c8a08b36412ae6f5af00b9c37\", \"acquired_at\": \"2026-10-02T12:00:25.019939+00:00\"}"
+        }
+      ],
+      "metadata_failure": null
+    },
+    {
+      "id": "applications-bachman-conference1993",
+      "status": "acquired",
+      "attempts": [
+        {
+          "url": "https://files.eric.ed.gov/fulltext/ED368154.pdf",
+          "exit_code": 0,
+          "result": "{\"source_url\": \"https://files.eric.ed.gov/fulltext/ED368154.pdf\", \"final_url\": \"https://files.eric.ed.gov/fulltext/ED368154.pdf\", \"local_path\": \"papers/downloads/applications/bachman1995.pdf\", \"kind\": \"pdf\", \"content_type\": \"application/pdf\", \"bytes\": 611375, \"sha256\": \"ffe0c4e860b6e2c47ac94278e0d01fdf276e8abd3bdba925b02bfb36d0ef4bc0\", \"acquired_at\": \"2026-10-02T12:00:25.500842+00:00\"}"
+        }
+      ],
+      "metadata_failure": "HTTP Error 429: Too Many Requests"
+    }
+  ],
+  "dataset_sources": [
+    "https://osf.io/t68my/",
+    "https://osf.io/5rn6u/",
+    "https://osf.io/8n24x/"
+  ],
+  "data_corrections": [
+    "OSFt68my contains one myelin CSV, not a methods/code bundle.",
+    "OSF8n24x contains small derived edge CSVs, not raw neuroimages; initial100-file default cap extended to200 with parent authorization.",
+    "Initial unsorted OSF pagination returned121entries but only116distinct IDs, repeating edge4–7 and omitting five other edges; name sorting returned121distinct files. Original initial inventory retained under ignored context.",
+    "All121derived connectivity files were acquired with zero failures; complete corpus preserved rather than arbitrary subset.",
+    "Helper changes authorized by parent: --max-files(default100), ID deduplication, stable name sorting, distinct-ID path collision storage and logging. Isolated mocked fixture verifies deduplication and path-conflict behavior.",
+    "Stable OSF name sorting now applies to every recursive folder and pagination URL; --workers(default4) allows serial download retries. Independent wud3x and bwk5t listing audit found7/7 and24/24distinct recorded files, no duplicates or missing files; see osf-listing-audit.json."
+  ],
+  "limitations": [
+    "Representative systematic domain map, not a complete census of every application paper.",
+    "Local fulltext failures do not imply legal unavailability; publisher challenges,404s,timeouts and author-request materials distinguished in attempts.",
+    "No downloaded reference code executed; no dependency adopted.",
+    "Full raw working bibliographic responses retained in ignored context/acquisition/applications."
+  ],
+  "reference_acquisition": [
+    {
+      "id": "iced-methods",
+      "source_url": "https://osf.io/t68my/",
+      "files_acquired": 1,
+      "failed_files": [],
+      "bytes": 471,
+      "record_path": "papers/software/records/iced-methods.json",
+      "listing_url": null,
+      "listed_entries": null,
+      "duplicate_file_ids": [],
+      "path_conflicts": []
+    },
+    {
+      "id": "eeg-location-scale",
+      "source_url": "https://osf.io/5rn6u/",
+      "files_acquired": 12,
+      "failed_files": [],
+      "bytes": 31674052,
+      "record_path": "papers/software/records/eeg-location-scale.json",
+      "listing_url": null,
+      "listed_entries": null,
+      "duplicate_file_ids": [],
+      "path_conflicts": []
+    },
+    {
+      "id": "iced-example-data",
+      "source_url": "https://osf.io/8n24x/",
+      "files_acquired": 121,
+      "failed_files": [],
+      "bytes": 1116128,
+      "record_path": "papers/software/records/iced-example-data.json",
+      "listing_url": "https://api.osf.io/v2/nodes/8n24x/files/osfstorage/?sort=name",
+      "listed_entries": 121,
+      "duplicate_file_ids": [],
+      "path_conflicts": []
+    },
+    {
+      "id": "irj2015-reliability",
+      "source_url": "https://github.com/julian-urbano/irj2015-reliability",
+      "revision": "abccb32a56e221b595aeee8bed09ba4410fe84bc",
+      "commit_date": "2019-05-20T09:09:09Z",
+      "record_path": "papers/software/records/irj2015-reliability.json",
+      "archive_bytes": 76086367,
+      "extracted_files": 185,
+      "inspection": "README, project layout, four CSV headers/dimensions and selected gt4ireval.R source read statically; no source executed.",
+      "license": "Code GPLv3; dataCC-BY-SA4.0"
+    }
+  ]
+}

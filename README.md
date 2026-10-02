@@ -74,7 +74,7 @@ Reference: Brennan, R. L. (2001), *Generalizability Theory*, Springer,
 ## Development
 
 Read `AGENTS.md` and `BLACKBIRD.md`. Run `scripts/check.sh` to check Rust and
-Python behavior. Research lives in `papers/`, decisions in `journal/`, and the
+Python behavior. The [research corpus](papers/README.md) lives in `papers/`, decisions in `journal/`, and the
 initial work queue in `issues/`. Project-specific references and private working
 material belong in ignored `quarantine/` and `context/`.
 

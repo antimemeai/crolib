@@ -1,0 +1,23 @@
+{
+  "id": "emreliability",
+  "source_url": "https://cran.r-project.org/package=emreliability",
+  "revision": "9b794d5bf9b14cb8f9558f3c5f20fd79873ead89",
+  "archive_url": "https://codeload.github.com/cran/emreliability/tar.gz/9b794d5bf9b14cb8f9558f3c5f20fd79873ead89",
+  "archive_path": "quarantine/archives/emreliability.tar.gz",
+  "archive_sha256": "4a7ecf661b04813639b5e35b1e48d3f471cf282ea0c7567eed7b6bfed3bacb6c",
+  "archive_bytes": 60224,
+  "extracted_path": "quarantine/references/emreliability",
+  "extracted_files": 52,
+  "excluded_paths": [
+    "emreliability-9b794d5bf9b14cb8f9558f3c5f20fd79873ead89",
+    "emreliability-9b794d5bf9b14cb8f9558f3c5f20fd79873ead89/R",
+    "emreliability-9b794d5bf9b14cb8f9558f3c5f20fd79873ead89/data",
+    "emreliability-9b794d5bf9b14cb8f9558f3c5f20fd79873ead89/man"
+  ],
+  "strip_root": true,
+  "license_note": "MIT + file LICENSE per CRAN; inspect original files",
+  "description": "Adjacent classical/IRT reliability and conditional-error reference; companion Lee/Harris2025",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:53:26.585979+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only emreliability"
+}

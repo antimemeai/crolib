@@ -1,0 +1,819 @@
+[
+  {
+    "id": "estimation-henderson-1953",
+    "title": "Estimation of Variance and Covariance Components",
+    "authors": [
+      "C. R. Henderson"
+    ],
+    "year": 1953,
+    "doi": "10.2307/3001853",
+    "source_url": "https://www.stat.yale.edu/~hz68/619/Henderson1953.pdf",
+    "fulltext_url": "http://www.stat.yale.edu/~hz68/619/Henderson1953.pdf",
+    "local_path": "papers/downloads/estimation/henderson-1953.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generic-foundation",
+      "henderson-methods"
+    ],
+    "relevance": "Henderson I/II/III; generic foundation",
+    "evidence": "Acquired scanned PDF; bibliographic cover inspected. Primary university indexed introduction read through web search; body lacks a searchable text layer. Full mathematical paper not yet read.",
+    "acquisition_note": "Acquired alternate university/author-hosted copy; original bytes and provenance retained; private research copy."
+  },
+  {
+    "id": "estimation-cornfield-tukey-1956",
+    "title": "Average Values of Mean Squares in Factorials",
+    "authors": [
+      "Jerome Cornfield",
+      "John W. Tukey"
+    ],
+    "year": 1956,
+    "doi": "10.1214/aoms/1177728067",
+    "source_url": "https://doi.org/10.1214/aoms/1177728067",
+    "fulltext_url": "https://projecteuclid.org/journals/annals-of-mathematical-statistics/volume-27/issue-4/Average-Values-of-Mean-Squares-in-Factorials/10.1214/aoms/1177728067.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generic-foundation"
+    ],
+    "relevance": "Expected mean squares and sampling model semantics; generic foundation",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "response is not a PDF (possibly an access page)"
+  },
+  {
+    "id": "estimation-hartley-rao-1967",
+    "title": "Maximum-likelihood estimation for the mixed analysis of variance model",
+    "authors": [
+      "H. O. Hartley",
+      "J. N. K. Rao"
+    ],
+    "year": 1967,
+    "doi": "10.1093/biomet/54.1-2.93",
+    "source_url": "https://academic.oup.com/biomet/article-pdf/54/1-2/93/947970/54-1-2-93.pdf",
+    "fulltext_url": "https://academic.oup.com/biomet/article-pdf/54/1-2/93/947970/54-1-2-93.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generic-foundation",
+      "maximum-likelihood"
+    ],
+    "relevance": "Original mixed-model ML; generic foundation",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "estimation-patterson-thompson-1971",
+    "title": "Recovery of inter-block information when block sizes are unequal",
+    "authors": [
+      "H. D. PATTERSON",
+      "R. THOMPSON"
+    ],
+    "year": 1971,
+    "doi": "10.1093/biomet/58.3.545",
+    "source_url": "https://doi.org/10.1093/biomet/58.3.545",
+    "fulltext_url": "https://era.ed.ac.uk/server/api/core/bitstreams/c460efa4-dd25-47bc-984b-1652df8d4562/content",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generic-foundation",
+      "reml"
+    ],
+    "relevance": "Original REML error contrasts; generic foundation",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "Command '['/Applications/Xcode.app/Contents/Developer/usr/bin/python3', '/Users/patrickbeam/projects/crolib/scripts/acquire.py', 'https://era.ed.ac.uk/server/api/core/bitstreams/c460efa4-dd25-47bc-984b-1652df8d4562/content', '/Users/patrickbeam/projects/crolib/papers/downloads/estimation/patterson-thompson-1971.pdf', '--kind', 'pdf', '--timeout', '12']' timed out after 20 seconds"
+  },
+  {
+    "id": "estimation-rao-minque-1971",
+    "title": "Estimation of variance and covariance components\u2014MINQUE theory",
+    "authors": [
+      "C.Radhakrishna Rao"
+    ],
+    "year": 1971,
+    "doi": "10.1016/0047-259X(71)90001-7",
+    "source_url": "https://doi.org/10.1016/0047-259x(71)90001-7",
+    "fulltext_url": "https://www.sciencedirect.com/science/article/pii/0047259X71900017/pdfft",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generic-foundation",
+      "minque"
+    ],
+    "relevance": "MINQUE variance and covariance components; generic foundation",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "estimation-rao-linear-models-1972",
+    "title": "Estimation of Variance and Covariance Components in Linear Models",
+    "authors": [
+      "C. R. Rao"
+    ],
+    "year": 1972,
+    "doi": "10.1080/01621459.1972.10481212",
+    "source_url": "https://www.tandfonline.com/doi/pdf/10.1080/01621459.1972.10481212",
+    "fulltext_url": "https://www.tandfonline.com/doi/pdf/10.1080/01621459.1972.10481212",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generic-foundation",
+      "minque"
+    ],
+    "relevance": "MINQUE extension; generic foundation",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "estimation-corbeil-searle-1976",
+    "title": "Restricted Maximum Likelihood (REML) Estimation of Variance Components in the Mixed Model",
+    "authors": [
+      "R. R. Corbeil",
+      "S. R. Searle"
+    ],
+    "year": 1976,
+    "doi": "10.1080/00401706.1976.10489397",
+    "source_url": "https://www.stat.cmu.edu/technometrics/70-79/VOL-18-01/v1801031.pdf",
+    "fulltext_url": "https://www.stat.cmu.edu/technometrics/70-79/VOL-18-01/v1801031.pdf",
+    "local_path": "papers/downloads/estimation/corbeil-searle-1976.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generic-foundation",
+      "reml"
+    ],
+    "relevance": "REML computing algorithm; generic foundation",
+    "evidence": "Local fulltext: abstract and introductory likelihood partition/model sections read; remaining derivations not yet audited.",
+    "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+  },
+  {
+    "id": "estimation-harville-1977",
+    "title": "Maximum Likelihood Approaches to Variance Component Estimation and to Related Problems",
+    "authors": [
+      "David A. Harville"
+    ],
+    "year": 1977,
+    "doi": "10.1080/01621459.1977.10480998",
+    "source_url": "https://doi.org/10.1080/01621459.1977.10480998",
+    "fulltext_url": "https://www.stat.cmu.edu/~brian/463-2014/week07/reml/harville-ML-approaches-to-variance-components-1977-JASA.pdf",
+    "local_path": "papers/downloads/estimation/harville-1977.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generic-foundation",
+      "ml-reml"
+    ],
+    "relevance": "ML/REML review; generic foundation",
+    "evidence": "Local fulltext: section 8.2 ANOVA-like methods, MINQUE/REML relationship, and constraints/numerical passages read; not a full-paper audit.",
+    "acquisition_note": "Acquired alternate university/author-hosted copy; original bytes and provenance retained; private research copy."
+  },
+  {
+    "id": "estimation-searle-1971",
+    "title": "A Biometrics Invited Paper. Topics in Variance Component Estimation",
+    "authors": [
+      "S. R. Searle"
+    ],
+    "year": 1971,
+    "doi": "10.2307/2528928",
+    "source_url": "https://doi.org/10.2307/2528928",
+    "fulltext_url": "https://www.jstor.org/stable/pdf/2528928.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generic-foundation"
+    ],
+    "relevance": "Comprehensive variance component estimation; generic foundation",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "response is not a PDF (possibly an access page)"
+  },
+  {
+    "id": "estimation-self-liang-1987",
+    "title": "Asymptotic Properties of Maximum Likelihood Estimators and Likelihood Ratio Tests under Nonstandard Conditions",
+    "authors": [
+      "Steven G. Self",
+      "Kung-Yee Liang"
+    ],
+    "year": 1987,
+    "doi": "10.1080/01621459.1987.10478472",
+    "source_url": "https://doi.org/10.1080/01621459.1987.10478472",
+    "fulltext_url": "https://www.stat.cmu.edu/~brian/763-2015/week06/papers/self-liang-1987.pdf",
+    "local_path": "papers/downloads/estimation/self-liang-1987.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generic-foundation",
+      "boundaries"
+    ],
+    "relevance": "Boundary likelihood asymptotics; generic foundation",
+    "evidence": "Primary author-university abstract read and local PDF acquired; full proof not yet audited.",
+    "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+  },
+  {
+    "id": "estimation-brennan-variance-1994",
+    "title": "Variance Components in Generalizability Theory",
+    "authors": [
+      "Robert L. Brennan"
+    ],
+    "year": 1994,
+    "doi": "10.1007/978-1-4757-9730-5_9",
+    "source_url": "https://link.springer.com/content/pdf/10.1007/978-1-4757-9730-5_9.pdf",
+    "fulltext_url": "https://link.springer.com/content/pdf/10.1007/978-1-4757-9730-5_9.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generalizability-theory"
+    ],
+    "relevance": "Explicit GT variance components chapter",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "response is not a PDF (possibly an access page)"
+  },
+  {
+    "id": "estimation-marcoulides-reml-1990",
+    "title": "An Alternative Method for Estimating Variance Components in Generalizability Theory",
+    "authors": [
+      "George A. Marcoulides"
+    ],
+    "year": 1990,
+    "doi": "10.2466/pr0.1990.66.2.379",
+    "source_url": "https://doi.org/10.2466/pr0.1990.66.2.379",
+    "fulltext_url": "https://journals.sagepub.com/doi/pdf/10.2466/pr0.1990.66.2.379",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "reml"
+    ],
+    "relevance": "Explicit GT REML versus ANOVA simulation",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "estimation-chiu-wolfe-sparse-2002",
+    "title": "A Method for Analyzing Sparse Data Matrices in the Generalizability Theory Framework",
+    "authors": [
+      "Christopher W. T. Chiu",
+      "Edward W. Wolfe"
+    ],
+    "year": 2002,
+    "doi": "10.1177/0146621602026003006",
+    "source_url": "https://journals.sagepub.com/doi/pdf/10.1177/0146621602026003006",
+    "fulltext_url": "https://journals.sagepub.com/doi/pdf/10.1177/0146621602026003006",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "sparse-designs"
+    ],
+    "relevance": "Sparse GT rating matrices",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "estimation-marcoulides-sem-1996",
+    "title": "Estimating variance components in generalizability theory: The covariance structure analysis approach",
+    "authors": [
+      "George A. Marcoulides"
+    ],
+    "year": 1996,
+    "doi": "10.1080/10705519609540045",
+    "source_url": "https://www.tandfonline.com/doi/pdf/10.1080/10705519609540045",
+    "fulltext_url": "https://www.tandfonline.com/doi/pdf/10.1080/10705519609540045",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generalizability-theory"
+    ],
+    "relevance": "Explicit GT covariance-structure estimation",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "estimation-jiang-lme4-2018",
+    "title": "Using the Linear Mixed-Effect Model Framework to Estimate Generalizability Variance Components in R: A lme4 Package Application",
+    "authors": [
+      "Zhehan Jiang"
+    ],
+    "year": 2018,
+    "doi": "10.1027/1614-2241/a000149",
+    "source_url": "https://econtent.hogrefe.com/doi/pdf/10.1027/1614-2241/a000149",
+    "fulltext_url": "https://econtent.hogrefe.com/doi/pdf/10.1027/1614-2241/a000149",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generalizability-theory"
+    ],
+    "relevance": "Explicit GT mixed-model R tutorial and examples",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "estimation-lopilato-bayes-2015",
+    "title": "Updating Generalizability Theory in Management Research: Bayesian Estimation of Variance Components",
+    "authors": [
+      "Alexander C. LoPilato",
+      "Nathan T. Carter",
+      "Mo Wang"
+    ],
+    "year": 2015,
+    "doi": "10.1177/0149206314554215",
+    "source_url": "https://citeseerx.ist.psu.edu/document?doi=e82612e89f01ab02d12318def7940cc1c80049ed&repid=rep1&type=pdf",
+    "fulltext_url": "https://citeseerx.ist.psu.edu/document?doi=e82612e89f01ab02d12318def7940cc1c80049ed&repid=rep1&type=pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "bayesian"
+    ],
+    "relevance": "Explicit Bayesian GT priors and posterior summaries",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "HTTP Error 404: NOT FOUND"
+  },
+  {
+    "id": "estimation-jiang-skorupski-bayes-2018",
+    "title": "A Bayesian approach to estimating variance components within a multivariate generalizability theory framework",
+    "authors": [
+      "Zhehan Jiang",
+      "William Skorupski"
+    ],
+    "year": 2018,
+    "doi": "10.3758/s13428-017-0986-3",
+    "source_url": "https://doi.org/10.3758/s13428-017-0986-3",
+    "fulltext_url": "https://link.springer.com/content/pdf/10.3758/s13428-017-0986-3.pdf",
+    "local_path": "papers/downloads/estimation/jiang-skorupski-bayes-2018.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "bayesian"
+    ],
+    "relevance": "Bayesian multivariate GT with BUGS examples",
+    "evidence": "Local fulltext: model/design, BUGS data mapping, simulated missingness example, supplementary ZIP location and prior discussion read; code not executed.",
+    "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+  },
+  {
+    "id": "estimation-jiang-mixed-format-2024",
+    "title": "Customizing Bayesian multivariate generalizability theory to mixed-format tests",
+    "authors": [
+      "Zhehan Jiang",
+      "Jinying Ouyang",
+      "Dingjing Shi",
+      "Dexin Shi",
+      "Jihong Zhang",
+      "Lingling Xu",
+      "Fen Cai"
+    ],
+    "year": 2024,
+    "doi": "10.3758/s13428-024-02472-7",
+    "source_url": "https://doi.org/10.3758/s13428-024-02472-7",
+    "fulltext_url": "https://jihongzhang.org/research/publications/2024/Customizing%20Bayesian%20multivariate%20generalizability%20theory%20to%20mixed-format%20tests.pdf",
+    "local_path": "papers/downloads/estimation/jiang-mixed-format-2024.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "mixed-format"
+    ],
+    "relevance": "Explicit Bayesian GT dichotomous/polytomous outcomes",
+    "evidence": "Local fulltext: joint Stan construction, covariance mapping, application, data-dependent prior procedure and OSF availability read; code not executed.",
+    "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+  },
+  {
+    "id": "estimation-gelman-priors-2006",
+    "title": "Prior distributions for variance parameters in hierarchical models",
+    "authors": [
+      "Andrew Gelman"
+    ],
+    "year": 2006,
+    "doi": "10.1214/06-BA117A",
+    "source_url": "https://sites.stat.columbia.edu/gelman/bayescomputation/Gelman2006.pdf",
+    "fulltext_url": "https://sites.stat.columbia.edu/gelman/bayescomputation/Gelman2006.pdf",
+    "local_path": "papers/downloads/estimation/gelman-priors-2006.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generic-foundation",
+      "prior-selection"
+    ],
+    "relevance": "Variance prior selection; generic foundation",
+    "evidence": "Local fulltext abstract and introduction read; variance-prior recommendation checked against author-hosted primary PDF.",
+    "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+  },
+  {
+    "id": "estimation-ten-hove-multilevel-2022",
+    "title": "Interrater Reliability for Multilevel Data: A Generalizability Theory Approach",
+    "authors": [
+      "Debby ten Hove",
+      "Terrence D. Jorgensen",
+      "L. Andries van der Ark"
+    ],
+    "year": 2022,
+    "doi": "10.1037/met0000391",
+    "source_url": "https://pure.uva.nl/ws/files/111315847/Interrater_Reliability_for_Multilevel_Data_A_Generalizability_Theory_Approach.pdf",
+    "fulltext_url": "https://pure.uva.nl/ws/files/111315847/Interrater_Reliability_for_Multilevel_Data_A_Generalizability_Theory_Approach.pdf",
+    "local_path": "papers/downloads/estimation/ten-hove-multilevel-2022.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "multilevel"
+    ],
+    "relevance": "Explicit GT multilevel IRR and MCMC, OSF data",
+    "evidence": "Primary fulltext model decomposition, ICC formulas, fixed/random discussion and estimation sections read. Article and mathematical supplement acquired.",
+    "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license. Mathematical supplement acquired at papers/downloads/estimation/ten-hove-multilevel-2022-supplement.pdf."
+  },
+  {
+    "id": "estimation-ten-hove-incomplete-2025",
+    "title": "How to Estimate Intraclass Correlation Coefficients for Interrater Reliability from Planned Incomplete Data",
+    "authors": [
+      "Debby ten Hove",
+      "Terrence D. Jorgensen",
+      "L. Andries van der Ark"
+    ],
+    "year": 2025,
+    "doi": "10.1080/00273171.2025.2507745",
+    "source_url": "https://www.tandfonline.com/doi/pdf/10.1080/00273171.2025.2507745",
+    "fulltext_url": "https://www.tandfonline.com/doi/pdf/10.1080/00273171.2025.2507745",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "missing-data"
+    ],
+    "relevance": "Planned incomplete IRR comparison, simulation and real data",
+    "evidence": "Publisher fulltext abstract, estimator-comparison discussion and real-data example inspected through web tool. Local PDF request blocked; no claim of local possession.",
+    "acquisition_note": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "estimation-huebner-lucht-r-2019",
+    "title": "Generalizability Theory in R",
+    "authors": [
+      "Alan Huebner",
+      "Marisa Lucht"
+    ],
+    "year": 2019,
+    "doi": "10.7275/5065-gc10",
+    "source_url": "https://files.eric.ed.gov/fulltext/EJ1222666.pdf",
+    "fulltext_url": "https://files.eric.ed.gov/fulltext/EJ1222666.pdf",
+    "local_path": "papers/downloads/estimation/huebner-lucht-r-2019.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "worked-examples"
+    ],
+    "relevance": "Explicit GT four reproducible R designs",
+    "evidence": "Local fulltext: design/ANOVA/D-study formula tables, illustrative calculations and reproducible data discussion read. Code not executed.",
+    "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+  },
+  {
+    "id": "estimation-huebner-mixed-2025",
+    "title": "Mixed Model Generalizability Theory: A Case Study and Tutorial",
+    "authors": [
+      "Alan Huebner",
+      "Gustaf B. Skar",
+      "Mengchen Huang"
+    ],
+    "year": 2025,
+    "doi": "10.7275/pare.2376",
+    "source_url": "https://files.eric.ed.gov/fulltext/EJ1482037.pdf",
+    "fulltext_url": "https://files.eric.ed.gov/fulltext/EJ1482037.pdf",
+    "local_path": "papers/downloads/estimation/huebner-mixed-2025.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "worked-examples"
+    ],
+    "relevance": "Explicit mixed fixed/random GT case study",
+    "evidence": "Local PDF title, abstract/summary and fixed/multivariate discussion inspected; full derivations not audited.",
+    "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+  },
+  {
+    "id": "estimation-jiang-auxiliary-2018",
+    "title": "Improving generalizability coefficient estimate accuracy: A way to incorporate auxiliary information",
+    "authors": [
+      "Zhehan Jiang",
+      "Kevin Walker",
+      "Dexin Shi",
+      "Jian Cao"
+    ],
+    "year": 2018,
+    "doi": "10.1177/2059799118791397",
+    "source_url": "https://journals.sagepub.com/doi/pdf/10.1177/2059799118791397",
+    "fulltext_url": "https://journals.sagepub.com/doi/pdf/10.1177/2059799118791397",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "missing-data"
+    ],
+    "relevance": "GT missingness and auxiliary information",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "estimation-vangeneugden-clinical-2005",
+    "title": "Applying Concepts of Generalizability Theory on Clinical Trial Data to Investigate Sources of Variation and Their Impact on Reliability",
+    "authors": [
+      "Tony Vangeneugden",
+      "Annouschka Laenen",
+      "Helena Geys",
+      "Didier Renard",
+      "Geert Molenberghs"
+    ],
+    "year": 2005,
+    "doi": "10.1111/j.0006-341X.2005.031040.x",
+    "source_url": "https://doi.org/10.1111/j.0006-341x.2005.031040.x",
+    "fulltext_url": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.0006-341X.2005.031040.x",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generalizability-theory"
+    ],
+    "relevance": "Explicit GT clinical random-effects applications",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "estimation-laenen-repeated-2006",
+    "title": "Generalized reliability estimation using repeated measurements",
+    "authors": [
+      "Annouschka Laenen",
+      "Tony Vangeneugden",
+      "Helena Geys",
+      "Geert Molenberghs"
+    ],
+    "year": 2006,
+    "doi": "10.1348/000711005X66068",
+    "source_url": "https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1348/000711005X66068",
+    "fulltext_url": "https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1348/000711005X66068",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "longitudinal"
+    ],
+    "relevance": "GT-adjacent covariance structures, random slopes and serial correlation",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "estimation-molenberghs-hierarchical-2007",
+    "title": "Estimating reliability and generalizability from hierarchical biomedical data",
+    "authors": [
+      "Geert Molenberghs",
+      "Annouschka Laenen",
+      "Tony Vangeneugden"
+    ],
+    "year": 2007,
+    "doi": "10.1080/10543400701329448",
+    "source_url": "https://www.tandfonline.com/doi/pdf/10.1080/10543400701329448",
+    "fulltext_url": "https://www.tandfonline.com/doi/pdf/10.1080/10543400701329448",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "glmm"
+    ],
+    "relevance": "Explicit hierarchical biomedical generalizability Gaussian and binary",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "estimation-bates-lme4-2015",
+    "title": "Fitting Linear Mixed-Effects Models Using lme4",
+    "authors": [
+      "Douglas Bates",
+      "Martin M\u00e4chler",
+      "Ben Bolker",
+      "Steve Walker"
+    ],
+    "year": 2015,
+    "doi": "10.18637/jss.v067.i01",
+    "source_url": "https://www.jstatsoft.org/article/view/v067i01/0",
+    "fulltext_url": "https://arxiv.org/pdf/1406.5823",
+    "local_path": "papers/downloads/estimation/bates-lme4-2015.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generic-foundation",
+      "sparse-linear-algebra"
+    ],
+    "relevance": "Mixed-model sparse penalized least squares; implementation foundation",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "Acquired alternate university/author-hosted copy; original bytes and provenance retained; private research copy."
+  },
+  {
+    "id": "estimation-brennan-complex-2022",
+    "title": "Extended Multivariate Generalizability Theory With Complex Design Structures",
+    "authors": [
+      "Robert L. Brennan",
+      "Stella Y. Kim",
+      "Won-Chan Lee"
+    ],
+    "year": 2022,
+    "doi": "10.1177/00131644211049746",
+    "source_url": "https://doi.org/10.1177/00131644211049746",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228696/",
+    "local_path": "papers/downloads/estimation/brennan-complex-2022.html",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "confounding"
+    ],
+    "relevance": "Explicit complex multivariate GT model and confounding examples",
+    "evidence": "Primary fulltext abstract, universe/error covariance definitions, confounding discussion and estimation caveats inspected; local HTML preserved.",
+    "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+  },
+  {
+    "id": "estimation-jiang-ci-2022",
+    "title": "A Monte Carlo Study of Confidence Interval Methods for Generalizability Coefficient",
+    "authors": [
+      "Zhehan Jiang",
+      "Mark Raymond",
+      "Christine DiStefano",
+      "Dexin Shi",
+      "Ren Liu",
+      "Junhua Sun"
+    ],
+    "year": 2022,
+    "doi": "10.1177/00131644211033899",
+    "source_url": "https://doi.org/10.1177/00131644211033899",
+    "fulltext_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9228698/",
+    "local_path": "papers/downloads/estimation/jiang-ci-2022.html",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "uncertainty"
+    ],
+    "relevance": "Explicit LMM GT interval estimation simulation",
+    "evidence": "Primary publisher abstract and appendix tables inspected; local complete PMC HTML acquired. Method implementation not audited.",
+    "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+  },
+  {
+    "id": "estimation-rockwood-jeon-2022",
+    "title": "Modern applications of cross-classified random effects models in social and behavioral research: Illustration with R package PLmixed",
+    "authors": [
+      "Sijia Huang",
+      "Minjeong Jeon"
+    ],
+    "year": 2022,
+    "doi": "10.3389/fpsyg.2022.976964",
+    "source_url": "https://public-pages-files-2025.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.976964/pdf",
+    "fulltext_url": "https://public-pages-files-2025.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.976964/pdf",
+    "local_path": "papers/downloads/estimation/rockwood-jeon-2022.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generalizability-theory"
+    ],
+    "relevance": "Explicit GT CCREM and Brennan 3.2 dataset",
+    "evidence": "Primary fulltext GT section and Brennan.3.2 illustration inspected; local PDF acquired.",
+    "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+  },
+  {
+    "id": "estimation-laenen-thesis-2008",
+    "title": "Psychometric Validation of Continuous Rating Scales from Complex Data",
+    "authors": [
+      "Annouschka Laenen"
+    ],
+    "year": 2008,
+    "doi": null,
+    "source_url": "https://documentserver.uhasselt.be/bitstream/1942/8804/1/ThesisLaenenAnoushka.pdf",
+    "fulltext_url": "https://ibiostat.be/documents/phd/annouschkalaenen.pdf",
+    "local_path": "papers/downloads/estimation/laenen-thesis-2008.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "longitudinal"
+    ],
+    "relevance": "Collected explicit GT repeated-measure and non-Gaussian studies",
+    "evidence": "Local fulltext title/date, contents, publications list and GT/longitudinal limitations section inspected; complete statistical proofs not yet read.",
+    "acquisition_note": "Acquired alternate university-hosted full text; original bytes/provenance retained."
+  },
+  {
+    "id": "estimation-lin-sparse-2017",
+    "title": "Working with sparse data in rated language tests: Generalizability theory applications",
+    "authors": [
+      "Chih-Kai Lin"
+    ],
+    "year": 2017,
+    "doi": "10.1177/0265532216638890",
+    "source_url": "https://doi.org/10.1177/0265532216638890",
+    "fulltext_url": "https://michiganassessment.org/wp-content/uploads/2020/02/20.02.pdf.Res_.WorkingwithSpraseDatainRatedLanguageTests-GeneraizabilityTheoryApplications.pdf",
+    "local_path": "papers/downloads/estimation/lin-sparse-2017.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "sparse-designs"
+    ],
+    "relevance": "Explicit GT sparse rating versus subdividing estimators",
+    "evidence": "Local PDF abstract plus primary fulltext rating/subdividing method description inspected; implementation not audited.",
+    "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+  },
+  {
+    "id": "estimation-huynh-incomplete-1977",
+    "title": "Estimation of the KR20 Reliability Coefficient When Data Are Incomplete",
+    "authors": [
+      "Huynh Huynh"
+    ],
+    "year": 1977,
+    "doi": null,
+    "source_url": "https://eric.ed.gov/?id=ED154003",
+    "fulltext_url": "https://files.eric.ed.gov/fulltext/ED154003.pdf",
+    "local_path": "papers/downloads/estimation/huynh-incomplete-1977.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "missing-data"
+    ],
+    "relevance": "Original incomplete KR20 comparing Henderson I/III and symmetric sums",
+    "evidence": "Original ERIC PDF title and OCR abstract inspected; primary ERIC abstract checked. Mathematical body not yet audited.",
+    "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+  },
+  {
+    "id": "estimation-choi-dissertation-2013",
+    "title": "Advances in Combining Generalizability Theory and Item Response Theory",
+    "authors": [
+      "Jinnie Choi"
+    ],
+    "year": 2013,
+    "doi": null,
+    "source_url": "https://escholarship.org/uc/item/7qv174cb",
+    "fulltext_url": "https://escholarship.org/content/qt7qv174cb/qt7qv174cb.pdf",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generalizability-theory"
+    ],
+    "relevance": "Explicit GT logistic mixed modeling, Huynh toy data comparison",
+    "evidence": "University primary fulltext indexed passages on Huynh data, four estimators and response scales inspected through web search. Local PDF blocked.",
+    "acquisition_note": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "estimation-swallow-monahan-1984",
+    "title": "Monte Carlo Comparison of ANOVA, MIVQUE, REML, and ML Estimators of Variance Components",
+    "authors": [
+      "William H. Swallow",
+      "John F. Monahan"
+    ],
+    "year": 1984,
+    "doi": "10.1080/00401706.1984.10487921",
+    "source_url": "https://doi.org/10.1080/00401706.1984.10487921",
+    "fulltext_url": "https://hua-zhou.github.io/teaching/st758-2014fall/monte-carlo/SwallowMonahan84VCMonteCarlo.pdf",
+    "local_path": "papers/downloads/estimation/swallow-monahan-1984.pdf",
+    "status": "acquired",
+    "topics": [
+      "variance-components",
+      "generic-foundation",
+      "estimator-comparison"
+    ],
+    "relevance": "Unbalanced one-way ANOVA ML REML MIVQUE comparison; generic foundation",
+    "evidence": "Author university-hosted primary PDF abstract and one-way model/estimator setup inspected; local PDF acquired.",
+    "acquisition_note": "Local research copy; do not redistribute acquired article without checking its license."
+  },
+  {
+    "id": "estimation-wind-sparse-2023",
+    "title": "Does Sparseness Matter? Examining the Use of Generalizability Theory and Many-Facet Rasch Measurement in Sparse Rating Designs",
+    "authors": [
+      "Stefanie A. Wind",
+      "Eli Jones",
+      "Sara Grajeda"
+    ],
+    "year": 2023,
+    "doi": "10.1177/01466216231182148",
+    "source_url": "https://doi.org/10.1177/01466216231182148",
+    "fulltext_url": "https://journals.sagepub.com/doi/pdf/10.1177/01466216231182148?download=true",
+    "local_path": null,
+    "status": "access_blocked",
+    "topics": [
+      "variance-components",
+      "generalizability-theory",
+      "sparse-designs"
+    ],
+    "relevance": "Explicit sparse GT versus Many-Facet Rasch simulation",
+    "evidence": "Primary publisher/university abstract or bibliographic metadata inspected; full mathematical text not yet read.",
+    "acquisition_note": "HTTP Error 403: Forbidden"
+  }
+]

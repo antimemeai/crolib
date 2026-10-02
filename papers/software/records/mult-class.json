@@ -1,0 +1,18 @@
+{
+  "id": "mult-class",
+  "source_url": "https://brennancrickgenova.org/classification-decision-consistency-programs/",
+  "revision": "Author-hosted PC distribution, SHA-256 recorded",
+  "archive_url": "https://brennancrickgenova.org/download/2-mult-class-v3-0-for-pc/?wpdmdl=348",
+  "archive_path": "quarantine/archives/mult-class.zip",
+  "archive_sha256": "8ab0e6cb0d14034baeef497b1ef29ea80d7a09a318e5e044438836aad9ae273b",
+  "archive_bytes": 206818,
+  "extracted_path": "quarantine/references/mult-class",
+  "extracted_files": 9,
+  "excluded_paths": [],
+  "strip_root": false,
+  "license_note": "Author permits distribution; no permissive source license inferred",
+  "description": "Multivariate classification consistency/accuracy distribution",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T11:57:28.862506+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only mult-class"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "mushquash-oconnor",
+  "kind": "files",
+  "source_url": "https://oconnor-psych.ok.ubc.ca/gtheory/gtheory.html",
+  "revision": "author-hosted source files; individual SHA-256 retained",
+  "license_note": "Author-hosted statistical programs; no reuse license inferred",
+  "description": "Mushquash & OConnor 2006 GT SPSS, SAS, R and MATLAB single/two-facet reference programs",
+  "status": "acquired",
+  "extracted_path": "quarantine/references/mushquash-oconnor",
+  "extracted_files": 7,
+  "files": [
+    {
+      "source_url": "https://oconnor-psych.ok.ubc.ca/gtheory/G1.sps",
+      "raw_path": "quarantine/archives/mushquash-oconnor/G1.sps",
+      "extracted_path": "quarantine/references/mushquash-oconnor/G1.sps",
+      "sha256": "53cf82063bbbba59b1f0759d5e8b19316a0b7dc8597f9507a8c8667b7f21c9b7",
+      "bytes": 27973
+    },
+    {
+      "source_url": "https://oconnor-psych.ok.ubc.ca/gtheory/G1.sas",
+      "raw_path": "quarantine/archives/mushquash-oconnor/G1.sas",
+      "extracted_path": "quarantine/references/mushquash-oconnor/G1.sas",
+      "sha256": "f5cc9bd5be8802f61623066d639647cfa8b8a8f726ff66ad151c18721aa5b808",
+      "bytes": 26462
+    },
+    {
+      "source_url": "https://oconnor-psych.ok.ubc.ca/gtheory/G1.R",
+      "raw_path": "quarantine/archives/mushquash-oconnor/G1.R",
+      "extracted_path": "quarantine/references/mushquash-oconnor/G1.R",
+      "sha256": "5d44dadffb910b734f3cfaf42c47b0fa34384edf77d84728da4b38a829f14dab",
+      "bytes": 26008
+    },
+    {
+      "source_url": "https://oconnor-psych.ok.ubc.ca/gtheory/G1.m",
+      "raw_path": "quarantine/archives/mushquash-oconnor/G1.m",
+      "extracted_path": "quarantine/references/mushquash-oconnor/G1.m",
+      "sha256": "ae30db40a282bf8e9de865272438830505e9e6f02db27d6ab0a25b0dae53ea69",
+      "bytes": 26239
+    },
+    {
+      "source_url": "https://oconnor-psych.ok.ubc.ca/gtheory/G2.sps",
+      "raw_path": "quarantine/archives/mushquash-oconnor/G2.sps",
+      "extracted_path": "quarantine/references/mushquash-oconnor/G2.sps",
+      "sha256": "ab44b03e624a1b1f4d44c6a0d6d25df06293e743be7c6d5965a12cbec2325613",
+      "bytes": 25331
+    },
+    {
+      "source_url": "https://oconnor-psych.ok.ubc.ca/gtheory/G2.sas",
+      "raw_path": "quarantine/archives/mushquash-oconnor/G2.sas",
+      "extracted_path": "quarantine/references/mushquash-oconnor/G2.sas",
+      "sha256": "9a23009b99ddb4d28f38a466f18bfd7c01e23827dfae4fee9a3168f3334336ef",
+      "bytes": 29607
+    },
+    {
+      "source_url": "https://oconnor-psych.ok.ubc.ca/gtheory/G2.R",
+      "raw_path": "quarantine/archives/mushquash-oconnor/G2.R",
+      "extracted_path": "quarantine/references/mushquash-oconnor/G2.R",
+      "sha256": "dde0504d95f086b4baa6c6e34a0bb444007da57fd1260ce25bbaa310e582e0b0",
+      "bytes": 7433
+    }
+  ],
+  "restore_command": "python3 scripts/restore_references.py --only mushquash-oconnor"
+}

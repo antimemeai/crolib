@@ -1,0 +1,18 @@
+{
+  "id": "warn-d-reliability",
+  "source_url": "https://zenodo.org/records/22914689",
+  "revision": "Zenodo22914689/v1, deposited September2026; source package declares original2024 date",
+  "archive_url": "https://zenodo.org/api/records/22914689/files/07_Assessing%20the%20Internal%20Consistency%20Reliability%20of%20Ecological%20Momentary%20Assessment%20Measures%20Insights%20from%20the%20WARN-D%20Study.zip/content",
+  "archive_path": "quarantine/archives/warn-d-reliability.zip",
+  "archive_sha256": "b99b9fcc423d9da5204485b0d872c10895f46b8aeb569365f09f4e627370819a",
+  "archive_bytes": 2918286,
+  "extracted_path": "quarantine/references/warn-d-reliability",
+  "extracted_files": 23,
+  "excluded_paths": [],
+  "strip_root": false,
+  "license_note": "Zenodo record displays no license; inspect individual materials",
+  "description": "WARN-D EMA reliability preregistration, supplementary analyses, R/lavaan/Mplus code and derived reliability outputs",
+  "status": "acquired",
+  "acquired_at": "2026-10-02T12:15:43.691565+00:00",
+  "restore_command": "python3 scripts/restore_references.py --only warn-d-reliability"
+}
