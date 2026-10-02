@@ -23,9 +23,10 @@ exchangeable item/rater universes as the intended measurement design. Fixed
 facets, fitting observations, uncertainty intervals, and general design syntax
 are outside this release.
 
-Evaluate each coefficient by separately normalizing its relevant components
-by their maximum before dividing by counts and summing. This preserves ratios
-for very large/small components and avoids overflow in component sums or I*R.
+Represent each count-weighted component as a binary mantissa and exponent,
+normalize denominator terms by the greatest represented exponent, and perform
+the signal/denominator division before applying its final power-of-two scale.
+This avoids sum overflow, premature component underflow, and overflow in I*R.
 Zero person variance is valid if both coefficients have positive denominators;
 a zero denominator is an error, rather than a fabricated reliability of zero.
 
@@ -38,7 +39,9 @@ Use MIT licensing and a public `antimemeai/crolib` GitHub repository.
 
 ## Plan
 
-1. Review this mathematical and release contract independently.
+1. Review this mathematical and release contract independently (completed;
+   review identified premature underflow in the original raw-max normalization,
+   motivating the binary representation above).
 2. Write failing exact-oracle and metamorphic tests, then implement the kernel.
 3. Run tests, lint, package checks, and independent code/release review; address
    findings before publishing.

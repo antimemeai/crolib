@@ -40,9 +40,8 @@ let components = CrossedComponents {
     person: 12.0, item: 6.0, rater: 4.0,
     person_item: 8.0, person_rater: 10.0, item_rater: 2.0, residual: 24.0,
 };
-let reliability = components.project(4, 2)?;
+let reliability = components.project(4, 2).expect("valid crossed components");
 assert!((reliability.generalizability - 6.0 / 11.0).abs() < 1e-14);
-# Ok::<(), crolib::ProjectionError>(())
 ```
 
 ## Mathematical scope
@@ -60,7 +59,8 @@ The residual component combines the three-way interaction and observational
 error in an unreplicated design. Inputs are variances, not standard deviations.
 Components must be finite and nonnegative; counts must be positive integers.
 Undefined coefficients produce an error. Negative estimates are rejected rather
-than silently clipped. Computations normalize components to avoid overflow.
+than silently clipped. Binary scaling avoids overflowing sums and premature
+underflow of count-weighted components.
 
 Projection assumes the supplied components describe the same population and
 exchangeable item/rater universes as the proposed design. This release does not
