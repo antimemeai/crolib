@@ -12,4 +12,4 @@ documentation = "https://docs.rs/crolib"
 readme = "README.md"
 keywords = ["generalizability", "psychometrics", "reliability", "measurement", "statistics"]
 categories = ["science", "mathematics"]
-include = ["src/**", "tests/**", "Cargo.toml", "Cargo.lock", "README.md", "LICENSE"]
+include = ["/src/**", "/tests/**", "/Cargo.toml", "/Cargo.lock", "/README.md", "/LICENSE"]
