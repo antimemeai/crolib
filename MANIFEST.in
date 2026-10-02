@@ -1,0 +1,3 @@
+include LICENSE README.md
+recursive-include python/crolib *.py py.typed
+recursive-include python/tests *.py

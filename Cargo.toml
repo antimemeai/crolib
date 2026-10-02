@@ -1,0 +1,15 @@
+[package]
+name = "crolib"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.74"
+authors = ["Patrick Beam <patrick@massmind.ai>"]
+description = "Generalizability theory: crossed-design reliability and D-study projections"
+license = "MIT"
+repository = "https://github.com/antimemeai/crolib"
+homepage = "https://github.com/antimemeai/crolib"
+documentation = "https://docs.rs/crolib"
+readme = "README.md"
+keywords = ["generalizability", "psychometrics", "reliability", "measurement", "statistics"]
+categories = ["science", "mathematics"]
+include = ["src/**", "tests/**", "Cargo.toml", "Cargo.lock", "README.md", "LICENSE"]
