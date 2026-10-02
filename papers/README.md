@@ -5,6 +5,11 @@ Frumentarii acquisition pass, 2026-10-02. Start with the
 consult the [shopping list](SHOPPING_LIST.md) for unavailable originals.
 Exact counts are generated in [summary.json](summary.json).
 
+The operator's [Measurement Armada sketch](MEASUREMENT_ARMADA.md) supplies the
+broader direction. The [overarching crolib design](../docs/design.md) distills
+that sketch and these reports into proposed scientific contracts and architecture.
+The operator-supplied PDF is retained separately from the acquired-work counts.
+
 | Resource | Contents |
 | --- | --- |
 | [catalogue.json](catalogue.json) | Deduplicated verified works, statuses, paths, sources, lane aliases and reading evidence |

@@ -74,8 +74,13 @@ Reference: Brennan, R. L. (2001), *Generalizability Theory*, Springer,
 ## Development
 
 Read `AGENTS.md` and `BLACKBIRD.md`. Run `scripts/check.sh` to check Rust and
-Python behavior. The [research corpus](papers/README.md) lives in `papers/`, decisions in `journal/`, and the
-initial work queue in `issues/`. Project-specific references and private working
-material belong in ignored `quarantine/` and `context/`.
+Python behavior. The [overarching design](docs/design.md) connects the acquired
+corpus to the Measurement Armada and describes proposed study, fitting,
+projection, uncertainty and allocation contracts. Its future capabilities are
+distinct from the implemented 0.1.0 API above.
+
+The [research corpus](papers/README.md) lives in `papers/`, decisions in
+`journal/`, and the work queue in `issues/`. Project-specific references and
+private working material belong in ignored `quarantine/` and `context/`.
 
 MIT licensed.
