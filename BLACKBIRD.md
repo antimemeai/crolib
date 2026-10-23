@@ -1,1 +1,1 @@
-../../../projects/BLACKBIRD.md
+../BLACKBIRD.md
