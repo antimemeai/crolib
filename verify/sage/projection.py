@@ -8,7 +8,7 @@
 # included. Cases are fixed or come from a script-local LCG, so no Sage RNG
 # is involved. Emits tests/oracles/projection.rs and
 # python/tests/projection_oracle.py.
-import os, hashlib, struct, sage.version
+import math, os, hashlib, struct, sage.version
 from fractions import Fraction
 CROLIB = os.environ["CROLIB_ROOT"]
 TINY = float.fromhex("0x1p-1074")
@@ -32,6 +32,13 @@ cases = [
     ((TINY, 1e308, 1e308, 0.0, 0.0, 0.0, 1e-300), U64_MAX, U64_MAX),
     ((1e-300, 1e300, 1e-300, 1e300, 1e-300, 1e300, 1e-300), 3, 7),
     ((0.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0), 5, 5),
+    # Subnormal mixed with normal components (review: exercises the
+    # subnormal branch of the binary decomposition).
+    ((1e-310, 0.0, 0.0, 2.5e-308, 0.0, 0.0, 0.0), 1, 1),
+    ((3e-320, 1e-300, 0.0, 0.0, 0.0, 0.0, 1e-318), 3, 2),
+    # Exact G = 2^-1074: final exponent in the lowest window, where scaling
+    # before dividing would lose the representable result.
+    ((float(Fraction(3, 2) * Fraction(2)**-139), 0.0, 0.0, 0.0, 0.0, 0.0, 2.0**1000), 2**32 - 1, 2**32 - 1),
 ]
 # A fixed LCG drives the mixed-magnitude cases.
 state = 20261023
@@ -48,6 +55,21 @@ for _ in range(40):
     ni = 1 + lcg() % (2**int(1 + lcg() % 63))
     nr = 1 + lcg() % (2**int(1 + lcg() % 63))
     cases.append((tuple(comps), int(ni), int(nr)))
+
+# Nondegenerate cases: every count-weighted term within a few bits of a
+# common base, with unequal counts, so G and Phi depend on all seven terms.
+for _ in range(60):
+    base_e = int(lcg() % 1901) - 950          # base exponent across most of the normal range
+    ni = 1 + lcg() % 2**int(lcg() % 40)
+    nr = 1 + lcg() % 2**int(lcg() % 40)
+    weight = [1, ni, nr, ni, nr, ni * nr, ni * nr]  # count divisor of each term
+    comps = []
+    for k in range(7):
+        m = Fraction(1) + Fraction(int(lcg() % 2**52), 2**52)
+        shift = int(lcg() % 9) - 4             # within ±4 bits of the base
+        comps.append(float(m * Fraction(2)**(base_e + shift) * weight[k]))
+    if all(math.isfinite(v) for v in comps):
+        cases.append((tuple(comps), int(ni), int(nr)))
 
 rows = []
 for c, ni, nr in cases:

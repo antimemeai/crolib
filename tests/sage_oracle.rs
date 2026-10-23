@@ -16,6 +16,19 @@ fn ulps(a: f64, b: f64) -> u64 {
     a.to_bits().abs_diff(b.to_bits())
 }
 
+/// Zero must be exact; a subnormal result is one final rounding, so within
+/// 1 ulp; otherwise within 8 ulp (seven rounded terms and one division).
+fn check(name: &str, got: f64, exact: f64) {
+    assert_eq!(
+        got == 0.0,
+        exact == 0.0,
+        "{name}: got {got:e}, exact {exact:e}"
+    );
+    let bound = if exact < f64::MIN_POSITIVE { 1 } else { 8 };
+    let d = ulps(got, exact);
+    assert!(d <= bound, "{name}: got {got:e}, exact {exact:e}, {d} ulp");
+}
+
 #[test]
 fn projection_matches_exact_coefficients() {
     let mut worst = 0;
@@ -34,14 +47,12 @@ fn projection_matches_exact_coefficients() {
         let r = components
             .project(*ni as usize, *nr as usize)
             .expect("oracle cases are defined");
-        for (name, got, exact) in [("G", r.generalizability, g), ("Phi", r.dependability, phi)] {
-            let d = ulps(got, exact);
-            worst = worst.max(d);
-            assert!(
-                d <= 8,
-                "{name} for {c:?} at ({ni}, {nr}): got {got:e}, exact {exact:e}, {d} ulp"
-            );
-        }
+        let tag = format!("{c:?} at ({ni}, {nr})");
+        check(&format!("G for {tag}"), r.generalizability, g);
+        check(&format!("Phi for {tag}"), r.dependability, phi);
+        worst = worst
+            .max(ulps(r.generalizability, g))
+            .max(ulps(r.dependability, phi));
     }
     eprintln!("worst distance: {worst} ulp");
 }

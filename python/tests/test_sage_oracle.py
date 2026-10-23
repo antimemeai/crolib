@@ -2,6 +2,7 @@
 adversarial inputs (verify/sage/projection.py)."""
 
 import struct
+import sys
 import unittest
 
 from crolib import CrossedComponents
@@ -20,9 +21,13 @@ class SageOracleTests(unittest.TestCase):
         for c, ni, nr, g, phi in CASES:
             r = CrossedComponents(*c).project(ni, nr)
             for name, got, exact in (("G", r.generalizability, g), ("Phi", r.dependability, phi)):
+                tag = f"{name} for {c} at ({ni}, {nr}): got {got!r}, exact {exact!r}"
+                # Zero must be exact; a subnormal result is one final rounding.
+                self.assertEqual(got == 0.0, exact == 0.0, tag)
+                bound = 1 if exact < sys.float_info.min else 8
                 d = ulps(got, exact)
                 worst = max(worst, d)
-                self.assertLessEqual(d, 8, f"{name} for {c} at ({ni}, {nr}): got {got!r}, exact {exact!r}")
+                self.assertLessEqual(d, bound, tag)
         print(f"worst distance: {worst} ulp")
 
 

@@ -31,3 +31,39 @@ oracle case. The hand-computed spec tests stay.
 `scripts/sage-check.sh` skips `balanced.sage`, which is a library loaded by
 salib's scripts, and runs `.sage` files through Sage and `.py` files through
 the Sage environment's python.
+
+## Review
+
+A fresh reviewer confirmed the exact computation is right:
+- `Fraction`-to-float conversion rounds correctly, subnormals included;
+- all 49 cases are defined;
+- the generator is byte-identical on re-run;
+- `unittest discover` imports the oracle under the CI layout, and both the
+  sdist and `cargo package` include the oracles.
+
+The case set was weak, though. Four plausible bugs in the binary-scaling code
+passed every test, the old ones included:
+- treating subnormals as normal;
+- an off-by-one exponent in `parts`;
+- a −1074 cutoff where the code uses −1078;
+- scaling before dividing.
+
+The reasons:
+- 20 of the 49 cases had G ∈ {0, 1}, and 33 reduced to a single division;
+- subnormals never mixed with normal components;
+- no result landed in the lowest exponent window;
+- bit distance cannot tell 0 from 2^-1074, which are 1 ulp apart.
+
+Fixed:
+- added the reviewer's two mixed subnormal/normal cases, and an exact
+  G = 2^-1074 case (person 1.5·2^-139, residual 2^1000, counts 2^32 − 1);
+- added 60 nondegenerate cases, in which all seven count-weighted terms sit
+  within ±4 bits of a common base, with unequal counts. That makes 112 cases
+  in all, only 18 of them with G ∈ {0, 1};
+- the tests require zero-ness to match exactly, and 1 ulp when the exact
+  value is subnormal (a single final rounding). Otherwise the bound stays at
+  8 ulp.
+
+The reviewer reported that its proposed cases kill all four bugs. I did not
+re-run those injected-bug checks here: mutation runs belong on the fleet.
+Characterizing the suite with mutants is recorded on crolib-hmz.
