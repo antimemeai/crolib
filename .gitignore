@@ -11,3 +11,7 @@ __pycache__/
 *.py[cod]
 .DS_Store
 .env
+
+# Dolt database files (added by bd init)
+.dolt/
+*.db
