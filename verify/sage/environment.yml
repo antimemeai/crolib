@@ -1,0 +1,8 @@
+# SageMath for verify/sage scripts (crolib-hmz); shared by crolib and salib. Recreate with:
+#   mamba env create -f verify/sage/environment.yml
+name: sage
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - sage=10.9

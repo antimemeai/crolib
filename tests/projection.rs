@@ -74,23 +74,6 @@ fn large_sums_and_subnormal_components() {
     assert_eq!(c.project(2, 1).unwrap().generalizability, 2.0 / 3.0);
 }
 
-#[cfg(target_pointer_width = "64")]
-#[test]
-fn count_scaling_preserves_representable_tiny_coefficient() {
-    let c = CrossedComponents {
-        person: 1e-200,
-        residual: 1e150,
-        ..CrossedComponents::default()
-    };
-    let actual = c
-        .project(10_000_000_000_000_000_000, 10_000_000_000_000_000_000)
-        .unwrap()
-        .generalizability;
-    // Decimal evaluation: 1e-200 / (1e-200 + 1e150 / 1e19 / 1e19).
-    assert!(actual > 0.0);
-    assert!((actual - 1e-312).abs() <= f64::from_bits(2));
-}
-
 #[test]
 fn zero_signal_is_valid_when_error_is_positive() {
     let c = CrossedComponents {

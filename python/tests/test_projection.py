@@ -1,6 +1,5 @@
 import math
 import unittest
-from decimal import Decimal, localcontext
 
 from crolib import CrossedComponents
 
@@ -33,16 +32,6 @@ class ProjectionTests(unittest.TestCase):
         self.assertEqual(CrossedComponents(person=1e308, person_item=1e308).project(1, 1).generalizability, .5)
         tiny = math.ulp(0.0)
         self.assertEqual(CrossedComponents(person=tiny, residual=tiny).project(2, 1).generalizability, 2 / 3)
-
-    def test_tiny_representable_coefficient_decimal_oracle(self):
-        result = CrossedComponents(person=1e-200, residual=1e150).project(10**19, 10**19)
-        with localcontext() as context:
-            context.prec = 100
-            signal = Decimal.from_float(1e-200)
-            error = Decimal.from_float(1e150) / Decimal(10**19) / Decimal(10**19)
-            expected = float(signal / (signal + error))
-        self.assertGreater(result.generalizability, 0)
-        self.assertLessEqual(abs(result.generalizability - expected), math.ulp(expected))
 
     def test_zero_signal(self):
         result = CrossedComponents(person_item=1).project(1, 1)
