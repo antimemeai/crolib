@@ -35,4 +35,11 @@ crolib `src/lib.rs`: 82 caught, 4 missed, 2 unviable out of 88 mutants.
   exponents ≤ 0, because terms are normalized to the largest exponent. For
   those, the alternate branch computes the same exact power-of-two product.
 
-salib results are recorded in salib's journal.
+salib results are in salib's `journal/2026-10-25-mutation-results.md` (PR #11).
+In salib-validation, survivors fell from 23 to 0. In `g_theory.rs` they fell
+from 91 to 21, and all 21 are equivalent. The new tests found two salib bugs,
+both fixed there: the open-interval uniform could return 1.0, and the closed-form
+intervals failed beyond about 1e±154 component scale.
+
+Follow-ups: target 5, the design-compiler oracles, is crolib-r89, waiting
+for the compiler. Python mutation testing is crolib-ehu, a tool decision.
