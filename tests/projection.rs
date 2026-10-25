@@ -114,3 +114,19 @@ fn reject_invalid_and_undefined_inputs() {
         Err(ProjectionError::UndefinedCoefficient)
     ));
 }
+
+#[test]
+fn error_messages_name_the_problem() {
+    assert_eq!(
+        ProjectionError::InvalidCount.to_string(),
+        "item and rater counts must be positive"
+    );
+    assert_eq!(
+        ProjectionError::InvalidComponent("person_rater").to_string(),
+        "person_rater variance must be finite and nonnegative"
+    );
+    assert_eq!(
+        ProjectionError::UndefinedCoefficient.to_string(),
+        "reliability is undefined for a zero denominator"
+    );
+}
