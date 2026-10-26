@@ -1,7 +1,7 @@
 {
   "database": "dolt",
   "backend": "dolt",
-  "dolt_mode": "server",
-  "dolt_server_port": 13311,
-  "dolt_database": "crolib"
+  "dolt_mode": "embedded",
+  "dolt_database": "crolib",
+  "project_id": "a5869731-cd88-4435-83e8-9816cad5e925"
 }
