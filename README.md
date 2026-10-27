@@ -63,13 +63,65 @@ than silently clipped. Binary scaling avoids overflowing sums and premature
 underflow of count-weighted components.
 
 Projection assumes the supplied components describe the same population and
-exchangeable item/rater universes as the proposed design. This release does not
+exchangeable item/rater universes as the proposed design (see below for finite
+universes on `main`). This release does not
 estimate components from raw observations, support fixed/nested facets, or
 calculate uncertainty intervals. General design support, fitting, unbalanced
 estimation, and multivariate G-theory are planned research and development.
 
 Reference: Brennan, R. L. (2001), *Generalizability Theory*, Springer,
 [doi:10.1007/978-1-4757-3456-0](https://doi.org/10.1007/978-1-4757-3456-0).
+
+## Finite universes (on `main`, unreleased)
+
+One facet may be drawn from a finite universe of N levels, such as a fixed
+panel of raters. Its n ≤ N levels are sampled without replacement, and the
+universe score averages over all N. The components are still the
+random-model components a G study estimates. Brennan's (1977, ACT Technical
+Bulletin 26, Eq. 27) finite-universe components then set the projection. With
+raters finite and c = 1 − n_raters/N:
+
+```text
+universe_score = person + person_rater/N
+relative_error = (person_item + residual/N)/I + c person_rater/R + c residual/I/R
+absolute_error = relative_error + (item + item_rater/N)/I + c rater/R + c item_rater/I/R
+```
+
+and symmetrically for finite items. Each finite-universe component must be
+nonnegative, which is exactly the condition for the score covariance to be
+positive semidefinite. Three components may therefore be negative within a
+bound: with raters finite, `person >= -person_rater/N`,
+`item >= -item_rater/N` and `person_item >= -residual/N`. A component outside
+its bound is rejected by name, and the check is exact. Negative values are
+neither clipped nor repaired. Both facets finite is refused: the projection
+would then depend on how the residual divides between three-way interaction
+and replication error, which an unreplicated design does not separate.
+
+```rust
+use crolib::{CrossedComponents, Universe};
+
+let panel = CrossedComponents {
+    person: -0.125, item: 0.5, rater: 0.25,
+    person_item: -0.5, person_rater: 1.0, item_rater: 0.5, residual: 4.0,
+};
+let r = panel.project_in(2, 2, Universe::Infinite, Universe::Finite(4)).unwrap();
+assert_eq!(r.generalizability, 1.0 / 9.0);
+assert_eq!(r.dependability, 2.0 / 25.0);
+```
+
+```python
+from crolib import CrossedComponents
+
+panel = CrossedComponents(person=-0.125, item=0.5, rater=0.25, person_item=-0.5,
+                          person_rater=1, item_rater=0.5, residual=4)
+r = panel.project(2, 2, rater_universe=4)   # item_universe=None: infinite
+print(r.generalizability, r.dependability)  # 0.1111111111111111 0.08
+```
+
+`verify/sage/finite_universe.sage` derives the region and the formulas from
+the covariance model, by symbolic algebra and by brute force over finite
+universes. Rust's rounding error is at most 23 ulp (2 observed on the exact
+oracle cases); Python computes in exact rationals and rounds once.
 
 ## Development
 

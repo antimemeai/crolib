@@ -21,7 +21,7 @@ for script in verify/sage/*.sage verify/sage/*.py; do
         *.py) "$SAGE_PYTHON" -I "$script" ;;
     esac
 done
-oracles=(':(glob)tests/oracles/**' 'python/tests/projection_oracle.py')
+oracles=(':(glob)tests/oracles/**' 'python/tests/projection_oracle.py' 'python/tests/finite_projection_oracle.py')
 if [ -n "$(git status --porcelain --untracked-files=all -- "${oracles[@]}")" ]; then
     git status --short --untracked-files=all -- "${oracles[@]}" >&2
     echo "generated oracles differ from HEAD; review and commit" >&2

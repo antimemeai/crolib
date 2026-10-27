@@ -177,9 +177,53 @@ the signal variance even with the same instrument. Supported families must
 state whether their target is conditional on that panel or a sampled population.
 
 The initial general engine will implement explicit, derived sampling families.
-Finite-universe and arbitrary weighted sampling remain separate capability
-entries until their transformations are established. There is no general rule
-that appends `1 - n/N` to every component.
+Arbitrary weighted sampling remains a separate capability entry until its
+transformation is established. There is no general rule that appends `1 - n/N`
+to every component.
+
+**Finite universes (derived; implemented for one facet of the crossed
+person × item × rater family, crolib-3bk).** Read the random model as a
+covariance, `Cov(y) = Σ_a σ²(a) K_a` with signed σ²(a). Its contrast
+eigenvalues are the expected mean squares at the observed counts. Brennan's
+finite-universe components (ACT 26, Eq. 27),
+
+```text
+σ²(e|N) = Σ_{b ⊇ e, b∖e ⊆ F} σ²(b) / Π_{f ∈ b∖e} N_f      (F: the finite facets)
+```
+
+turn every expected mean square into a sum of σ²(b|N) with nonnegative
+coefficients `Π n_f Π (1 − n_f/N_f)` (ACT 26, Eq. 29). The covariance is
+therefore PSD at every admissible count, n_f ≤ N_f, exactly when every
+σ²(e|N) ≥ 0; necessity follows by letting the infinite facets' counts grow
+with each finite count at N_f. These σ²(e|N) are Cornfield and Tukey's
+finite-population variances, so the "covariance components within the PSD
+bound" reading and the "nonnegative finite-population variances" reading are
+one model in two coordinates, not a choice. A component such as σ²(pi) can be
+negative down to −σ²(pir)/N_r, which encodes real negative dependence among a
+fixed panel's levels. The sign is information, and inadmissible values are
+refused by name rather than clipped or repaired. With no finite facet the
+region is every σ²(e) ≥ 0.
+
+Universe score and errors follow from the same model, with the universe score
+averaged over all N_f levels of a finite facet and its n_f levels sampled
+without replacement. Rater-finite example, `c = 1 − n_r/N_r`:
+universe-score variance `σ²(p) + σ²(pr)/N_r`; relative error
+`(σ²(pi) + σ²(pir)/N_r)/n_i + c σ²(pr)/n_r + c σ²(pir)/(n_i n_r)`. These
+reproduce Brennan's ACT 26 worked example (printed p. 55).
+
+The unreplicated residual confounds σ²(pir) with replication error σ²(e),
+which has an infinite universe. With one finite facet the projection depends
+only on their sum, and taking the whole residual as σ²(pir) gives the most
+permissive admissible split; both facts are checked. With two finite facets the
+projection depends on the split (∂/∂σ²(pir) − ∂/∂σ²(e) = −1/(N_i N_r) for the
+error variances), so crolib refuses that case until the split, or a declaration
+that the universe has no replication, is supplied. Brennan's two-facet
+correction implicitly takes σ²(e) = 0.
+
+Derivations: `verify/sage/finite_universe.sage` (symbolic for every finite set
+F, and brute force over finite universes); `verify/sage/finite_projection.py`
+emits the exact oracle cases. Fixed facets and finite object populations remain
+separate entries.
 
 For multivariate scores, dimensions identify their native metrics and allowable
 transformations. A mean, a sum and a half-range contribution have different
